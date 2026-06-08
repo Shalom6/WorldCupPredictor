@@ -1,0 +1,133 @@
+{
+  "era": "1930-2026",
+  "description": "Long-run World Cup-era baselines used as priors when blending national team profiles",
+  "blendWeights": {
+    "historical": 0.25,
+    "season2026": 0.55,
+    "formLast10": 0.2
+  },
+  "teams": [
+    "Mexico",
+    "South Africa",
+    "South Korea",
+    "Czechia",
+    "Canada",
+    "Bosnia and Herzegovina",
+    "Qatar",
+    "Switzerland",
+    "Brazil",
+    "Morocco",
+    "Haiti",
+    "Scotland",
+    "USA",
+    "Paraguay",
+    "Australia",
+    "Türkiye",
+    "Germany",
+    "Curaçao",
+    "Côte d'Ivoire",
+    "Ecuador",
+    "Netherlands",
+    "Japan",
+    "Sweden",
+    "Tunisia",
+    "Belgium",
+    "Egypt",
+    "Iran",
+    "New Zealand",
+    "Spain",
+    "Cape Verde",
+    "Saudi Arabia",
+    "Uruguay",
+    "France",
+    "Senegal",
+    "Iraq",
+    "Norway",
+    "Argentina",
+    "Algeria",
+    "Austria",
+    "Jordan",
+    "Portugal",
+    "Colombia",
+    "Uzbekistan",
+    "DR Congo",
+    "England",
+    "Croatia",
+    "Ghana",
+    "Panama"
+  ],
+  "groups": {
+    "A": [
+      "Mexico",
+      "South Africa",
+      "South Korea",
+      "Czechia"
+    ],
+    "B": [
+      "Canada",
+      "Bosnia and Herzegovina",
+      "Qatar",
+      "Switzerland"
+    ],
+    "C": [
+      "Brazil",
+      "Morocco",
+      "Haiti",
+      "Scotland"
+    ],
+    "D": [
+      "USA",
+      "Paraguay",
+      "Australia",
+      "Türkiye"
+    ],
+    "E": [
+      "Germany",
+      "Curaçao",
+      "Côte d'Ivoire",
+      "Ecuador"
+    ],
+    "F": [
+      "Netherlands",
+      "Japan",
+      "Sweden",
+      "Tunisia"
+    ],
+    "G": [
+      "Belgium",
+      "Egypt",
+      "Iran",
+      "New Zealand"
+    ],
+    "H": [
+      "Spain",
+      "Cape Verde",
+      "Saudi Arabia",
+      "Uruguay"
+    ],
+    "I": [
+      "France",
+      "Senegal",
+      "Iraq",
+      "Norway"
+    ],
+    "J": [
+      "Argentina",
+      "Algeria",
+      "Austria",
+      "Jordan"
+    ],
+    "K": [
+      "Portugal",
+      "Colombia",
+      "Uzbekistan",
+      "DR Congo"
+    ],
+    "L": [
+      "England",
+      "Croatia",
+      "Ghana",
+      "Panama"
+    ]
+  }
+}

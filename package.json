@@ -1,0 +1,29 @@
+{
+  "name": "world-cup-predictor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "FIFA World Cup 2026 predictor: Next.js app + Express API.",
+  "scripts": {
+    "predev": "npx kill-port 3001 4002",
+    "dev": "concurrently \"npm:dev:api\" \"npm:dev:web\"",
+    "dev:api": "node server.js",
+    "dev:web": "next dev -p 3001",
+    "build": "next build",
+    "start": "concurrently \"npm:start:api\" \"npm:start:web\"",
+    "start:api": "node server.js",
+    "start:web": "next start -p 3001",
+    "generate:data": "node scripts/generate-world-cup-data.mjs",
+    "generate:squads": "node scripts/generate-world-cup-squads.mjs",
+    "import:api-football": "node scripts/import-api-football.mjs"
+  },
+  "dependencies": {
+    "concurrently": "^9.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "next": "^15.5.18",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
