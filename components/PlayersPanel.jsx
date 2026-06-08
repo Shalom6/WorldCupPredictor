@@ -74,15 +74,71 @@ function teamMonogram(team) {
     .toUpperCase();
 }
 
+function formatGameDate(dateStr) {
+  if (!dateStr) return '—';
+  const d = new Date(`${dateStr}T12:00:00`);
+  if (Number.isNaN(d.getTime())) return dateStr;
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+}
+
+function formatChartAxisDate(dateStr) {
+  if (!dateStr) return '';
+  const d = new Date(`${dateStr}T12:00:00`);
+  if (Number.isNaN(d.getTime())) return dateStr;
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: '2-digit' });
+}
+
+function buildBarTooltip(g, betType, line, val) {
+  const hit = isOver(val, line);
+  const lineLabel = Number.isInteger(line) ? String(line) : line.toFixed(1);
+  const venue = g.venue === 'home' ? 'vs' : g.venue === 'away' ? '@' : 'v';
+  return {
+    title: `${betType.label}: ${val}`,
+    meta: `${formatGameDate(g.date)} · ${venue} ${g.opponent}`,
+    detail: `${g.competition ?? 'International'} · ${g.minutes ?? 0} min`,
+    result: `${hit ? 'Over' : 'Under'} ${lineLabel} line`
+  };
+}
+
 function WorkstationChart({ games, betType, line }) {
-  if (!games.length) {
+  const areaRef = useRef(null);
+  const [hover, setHover] = useState(null);
+
+  const chartGames = useMemo(
+    () => [...games].sort((a, b) => (a.date ?? '').localeCompare(b.date ?? '')),
+    [games]
+  );
+
+  if (!chartGames.length) {
     return <div className="lmChartEmpty">No games for this filter.</div>;
   }
 
-  const values = games.map((g) => statValue(g, betType));
+  const values = chartGames.map((g) => statValue(g, betType));
   const maxVal = Math.max(...values, line + 0.5, 1);
   const yMax = Math.ceil(maxVal + 0.5);
   const yTicks = Array.from({ length: yMax + 1 }, (_, i) => i);
+
+  function onBarMove(e, i) {
+    const area = areaRef.current;
+    if (!area) return;
+    const rect = area.getBoundingClientRect();
+    const col = e.currentTarget?.getBoundingClientRect?.();
+    const clientX = e.clientX || (col ? col.left + col.width / 2 : rect.left + rect.width / 2);
+    const clientY = e.clientY || (col ? col.top + col.height * 0.35 : rect.top + rect.height * 0.35);
+    const x = Math.max(72, Math.min(clientX - rect.left, rect.width - 72));
+    const y = Math.max(48, Math.min(clientY - rect.top, rect.height - 12));
+    setHover({ idx: i, x, y });
+  }
+
+  function clearHover() {
+    setHover(null);
+  }
+
+  const hoveredGame = hover != null ? chartGames[hover.idx] : null;
+  const hoveredVal = hover != null ? values[hover.idx] : 0;
+  const tip =
+    hoveredGame != null ? buildBarTooltip(hoveredGame, betType, line, hoveredVal) : null;
+  const hoveredHit = hoveredGame != null ? isOver(hoveredVal, line) : false;
 
   return (
     <div className="lmChartWrap">
@@ -91,7 +147,7 @@ function WorkstationChart({ games, betType, line }) {
           <span key={t}>{t}</span>
         ))}
       </div>
-      <div className="lmChartArea">
+      <div className="lmChartArea" ref={areaRef}>
         <div className="lmChartGrid">
           {yTicks.map((t) => (
             <div key={t} className="lmChartGridLine" style={{ bottom: `${(t / yMax) * 100}%` }} />
@@ -101,20 +157,46 @@ function WorkstationChart({ games, betType, line }) {
           ) : null}
         </div>
         <div className="lmChartBars">
-          {games.map((g, i) => {
+          {chartGames.map((g, i) => {
             const val = values[i];
             const h = (val / yMax) * 100;
             const hit = isOver(val, line);
+            const tipMeta = buildBarTooltip(g, betType, line, val);
             return (
-              <div key={`${g.date}-${i}`} className="lmChartBarCol" title={`${g.opponent}: ${val}`}>
-                <div
-                  className={`lmChartBar${hit ? ' hit' : ''}`}
-                  style={{ height: `${Math.max(h, val > 0 ? 4 : 0)}%` }}
-                />
+              <div
+                key={`${g.date}-${i}`}
+                className={`lmChartBarCol${hover?.idx === i ? ' hovered' : ''}`}
+                onMouseMove={(e) => onBarMove(e, i)}
+                onMouseLeave={clearHover}
+                onFocus={(e) => onBarMove(e, i)}
+                onBlur={clearHover}
+                tabIndex={0}
+                role="img"
+                aria-label={`${tipMeta.title}, ${tipMeta.meta}, ${tipMeta.result}`}
+              >
+                <div className="lmChartBarStack">
+                  <div
+                    className={`lmChartBar${hit ? ' hit' : ''}`}
+                    style={{ height: `${Math.max(h, val > 0 ? 4 : 0)}%` }}
+                  />
+                </div>
+                <span className="lmChartXLabel">{formatChartAxisDate(g.date)}</span>
               </div>
             );
           })}
         </div>
+        {hover != null && tip ? (
+          <div
+            className="lmChartTooltipFloat"
+            role="tooltip"
+            style={{ left: hover.x, top: hover.y }}
+          >
+            <strong>{tip.title}</strong>
+            <span>{tip.meta}</span>
+            <span>{tip.detail}</span>
+            <span className={hoveredHit ? 'over' : 'under'}>{tip.result}</span>
+          </div>
+        ) : null}
       </div>
     </div>
   );
@@ -403,8 +485,15 @@ export default function PlayersPanel() {
                 <span className="lmDataComps"> ({detail.importMeta.competitions.slice(0, 3).join(', ')})</span>
               ) : null}
             </p>
+          ) : detail?.dataSource === 'sofascore' || detail?.dataSource === 'manual' ? (
+            <p className="lmDataBadge curated">
+              Curated data · Sofascore · International
+              {detail.importMeta?.competitions?.length ? (
+                <span className="lmDataComps"> ({detail.importMeta.competitions.slice(0, 3).join(', ')})</span>
+              ) : null}
+            </p>
           ) : detail ? (
-            <p className="lmDataBadge estimate">Estimated data · run npm run import:api-football for real stats</p>
+            <p className="lmDataBadge estimate">Estimated data · add data/{detail.team?.toLowerCase()}.json or run import</p>
           ) : null}
 
           {error ? <div className="error lmError">{error}</div> : null}
@@ -414,7 +503,7 @@ export default function PlayersPanel() {
           ) : null}
 
           {detail ? (
-            <>
+            <div className="lmWorkstationBody">
               <div className="lmFilterRow">
                 <FilterSelect
                   label="Bet Type"
@@ -465,6 +554,10 @@ export default function PlayersPanel() {
                 </div>
               </div>
 
+              <p className="lmChartCaption">
+                {betType.label} per game · oldest → newest (left to right) · hover for details
+              </p>
+
               <WorkstationChart games={filteredGames} betType={betType} line={line} />
 
               <div className="lmGameTableWrap">
@@ -483,7 +576,7 @@ export default function PlayersPanel() {
                       const val = statValue(g, betType);
                       return (
                         <tr key={`${g.date}-${i}`} className={isOver(val, line) ? 'lmRowHit' : ''}>
-                          <td>{g.date?.slice(5)}</td>
+                          <td>{formatGameDate(g.date)}</td>
                           <td>{g.opponent}</td>
                           <td>{g.competition}</td>
                           <td>{g.minutes}&apos;</td>
@@ -494,7 +587,7 @@ export default function PlayersPanel() {
                   </tbody>
                 </table>
               </div>
-            </>
+            </div>
           ) : (
             !detailLoading && (
               <div className="lmLoading">Search for a player to open the workstation.</div>

@@ -11,7 +11,7 @@ export default function Page() {
   const [prediction, setPrediction] = useState(null);
 
   return (
-    <div className="app">
+    <div className={`app${tab === 'players' ? ' appPlayers' : ''}`}>
       <header className="uclHero wcHero">
         <p className="uclHeroEyebrow">FIFA World Cup 2026</p>
         <h1 className="uclHeroTag">Match Predictor</h1>

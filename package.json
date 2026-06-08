@@ -15,7 +15,8 @@
     "start:web": "next start -p 3001",
     "generate:data": "node scripts/generate-world-cup-data.mjs",
     "generate:squads": "node scripts/generate-world-cup-squads.mjs",
-    "import:api-football": "node scripts/import-api-football.mjs"
+    "import:api-football": "node scripts/import-api-football.mjs",
+    "import:manual-teams": "node scripts/import-manual-teams.mjs"
   },
   "dependencies": {
     "concurrently": "^9.2.1",

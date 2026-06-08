@@ -89,6 +89,11 @@ body {
   padding: 28px 20px 48px;
 }
 
+.container:has(.appPlayers) {
+  max-width: min(1680px, 100%);
+  padding: 16px 28px 32px;
+}
+
 /* ── Cards & panels ── */
 .glass {
   background: var(--glass);
@@ -1284,12 +1289,20 @@ body {
 }
 
 .lmApp {
-  margin-top: 8px;
+  margin-top: 0;
+}
+
+.appPlayers .uclHero {
+  padding: 16px 20px 12px;
+}
+
+.appPlayers .lmThreeCol {
+  min-height: calc(100vh - 210px);
 }
 
 .lmThreeCol {
   display: grid;
-  grid-template-columns: 200px 1fr 260px;
+  grid-template-columns: 220px minmax(0, 1fr) 280px;
   gap: 0;
   min-height: calc(100vh - 280px);
   border: 1px solid var(--lm-border);
@@ -1374,11 +1387,19 @@ body {
 
 .lmColCenter {
   background: var(--lm-panel-2);
-  padding: 20px 24px 24px;
+  padding: 20px 28px 24px;
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 14px;
   min-width: 0;
+}
+
+.lmWorkstationBody {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 0;
 }
 
 .lmWorkstationHead {
@@ -1519,6 +1540,12 @@ body {
   border-color: rgba(255, 200, 80, 0.2);
 }
 
+.lmDataBadge.curated {
+  background: rgba(120, 220, 160, 0.08);
+  color: rgba(180, 240, 200, 0.95);
+  border-color: rgba(120, 220, 160, 0.25);
+}
+
 .lmDataComps {
   color: var(--muted);
 }
@@ -1598,11 +1625,19 @@ body {
   font-size: 13px;
 }
 
+.lmChartCaption {
+  margin: -6px 0 0;
+  font-size: 12px;
+  color: var(--muted);
+}
+
 .lmChartWrap {
   display: flex;
-  gap: 8px;
-  height: 220px;
-  margin-top: 8px;
+  gap: 12px;
+  flex: 1;
+  min-height: 320px;
+  max-height: 480px;
+  margin-top: 4px;
 }
 
 .lmChartY {
@@ -1611,8 +1646,8 @@ body {
   justify-content: space-between;
   font-size: 11px;
   color: var(--muted);
-  padding: 0 4px 20px 0;
-  width: 20px;
+  padding: 0 4px 52px 0;
+  width: 24px;
   flex-shrink: 0;
 }
 
@@ -1621,11 +1656,13 @@ body {
   position: relative;
   display: flex;
   flex-direction: column;
+  min-width: 0;
+  overflow: visible;
 }
 
 .lmChartGrid {
   position: absolute;
-  inset: 0 0 20px 0;
+  inset: 0 0 52px 0;
   pointer-events: none;
 }
 
@@ -1648,28 +1685,110 @@ body {
 .lmChartBars {
   display: flex;
   align-items: flex-end;
-  gap: 3px;
+  gap: 10px;
   flex: 1;
-  padding-bottom: 20px;
+  width: 100%;
+  min-height: 268px;
+  padding: 0 4px;
   position: relative;
   z-index: 1;
 }
 
 .lmChartBarCol {
-  flex: 1;
+  flex: 1 1 0;
+  min-width: 0;
   height: 100%;
   display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-end;
+  position: relative;
+  cursor: crosshair;
+  outline: none;
+}
+
+.lmChartBarCol:hover,
+.lmChartBarCol.hovered,
+.lmChartBarCol:focus-visible {
+  z-index: 2;
+}
+
+.lmChartBarStack {
+  flex: 1;
+  width: 100%;
+  display: flex;
   align-items: flex-end;
-  min-width: 8px;
-  max-width: 28px;
+  min-height: 0;
+  padding-bottom: 2px;
 }
 
 .lmChartBar {
   width: 100%;
+  max-width: 100%;
   background: rgba(255, 255, 255, 0.2);
-  border-radius: 2px 2px 0 0;
+  border-radius: 4px 4px 0 0;
   min-height: 0;
-  transition: background 0.15s;
+  transition: background 0.15s, opacity 0.15s;
+}
+
+.lmChartBarCol:hover .lmChartBar,
+.lmChartBarCol.hovered .lmChartBar,
+.lmChartBarCol:focus-visible .lmChartBar {
+  opacity: 1;
+  filter: brightness(1.15);
+}
+
+.lmChartXLabel {
+  margin-top: 8px;
+  font-size: 10px;
+  line-height: 1.2;
+  color: var(--muted);
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 0;
+  height: 28px;
+  width: 100%;
+}
+
+.lmChartTooltipFloat {
+  position: absolute;
+  transform: translate(-50%, calc(-100% - 12px));
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  padding: 10px 12px;
+  background: #1e1e1e;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 8px;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.55);
+  font-size: 11px;
+  line-height: 1.35;
+  color: var(--text);
+  white-space: nowrap;
+  pointer-events: none;
+  z-index: 30;
+}
+
+.lmChartTooltipFloat strong {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.lmChartTooltipFloat span {
+  color: var(--muted);
+}
+
+.lmChartTooltipFloat .over {
+  color: var(--lm-blue);
+  font-weight: 600;
+}
+
+.lmChartTooltipFloat .under {
+  color: rgba(255, 255, 255, 0.55);
+  font-weight: 600;
 }
 
 .lmChartBar.hit {
@@ -1686,9 +1805,14 @@ body {
 
 .lmGameTableWrap {
   overflow-x: auto;
-  margin-top: 8px;
+  margin-top: auto;
   border-top: 1px solid var(--lm-border);
-  padding-top: 12px;
+  padding-top: 14px;
+  flex-shrink: 0;
+}
+
+.lmGameTable td:first-child {
+  white-space: nowrap;
 }
 
 .lmGameTable {
@@ -1831,9 +1955,22 @@ body {
 }
 
 @media (max-width: 1100px) {
+  .container:has(.appPlayers) {
+    padding: 12px 16px 24px;
+  }
+
+  .appPlayers .lmThreeCol {
+    min-height: auto;
+  }
+
   .lmThreeCol {
     grid-template-columns: 1fr;
     min-height: auto;
+  }
+
+  .lmChartWrap {
+    min-height: 260px;
+    max-height: none;
   }
 
   .lmColLeft,
