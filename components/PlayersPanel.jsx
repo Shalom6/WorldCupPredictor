@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 
-const BET_TYPES = [
+const OUTFIELD_STAT_TYPES = [
   { id: 'shots', code: 'SHO', label: 'Shots', field: 'shots', defaultLine: 0 },
   { id: 'goals', code: 'GLS', label: 'Goals', field: 'goals', defaultLine: 0 },
   { id: 'assists', code: 'AST', label: 'Assists', field: 'assists', defaultLine: 0 },
@@ -11,6 +11,23 @@ const BET_TYPES = [
   { id: 'fouls', code: 'Fouls', label: 'Fouls', field: 'fouls', defaultLine: 1 },
   { id: 'cards', code: 'Cards', label: 'Cards', field: 'cards', defaultLine: 0 }
 ];
+
+const GOALKEEPER_STAT_TYPES = [
+  { id: 'saves', code: 'SAV', label: 'Saves', field: 'saves', defaultLine: 2 },
+  { id: 'goalsConceded', code: 'GC', label: 'Goals conceded', field: 'goalsConceded', defaultLine: 1 },
+  { id: 'cleanSheet', code: 'CS', label: 'Clean sheet', field: null, defaultLine: 0 },
+  { id: 'passes', code: 'PAS', label: 'Passes', field: 'passes', defaultLine: 15 },
+  { id: 'keeperSweeper', code: 'SWP', label: 'Sweeper actions', field: 'keeperSweeper', defaultLine: 0 },
+  { id: 'cards', code: 'CRD', label: 'Cards', field: 'cards', defaultLine: 0 }
+];
+
+function isGoalkeeper(position) {
+  return String(position ?? '').toLowerCase().includes('goal');
+}
+
+function getStatTypesForPosition(position) {
+  return isGoalkeeper(position) ? GOALKEEPER_STAT_TYPES : OUTFIELD_STAT_TYPES;
+}
 
 const TIMEFRAMES = [
   { id: 'season', label: 'Season' },
@@ -22,11 +39,16 @@ function clamp(n, a, b) {
   return Math.max(a, Math.min(b, n));
 }
 
-function statValue(game, betType) {
-  if (betType.id === 'goalsOrAssists') {
+function statValue(game, statType) {
+  if (statType.id === 'goalsOrAssists') {
     return (game.goals ?? 0) + (game.assists ?? 0);
   }
-  return game[betType.field] ?? 0;
+  if (statType.id === 'cleanSheet') {
+    if (game.goalsConceded != null) return game.goalsConceded === 0 ? 1 : 0;
+    return 0;
+  }
+  if (statType.field) return game[statType.field] ?? 0;
+  return 0;
 }
 
 function isOver(stat, line) {
@@ -52,11 +74,11 @@ function filterGames(log, { timeframe, opponent, split }) {
   return games;
 }
 
-function computeHitRate(games, betType, line) {
+function computeHitRate(games, statType, line) {
   if (!games.length) return { overPct: 0, underPct: 0, overCount: 0, underCount: 0, total: 0 };
   let overCount = 0;
   for (const g of games) {
-    if (isOver(statValue(g, betType), line)) overCount++;
+    if (isOver(statValue(g, statType), line)) overCount++;
   }
   const total = games.length;
   const underCount = total - overCount;
@@ -88,19 +110,76 @@ function formatChartAxisDate(dateStr) {
   return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: '2-digit' });
 }
 
-function buildBarTooltip(g, betType, line, val) {
+function formatDob(dateStr) {
+  if (!dateStr) return '—';
+  return formatGameDate(dateStr);
+}
+
+function formatCaps(profile) {
+  if (profile?.internationalCaps == null) return '—';
+  const goals = profile.internationalGoals;
+  if (goals != null && goals > 0) return `${profile.internationalCaps} (${goals} goals)`;
+  return String(profile.internationalCaps);
+}
+
+function PlayerProfileCard({ detail, loading }) {
+  if (loading && !detail) {
+    return <div className="lmProfileCard lmProfileCardEmpty">Loading player…</div>;
+  }
+
+  if (!detail) {
+    return (
+      <div className="lmProfileCard lmProfileCardEmpty">
+        Search for a player to view profile details.
+      </div>
+    );
+  }
+
+  const profile = detail.profile ?? {};
+  const facts = [
+    { label: 'Club', value: profile.club },
+    { label: 'Market value', value: profile.marketValueDisplay },
+    { label: 'Age', value: profile.age != null ? String(profile.age) : null },
+    { label: 'Date of birth', value: profile.dateOfBirth ? formatDob(profile.dateOfBirth) : null },
+    { label: 'Int. caps', value: formatCaps(profile) }
+  ];
+
+  return (
+    <div className="lmProfileCard">
+      <p className="lmProfilePlayerName">{detail.name}</p>
+      <p className="lmProfilePlayerMeta">
+        {detail.team}
+        {detail.number ? ` · #${detail.number}` : ''} · {detail.position}
+      </p>
+      <dl className="lmProfileFacts">
+        {facts.map(({ label, value }) => (
+          <div key={label} className="lmProfileFact">
+            <dt>{label}</dt>
+            <dd>{value ?? '—'}</dd>
+          </div>
+        ))}
+      </dl>
+      {profile.source === 'sofascore' ? (
+        <p className="lmProfileSource muted small">Bio via Sofascore</p>
+      ) : null}
+    </div>
+  );
+}
+
+function buildBarTooltip(g, statType, line, val) {
   const hit = isOver(val, line);
   const lineLabel = Number.isInteger(line) ? String(line) : line.toFixed(1);
   const venue = g.venue === 'home' ? 'vs' : g.venue === 'away' ? '@' : 'v';
+  const valLabel = statType.id === 'cleanSheet' ? (val ? 'Yes' : 'No') : val;
   return {
-    title: `${betType.label}: ${val}`,
+    title: `${statType.label}: ${valLabel}`,
     meta: `${formatGameDate(g.date)} · ${venue} ${g.opponent}`,
     detail: `${g.competition ?? 'International'} · ${g.minutes ?? 0} min`,
     result: `${hit ? 'Over' : 'Under'} ${lineLabel} line`
   };
 }
 
-function WorkstationChart({ games, betType, line }) {
+function WorkstationChart({ games, statType, line }) {
   const areaRef = useRef(null);
   const [hover, setHover] = useState(null);
 
@@ -113,9 +192,9 @@ function WorkstationChart({ games, betType, line }) {
     return <div className="lmChartEmpty">No games for this filter.</div>;
   }
 
-  const values = chartGames.map((g) => statValue(g, betType));
+  const values = chartGames.map((g) => statValue(g, statType));
   const maxVal = Math.max(...values, line + 0.5, 1);
-  const yMax = Math.ceil(maxVal + 0.5);
+  const yMax = statType.id === 'cleanSheet' ? 1 : Math.ceil(maxVal + 0.5);
   const yTicks = Array.from({ length: yMax + 1 }, (_, i) => i);
 
   function onBarMove(e, i) {
@@ -137,7 +216,7 @@ function WorkstationChart({ games, betType, line }) {
   const hoveredGame = hover != null ? chartGames[hover.idx] : null;
   const hoveredVal = hover != null ? values[hover.idx] : 0;
   const tip =
-    hoveredGame != null ? buildBarTooltip(hoveredGame, betType, line, hoveredVal) : null;
+    hoveredGame != null ? buildBarTooltip(hoveredGame, statType, line, hoveredVal) : null;
   const hoveredHit = hoveredGame != null ? isOver(hoveredVal, line) : false;
 
   return (
@@ -161,7 +240,7 @@ function WorkstationChart({ games, betType, line }) {
             const val = values[i];
             const h = (val / yMax) * 100;
             const hit = isOver(val, line);
-            const tipMeta = buildBarTooltip(g, betType, line, val);
+            const tipMeta = buildBarTooltip(g, statType, line, val);
             return (
               <div
                 key={`${g.date}-${i}`}
@@ -234,7 +313,7 @@ export default function PlayersPanel() {
   const [detailLoading, setDetailLoading] = useState(false);
   const [error, setError] = useState('');
 
-  const [betTypeId, setBetTypeId] = useState('shots');
+  const [statTypeId, setStatTypeId] = useState('shots');
   const [timeframe, setTimeframe] = useState('season');
   const [split, setSplit] = useState('all');
   const [opponent, setOpponent] = useState('all');
@@ -243,7 +322,12 @@ export default function PlayersPanel() {
   const searchRef = useRef(null);
   const inputRef = useRef(null);
 
-  const betType = useMemo(() => BET_TYPES.find((b) => b.id === betTypeId) ?? BET_TYPES[0], [betTypeId]);
+  const statTypes = useMemo(() => getStatTypesForPosition(detail?.position), [detail?.position]);
+
+  const statType = useMemo(
+    () => statTypes.find((s) => s.id === statTypeId) ?? statTypes[0],
+    [statTypes, statTypeId]
+  );
 
   const opponents = useMemo(() => {
     const ops = new Set((detail?.gameLog ?? []).map((g) => g.opponent));
@@ -256,13 +340,17 @@ export default function PlayersPanel() {
   );
 
   const hitRate = useMemo(
-    () => computeHitRate(filteredGames, betType, line),
-    [filteredGames, betType, line]
+    () => computeHitRate(filteredGames, statType, line),
+    [filteredGames, statType, line]
   );
 
   useEffect(() => {
-    setLine(betType.defaultLine);
-  }, [betTypeId, betType.defaultLine]);
+    setStatTypeId((id) => (statTypes.some((t) => t.id === id) ? id : statTypes[0].id));
+  }, [statTypes]);
+
+  useEffect(() => {
+    setLine(statType.defaultLine);
+  }, [statTypeId, statType.defaultLine]);
 
   const runSearch = useCallback(async (q) => {
     setSearchLoading(true);
@@ -383,17 +471,9 @@ export default function PlayersPanel() {
           <div className="lmProfileHead">
             <span className="lmProfileTitle">Profile</span>
           </div>
-          <div className="lmModeTabs">
-            <button type="button" className="lmModeTab active">
-              Player
-            </button>
-            <button type="button" className="lmModeTab disabled" disabled title="Coming soon">
-              Parlay
-            </button>
-            <button type="button" className="lmModeTab disabled" disabled title="Coming soon">
-              SGP
-            </button>
-          </div>
+
+          <PlayerProfileCard detail={detail} loading={detailLoading} />
+
           <div className="lmBrowseBlock">
             <p className="lmBrowseLabel">Browse by team</p>
             <div className="selectWrap">
@@ -506,10 +586,10 @@ export default function PlayersPanel() {
             <div className="lmWorkstationBody">
               <div className="lmFilterRow">
                 <FilterSelect
-                  label="Bet Type"
-                  value={betTypeId}
-                  onChange={setBetTypeId}
-                  options={BET_TYPES.map((b) => ({ value: b.id, label: b.label }))}
+                  label="Stat Type"
+                  value={statTypeId}
+                  onChange={setStatTypeId}
+                  options={statTypes.map((s) => ({ value: s.id, label: s.label }))}
                 />
                 <FilterSelect
                   label="Timeframe"
@@ -555,10 +635,10 @@ export default function PlayersPanel() {
               </div>
 
               <p className="lmChartCaption">
-                {betType.label} per game · oldest → newest (left to right) · hover for details
+                {statType.label} per game · oldest → newest (left to right) · hover for details
               </p>
 
-              <WorkstationChart games={filteredGames} betType={betType} line={line} />
+              <WorkstationChart games={filteredGames} statType={statType} line={line} />
 
               <div className="lmGameTableWrap">
                 <table className="lmGameTable">
@@ -568,19 +648,21 @@ export default function PlayersPanel() {
                       <th>Opponent</th>
                       <th>Comp</th>
                       <th>Min</th>
-                      <th>{betType.code}</th>
+                      <th>{statType.code}</th>
                     </tr>
                   </thead>
                   <tbody>
                     {filteredGames.map((g, i) => {
-                      const val = statValue(g, betType);
+                      const val = statValue(g, statType);
+                      const valDisplay =
+                        statType.id === 'cleanSheet' ? (val ? 'Yes' : 'No') : val;
                       return (
                         <tr key={`${g.date}-${i}`} className={isOver(val, line) ? 'lmRowHit' : ''}>
                           <td>{formatGameDate(g.date)}</td>
                           <td>{g.opponent}</td>
                           <td>{g.competition}</td>
                           <td>{g.minutes}&apos;</td>
-                          <td>{val}</td>
+                          <td>{valDisplay}</td>
                         </tr>
                       );
                     })}
@@ -617,13 +699,13 @@ export default function PlayersPanel() {
 
           <button type="button" className="lmPickBtn over" disabled={!detail}>
             <span>
-              Over <strong>{betType.code}</strong>
+              Over <strong>{statType.code}</strong>
             </span>
             <span className="lmPickPct">{hitRate.overPct}%</span>
           </button>
           <button type="button" className="lmPickBtn under" disabled={!detail}>
             <span>
-              Under <strong>{betType.code}</strong>
+              Under <strong>{statType.code}</strong>
             </span>
             <span className="lmPickPct">{hitRate.underPct}%</span>
           </button>
@@ -635,9 +717,11 @@ export default function PlayersPanel() {
                 {detail.team} · Group {detail.group} · {filteredGames.length} games
               </p>
               <p className="muted small">
-                {betType.id === 'goalsOrAssists'
+                {statType.id === 'goalsOrAssists'
                   ? `G+A combined · ${filteredGames.length} games`
-                  : `${filteredGames.length} games in sample`}
+                  : statType.id === 'cleanSheet'
+                    ? `Clean sheet rate · ${filteredGames.length} games`
+                    : `${filteredGames.length} games in sample`}
               </p>
             </div>
           ) : null}

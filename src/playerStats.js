@@ -84,6 +84,49 @@ export function estimateXgShare(position, goals90, starter) {
   return round((base + boost) * scale, 2);
 }
 
+function isGoalkeeper(position) {
+  return String(position ?? '').toLowerCase().includes('goal');
+}
+
+function seededRand(seed) {
+  let h = 0;
+  for (let i = 0; i < seed.length; i++) h = (Math.imul(31, h) + seed.charCodeAt(i)) | 0;
+  return () => {
+    h = (Math.imul(1103515245, h) + 12345) | 0;
+    return (h >>> 0) / 0xffffffff;
+  };
+}
+
+/** Fill missing GK fields so charts work for estimated squads too. */
+export function enrichGkGame(game, playerId) {
+  if (game.saves != null && game.goalsConceded != null) return game;
+
+  const rnd = seededRand(`${playerId}|${game.date}|${game.opponent}`);
+  const factor = Math.min(1, (game.minutes ?? 0) / 90);
+
+  let goalsConceded = game.goalsConceded;
+  if (goalsConceded == null) {
+    if (factor < 0.35) goalsConceded = rnd() < 0.7 ? 0 : 1;
+    else if (game.result === 'W') goalsConceded = rnd() < 0.52 ? 0 : rnd() < 0.88 ? 1 : 2;
+    else if (game.result === 'D') goalsConceded = 1;
+    else goalsConceded = rnd() < 0.42 ? 1 : rnd() < 0.82 ? 2 : 3;
+  }
+
+  const saves =
+    game.saves ??
+    Math.max(0, Math.round(1 + goalsConceded * (1.4 + rnd()) + factor * (2 + rnd() * 4)));
+
+  const keeperSweeper =
+    game.keeperSweeper ?? (rnd() < 0.22 ? Math.ceil(rnd() * 2) : 0);
+
+  return { ...game, goalsConceded, saves, keeperSweeper };
+}
+
+export function enrichGoalkeeperGameLog(gameLog, playerId) {
+  if (!gameLog?.length) return gameLog ?? [];
+  return gameLog.map((g) => enrichGkGame(g, playerId));
+}
+
 const EMPTY_RATES = {
   goals90: 0,
   assists90: 0,
@@ -132,6 +175,7 @@ export function enrichManualPlayer(p, teamFile) {
       competitions: [...new Set(gameLog.map((g) => g.competition))],
       lastMatch: gameLog[0]?.date ?? null
     },
+    ...(p.profile ? { profile: p.profile } : {}),
     ...(p.sofascoreId ? { sofascoreId: p.sofascoreId } : {})
   };
 }

@@ -422,6 +422,26 @@ function generateGameLog(rates, position, n = 10) {
     const cards = Math.random() < rates.cards90 * factor ? 1 : 0;
     const fouls = Math.max(0, Math.round(rates.fouls90 * factor + (Math.random() - 0.5) * 2));
 
+    let saves = 0;
+    let goalsConceded = 0;
+    let keeperSweeper = 0;
+    if (kind === 'gk') {
+      goalsConceded =
+        mins >= 60
+          ? Math.random() < 0.45
+            ? 0
+            : Math.random() < 0.7
+              ? 1
+              : Math.random() < 0.9
+                ? 2
+                : 3
+          : Math.random() < 0.65
+            ? 0
+            : 1;
+      saves = Math.max(0, Math.round(1 + goalsConceded * (1.5 + Math.random()) + factor * (2 + Math.random() * 4)));
+      keeperSweeper = Math.random() < 0.25 ? Math.ceil(Math.random() * 2) : 0;
+    }
+
     return {
       date: `2025-${String(12 - Math.floor(i / 2)).padStart(2, '0')}-${String(28 - (i % 4) * 3).padStart(2, '0')}`,
       opponent: `Opponent ${String.fromCharCode(65 + (i % 5))}`,
@@ -434,7 +454,8 @@ function generateGameLog(rates, position, n = 10) {
       shotsOnTarget: sot,
       cards,
       fouls,
-      passes: Math.round(rates.passes90 * factor)
+      passes: Math.round(rates.passes90 * factor),
+      ...(kind === 'gk' ? { saves, goalsConceded, keeperSweeper } : {})
     };
   });
 }

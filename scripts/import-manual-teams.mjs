@@ -48,7 +48,7 @@ function discoverTeamFiles(teamsFilter) {
 
   const files = fs
     .readdirSync(manualDir)
-    .filter((f) => f.endsWith('.json'))
+    .filter((f) => f.endsWith('.json') && !f.endsWith('-raw.json') && !f.endsWith('-profiles.json'))
     .map((f) => path.join(manualDir, f));
 
   const loaded = [];

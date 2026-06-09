@@ -79,15 +79,50 @@ function matchTeam(text, team) {
   const aliases = {
     usa: ['usa', 'united states', 'usmnt'],
     'south korea': ['korea', 'korea republic', 'republic of korea'],
-    'dr congo': ['congo dr', 'democratic republic', 'drc'],
+    'dr congo': ['congo dr', 'democratic republic', 'drc', 'congo dr'],
     'cape verde': ['cabo verde'],
     curaçao: ['curacao'],
     türkiye: ['turkey', 'turkiye'],
-    "côte d'ivoire": ['ivory coast', 'cote d'],
-    iran: ['ir iran', 'islamic republic of iran']
+    "côte d'ivoire": ['ivory coast', 'cote d', "côte d'ivoire"],
+    iran: ['ir iran', 'islamic republic of iran'],
+    czechia: ['czechia', 'czech republic'],
+    'bosnia and herzegovina': ['bosnia', 'bosnia-herzegovina', 'bosnia herzegovina']
   };
   const key = t.toLowerCase();
   return (aliases[key] || [t]).some((a) => n.includes(a));
+}
+
+/** Names Polymarket uses in event titles — often differ from our fixture labels. */
+function polymarketSearchNames(team) {
+  const byTeam = {
+    'South Korea': ['Korea Republic', 'South Korea'],
+    USA: ['United States', 'USA'],
+    "Côte d'Ivoire": ['Ivory Coast', "Côte d'Ivoire"],
+    'DR Congo': ['Congo DR', 'DR Congo'],
+    Türkiye: ['Turkey', 'Türkiye'],
+    Curaçao: ['Curaçao', 'Curacao'],
+    'Bosnia and Herzegovina': ['Bosnia-Herzegovina', 'Bosnia and Herzegovina']
+  };
+  const names = byTeam[team] ?? [team];
+  return [...new Set([team, ...names])];
+}
+
+function buildGammaSearchQueries(homeTeam, awayTeam) {
+  const homes = polymarketSearchNames(homeTeam);
+  const aways = polymarketSearchNames(awayTeam);
+  const queries = new Set();
+
+  for (const h of homes) {
+    for (const a of aways) {
+      queries.add(`${h} ${a} World Cup 2026`);
+      queries.add(`${h} vs ${a} FIFA World Cup`);
+      queries.add(`${h} vs. ${a} FIFA World Cup`);
+      queries.add(`World Cup 2026 ${h} ${a}`);
+      queries.add(`${h} vs. ${a}`);
+    }
+  }
+
+  return [...queries];
 }
 
 function toPct(price) {
@@ -287,16 +322,20 @@ function isLiveGammaPrices(outcomes) {
 
 function scoreGammaEvent(event, homeTeam, awayTeam) {
   const title = (event?.title || '').toLowerCase();
+  if (event?.closed) return -1;
+
   const hasBoth = matchTeam(title, homeTeam) && matchTeam(title, awayTeam);
   if (!hasBoth) return -1;
 
   let score = Number(event?.volume ?? 0);
-  if (event?.closed) score *= 0.01;
 
   if (title.includes('advance') || title.includes('semifinal') || title.includes('quarter')) {
     score *= 0.001;
   }
   if (title.includes('winner') && !title.includes(' vs')) {
+    score *= 0.001;
+  }
+  if (title.includes('pool ') && !title.includes('fifwc') && !title.includes('world cup')) {
     score *= 0.001;
   }
 
@@ -350,11 +389,7 @@ async function fetchGammaMatchOdds(homeTeam, awayTeam) {
     if (split) return split;
   }
 
-  const queries = [
-    `${homeTeam} ${awayTeam} World Cup 2026`,
-    `${homeTeam} vs ${awayTeam} FIFA World Cup`,
-    `World Cup 2026 ${homeTeam} ${awayTeam}`
-  ];
+  const queries = buildGammaSearchQueries(homeTeam, awayTeam);
 
   const events = [];
   for (const q of queries) {
@@ -366,7 +401,16 @@ async function fetchGammaMatchOdds(homeTeam, awayTeam) {
 
   events.sort((a, b) => scoreGammaEvent(b, homeTeam, awayTeam) - scoreGammaEvent(a, homeTeam, awayTeam));
 
+  let closedMatchEvent = null;
+
   for (const event of events) {
+    const title = (event?.title || '').toLowerCase();
+    const hasBoth = matchTeam(title, homeTeam) && matchTeam(title, awayTeam);
+    const isHeadToHead = title.includes(' vs') || title.includes(' vs.');
+    if (hasBoth && isHeadToHead && event?.closed && !closedMatchEvent) {
+      closedMatchEvent = event;
+    }
+
     if (scoreGammaEvent(event, homeTeam, awayTeam) < 0) continue;
 
     const split = splitFromGammaEvent(event, homeTeam, awayTeam);
@@ -396,6 +440,17 @@ async function fetchGammaMatchOdds(homeTeam, awayTeam) {
         volume: market.volume ?? event.volume ?? null
       };
     }
+  }
+
+  if (closedMatchEvent) {
+    return {
+      found: false,
+      implied: null,
+      marketClosed: true,
+      source: 'polymarket.com (Gamma)',
+      eventTitle: closedMatchEvent.title,
+      message: `Polymarket market closed for ${homeTeam} vs ${awayTeam}`
+    };
   }
 
   return fetchGammaTournamentWinnerOdds(homeTeam, awayTeam);

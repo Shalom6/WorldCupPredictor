@@ -76,7 +76,7 @@ const GROUPS = {
   L: ['England', 'Croatia', 'Ghana', 'Panama']
 };
 
-const MATCHDAY_DATES = ['June 11–15, 2026', 'June 16–22, 2026', 'June 23–27, 2026'];
+const MATCHDAY_DATES = ['June 11th – June 27th, 2026', 'June 16–22, 2026', 'June 23–27, 2026'];
 const VENUES = [
   'Mexico City', 'Toronto', 'Los Angeles', 'Vancouver', 'Atlanta', 'Miami',
   'Dallas', 'Houston', 'Seattle', 'San Francisco', 'New York', 'Guadalajara'

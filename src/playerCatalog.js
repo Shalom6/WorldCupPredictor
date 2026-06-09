@@ -1,5 +1,10 @@
 import playersData from './data/world-cup-players.json' with { type: 'json' };
 import { ouLines } from './bettingStats.js';
+import { enrichGoalkeeperGameLog } from './playerStats.js';
+
+function isGoalkeeper(position) {
+  return String(position ?? '').toLowerCase().includes('goal');
+}
 
 const PLAYERS = playersData.players ?? [];
 
@@ -181,6 +186,10 @@ export function buildPlayerDetail(id) {
     fouls: r.fouls90
   };
 
+  const gameLog = isGoalkeeper(player.position)
+    ? enrichGoalkeeperGameLog(player.gameLog, player.id)
+    : (player.gameLog ?? []);
+
   return {
     ...summarizePlayer(player),
     xgShare: player.xgShare,
@@ -190,9 +199,10 @@ export function buildPlayerDetail(id) {
     dataScope: player.dataScope ?? null,
     importMeta: player.importMeta ?? null,
     photo: player.photo ?? null,
+    profile: player.profile ?? null,
     seasonRates: player.seasonRates,
     hitRates: player.hitRates,
-    gameLog: player.gameLog,
+    gameLog,
     props,
     averages
   };

@@ -90,8 +90,11 @@ export async function fetchMexicoFromSofascore(opts = {}) {
       const passes = Number(s.totalPass ?? 0);
       const cards = Number(s.yellowCards ?? 0) + Number(s.redCards ?? 0);
       const fouls = Number(s.fouls ?? 0);
+      const saves = Number(s.saves ?? 0);
+      const keeperSweeper = Number(s.totalKeeperSweeper ?? s.accurateKeeperSweeper ?? 0);
+      const isGk = mapPosition(p.position) === 'Goalkeeper';
 
-      if (minutes <= 0 && goals === 0 && assists === 0 && shots === 0) continue;
+      if (minutes <= 0 && goals === 0 && assists === 0 && shots === 0 && !(isGk && saves > 0)) continue;
 
       const key = String(p.id);
       const game = {
@@ -108,7 +111,8 @@ export async function fetchMexicoFromSofascore(opts = {}) {
         passes,
         cards,
         fouls,
-        rating: s.rating ? Number(s.rating) : null
+        rating: s.rating ? Number(s.rating) : null,
+        ...(isGk || saves > 0 ? { saves, goalsConceded: oppGoals, keeperSweeper } : {})
       };
 
       if (!playerLogs.has(key)) {

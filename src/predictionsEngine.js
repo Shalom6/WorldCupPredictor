@@ -7,6 +7,7 @@ import {
 } from './predictor.js';
 import { getDataCatalog, getFixtureContext, getTeamProfiles } from './sampleData.js';
 import { fetchPolymarketOdds } from './polymarket.js';
+import { getFixtureOutcome } from './matchResult.js';
 function round(n, dp = 1) {
   const p = 10 ** dp;
   return Math.round(n * p) / p;
@@ -196,10 +197,12 @@ export async function buildPredictionsResponse(body) {
 
   const fixture = getFixtureContext(body);
   const { home, away } = getTeamProfiles(fixture.homeTeam, fixture.awayTeam);
+  const matchResult = getFixtureOutcome(fixture);
 
-  const polymarket = body?.skipPolymarket ? null : await fetchPolymarketOdds(homeTeam, awayTeam);
+  const polymarket =
+    matchResult || body?.skipPolymarket ? null : await fetchPolymarketOdds(homeTeam, awayTeam);
   const marketFromPolymarket = polymarket?.found && polymarket?.implied ? polymarket.implied : null;
-  const market = body?.market ?? marketFromPolymarket;
+  const market = matchResult ? null : (body?.market ?? marketFromPolymarket);
 
   const blend = body?.blend ?? (market ? resolvePredictionBlend(body?.blend) : { marketWeight: 0, modelWeight: 1 });
   const statsBlend = resolveStatsBlend(body?.statsBlend);
@@ -213,35 +216,58 @@ export async function buildPredictionsResponse(body) {
   });
 
   const modelProbabilities = prediction.model.outcome;
-  const marketProbabilities = prediction.market;
-  const probabilities = prediction.blended ?? modelProbabilities;
+  const marketProbabilities = matchResult ? null : prediction.market;
+  const probabilities = matchResult
+    ? matchResult.probabilities
+    : (prediction.blended ?? modelProbabilities);
 
   const modelLambda = prediction.model.lambda;
   const marketLambda = marketFromPolymarket ? fitLambdasFrom1x2Pct(marketFromPolymarket) : null;
   const blendedLambda = blendLambdas(modelLambda, marketLambda, statsBlend);
 
   const isKnockout = fixture.isKnockout ?? fixture.stage !== 'Group Stage';
-  const knockout = isKnockout
-    ? computeKnockoutResolution(blendedLambda.home, blendedLambda.away, probabilities)
-    : null;
+  const knockout = matchResult
+    ? null
+    : isKnockout
+      ? computeKnockoutResolution(blendedLambda.home, blendedLambda.away, probabilities)
+      : null;
 
-  const scorelines = scorelinesFromLambdas(
-    prediction.fixture.homeTeam,
-    prediction.fixture.awayTeam,
-    blendedLambda.home,
-    blendedLambda.away
-  );
+  const scorelines = matchResult
+    ? [
+        {
+          score: `${fixture.homeTeam} ${matchResult.homeScore}-${matchResult.awayScore} ${fixture.awayTeam}`,
+          probability: 100
+        }
+      ]
+    : scorelinesFromLambdas(
+        prediction.fixture.homeTeam,
+        prediction.fixture.awayTeam,
+        blendedLambda.home,
+        blendedLambda.away
+      );
 
-  const { verdict } = buildVerdict({
-    fixture: prediction.fixture,
-    probabilities,
-    market,
-    blend,
-    knockout
-  });
+  const { verdict } = matchResult
+    ? {
+        verdict: {
+          summary: matchResult.summary,
+          favorite: matchResult.type === 'draw' ? 'Draw' : matchResult.winner,
+          confidenceGap: 100,
+          isDeadHeat: false,
+          regulationFavorite: matchResult.type === 'draw' ? 'Draw' : matchResult.winner
+        }
+      }
+    : buildVerdict({
+        fixture: prediction.fixture,
+        probabilities,
+        market,
+        blend,
+        knockout
+      });
 
   return {
     fixture: prediction.fixture,
+    matchPlayed: Boolean(matchResult),
+    matchResult,
     probabilities,
     regulationProbabilities: probabilities,
     knockout,
@@ -253,11 +279,13 @@ export async function buildPredictionsResponse(body) {
       lambda: blendedLambda,
       modelLambda,
       marketLambda,
-      note: marketFromPolymarket
-        ? `Blended xG rates: ${Math.round(statsBlend.marketWeight * 100)}% Polymarket · ${Math.round(statsBlend.modelWeight * 100)}% season model`
-        : 'Poisson model using blended World Cup history + 2026 qualifying form'
+      note: matchResult
+        ? 'Match complete — showing final result'
+        : marketFromPolymarket
+          ? `Blended xG rates: ${Math.round(statsBlend.marketWeight * 100)}% Polymarket · ${Math.round(statsBlend.modelWeight * 100)}% season model`
+          : 'Poisson model using blended World Cup history + 2026 qualifying form'
     },
-    polymarket,
+    polymarket: matchResult ? { found: false, marketClosed: true, settled: true } : polymarket,
     blend,
     statsBlend,
     blendedLambda,

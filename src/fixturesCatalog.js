@@ -1,27 +1,42 @@
 import fixturesData from './data/fixtures.json' with { type: 'json' };
+import matchResultsData from './data/match-results.json' with { type: 'json' };
+
+const RESULTS = matchResultsData.results ?? {};
+
+function withMatchResult(fixture) {
+  if (!fixture) return null;
+  const result = RESULTS[fixture.id];
+  if (!result) return fixture;
+  return {
+    ...fixture,
+    ...result,
+    status: result.status ?? 'finished'
+  };
+}
 
 export function getAllFixtures() {
   return {
     competition: fixturesData.competition,
     hostCountries: fixturesData.hostCountries,
-    groupStage: fixturesData.groupStage,
-    knockout: fixturesData.knockout ?? []
+    groupStage: (fixturesData.groupStage ?? []).map(withMatchResult),
+    knockout: (fixturesData.knockout ?? []).map(withMatchResult)
   };
 }
 
 export function getGroupStageFixtures(group = null) {
-  const all = fixturesData.groupStage ?? [];
+  const all = (fixturesData.groupStage ?? []).map(withMatchResult);
   if (!group) return all;
   return all.filter((f) => f.group === group);
 }
 
 export function getKnockoutFixtures() {
-  return fixturesData.knockout ?? [];
+  return (fixturesData.knockout ?? []).map(withMatchResult);
 }
 
 export function getFixtureById(fixtureId) {
   const all = [...(fixturesData.groupStage ?? []), ...(fixturesData.knockout ?? [])];
-  return all.find((f) => f.id === fixtureId) ?? null;
+  const fixture = all.find((f) => f.id === fixtureId) ?? null;
+  return withMatchResult(fixture);
 }
 
 export function getGroups() {

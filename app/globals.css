@@ -386,6 +386,14 @@ body {
   letter-spacing: -0.02em;
 }
 
+.pillPick .pillValue {
+  color: var(--ucl-white);
+}
+
+.resultCard {
+  border-color: var(--hair-strong);
+}
+
 .probBar {
   display: flex;
   width: 100%;
@@ -549,6 +557,14 @@ body {
   padding: 2px;
   letter-spacing: 0.06em;
   text-transform: uppercase;
+}
+
+.tabPanelHidden {
+  display: none;
+}
+
+.tabPanel {
+  display: block;
 }
 
 .predictionsEngine,
@@ -1012,6 +1028,11 @@ body {
   text-transform: uppercase;
   cursor: pointer;
   transition: background 0.15s ease, color 0.15s ease;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 .tab:last-child {
@@ -1302,7 +1323,7 @@ body {
 
 .lmThreeCol {
   display: grid;
-  grid-template-columns: 220px minmax(0, 1fr) 280px;
+  grid-template-columns: 260px minmax(0, 1fr) 280px;
   gap: 0;
   min-height: calc(100vh - 280px);
   border: 1px solid var(--lm-border);
@@ -1318,6 +1339,70 @@ body {
   display: flex;
   flex-direction: column;
   gap: 16px;
+  min-width: 220px;
+}
+
+.lmProfileCard {
+  padding: 14px;
+  border: 1px solid var(--lm-border);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.lmProfileCardEmpty {
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.lmProfilePlayerName {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.25;
+  color: var(--text);
+}
+
+.lmProfilePlayerMeta {
+  margin: 6px 0 14px;
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.4;
+}
+
+.lmProfileFacts {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.lmProfileFact {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2px;
+}
+
+.lmProfileFact dt {
+  margin: 0;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.lmProfileFact dd {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.35;
+  word-break: break-word;
+}
+
+.lmProfileSource {
+  margin: 12px 0 0;
 }
 
 .lmProfileHead {
