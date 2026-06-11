@@ -310,7 +310,7 @@ export default function StatsPanel({ fixture }) {
           <header className="sectionDivider">
             <h2 className="sectionTitle">Player props</h2>
             <p className="muted small sectionHint">
-              Per-player projections from squad shares, minutes, and team totals ({rosterSeason} rosters).
+              Per-player projections from squad minutes, international per-90 rates, and team totals.
             </p>
           </header>
           <div className="bettingGrid playerPropsGrid">

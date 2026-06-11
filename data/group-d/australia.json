@@ -1,0 +1,6161 @@
+{
+  "_note": "International match logs imported from Sofascore. Club friendlies excluded. Last 22 national-team matches as of import date.",
+  "team": "Australia",
+  "group": "D",
+  "dataSource": "sofascore",
+  "importedAt": "2026-06-11T08:37:54.193Z",
+  "eventsProcessed": 22,
+  "teamMatchResults": [
+    {
+      "date": "2026-06-06",
+      "opponent": "Switzerland",
+      "competition": "Int. Friendly Games",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2026-05-31",
+      "opponent": "Mexico",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2026-03-31",
+      "opponent": "Curaçao",
+      "competition": "FIFA Series, Australia",
+      "result": "W",
+      "goalsFor": 5,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2026-03-27",
+      "opponent": "Cameroon",
+      "competition": "FIFA Series, Australia",
+      "result": "W",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-11-19",
+      "opponent": "Colombia",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "venue": "away"
+    },
+    {
+      "date": "2025-11-15",
+      "opponent": "Venezuela",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2025-10-15",
+      "opponent": "USA",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "venue": "away"
+    },
+    {
+      "date": "2025-10-10",
+      "opponent": "Canada",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-09-09",
+      "opponent": "New Zealand",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2025-09-05",
+      "opponent": "New Zealand",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-06-10",
+      "opponent": "Saudi Arabia",
+      "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2025-06-05",
+      "opponent": "Japan",
+      "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+      "result": "W",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-03-25",
+      "opponent": "China",
+      "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-03-20",
+      "opponent": "Indonesia",
+      "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+      "result": "W",
+      "goalsFor": 5,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2024-11-19",
+      "opponent": "Bahrain",
+      "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+      "result": "D",
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "venue": "away"
+    }
+  ],
+  "players": [
+    {
+      "id": "australia-mathew-ryan",
+      "name": "Mathew Ryan",
+      "team": "Australia",
+      "group": "D",
+      "position": "Goalkeeper",
+      "number": "1",
+      "likelyStarter": true,
+      "sofascoreId": 134029,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4,
+          "saves": 2,
+          "goalsConceded": 1,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1,
+          "saves": 3,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3,
+          "saves": 1,
+          "goalsConceded": 0,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2025-10-15",
+          "opponent": "USA",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4,
+          "saves": 2,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8,
+          "saves": 5,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9,
+          "saves": 1,
+          "goalsConceded": 0,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5,
+          "saves": 1,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3,
+          "saves": 3,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3,
+          "saves": 1,
+          "goalsConceded": 2,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5,
+          "saves": 2,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5,
+          "saves": 1,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 24,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 90
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-05-31"
+      },
+      "profile": {
+        "club": "Levante UD",
+        "marketValueEur": 1700000,
+        "marketValueDisplay": "€1.7M",
+        "dateOfBirth": "1992-04-08",
+        "age": 34,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-patrick-beach",
+      "name": "Patrick Beach",
+      "team": "Australia",
+      "group": "D",
+      "position": "Goalkeeper",
+      "number": "18",
+      "likelyStarter": true,
+      "sofascoreId": 1177240,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6,
+          "saves": 2,
+          "goalsConceded": 1,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Venezuela",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4,
+          "saves": 4,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 16,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 90
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 2,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Melbourne City",
+        "marketValueEur": 870000,
+        "marketValueDisplay": "€870K",
+        "dateOfBirth": "2003-08-06",
+        "age": 22,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-paul-izzo",
+      "name": "Paul Izzo",
+      "team": "Australia",
+      "group": "D",
+      "position": "Goalkeeper",
+      "number": "12",
+      "likelyStarter": true,
+      "sofascoreId": 155925,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-11-19",
+          "opponent": "Colombia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9,
+          "saves": 5,
+          "goalsConceded": 3,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Canada",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 9.4,
+          "saves": 8,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 86,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3,
+          "saves": 3,
+          "goalsConceded": 1,
+          "keeperSweeper": 4
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6,
+          "saves": 4,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 30,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 89
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 4,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2025-11-19"
+      },
+      "profile": {
+        "club": "Randers FC",
+        "marketValueEur": 465000,
+        "marketValueDisplay": "€465K",
+        "dateOfBirth": "1995-01-06",
+        "age": 31,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-alessandro-circati",
+      "name": "Alessandro Circati",
+      "team": "Australia",
+      "group": "D",
+      "position": "Defender",
+      "number": "13",
+      "likelyStarter": true,
+      "sofascoreId": 1155423,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 59,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 81,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 47,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.5
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 68,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2025-10-15",
+          "opponent": "USA",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Canada",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 49,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 64,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 0,
+          "passes": 47,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 64,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-06-11",
+          "opponent": "Palestine",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 108,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.8
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.09,
+        "assists90": 0,
+        "shots90": 1.2,
+        "sot90": 0.4,
+        "passes90": 56,
+        "cards90": 0,
+        "fouls90": 1.2,
+        "minutesAvg": 85
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 8
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 25
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 10,
+          "season": 8
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 30,
+          "season": 33
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 25
+        }
+      },
+      "importMeta": {
+        "appearances": 12,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia",
+          "World Cup Qualification, AFC, Round 3, Gr. C",
+          "World Cup Qualification, AFC, Round 2, Group I"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Parma",
+        "marketValueEur": 13000000,
+        "marketValueDisplay": "€13M",
+        "dateOfBirth": "2003-10-10",
+        "age": 22,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-aziz-behich",
+      "name": "Aziz Behich",
+      "team": "Australia",
+      "group": "D",
+      "position": "Defender",
+      "number": "16",
+      "likelyStarter": true,
+      "sofascoreId": 576220,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 69,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "home",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 86,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2024-06-11",
+          "opponent": "Palestine",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-06-06",
+          "opponent": "Bangladesh",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.09,
+        "assists90": 0,
+        "shots90": 0.2,
+        "sot90": 0.1,
+        "passes90": 38,
+        "cards90": 0,
+        "fouls90": 0.6,
+        "minutesAvg": 64
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia",
+          "World Cup Qualification, AFC, Round 3, Gr. C",
+          "World Cup Qualification, AFC, Round 2, Group I"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Melbourne City",
+        "marketValueEur": 245000,
+        "marketValueDisplay": "€245K",
+        "dateOfBirth": "1990-12-16",
+        "age": 35,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-cameron-burgess",
+      "name": "Cameron Burgess",
+      "team": "Australia",
+      "group": "D",
+      "position": "Defender",
+      "number": "21",
+      "likelyStarter": true,
+      "sofascoreId": 358084,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 25,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-19",
+          "opponent": "Colombia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 51,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Venezuela",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 46,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-10-15",
+          "opponent": "USA",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Canada",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 62,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 73,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.8
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 47,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 57,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 63,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.2,
+        "sot90": 0.1,
+        "passes90": 54,
+        "cards90": 0,
+        "fouls90": 0.2,
+        "minutesAvg": 69
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Swansea City",
+        "marketValueEur": 1500000,
+        "marketValueDisplay": "€1.5M",
+        "dateOfBirth": "1995-10-21",
+        "age": 30,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-harry-souttar",
+      "name": "Harry Souttar",
+      "team": "Australia",
+      "group": "D",
+      "position": "Defender",
+      "number": "19",
+      "likelyStarter": true,
+      "sofascoreId": 808680,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 62,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 67,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 51,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 123,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 69,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.9
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 109,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-06-06",
+          "opponent": "Bangladesh",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 100,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 1,
+        "sot90": 0.2,
+        "passes90": 76,
+        "cards90": 0,
+        "fouls90": 0.6,
+        "minutesAvg": 89
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 33,
+          "season": 33
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 3, Gr. C",
+          "World Cup Qualification, AFC, Round 2, Group I"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Leicester City",
+        "marketValueEur": 3600000,
+        "marketValueDisplay": "€3.6M",
+        "dateOfBirth": "1998-10-22",
+        "age": 27,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-jason-geria",
+      "name": "Jason Geria",
+      "team": "Australia",
+      "group": "D",
+      "position": "Defender",
+      "number": "8",
+      "likelyStarter": true,
+      "sofascoreId": 303258,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 65,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 53,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Venezuela",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 44,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-10-15",
+          "opponent": "USA",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.2
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 64,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 27,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 48,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.2,
+        "sot90": 0,
+        "passes90": 49,
+        "cards90": 0,
+        "fouls90": 0.8,
+        "minutesAvg": 64
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 8
+        }
+      },
+      "importMeta": {
+        "appearances": 13,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Albirex Niigata",
+        "marketValueEur": 385000,
+        "marketValueDisplay": "€385K",
+        "dateOfBirth": "1993-05-10",
+        "age": 33,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-jordan-bos",
+      "name": "Jordan Bos",
+      "team": "Australia",
+      "group": "D",
+      "position": "Defender",
+      "number": "5",
+      "likelyStarter": true,
+      "sofascoreId": 1144138,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 24,
+          "goals": 1,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.9
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-10-15",
+          "opponent": "USA",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.7
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Canada",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 33,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 26,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 21,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "home",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.2
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-06-11",
+          "opponent": "Palestine",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3
+        },
+        {
+          "date": "2024-06-06",
+          "opponent": "Bangladesh",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.4
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.36,
+        "assists90": 0.24,
+        "shots90": 1,
+        "sot90": 0.5,
+        "passes90": 29,
+        "cards90": 0,
+        "fouls90": 1.2,
+        "minutesAvg": 53
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 60,
+          "l10": 30,
+          "season": 21
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 14
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 14
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 40,
+          "season": 29
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 14
+        }
+      },
+      "importMeta": {
+        "appearances": 14,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia",
+          "World Cup Qualification, AFC, Round 3, Gr. C",
+          "World Cup Qualification, AFC, Round 2, Group I"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Feyenoord",
+        "marketValueEur": 7400000,
+        "marketValueDisplay": "€7.4M",
+        "dateOfBirth": "2002-10-29",
+        "age": 23,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-lucas-herrington",
+      "name": "Lucas Herrington",
+      "team": "Australia",
+      "group": "D",
+      "position": "Defender",
+      "number": "26",
+      "likelyStarter": true,
+      "sofascoreId": 1646783,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 56,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 64,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 66,
+        "cards90": 0,
+        "fouls90": 0.3,
+        "minutesAvg": 67
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 4,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Colorado Rapids",
+        "marketValueEur": 1600000,
+        "marketValueDisplay": "€1.6M",
+        "dateOfBirth": "2007-07-05",
+        "age": 18,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-milos-degenek",
+      "name": "Miloš Degenek",
+      "team": "Australia",
+      "group": "D",
+      "position": "Defender",
+      "number": "2",
+      "likelyStarter": true,
+      "sofascoreId": 155961,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-11-19",
+          "opponent": "Colombia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Venezuela",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 60,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Canada",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 37,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 60,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.2,
+        "sot90": 0,
+        "passes90": 40,
+        "cards90": 0,
+        "fouls90": 0.1,
+        "minutesAvg": 63
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 12,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "APOEL Nicosia",
+        "marketValueEur": 520000,
+        "marketValueDisplay": "€520K",
+        "dateOfBirth": "1994-04-28",
+        "age": 32,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-aiden-o-neill",
+      "name": "Aiden O'Neill",
+      "team": "Australia",
+      "group": "D",
+      "position": "Midfielder",
+      "number": "5",
+      "likelyStarter": true,
+      "sofascoreId": 847938,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-11-19",
+          "opponent": "Colombia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 55,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Venezuela",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 37,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-10-15",
+          "opponent": "USA",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 53,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Canada",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.6,
+        "sot90": 0.1,
+        "passes90": 41,
+        "cards90": 0,
+        "fouls90": 1,
+        "minutesAvg": 71
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 13
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 30,
+          "season": 27
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "New York City FC",
+        "marketValueEur": 2900000,
+        "marketValueDisplay": "€2.9M",
+        "dateOfBirth": "1998-07-04",
+        "age": 27,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-ajdin-hrustic",
+      "name": "Ajdin Hrustić",
+      "team": "Australia",
+      "group": "D",
+      "position": "Midfielder",
+      "number": "10",
+      "likelyStarter": false,
+      "sofascoreId": 788284,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 25,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-10-15",
+          "opponent": "USA",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 4,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 88,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.2
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2024-06-06",
+          "opponent": "Bangladesh",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 50,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.22,
+        "assists90": 0,
+        "shots90": 1.8,
+        "sot90": 1.1,
+        "passes90": 33,
+        "cards90": 0,
+        "fouls90": 0.4,
+        "minutesAvg": 37
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 9
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 9
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 10,
+          "season": 9
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 40,
+          "season": 45
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia",
+          "World Cup Qualification, AFC, Round 3, Gr. C",
+          "World Cup Qualification, AFC, Round 2, Group I"
+        ],
+        "lastMatch": "2026-05-31"
+      },
+      "profile": {
+        "club": "Heracles Almelo",
+        "marketValueEur": 580000,
+        "marketValueDisplay": "€580K",
+        "dateOfBirth": "1996-07-05",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-awer-mabil",
+      "name": "Awer Mabil",
+      "team": "Australia",
+      "group": "D",
+      "position": "Midfielder",
+      "number": "10",
+      "likelyStarter": false,
+      "sofascoreId": 307082,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 67,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.59,
+        "assists90": 0,
+        "shots90": 2.4,
+        "sot90": 0.6,
+        "passes90": 28,
+        "cards90": 0,
+        "fouls90": 1.2,
+        "minutesAvg": 30
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        }
+      },
+      "importMeta": {
+        "appearances": 5,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-05-31"
+      },
+      "profile": {
+        "club": "CD Castellón",
+        "marketValueEur": 415000,
+        "marketValueDisplay": "€415K",
+        "dateOfBirth": "1995-09-15",
+        "age": 30,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-cameron-devlin",
+      "name": "Cameron Devlin",
+      "team": "Australia",
+      "group": "D",
+      "position": "Midfielder",
+      "number": "14",
+      "likelyStarter": false,
+      "sofascoreId": 944054,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-06-11",
+          "opponent": "Palestine",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-06-06",
+          "opponent": "Bangladesh",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 122,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 11
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 3,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 2, Group I"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Heart of Midlothian",
+        "marketValueEur": 1300000,
+        "marketValueDisplay": "€1.3M",
+        "dateOfBirth": "1998-06-07",
+        "age": 28,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-connor-metcalfe",
+      "name": "Connor Metcalfe",
+      "team": "Australia",
+      "group": "D",
+      "position": "Midfielder",
+      "number": "8",
+      "likelyStarter": true,
+      "sofascoreId": 888854,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 65,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 5,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-11-19",
+          "opponent": "Colombia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Venezuela",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-10-15",
+          "opponent": "USA",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Canada",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 86,
+          "goals": 0,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-06-11",
+          "opponent": "Palestine",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 26,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-06-06",
+          "opponent": "Bangladesh",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.09,
+        "assists90": 0.18,
+        "shots90": 1.2,
+        "sot90": 0.3,
+        "passes90": 28,
+        "cards90": 0,
+        "fouls90": 1.7,
+        "minutesAvg": 67
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 13
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 20,
+          "season": 27
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 20,
+          "season": 20
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 40,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia",
+          "World Cup Qualification, AFC, Round 3, Gr. C",
+          "World Cup Qualification, AFC, Round 2, Group I"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "FC St. Pauli",
+        "marketValueEur": 1400000,
+        "marketValueDisplay": "€1.4M",
+        "dateOfBirth": "1999-11-05",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-cristian-volpato",
+      "name": "Cristian Volpato",
+      "team": "Australia",
+      "group": "D",
+      "position": "Midfielder",
+      "number": "20",
+      "likelyStarter": false,
+      "sofascoreId": 1155625,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 22,
+        "cards90": 0,
+        "fouls90": 2,
+        "minutesAvg": 45
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 1,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Sassuolo",
+        "marketValueEur": 9700000,
+        "marketValueDisplay": "€9.7M",
+        "dateOfBirth": "2003-11-15",
+        "age": 22,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-jackson-irvine",
+      "name": "Jackson Irvine",
+      "team": "Australia",
+      "group": "D",
+      "position": "Midfielder",
+      "number": "22",
+      "likelyStarter": true,
+      "sofascoreId": 181581,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-11-19",
+          "opponent": "Colombia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Venezuela",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.7
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 2,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 3,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.5
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 37,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 76,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2024-06-11",
+          "opponent": "Palestine",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 58,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2024-06-06",
+          "opponent": "Bangladesh",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 53,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.8
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.26,
+        "assists90": 0.09,
+        "shots90": 0.8,
+        "sot90": 0.4,
+        "passes90": 45,
+        "cards90": 0,
+        "fouls90": 0.4,
+        "minutesAvg": 74
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 14
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 14
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 21
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 14,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 3, Gr. C",
+          "World Cup Qualification, AFC, Round 2, Group I"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "FC St. Pauli",
+        "marketValueEur": 1100000,
+        "marketValueDisplay": "€1.1M",
+        "dateOfBirth": "1993-03-07",
+        "age": 33,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-jacob-italiano",
+      "name": "Jacob Italiano",
+      "team": "Australia",
+      "group": "D",
+      "position": "Midfielder",
+      "number": "20",
+      "likelyStarter": true,
+      "sofascoreId": 907217,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.1
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-10-15",
+          "opponent": "USA",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Canada",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 32,
+        "cards90": 0,
+        "fouls90": 1.6,
+        "minutesAvg": 66
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        }
+      },
+      "importMeta": {
+        "appearances": 5,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Grazer AK 1902",
+        "marketValueEur": 430000,
+        "marketValueDisplay": "€430K",
+        "dateOfBirth": "2001-07-30",
+        "age": 24,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-kai-trewin",
+      "name": "Kai Trewin",
+      "team": "Australia",
+      "group": "D",
+      "position": "Midfielder",
+      "number": "15",
+      "likelyStarter": true,
+      "sofascoreId": 991364,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 5,
+          "rating": 6
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-11-19",
+          "opponent": "Colombia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 56,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Venezuela",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.2,
+        "sot90": 0,
+        "passes90": 43,
+        "cards90": 0,
+        "fouls90": 2.4,
+        "minutesAvg": 64
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 33,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 6,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "New York City FC",
+        "marketValueEur": 915000,
+        "marketValueDisplay": "€915K",
+        "dateOfBirth": "2001-05-18",
+        "age": 25,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-mathew-leckie",
+      "name": "Mathew Leckie",
+      "team": "Australia",
+      "group": "D",
+      "position": "Midfielder",
+      "number": "7",
+      "likelyStarter": true,
+      "sofascoreId": 122570,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-06-11",
+          "opponent": "Palestine",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 1.1,
+        "sot90": 0,
+        "passes90": 28,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 56
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 3,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 2, Group I"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Melbourne City",
+        "marketValueEur": 280000,
+        "marketValueDisplay": "€280K",
+        "dateOfBirth": "1991-02-04",
+        "age": 35,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-nishan-velupillay",
+      "name": "Nishan Velupillay",
+      "team": "Australia",
+      "group": "D",
+      "position": "Midfielder",
+      "number": "7",
+      "likelyStarter": false,
+      "sofascoreId": 1118467,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.3
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 82,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 72,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Japan",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 14,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.96,
+        "assists90": 0.32,
+        "shots90": 1.6,
+        "sot90": 1,
+        "passes90": 27,
+        "cards90": 0,
+        "fouls90": 1.6,
+        "minutesAvg": 40
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 40,
+          "l10": 43,
+          "season": 43
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 14,
+          "season": 14
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 29,
+          "season": 29
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 43,
+          "season": 43
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 14,
+          "season": 14
+        }
+      },
+      "importMeta": {
+        "appearances": 7,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-05-31"
+      },
+      "profile": {
+        "club": "Melbourne Victory",
+        "marketValueEur": 670000,
+        "marketValueDisplay": "€670K",
+        "dateOfBirth": "2001-05-07",
+        "age": 25,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-paul-okon-engstler",
+      "name": "Paul Okon-Engstler",
+      "team": "Australia",
+      "group": "D",
+      "position": "Midfielder",
+      "number": "20",
+      "likelyStarter": false,
+      "sofascoreId": 1411105,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 25,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-19",
+          "opponent": "Colombia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Venezuela",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 55,
+        "cards90": 0,
+        "fouls90": 2.8,
+        "minutesAvg": 42
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 33,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 6,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Sydney FC",
+        "marketValueEur": 1100000,
+        "marketValueDisplay": "€1.1M",
+        "dateOfBirth": "2005-01-24",
+        "age": 21,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-mohamed-toure",
+      "name": "Mohamed Touré",
+      "team": "Australia",
+      "group": "D",
+      "position": "Forward",
+      "number": "9",
+      "likelyStarter": true,
+      "sofascoreId": 1019061,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-11-19",
+          "opponent": "Colombia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Venezuela",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-10-15",
+          "opponent": "USA",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Canada",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 2,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 3,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.6
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Saudi Arabia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 25,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.39,
+        "assists90": 0.19,
+        "shots90": 1.9,
+        "sot90": 0.8,
+        "passes90": 14,
+        "cards90": 0,
+        "fouls90": 1.7,
+        "minutesAvg": 52
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 33,
+          "season": 33
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 22,
+          "season": 22
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 22,
+          "season": 22
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Norwich City",
+        "marketValueEur": 8400000,
+        "marketValueDisplay": "€8.4M",
+        "dateOfBirth": "2004-03-26",
+        "age": 22,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-nestory-irankunda",
+      "name": "Nestory Irankunda",
+      "team": "Australia",
+      "group": "D",
+      "position": "Forward",
+      "number": "20",
+      "likelyStarter": false,
+      "sofascoreId": 1144687,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Mexico",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.2
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Curaçao",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 23,
+          "goals": 2,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 8.5
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Cameroon",
+          "competition": "FIFA Series, Australia",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-19",
+          "opponent": "Colombia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.2
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Venezuela",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-10-15",
+          "opponent": "USA",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Canada",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 4,
+          "rating": 7.8
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 86,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "New Zealand",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "China",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-06-11",
+          "opponent": "Palestine",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 20,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2024-06-06",
+          "opponent": "Bangladesh",
+          "competition": "World Cup Qualification, AFC, Round 2, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 64,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.66,
+        "assists90": 0.13,
+        "shots90": 2.9,
+        "sot90": 1.3,
+        "passes90": 22,
+        "cards90": 0,
+        "fouls90": 2.4,
+        "minutesAvg": 45
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 30,
+          "season": 27
+        },
+        "goals15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 40,
+          "season": 47
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 20,
+          "season": 13
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 60,
+          "season": 53
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 50,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA Series, Australia",
+          "World Cup Qualification, AFC, Round 3, Gr. C",
+          "World Cup Qualification, AFC, Round 2, Group I"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Watford",
+        "marketValueEur": 8500000,
+        "marketValueDisplay": "€8.5M",
+        "dateOfBirth": "2006-02-09",
+        "age": 20,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "australia-tete-yengi",
+      "name": "Tete Yengi",
+      "team": "Australia",
+      "group": "D",
+      "position": "Forward",
+      "number": "26",
+      "likelyStarter": false,
+      "sofascoreId": 1096517,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Switzerland",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 71,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 1.27,
+        "assists90": 0,
+        "shots90": 2.5,
+        "sot90": 1.3,
+        "passes90": 14,
+        "cards90": 0,
+        "fouls90": 2.5,
+        "minutesAvg": 71
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 100,
+          "l10": 100,
+          "season": 100
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 100,
+          "l10": 100,
+          "season": 100
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 100,
+          "l10": 100,
+          "season": 100
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 100,
+          "l10": 100,
+          "season": 100
+        }
+      },
+      "importMeta": {
+        "appearances": 1,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Machida Zelvia",
+        "marketValueEur": 265000,
+        "marketValueDisplay": "€265K",
+        "dateOfBirth": "2000-11-28",
+        "age": 25,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    }
+  ],
+  "fringeCallups": [
+    {
+      "name": "Joe Gauci",
+      "appearances": 6
+    },
+    {
+      "name": "Fran Karačić",
+      "appearances": 2
+    },
+    {
+      "name": "Gethin Jones",
+      "appearances": 1
+    },
+    {
+      "name": "Hayden Matthews",
+      "appearances": 1
+    },
+    {
+      "name": "Kye Rowles",
+      "appearances": 9
+    },
+    {
+      "name": "Lewis Miller",
+      "appearances": 14
+    },
+    {
+      "name": "Thomas Jok Deng",
+      "appearances": 1
+    },
+    {
+      "name": "Al Hassan Toure",
+      "appearances": 2
+    },
+    {
+      "name": "Alex Robertson",
+      "appearances": 1
+    },
+    {
+      "name": "Anthony Caceres",
+      "appearances": 4
+    },
+    {
+      "name": "Callum Elder",
+      "appearances": 2
+    },
+    {
+      "name": "Craig Goodwin",
+      "appearances": 7
+    },
+    {
+      "name": "Daniel Arzani",
+      "appearances": 5
+    },
+    {
+      "name": "Joshua Nisbet",
+      "appearances": 2
+    },
+    {
+      "name": "Keanu Baccus",
+      "appearances": 3
+    },
+    {
+      "name": "Luke Brattan",
+      "appearances": 1
+    },
+    {
+      "name": "Maximilien Balard",
+      "appearances": 5
+    },
+    {
+      "name": "Nicolas Milanović",
+      "appearances": 2
+    },
+    {
+      "name": "Patrick Yazbek",
+      "appearances": 8
+    },
+    {
+      "name": "Riley McGree",
+      "appearances": 10
+    },
+    {
+      "name": "Ryan Strain",
+      "appearances": 1
+    },
+    {
+      "name": "Ryan Teague",
+      "appearances": 4
+    },
+    {
+      "name": "Samuel Silvera",
+      "appearances": 2
+    },
+    {
+      "name": "Adam Taggart",
+      "appearances": 4
+    },
+    {
+      "name": "Apostolos Stamatelopoulos",
+      "appearances": 1
+    },
+    {
+      "name": "Brandon Borrello",
+      "appearances": 5
+    },
+    {
+      "name": "Deni Jurić",
+      "appearances": 2
+    },
+    {
+      "name": "Kusini Yengi",
+      "appearances": 5
+    },
+    {
+      "name": "Marco Tilio",
+      "appearances": 1
+    },
+    {
+      "name": "Martin Boyle",
+      "appearances": 13
+    },
+    {
+      "name": "Mitchell Duke",
+      "appearances": 11
+    },
+    {
+      "name": "Nick D'Agostino",
+      "appearances": 1
+    }
+  ]
+}

@@ -1,0 +1,6775 @@
+{
+  "_note": "International match logs imported from Sofascore. Club friendlies excluded. Last 22 national-team matches as of import date.",
+  "team": "Scotland",
+  "group": "C",
+  "dataSource": "sofascore",
+  "importedAt": "2026-06-11T08:36:29.439Z",
+  "eventsProcessed": 22,
+  "teamMatchResults": [
+    {
+      "date": "2026-06-06",
+      "opponent": "Bolivia",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2026-05-30",
+      "opponent": "Curaçao",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2026-03-31",
+      "opponent": "Côte d'Ivoire",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2026-03-28",
+      "opponent": "Japan",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2025-11-18",
+      "opponent": "Denmark",
+      "competition": "World Cup Qual. UEFA C",
+      "result": "W",
+      "goalsFor": 4,
+      "goalsAgainst": 2,
+      "venue": "home"
+    },
+    {
+      "date": "2025-11-15",
+      "opponent": "Greece",
+      "competition": "World Cup Qual. UEFA C",
+      "result": "L",
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "venue": "away"
+    },
+    {
+      "date": "2025-10-12",
+      "opponent": "Belarus",
+      "competition": "World Cup Qual. UEFA C",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2025-10-09",
+      "opponent": "Greece",
+      "competition": "World Cup Qual. UEFA C",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2025-09-08",
+      "opponent": "Belarus",
+      "competition": "World Cup Qual. UEFA C",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-09-05",
+      "opponent": "Denmark",
+      "competition": "World Cup Qual. UEFA C",
+      "result": "D",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-06-09",
+      "opponent": "Liechtenstein",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-06-06",
+      "opponent": "Iceland",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "venue": "home"
+    },
+    {
+      "date": "2025-03-23",
+      "opponent": "Greece",
+      "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "venue": "home"
+    },
+    {
+      "date": "2025-03-20",
+      "opponent": "Greece",
+      "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+      "result": "W",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2024-11-18",
+      "opponent": "Poland",
+      "competition": "UEFA Nations League, League A, Gr. 1",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "venue": "away"
+    }
+  ],
+  "players": [
+    {
+      "id": "scotland-angus-gunn",
+      "name": "Angus Gunn",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Goalkeeper",
+      "number": "1",
+      "likelyStarter": true,
+      "sofascoreId": 227946,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3,
+          "saves": 3,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3,
+          "saves": 6,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8,
+          "saves": 2,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9,
+          "saves": 2,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6,
+          "saves": 3,
+          "goalsConceded": 0,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5,
+          "saves": 2,
+          "goalsConceded": 0,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2025-06-06",
+          "opponent": "Iceland",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null,
+          "saves": 0,
+          "goalsConceded": 3,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-09-08",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1,
+          "saves": 6,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.1,
+          "saves": 0,
+          "goalsConceded": 3,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-06-23",
+          "opponent": "Hungary",
+          "competition": "Euro, Group A",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.8,
+          "saves": 4,
+          "goalsConceded": 1,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2024-06-19",
+          "opponent": "Switzerland",
+          "competition": "Euro, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1,
+          "saves": 3,
+          "goalsConceded": 1,
+          "keeperSweeper": 2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 33,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 82
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, League A, Gr. 1",
+          "Euro, Group A"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Nottingham Forest",
+        "marketValueEur": 1100000,
+        "marketValueDisplay": "€1.1M",
+        "dateOfBirth": "1996-01-22",
+        "age": 30,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-craig-gordon",
+      "name": "Craig Gordon",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Goalkeeper",
+      "number": "1",
+      "likelyStarter": true,
+      "sofascoreId": 9370,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4,
+          "saves": 0,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6,
+          "saves": 1,
+          "goalsConceded": 2,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5,
+          "saves": 7,
+          "goalsConceded": 3,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2025-03-23",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 5.8,
+          "saves": 1,
+          "goalsConceded": 3,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2,
+          "saves": 1,
+          "goalsConceded": 0,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2024-11-18",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7,
+          "saves": 4,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-11-15",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6,
+          "saves": 5,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6,
+          "saves": 3,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-10-12",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9,
+          "saves": 4,
+          "goalsConceded": 2,
+          "keeperSweeper": 1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 27,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 89
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, Promotion/Relegation Play-offs",
+          "UEFA Nations League, League A, Gr. 1"
+        ],
+        "lastMatch": "2026-05-30"
+      },
+      "profile": {
+        "club": "Heart of Midlothian",
+        "marketValueEur": 27000,
+        "marketValueDisplay": "€27K",
+        "dateOfBirth": "1982-12-31",
+        "age": 43,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-liam-kelly",
+      "name": "Liam Kelly",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Goalkeeper",
+      "number": "12",
+      "likelyStarter": false,
+      "sofascoreId": 287555,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7,
+          "saves": 2,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7,
+          "saves": 1,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 11,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 29
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 2,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-05-30"
+      },
+      "profile": {
+        "club": "Rangers",
+        "marketValueEur": 865000,
+        "marketValueDisplay": "€865K",
+        "dateOfBirth": "1996-01-23",
+        "age": 30,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-aaron-hickey",
+      "name": "Aaron Hickey",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Defender",
+      "number": "2",
+      "likelyStarter": true,
+      "sofascoreId": 966869,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 72,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.7,
+        "sot90": 0.2,
+        "passes90": 36,
+        "cards90": 0,
+        "fouls90": 1.6,
+        "minutesAvg": 57
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 14,
+          "season": 14
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 14,
+          "season": 14
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 29,
+          "season": 29
+        }
+      },
+      "importMeta": {
+        "appearances": 7,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Brentford",
+        "marketValueEur": 16500000,
+        "marketValueDisplay": "€16.5M",
+        "dateOfBirth": "2002-06-10",
+        "age": 24,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-andy-robertson",
+      "name": "Andy Robertson",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Defender",
+      "number": "3",
+      "likelyStarter": true,
+      "sofascoreId": 262911,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 59,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 60,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 56,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.7
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 138,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.3
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-06-09",
+          "opponent": "Liechtenstein",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 72,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-06-06",
+          "opponent": "Iceland",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 54,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-03-23",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "L",
+          "venue": "home",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-11-18",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 76,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.07,
+        "assists90": 0.22,
+        "shots90": 0.7,
+        "sot90": 0.2,
+        "passes90": 59,
+        "cards90": 0,
+        "fouls90": 0.5,
+        "minutesAvg": 82
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 30,
+          "season": 20
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 13
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 13
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 20,
+          "season": 13
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, Promotion/Relegation Play-offs",
+          "UEFA Nations League, League A, Gr. 1"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Liverpool FC",
+        "marketValueEur": 7500000,
+        "marketValueDisplay": "€7.5M",
+        "dateOfBirth": "1994-03-11",
+        "age": 32,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-dominic-hyam",
+      "name": "Dominic Hyam",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Defender",
+      "number": "17",
+      "likelyStarter": false,
+      "sofascoreId": 802719,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 65,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 61,
+        "cards90": 0,
+        "fouls90": 1.9,
+        "minutesAvg": 48
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 3,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Wrexham",
+        "marketValueEur": 2100000,
+        "marketValueDisplay": "€2.1M",
+        "dateOfBirth": "1995-12-20",
+        "age": 30,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-grant-hanley",
+      "name": "Grant Hanley",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Defender",
+      "number": "5",
+      "likelyStarter": true,
+      "sofascoreId": 95791,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 71,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.2
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 48,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-06-06",
+          "opponent": "Iceland",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 68,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-03-23",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 81,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.7
+        },
+        {
+          "date": "2024-11-18",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 50,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-11-15",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 49,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7
+        },
+        {
+          "date": "2024-10-12",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 66,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-09-08",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 66,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 5.9
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.4,
+        "sot90": 0.1,
+        "passes90": 50,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 81
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 20,
+          "season": 27
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, Promotion/Relegation Play-offs",
+          "UEFA Nations League, League A, Gr. 1"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Hibernian",
+        "marketValueEur": 195000,
+        "marketValueDisplay": "€195K",
+        "dateOfBirth": "1991-11-20",
+        "age": 34,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-jack-hendry",
+      "name": "Jack Hendry",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Defender",
+      "number": "13",
+      "likelyStarter": true,
+      "sofascoreId": 795696,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 72,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 72,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 45,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-06-09",
+          "opponent": "Liechtenstein",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 103,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.8
+        },
+        {
+          "date": "2024-06-23",
+          "opponent": "Hungary",
+          "competition": "Euro, Group A",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 57,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-06-19",
+          "opponent": "Switzerland",
+          "competition": "Euro, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.18,
+        "shots90": 0.7,
+        "sot90": 0,
+        "passes90": 63,
+        "cards90": 0,
+        "fouls90": 0.9,
+        "minutesAvg": 85
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 17,
+          "season": 17
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 17,
+          "season": 17
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 17,
+          "season": 17
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 17,
+          "season": 17
+        }
+      },
+      "importMeta": {
+        "appearances": 6,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "Euro, Group A"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Al-Ettifaq",
+        "marketValueEur": 2400000,
+        "marketValueDisplay": "€2.4M",
+        "dateOfBirth": "1995-05-07",
+        "age": 31,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-john-souttar",
+      "name": "John Souttar",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Defender",
+      "number": "6",
+      "likelyStarter": true,
+      "sofascoreId": 287563,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 54,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 71,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 66,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 108,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.8
+        },
+        {
+          "date": "2025-06-06",
+          "opponent": "Iceland",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 73,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-03-23",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 78,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2024-11-18",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 58,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.8
+        },
+        {
+          "date": "2024-11-15",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 84,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 37,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2024-10-12",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 59,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.08,
+        "assists90": 0.08,
+        "shots90": 0.4,
+        "sot90": 0.1,
+        "passes90": 62,
+        "cards90": 0,
+        "fouls90": 0.5,
+        "minutesAvg": 77
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, Promotion/Relegation Play-offs",
+          "UEFA Nations League, League A, Gr. 1"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Rangers",
+        "marketValueEur": 2100000,
+        "marketValueDisplay": "€2.1M",
+        "dateOfBirth": "1996-09-25",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-kieran-tierney",
+      "name": "Kieran Tierney",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Defender",
+      "number": "6",
+      "likelyStarter": false,
+      "sofascoreId": 366592,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 79,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 18,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-06-06",
+          "opponent": "Iceland",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 68,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-03-23",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "L",
+          "venue": "home",
+          "minutes": 35,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "W",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3
+        },
+        {
+          "date": "2024-06-19",
+          "opponent": "Switzerland",
+          "competition": "Euro, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.23,
+        "assists90": 0,
+        "shots90": 0.7,
+        "sot90": 0.5,
+        "passes90": 63,
+        "cards90": 0,
+        "fouls90": 0.5,
+        "minutesAvg": 38
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 10
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 10,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, Promotion/Relegation Play-offs",
+          "Euro, Group A"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Celtic",
+        "marketValueEur": 7700000,
+        "marketValueDisplay": "€7.7M",
+        "dateOfBirth": "1997-06-05",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-nathan-patterson",
+      "name": "Nathan Patterson",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Defender",
+      "number": "24",
+      "likelyStarter": false,
+      "sofascoreId": 1020141,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-06-09",
+          "opponent": "Liechtenstein",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-06",
+          "opponent": "Iceland",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.5,
+        "sot90": 0,
+        "passes90": 61,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 37
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 5,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-05-30"
+      },
+      "profile": {
+        "club": "Everton U21",
+        "marketValueEur": 16300000,
+        "marketValueDisplay": "€16.3M",
+        "dateOfBirth": "2001-10-16",
+        "age": 24,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-scott-mckenna",
+      "name": "Scott McKenna",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Defender",
+      "number": "26",
+      "likelyStarter": true,
+      "sofascoreId": 358108,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 37,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 71,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 59,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 90,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-06-09",
+          "opponent": "Liechtenstein",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 93,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-06-06",
+          "opponent": "Iceland",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-11-15",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-09-08",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 89,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.1
+        },
+        {
+          "date": "2024-06-23",
+          "opponent": "Hungary",
+          "competition": "Euro, Group A",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 69,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-06-19",
+          "opponent": "Switzerland",
+          "competition": "Euro, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.1,
+        "sot90": 0,
+        "passes90": 65,
+        "cards90": 0,
+        "fouls90": 1.2,
+        "minutesAvg": 63
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 60,
+          "l10": 30,
+          "season": 29
+        }
+      },
+      "importMeta": {
+        "appearances": 14,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, League A, Gr. 1",
+          "Euro, Group A"
+        ],
+        "lastMatch": "2026-05-30"
+      },
+      "profile": {
+        "club": "GNK Dinamo Zagreb",
+        "marketValueEur": 3700000,
+        "marketValueDisplay": "€3.7M",
+        "dateOfBirth": "1996-11-12",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-tony-ralston",
+      "name": "Tony Ralston",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Defender",
+      "number": "2",
+      "likelyStarter": true,
+      "sofascoreId": 840227,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 72,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 48,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-06-09",
+          "opponent": "Liechtenstein",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 68,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-03-23",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 50,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.2
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "W",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6
+        },
+        {
+          "date": "2024-11-18",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-11-15",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 50,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "D",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-10-12",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 45,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-09-08",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 47,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.1,
+        "shots90": 0.1,
+        "sot90": 0,
+        "passes90": 43,
+        "cards90": 0,
+        "fouls90": 1.2,
+        "minutesAvg": 63
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 27
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, Promotion/Relegation Play-offs",
+          "UEFA Nations League, League A, Gr. 1"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Celtic",
+        "marketValueEur": 1500000,
+        "marketValueDisplay": "€1.5M",
+        "dateOfBirth": "1998-11-16",
+        "age": 27,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-ben-gannon-doak",
+      "name": "Ben Gannon-Doak",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "17",
+      "likelyStarter": true,
+      "sofascoreId": 1154861,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 21,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 88,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.7
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-18",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.7
+        },
+        {
+          "date": "2024-11-15",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "D",
+          "venue": "home",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-10-12",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-09-08",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.12,
+        "assists90": 0.35,
+        "shots90": 1.3,
+        "sot90": 0.7,
+        "passes90": 26,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 55
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 40,
+          "l10": 30,
+          "season": 21
+        },
+        "shots15": {
+          "l5": 60,
+          "l10": 30,
+          "season": 21
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 40,
+          "season": 29
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 14
+        }
+      },
+      "importMeta": {
+        "appearances": 14,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, League A, Gr. 1"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Bournemouth",
+        "marketValueEur": 15500000,
+        "marketValueDisplay": "€15.5M",
+        "dateOfBirth": "2005-11-11",
+        "age": 20,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-findlay-curtis",
+      "name": "Findlay Curtis",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "25",
+      "likelyStarter": false,
+      "sofascoreId": 1489210,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 48,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 8.5
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        }
+      ],
+      "seasonRates": {
+        "goals90": 1.06,
+        "assists90": 0,
+        "shots90": 1.1,
+        "sot90": 1.1,
+        "passes90": 50,
+        "cards90": 0,
+        "fouls90": 2.1,
+        "minutesAvg": 28
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 3,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Rangers",
+        "marketValueEur": 930000,
+        "marketValueDisplay": "€930K",
+        "dateOfBirth": "2006-10-01",
+        "age": 19,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-john-mcginn",
+      "name": "John McGinn",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "7",
+      "likelyStarter": true,
+      "sofascoreId": 250223,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 63,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 47,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-06-09",
+          "opponent": "Liechtenstein",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.8
+        },
+        {
+          "date": "2025-06-06",
+          "opponent": "Iceland",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-03-23",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 51,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.7
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-11-18",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-11-15",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "home",
+          "minutes": 23,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.16,
+        "assists90": 0.08,
+        "shots90": 1.3,
+        "sot90": 0.7,
+        "passes90": 31,
+        "cards90": 0,
+        "fouls90": 1.3,
+        "minutesAvg": 74
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 13
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 40,
+          "season": 27
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 40,
+          "season": 53
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, Promotion/Relegation Play-offs",
+          "UEFA Nations League, League A, Gr. 1"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Aston Villa",
+        "marketValueEur": 14500000,
+        "marketValueDisplay": "€14.5M",
+        "dateOfBirth": "1994-10-18",
+        "age": 31,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-kenny-mclean",
+      "name": "Kenny McLean",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "23",
+      "likelyStarter": true,
+      "sofascoreId": 75756,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 69,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.9
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 58,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 69,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.8
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 47,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-03-23",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "L",
+          "venue": "home",
+          "minutes": 55,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "W",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-18",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 83,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-11-15",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "home",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-10-12",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 68,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-09-08",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.1,
+        "assists90": 0.19,
+        "shots90": 0.6,
+        "sot90": 0.2,
+        "passes90": 55,
+        "cards90": 0,
+        "fouls90": 0.9,
+        "minutesAvg": 63
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 13
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 20,
+          "season": 13
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, Promotion/Relegation Play-offs",
+          "UEFA Nations League, League A, Gr. 1"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Norwich City",
+        "marketValueEur": 380000,
+        "marketValueDisplay": "€380K",
+        "dateOfBirth": "1992-01-08",
+        "age": 34,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-lewis-ferguson",
+      "name": "Lewis Ferguson",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "19",
+      "likelyStarter": true,
+      "sofascoreId": 907152,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.1
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 37,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.8
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 54,
+          "cards": 0,
+          "fouls": 4,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 5,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 103,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-06-09",
+          "opponent": "Liechtenstein",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 47,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7
+        },
+        {
+          "date": "2025-06-06",
+          "opponent": "Iceland",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 48,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-03-23",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "L",
+          "venue": "home",
+          "minutes": 35,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.09,
+        "assists90": 0.09,
+        "shots90": 1,
+        "sot90": 0.1,
+        "passes90": 48,
+        "cards90": 0,
+        "fouls90": 3,
+        "minutesAvg": 80
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 8
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 8
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 40,
+          "season": 33
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 8
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 100,
+          "l10": 90,
+          "season": 92
+        }
+      },
+      "importMeta": {
+        "appearances": 12,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, Promotion/Relegation Play-offs"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Bologna",
+        "marketValueEur": 13000000,
+        "marketValueDisplay": "€13M",
+        "dateOfBirth": "1999-08-24",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-ryan-christie",
+      "name": "Ryan Christie",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "11",
+      "likelyStarter": true,
+      "sofascoreId": 322391,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 54,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 8
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.2
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 27,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 64,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 82,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-03-23",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "L",
+          "venue": "home",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 5.4
+        },
+        {
+          "date": "2024-11-18",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-11-15",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "home",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "D",
+          "venue": "home",
+          "minutes": 68,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-10-12",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-09-08",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 87,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.37,
+        "assists90": 0.09,
+        "shots90": 1.7,
+        "sot90": 0.9,
+        "passes90": 33,
+        "cards90": 0,
+        "fouls90": 1.6,
+        "minutesAvg": 65
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 30,
+          "season": 27
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 60,
+          "l10": 40,
+          "season": 33
+        },
+        "shots25": {
+          "l5": 40,
+          "l10": 20,
+          "season": 20
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 50,
+          "season": 53
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 20,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, Promotion/Relegation Play-offs",
+          "UEFA Nations League, League A, Gr. 1"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Bournemouth",
+        "marketValueEur": 9700000,
+        "marketValueDisplay": "€9.7M",
+        "dateOfBirth": "1995-02-22",
+        "age": 31,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-scott-mctominay",
+      "name": "Scott McTominay",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "4",
+      "likelyStarter": true,
+      "sofascoreId": 879346,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 70,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.4
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 2,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-06-06",
+          "opponent": "Iceland",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-03-23",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 3,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.2
+        },
+        {
+          "date": "2024-11-18",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-15",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.29,
+        "assists90": 0.07,
+        "shots90": 2.6,
+        "sot90": 1.3,
+        "passes90": 29,
+        "cards90": 0,
+        "fouls90": 0.7,
+        "minutesAvg": 83
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 40,
+          "l10": 30,
+          "season": 27
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 80,
+          "l10": 80,
+          "season": 80
+        },
+        "shots25": {
+          "l5": 40,
+          "l10": 30,
+          "season": 40
+        },
+        "sot05": {
+          "l5": 100,
+          "l10": 80,
+          "season": 87
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 20,
+          "season": 13
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, Promotion/Relegation Play-offs",
+          "UEFA Nations League, League A, Gr. 1"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "SSC Napoli",
+        "marketValueEur": 38000000,
+        "marketValueDisplay": "€38M",
+        "dateOfBirth": "1996-12-08",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-tyler-fletcher",
+      "name": "Tyler Fletcher",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "4",
+      "likelyStarter": false,
+      "sofascoreId": 1402850,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 74,
+        "cards90": 0,
+        "fouls90": 6.6,
+        "minutesAvg": 28
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 100,
+          "l10": 100,
+          "season": 100
+        }
+      },
+      "importMeta": {
+        "appearances": 2,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Manchester United U21",
+        "marketValueEur": null,
+        "marketValueDisplay": null,
+        "dateOfBirth": "2007-03-19",
+        "age": 19,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-che-adams",
+      "name": "Che Adams",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Forward",
+      "number": "10",
+      "likelyStarter": true,
+      "sofascoreId": 773409,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 2,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 3,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 9.1
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 5.9
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 26,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 88,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 1,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 4,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.8
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-06-09",
+          "opponent": "Liechtenstein",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 3,
+          "assists": 1,
+          "shots": 4,
+          "shotsOnTarget": 3,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 10
+        },
+        {
+          "date": "2025-06-06",
+          "opponent": "Iceland",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-03-23",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "L",
+          "venue": "home",
+          "minutes": 55,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.2
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "W",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "D",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-10-12",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-06-23",
+          "opponent": "Hungary",
+          "competition": "Euro, Group A",
+          "result": "L",
+          "venue": "home",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.4
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.63,
+        "assists90": 0.09,
+        "shots90": 3,
+        "sot90": 1.2,
+        "passes90": 16,
+        "cards90": 0,
+        "fouls90": 1.6,
+        "minutesAvg": 67
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 40,
+          "l10": 40,
+          "season": 27
+        },
+        "goals15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 13
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 60,
+          "l10": 70,
+          "season": 60
+        },
+        "shots25": {
+          "l5": 60,
+          "l10": 50,
+          "season": 33
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 50,
+          "season": 40
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 40,
+          "season": 40
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, Promotion/Relegation Play-offs",
+          "UEFA Nations League, League A, Gr. 1",
+          "Euro, Group A"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Torino",
+        "marketValueEur": 4800000,
+        "marketValueDisplay": "€4.8M",
+        "dateOfBirth": "1996-07-13",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-george-hirst",
+      "name": "George Hirst",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Forward",
+      "number": "18",
+      "likelyStarter": false,
+      "sofascoreId": 839712,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 27,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 2,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1,
+          "rating": null
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-06-09",
+          "opponent": "Liechtenstein",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 68,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-06-06",
+          "opponent": "Iceland",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 68,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-03-23",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "L",
+          "venue": "home",
+          "minutes": 35,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Greece",
+          "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
+          "result": "W",
+          "venue": "away",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.24,
+        "assists90": 0,
+        "shots90": 3.8,
+        "sot90": 1.2,
+        "passes90": 15,
+        "cards90": 0,
+        "fouls90": 2.1,
+        "minutesAvg": 38
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 10
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 50,
+          "season": 50
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 40,
+          "season": 40
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        }
+      },
+      "importMeta": {
+        "appearances": 10,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, Promotion/Relegation Play-offs"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Ipswich Town",
+        "marketValueEur": 10900000,
+        "marketValueDisplay": "€10.9M",
+        "dateOfBirth": "1999-02-15",
+        "age": 27,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-lawrence-shankland",
+      "name": "Lawrence Shankland",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Forward",
+      "number": "9",
+      "likelyStarter": false,
+      "sofascoreId": 237098,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 1,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.9
+        },
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 77,
+          "goals": 2,
+          "assists": 0,
+          "shots": 6,
+          "shotsOnTarget": 4,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.7
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 26,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-11-18",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-06-23",
+          "opponent": "Hungary",
+          "competition": "Euro, Group A",
+          "result": "L",
+          "venue": "home",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-06-19",
+          "opponent": "Switzerland",
+          "competition": "Euro, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 1.56,
+        "assists90": 0.39,
+        "shots90": 4.3,
+        "sot90": 2.7,
+        "passes90": 27,
+        "cards90": 0,
+        "fouls90": 0.8,
+        "minutesAvg": 29
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 60,
+          "l10": 38,
+          "season": 38
+        },
+        "goals15": {
+          "l5": 20,
+          "l10": 13,
+          "season": 13
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 13,
+          "season": 13
+        },
+        "shots15": {
+          "l5": 60,
+          "l10": 38,
+          "season": 38
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 13,
+          "season": 13
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 38,
+          "season": 38
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 8,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, League A, Gr. 1",
+          "Euro, Group A"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Heart of Midlothian",
+        "marketValueEur": 3200000,
+        "marketValueDisplay": "€3.2M",
+        "dateOfBirth": "1995-08-10",
+        "age": 30,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-lyndon-dykes",
+      "name": "Lyndon Dykes",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Forward",
+      "number": "9",
+      "likelyStarter": true,
+      "sofascoreId": 846204,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-05-30",
+          "opponent": "Curaçao",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Côte d'Ivoire",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3
+        },
+        {
+          "date": "2026-03-28",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 63,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 64,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Greece",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 14,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Belarus",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Denmark",
+          "competition": "World Cup Qual. UEFA C",
+          "result": "D",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7
+        },
+        {
+          "date": "2024-11-18",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-11-15",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "W",
+          "venue": "home",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "D",
+          "venue": "home",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-10-12",
+          "opponent": "Croatia",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-09-08",
+          "opponent": "Portugal",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Poland",
+          "competition": "UEFA Nations League, League A, Gr. 1",
+          "result": "L",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.3
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.14,
+        "assists90": 0.14,
+        "shots90": 1.1,
+        "sot90": 0.6,
+        "passes90": 16,
+        "cards90": 0,
+        "fouls90": 1.7,
+        "minutesAvg": 42
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 30,
+          "season": 20
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 30,
+          "season": 20
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 27
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA C",
+          "UEFA Nations League, League A, Gr. 1"
+        ],
+        "lastMatch": "2026-05-30"
+      },
+      "profile": {
+        "club": "Charlton Athletic",
+        "marketValueEur": 1100000,
+        "marketValueDisplay": "€1.1M",
+        "dateOfBirth": "1995-10-07",
+        "age": 30,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "scotland-ross-stewart",
+      "name": "Ross Stewart",
+      "team": "Scotland",
+      "group": "C",
+      "position": "Forward",
+      "number": "14",
+      "likelyStarter": false,
+      "sofascoreId": 886117,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Bolivia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 3.2,
+        "sot90": 0,
+        "passes90": 19,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 28
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 1,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Southampton",
+        "marketValueEur": 4099999,
+        "marketValueDisplay": "€4.1M",
+        "dateOfBirth": "1996-08-31",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    }
+  ],
+  "fringeCallups": [
+    {
+      "name": "Cieran Slicker",
+      "appearances": 1
+    },
+    {
+      "name": "Ross Doohan",
+      "appearances": 1
+    },
+    {
+      "name": "Scott Bain",
+      "appearances": 1
+    },
+    {
+      "name": "Josh Doig",
+      "appearances": 1
+    },
+    {
+      "name": "Max Johnston",
+      "appearances": 4
+    },
+    {
+      "name": "Nicky Devlin",
+      "appearances": 2
+    },
+    {
+      "name": "Ryan Porteous",
+      "appearances": 1
+    },
+    {
+      "name": "Andy Irving",
+      "appearances": 1
+    },
+    {
+      "name": "Billy Gilmour",
+      "appearances": 15
+    },
+    {
+      "name": "Callum McGregor",
+      "appearances": 2
+    },
+    {
+      "name": "Connor Barron",
+      "appearances": 1
+    },
+    {
+      "name": "Lennon Miller",
+      "appearances": 4
+    },
+    {
+      "name": "Ross McCrorie",
+      "appearances": 1
+    },
+    {
+      "name": "Stuart Armstrong",
+      "appearances": 3
+    },
+    {
+      "name": "James Wilson",
+      "appearances": 2
+    },
+    {
+      "name": "Kieron Bowie",
+      "appearances": 2
+    },
+    {
+      "name": "Lewis Morgan",
+      "appearances": 4
+    },
+    {
+      "name": "Ryan Gauld",
+      "appearances": 6
+    },
+    {
+      "name": "Tommy Conway",
+      "appearances": 7
+    }
+  ]
+}

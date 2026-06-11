@@ -84,6 +84,23 @@ export function estimateXgShare(position, goals90, starter) {
   return round((base + boost) * scale, 2);
 }
 
+/** Per-90 prop weights from international match logs (normalized downstream). */
+export function propProfileFromSeasonRates(seasonRates) {
+  if (!seasonRates) return null;
+  const shots90 = Number(seasonRates.shots90) || 0;
+  const sot90 = Number(seasonRates.sot90) || 0;
+  const cards90 = Number(seasonRates.cards90) || 0;
+  const fouls90 = Number(seasonRates.fouls90) || 0;
+  const minsAvg = Number(seasonRates.minutesAvg) || 0;
+  if (minsAvg < 15 || shots90 + sot90 + cards90 + fouls90 === 0) return null;
+  return {
+    shotsShare: round(Math.max(shots90, 0.05), 3),
+    sotShare: round(Math.max(sot90, 0.03), 3),
+    cardWeight: round(Math.max(cards90, 0.02), 3),
+    foulWeight: round(Math.max(fouls90, 0.03), 3)
+  };
+}
+
 function isGoalkeeper(position) {
   return String(position ?? '').toLowerCase().includes('goal');
 }
@@ -152,6 +169,7 @@ export function enrichManualPlayer(p, teamFile) {
   const xgShare = p.xgShare ?? estimateXgShare(p.position, goals90, likelyStarter);
   const minutesFactor = p.minutesFactor ?? round(Math.min(1, avgMinutes / 90 || 0.35), 2);
   const benchImpact = p.benchImpact ?? (!likelyStarter && avgMinutes >= 20);
+  const propProfile = p.propProfile ?? propProfileFromSeasonRates(seasonRates);
 
   return {
     id: p.id,
@@ -164,6 +182,7 @@ export function enrichManualPlayer(p, teamFile) {
     benchImpact,
     minutesFactor,
     xgShare,
+    ...(propProfile ? { propProfile } : {}),
     seasonRates,
     hitRates,
     gameLog,

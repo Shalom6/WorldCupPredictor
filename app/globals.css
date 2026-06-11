@@ -1,19 +1,19 @@
 :root {
-  --ucl-black: #000000;
-  --ucl-charcoal: #0a0a0a;
-  --ucl-surface: #111111;
-  --ucl-surface-2: #1a1a1a;
+  --ucl-black: #02040a;
+  --ucl-charcoal: #0a0e18;
+  --ucl-surface: #0e1220;
+  --ucl-surface-2: #161c2c;
   --ucl-white: #ffffff;
   --ucl-silver: #d4d4d4;
   --ucl-grey: #888888;
   --ucl-grey-dim: #555555;
-  --bg: #000000;
+  --bg: #030610;
   --text: #ffffff;
   --muted: rgba(255, 255, 255, 0.52);
   --hair: rgba(255, 255, 255, 0.12);
   --hair-strong: rgba(255, 255, 255, 0.28);
-  --glass: rgba(12, 12, 12, 0.92);
-  --glass2: rgba(6, 6, 6, 0.88);
+  --glass: rgba(10, 14, 28, 0.92);
+  --glass2: rgba(6, 10, 22, 0.88);
   --shadow: rgba(0, 0, 0, 0.8);
   --r: 4px;
   --r-lg: 8px;
@@ -49,7 +49,11 @@ body {
 .bgBlack {
   position: fixed;
   inset: 0;
-  background: linear-gradient(180deg, #000000 0%, #050505 45%, #000000 100%);
+  background:
+    radial-gradient(ellipse 120% 70% at 50% -10%, rgba(36, 64, 120, 0.24) 0%, transparent 55%),
+    radial-gradient(ellipse 90% 60% at 15% 100%, rgba(24, 48, 96, 0.14) 0%, transparent 50%),
+    radial-gradient(ellipse 70% 50% at 85% 100%, rgba(20, 40, 88, 0.12) 0%, transparent 48%),
+    linear-gradient(180deg, #030610 0%, #101828 46%, #060c18 100%);
   pointer-events: none;
 }
 
@@ -69,7 +73,7 @@ body {
 .bgVignette {
   position: fixed;
   inset: 0;
-  background: radial-gradient(ellipse 80% 70% at 50% 40%, transparent 30%, rgba(0, 0, 0, 0.65) 100%);
+  background: radial-gradient(ellipse 80% 70% at 50% 40%, transparent 28%, rgba(4, 8, 20, 0.72) 100%);
   pointer-events: none;
 }
 
@@ -1304,8 +1308,8 @@ body {
 :root {
   --lm-blue: #4da3ff;
   --lm-blue-dim: rgba(77, 163, 255, 0.35);
-  --lm-panel: #0d0d0d;
-  --lm-panel-2: #141414;
+  --lm-panel: #0c101c;
+  --lm-panel-2: #121828;
   --lm-border: rgba(255, 255, 255, 0.1);
 }
 
@@ -1333,7 +1337,7 @@ body {
 }
 
 .lmColLeft {
-  background: #080808;
+  background: #0a0e18;
   border-right: 1px solid var(--lm-border);
   padding: 20px 16px;
   display: flex;

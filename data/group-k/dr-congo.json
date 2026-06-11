@@ -1,0 +1,5178 @@
+{
+  "_note": "International match logs imported from Sofascore. Club friendlies excluded. Last 22 national-team matches as of import date.",
+  "team": "DR Congo",
+  "group": "K",
+  "dataSource": "sofascore",
+  "importedAt": "2026-06-11T08:51:33.175Z",
+  "eventsProcessed": 22,
+  "teamMatchResults": [
+    {
+      "date": "2026-06-09",
+      "opponent": "Chile",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "venue": "home"
+    },
+    {
+      "date": "2026-06-03",
+      "opponent": "Denmark",
+      "competition": "Int. Friendly Games",
+      "result": "D",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2026-03-25",
+      "opponent": "Bermuda",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-12-30",
+      "opponent": "Botswana",
+      "competition": "Africa Cup of Nations, Group D",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-12-27",
+      "opponent": "Senegal",
+      "competition": "Africa Cup of Nations, Group D",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2025-12-23",
+      "opponent": "Benin",
+      "competition": "Africa Cup of Nations, Group D",
+      "result": "W",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-12-16",
+      "opponent": "Zambia",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-11-13",
+      "opponent": "Cameroon",
+      "competition": "World Cup Qual. CAF",
+      "result": "W",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-10-14",
+      "opponent": "Sudan",
+      "competition": "FIFA World Cup, Qualification CAF, Group B",
+      "result": "W",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-10-10",
+      "opponent": "Togo",
+      "competition": "FIFA World Cup, Qualification CAF, Group B",
+      "result": "W",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-09-09",
+      "opponent": "Senegal",
+      "competition": "FIFA World Cup, Qualification CAF, Group B",
+      "result": "L",
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "venue": "home"
+    },
+    {
+      "date": "2025-09-05",
+      "opponent": "South Sudan",
+      "competition": "FIFA World Cup, Qualification CAF, Group B",
+      "result": "W",
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2025-08-17",
+      "opponent": "Morocco",
+      "competition": "African Nations Championship, Group A",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "venue": "home"
+    },
+    {
+      "date": "2025-08-14",
+      "opponent": "Angola",
+      "competition": "African Nations Championship, Group A",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-08-07",
+      "opponent": "Zambia",
+      "competition": "African Nations Championship, Group A",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "venue": "home"
+    }
+  ],
+  "players": [
+    {
+      "id": "dr-congo-lionel-mpasi-nzau",
+      "name": "Lionel Mpasi Nzau",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Goalkeeper",
+      "number": "1",
+      "likelyStarter": true,
+      "sofascoreId": 599192,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 5.6,
+          "saves": 1,
+          "goalsConceded": 2,
+          "keeperSweeper": 2
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8,
+          "saves": 3,
+          "goalsConceded": 0,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2025-12-30",
+          "opponent": "Botswana",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1,
+          "saves": 1,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1,
+          "saves": 2,
+          "goalsConceded": 1,
+          "keeperSweeper": 2
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7,
+          "saves": 2,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null,
+          "saves": 0,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null,
+          "saves": 0,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null,
+          "saves": 0,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 17,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 90
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 8,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Le Havre",
+        "marketValueEur": 370000,
+        "marketValueDisplay": "€370K",
+        "dateOfBirth": "1994-08-01",
+        "age": 31,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-matthieu-epolo",
+      "name": "Matthieu Epolo",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Goalkeeper",
+      "number": null,
+      "likelyStarter": false,
+      "sofascoreId": 1121943,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [],
+      "seasonRates": null,
+      "hitRates": null,
+      "importMeta": {
+        "appearances": 0,
+        "competitions": [],
+        "lastMatch": null
+      },
+      "profile": {
+        "club": "Standard Liège",
+        "marketValueEur": 4500000,
+        "marketValueDisplay": "€4.5M",
+        "dateOfBirth": "2005-01-15",
+        "age": 21,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-timothy-fayulu",
+      "name": "Timothy Fayulu",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Goalkeeper",
+      "number": null,
+      "likelyStarter": false,
+      "sofascoreId": 927616,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [],
+      "seasonRates": null,
+      "hitRates": null,
+      "importMeta": {
+        "appearances": 0,
+        "competitions": [],
+        "lastMatch": null
+      },
+      "profile": {
+        "club": "FC Noah",
+        "marketValueEur": 750000,
+        "marketValueDisplay": "€750K",
+        "dateOfBirth": "1999-07-24",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-aaron-wan-bissaka",
+      "name": "Aaron Wan-Bissaka",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Defender",
+      "number": "2",
+      "likelyStarter": true,
+      "sofascoreId": 863653,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.2
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 3,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 13,
+        "cards90": 0,
+        "fouls90": 0.1,
+        "minutesAvg": 78
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "West Ham United",
+        "marketValueEur": 21000000,
+        "marketValueDisplay": "€21M",
+        "dateOfBirth": "1997-11-26",
+        "age": 28,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-arthur-masuaku",
+      "name": "Arthur Masuaku",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Defender",
+      "number": "14",
+      "likelyStarter": true,
+      "sofascoreId": 174975,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 55,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 68,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Mauritania",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.14,
+        "shots90": 0.1,
+        "sot90": 0,
+        "passes90": 18,
+        "cards90": 0,
+        "fouls90": 0.7,
+        "minutesAvg": 80
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 13,
+          "season": 13
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 13,
+          "season": 13
+        }
+      },
+      "importMeta": {
+        "appearances": 8,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "RC Lens",
+        "marketValueEur": 2400000,
+        "marketValueDisplay": "€2.4M",
+        "dateOfBirth": "1993-11-07",
+        "age": 32,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-axel-tuanzebe",
+      "name": "Axel Tuanzebe",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Defender",
+      "number": "4",
+      "likelyStarter": true,
+      "sofascoreId": 817979,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 58,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.4,
+        "sot90": 0,
+        "passes90": 22,
+        "cards90": 0,
+        "fouls90": 0.3,
+        "minutesAvg": 90
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 14,
+          "season": 14
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 7,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Burnley",
+        "marketValueEur": 4600000,
+        "marketValueDisplay": "€4.6M",
+        "dateOfBirth": "1997-11-14",
+        "age": 28,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-chancel-mbemba",
+      "name": "Chancel Mbemba",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Defender",
+      "number": "22",
+      "likelyStarter": true,
+      "sofascoreId": 238612,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 55,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 47,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-12-30",
+          "opponent": "Botswana",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Mauritania",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.08,
+        "assists90": 0,
+        "shots90": 0.1,
+        "sot90": 0,
+        "passes90": 18,
+        "cards90": 0,
+        "fouls90": 0.3,
+        "minutesAvg": 90
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 8
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 8
+        }
+      },
+      "importMeta": {
+        "appearances": 12,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Lille",
+        "marketValueEur": 2300000,
+        "marketValueDisplay": "€2.3M",
+        "dateOfBirth": "1994-08-08",
+        "age": 31,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-dylan-batubinsika",
+      "name": "Dylan Batubinsika",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Defender",
+      "number": "5",
+      "likelyStarter": true,
+      "sofascoreId": 352912,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.1
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Mauritania",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.3,
+        "sot90": 0,
+        "passes90": 5,
+        "cards90": 0,
+        "fouls90": 0.5,
+        "minutesAvg": 90
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 25,
+          "l10": 25,
+          "season": 25
+        }
+      },
+      "importMeta": {
+        "appearances": 4,
+        "competitions": [
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2025-09-09"
+      },
+      "profile": {
+        "club": "AEL Novibet",
+        "marketValueEur": 720000,
+        "marketValueDisplay": "€720K",
+        "dateOfBirth": "1996-02-15",
+        "age": 30,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-gedeon-kalulu",
+      "name": "Gedeon Kalulu",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Defender",
+      "number": "14",
+      "likelyStarter": true,
+      "sofascoreId": 991200,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 87,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-12-30",
+          "opponent": "Botswana",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 65,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.4,
+        "sot90": 0,
+        "passes90": 39,
+        "cards90": 0,
+        "fouls90": 1.8,
+        "minutesAvg": 62
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        }
+      },
+      "importMeta": {
+        "appearances": 4,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Aris Limassol",
+        "marketValueEur": 1400000,
+        "marketValueDisplay": "€1.4M",
+        "dateOfBirth": "1997-08-29",
+        "age": 28,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-joris-kayembe",
+      "name": "Joris Kayembe",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Defender",
+      "number": "12",
+      "likelyStarter": true,
+      "sofascoreId": 354046,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 51,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 8.1
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 35,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-12-30",
+          "opponent": "Botswana",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 70,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.8
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 6,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Mauritania",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.16,
+        "assists90": 0.16,
+        "shots90": 0.3,
+        "sot90": 0.3,
+        "passes90": 28,
+        "cards90": 0,
+        "fouls90": 0.8,
+        "minutesAvg": 55
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 10
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 10
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 20,
+          "season": 20
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 10
+        }
+      },
+      "importMeta": {
+        "appearances": 10,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "KRC Genk",
+        "marketValueEur": 2400000,
+        "marketValueDisplay": "€2.4M",
+        "dateOfBirth": "1994-08-08",
+        "age": 31,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-steve-kapuadi",
+      "name": "Steve Kapuadi",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Defender",
+      "number": "3",
+      "likelyStarter": false,
+      "sofascoreId": 1019957,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 51,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 51,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 90
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 1,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Widzew Łódź",
+        "marketValueEur": 2600000,
+        "marketValueDisplay": "€2.6M",
+        "dateOfBirth": "1998-04-30",
+        "age": 28,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-aaron-tshibola",
+      "name": "Aaron Tshibola",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Midfielder",
+      "number": "15",
+      "likelyStarter": false,
+      "sofascoreId": 353602,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 110,
+        "cards90": 0,
+        "fouls90": 10,
+        "minutesAvg": 18
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 100,
+          "l10": 100,
+          "season": 100
+        }
+      },
+      "importMeta": {
+        "appearances": 1,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Kilmarnock",
+        "marketValueEur": 145000,
+        "marketValueDisplay": "€145K",
+        "dateOfBirth": "1994-12-31",
+        "age": 31,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-brian-cipenga",
+      "name": "Brian Cipenga",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Midfielder",
+      "number": "16",
+      "likelyStarter": false,
+      "sofascoreId": 1160969,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-12-30",
+          "opponent": "Botswana",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 26,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 1.86,
+        "shots90": 1.9,
+        "sot90": 0.9,
+        "passes90": 21,
+        "cards90": 0,
+        "fouls90": 1.9,
+        "minutesAvg": 19
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 40,
+          "l10": 40,
+          "season": 40
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 5,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "CD Castellón",
+        "marketValueEur": 2100000,
+        "marketValueDisplay": "€2.1M",
+        "dateOfBirth": "1998-03-11",
+        "age": 28,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-charles-pickel",
+      "name": "Charles Pickel",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Midfielder",
+      "number": "18",
+      "likelyStarter": false,
+      "sofascoreId": 758664,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-12-30",
+          "opponent": "Botswana",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 0,
+          "passes": 48,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 33,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 4,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Mauritania",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.24,
+        "assists90": 0,
+        "shots90": 1.2,
+        "sot90": 0,
+        "passes90": 15,
+        "cards90": 0,
+        "fouls90": 0.2,
+        "minutesAvg": 41
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Espanyol",
+        "marketValueEur": 2700000,
+        "marketValueDisplay": "€2.7M",
+        "dateOfBirth": "1997-05-15",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-edo-kayembe",
+      "name": "Edo Kayembe",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Midfielder",
+      "number": "4",
+      "likelyStarter": false,
+      "sofascoreId": 917305,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 55,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 55,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 6,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 86,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Mauritania",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.3,
+        "shots90": 0.3,
+        "sot90": 0,
+        "passes90": 14,
+        "cards90": 0,
+        "fouls90": 0.9,
+        "minutesAvg": 54
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 20,
+          "season": 18
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 9
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 18
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Watford",
+        "marketValueEur": 4200000,
+        "marketValueDisplay": "€4.2M",
+        "dateOfBirth": "1998-06-03",
+        "age": 28,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-gael-kakuta",
+      "name": "Gaël Kakuta",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Midfielder",
+      "number": "11",
+      "likelyStarter": false,
+      "sofascoreId": 46387,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-12-30",
+          "opponent": "Botswana",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 2,
+          "assists": 1,
+          "shots": 5,
+          "shotsOnTarget": 2,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 1.7,
+        "assists90": 0.85,
+        "shots90": 4.3,
+        "sot90": 1.7,
+        "passes90": 42,
+        "cards90": 0,
+        "fouls90": 1.7,
+        "minutesAvg": 53
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "goals15": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "assists05": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "shots15": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "shots25": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "sot05": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 2,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "AEL Novibet",
+        "marketValueEur": 325000,
+        "marketValueDisplay": "€325K",
+        "dateOfBirth": "1991-06-21",
+        "age": 34,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-nathanael-mbuku",
+      "name": "Nathanaël Mbuku",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Midfielder",
+      "number": "7",
+      "likelyStarter": true,
+      "sofascoreId": 963399,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.3
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 3,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-12-30",
+          "opponent": "Botswana",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 57,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.4
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 85,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 6,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 64,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 85,
+          "goals": 1,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.38,
+        "assists90": 0,
+        "shots90": 1.1,
+        "sot90": 0.2,
+        "passes90": 14,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 48
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 10
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 10
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 20,
+          "season": 20
+        }
+      },
+      "importMeta": {
+        "appearances": 10,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Montpellier",
+        "marketValueEur": 1800000,
+        "marketValueDisplay": "€1.8M",
+        "dateOfBirth": "2002-03-16",
+        "age": 24,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-ngal-ayel-mukau",
+      "name": "Ngal'ayel Mukau",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Midfielder",
+      "number": "6",
+      "likelyStarter": true,
+      "sofascoreId": 1391541,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-12-30",
+          "opponent": "Botswana",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 73,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 35,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 26,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.22,
+        "shots90": 0.4,
+        "sot90": 0,
+        "passes90": 36,
+        "cards90": 0,
+        "fouls90": 0.9,
+        "minutesAvg": 52
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 13,
+          "season": 13
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 13,
+          "season": 13
+        }
+      },
+      "importMeta": {
+        "appearances": 8,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Lille",
+        "marketValueEur": 11400000,
+        "marketValueDisplay": "€11.4M",
+        "dateOfBirth": "2004-11-03",
+        "age": 21,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-noah-sadiki",
+      "name": "Noah Sadiki",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Midfielder",
+      "number": "3",
+      "likelyStarter": true,
+      "sofascoreId": 1171539,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 35,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-12-30",
+          "opponent": "Botswana",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.2
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Mauritania",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.17,
+        "shots90": 1,
+        "sot90": 0.5,
+        "passes90": 18,
+        "cards90": 0,
+        "fouls90": 1.2,
+        "minutesAvg": 60
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 33,
+          "season": 33
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 22,
+          "season": 22
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Sunderland",
+        "marketValueEur": 32000000,
+        "marketValueDisplay": "€32M",
+        "dateOfBirth": "2004-12-17",
+        "age": 21,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-samuel-moutoussamy",
+      "name": "Samuel Moutoussamy",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Midfielder",
+      "number": "8",
+      "likelyStarter": true,
+      "sofascoreId": 892624,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 72,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 57,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Mauritania",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.2,
+        "sot90": 0,
+        "passes90": 18,
+        "cards90": 0,
+        "fouls90": 0.7,
+        "minutesAvg": 88
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 18
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "APS Atromitos Athinon",
+        "marketValueEur": 1600000,
+        "marketValueDisplay": "€1.6M",
+        "dateOfBirth": "1996-08-12",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-theo-bongonda",
+      "name": "Théo Bongonda",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Midfielder",
+      "number": "10",
+      "likelyStarter": true,
+      "sofascoreId": 344953,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-12-30",
+          "opponent": "Botswana",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 33,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 68,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 84,
+          "goals": 1,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 5,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 1,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.6,
+        "assists90": 0,
+        "shots90": 2.2,
+        "sot90": 0.6,
+        "passes90": 10,
+        "cards90": 0,
+        "fouls90": 0.4,
+        "minutesAvg": 57
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 38,
+          "season": 38
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 60,
+          "l10": 38,
+          "season": 38
+        },
+        "shots25": {
+          "l5": 40,
+          "l10": 25,
+          "season": 25
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 38,
+          "season": 38
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 8,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "FC Spartak Moscow",
+        "marketValueEur": 3100000,
+        "marketValueDisplay": "€3.1M",
+        "dateOfBirth": "1995-11-20",
+        "age": 30,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-cedric-bakambu",
+      "name": "Cédric Bakambu",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Forward",
+      "number": "17",
+      "likelyStarter": true,
+      "sofascoreId": 115665,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 85,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 64,
+          "goals": 1,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 80,
+          "goals": 1,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 77,
+          "goals": 2,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Mauritania",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.7,
+        "assists90": 0.28,
+        "shots90": 1.1,
+        "sot90": 0.8,
+        "passes90": 6,
+        "cards90": 0,
+        "fouls90": 1,
+        "minutesAvg": 64
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 40,
+          "season": 40
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 10
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 20,
+          "season": 20
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 10,
+          "season": 10
+        },
+        "sot05": {
+          "l5": 80,
+          "l10": 50,
+          "season": 50
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 20,
+          "season": 20
+        }
+      },
+      "importMeta": {
+        "appearances": 10,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Real Betis",
+        "marketValueEur": 1400000,
+        "marketValueDisplay": "€1.4M",
+        "dateOfBirth": "1991-04-11",
+        "age": 35,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-fiston-mayele",
+      "name": "Fiston Mayele",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Forward",
+      "number": "19",
+      "likelyStarter": false,
+      "sofascoreId": 1007556,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-12-30",
+          "opponent": "Botswana",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 5.1
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-11-13",
+          "opponent": "Cameroon",
+          "competition": "World Cup Qual. CAF",
+          "result": "W",
+          "venue": "away",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 46,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Mauritania",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 1,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.36,
+        "assists90": 0.36,
+        "shots90": 1.8,
+        "sot90": 0,
+        "passes90": 11,
+        "cards90": 0,
+        "fouls90": 0.7,
+        "minutesAvg": 28
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "Africa Cup of Nations, Group D",
+          "World Cup Qual. CAF",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2025-12-30"
+      },
+      "profile": {
+        "club": "Pyramids FC",
+        "marketValueEur": 1700000,
+        "marketValueDisplay": "€1.7M",
+        "dateOfBirth": "1994-06-24",
+        "age": 31,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-meschak-elia",
+      "name": "Meschak Elia",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Forward",
+      "number": "13",
+      "likelyStarter": true,
+      "sofascoreId": 862078,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-12-30",
+          "opponent": "Botswana",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-12-27",
+          "opponent": "Senegal",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "D",
+          "venue": "away",
+          "minutes": 87,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-12-23",
+          "opponent": "Benin",
+          "competition": "Africa Cup of Nations, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 64,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "Togo",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 44,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Mauritania",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 33,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.5,
+        "sot90": 0.2,
+        "passes90": 12,
+        "cards90": 0,
+        "fouls90": 0.3,
+        "minutesAvg": 54
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 10
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 10,
+          "season": 10
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 10
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 10,
+        "competitions": [
+          "Int. Friendly Games",
+          "Africa Cup of Nations, Group D",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Alanyaspor",
+        "marketValueEur": 1600000,
+        "marketValueDisplay": "€1.6M",
+        "dateOfBirth": "1997-08-06",
+        "age": 28,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-simon-banza",
+      "name": "Simon Banza",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Forward",
+      "number": "23",
+      "likelyStarter": false,
+      "sofascoreId": 825945,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 1.8,
+        "sot90": 0.9,
+        "passes90": 3,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 50
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 2,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Al-Jazira",
+        "marketValueEur": 10400000,
+        "marketValueDisplay": "€10.4M",
+        "dateOfBirth": "1996-08-13",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "dr-congo-yoane-wissa",
+      "name": "Yoane Wissa",
+      "team": "DR Congo",
+      "group": "K",
+      "position": "Forward",
+      "number": "20",
+      "likelyStarter": true,
+      "sofascoreId": 805123,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Chile",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Denmark",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 87,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "L",
+          "venue": "home",
+          "minutes": 74,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 1,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Mauritania",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "South Sudan",
+          "competition": "FIFA World Cup, Qualification CAF, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.41,
+        "assists90": 0.41,
+        "shots90": 0.4,
+        "sot90": 0.2,
+        "passes90": 9,
+        "cards90": 0,
+        "fouls90": 0.4,
+        "minutesAvg": 72
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 40,
+          "l10": 33,
+          "season": 33
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 33,
+          "season": 33
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 17,
+          "season": 17
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 6,
+        "competitions": [
+          "Int. Friendly Games",
+          "FIFA World Cup, Qualification CAF, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Newcastle United",
+        "marketValueEur": 28000000,
+        "marketValueDisplay": "€28M",
+        "dateOfBirth": "1996-09-03",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    }
+  ],
+  "fringeCallups": [
+    {
+      "name": "Dimitry Bertaud",
+      "appearances": 4
+    },
+    {
+      "name": "Efonge Brudel",
+      "appearances": 4
+    },
+    {
+      "name": "Heltone Kayembe",
+      "appearances": 4
+    },
+    {
+      "name": "Jacques Kapanga",
+      "appearances": 1
+    },
+    {
+      "name": "Lolendo Mansanga",
+      "appearances": 3
+    },
+    {
+      "name": "Magloire Ntambwe",
+      "appearances": 4
+    },
+    {
+      "name": "Mokonzi Katumbwe",
+      "appearances": 2
+    },
+    {
+      "name": "Osée Ndombele",
+      "appearances": 4
+    },
+    {
+      "name": "Papy Kokeleya",
+      "appearances": 3
+    },
+    {
+      "name": "Rocky Bushiri",
+      "appearances": 3
+    },
+    {
+      "name": "Âgée Basiala Amongo",
+      "appearances": 4
+    },
+    {
+      "name": "Boaz Ngalamulume",
+      "appearances": 2
+    },
+    {
+      "name": "Grady Diangana",
+      "appearances": 2
+    },
+    {
+      "name": "Jean Benoît Tukumbane",
+      "appearances": 1
+    },
+    {
+      "name": "Linda Mtange",
+      "appearances": 1
+    },
+    {
+      "name": "Mbiyeye Bisamuna",
+      "appearances": 1
+    },
+    {
+      "name": "Miché Mika",
+      "appearances": 4
+    },
+    {
+      "name": "Silas",
+      "appearances": 1
+    },
+    {
+      "name": "Horso Mwaku",
+      "appearances": 4
+    },
+    {
+      "name": "Ibrahim Matobo",
+      "appearances": 4
+    },
+    {
+      "name": "Jackson Muleka",
+      "appearances": 1
+    },
+    {
+      "name": "Japhté Kitambala",
+      "appearances": 4
+    },
+    {
+      "name": "Jeancy Mboma",
+      "appearances": 1
+    },
+    {
+      "name": "Kazema Baso",
+      "appearances": 4
+    },
+    {
+      "name": "Lise Ntumba",
+      "appearances": 3
+    },
+    {
+      "name": "Michel Ange Balikwisha",
+      "appearances": 2
+    },
+    {
+      "name": "Oscar Kabwit",
+      "appearances": 4
+    },
+    {
+      "name": "Samuel Essende",
+      "appearances": 2
+    },
+    {
+      "name": "Tonny Talasi",
+      "appearances": 2
+    }
+  ]
+}

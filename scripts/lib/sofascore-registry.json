@@ -1,0 +1,446 @@
+{
+  "_note": "Sofascore national team IDs — run node scripts/discover-sofascore-ids.mjs to refresh",
+  "teams": {
+    "Mexico": {
+      "group": "A",
+      "sofascoreId": 4781,
+      "slug": "mexico",
+      "search": "Mexico",
+      "aliases": [
+        "Mexico"
+      ]
+    },
+    "South Africa": {
+      "group": "A",
+      "sofascoreId": 4736,
+      "slug": "south-africa",
+      "search": "South Africa",
+      "aliases": [
+        "South Africa"
+      ]
+    },
+    "South Korea": {
+      "group": "A",
+      "sofascoreId": 4735,
+      "slug": "south-korea",
+      "search": "South Korea",
+      "aliases": [
+        "South Korea",
+        "Korea Republic"
+      ]
+    },
+    "Czechia": {
+      "group": "A",
+      "sofascoreId": 4714,
+      "slug": "czech-republic",
+      "search": "Czechia",
+      "aliases": [
+        "Czechia",
+        "Czech Republic"
+      ]
+    },
+    "Canada": {
+      "group": "B",
+      "search": "Canada",
+      "aliases": [
+        "Canada"
+      ],
+      "sofascoreId": 4752,
+      "slug": "canada"
+    },
+    "Bosnia and Herzegovina": {
+      "group": "B",
+      "sofascoreId": 4479,
+      "slug": "bosnia-and-herzegovina",
+      "search": "Bosnia",
+      "aliases": [
+        "Bosnia and Herzegovina",
+        "Bosnia & Herzegovina",
+        "Bosnia"
+      ]
+    },
+    "Qatar": {
+      "group": "B",
+      "search": "Qatar",
+      "aliases": [
+        "Qatar"
+      ],
+      "sofascoreId": 4792,
+      "slug": "qatar"
+    },
+    "Switzerland": {
+      "group": "B",
+      "search": "Switzerland",
+      "aliases": [
+        "Switzerland"
+      ],
+      "sofascoreId": 4699,
+      "slug": "switzerland"
+    },
+    "Brazil": {
+      "group": "C",
+      "search": "Brazil",
+      "aliases": [
+        "Brazil"
+      ],
+      "sofascoreId": 4748,
+      "slug": "brazil"
+    },
+    "Morocco": {
+      "group": "C",
+      "search": "Morocco",
+      "aliases": [
+        "Morocco"
+      ],
+      "sofascoreId": 4778,
+      "slug": "morocco"
+    },
+    "Haiti": {
+      "group": "C",
+      "search": "Haiti",
+      "aliases": [
+        "Haiti"
+      ],
+      "sofascoreId": 7229,
+      "slug": "haiti"
+    },
+    "Scotland": {
+      "group": "C",
+      "search": "Scotland",
+      "aliases": [
+        "Scotland"
+      ],
+      "sofascoreId": 4695,
+      "slug": "scotland"
+    },
+    "USA": {
+      "group": "D",
+      "search": "USA",
+      "aliases": [
+        "USA",
+        "United States"
+      ],
+      "sofascoreId": 4724,
+      "slug": "usa"
+    },
+    "Paraguay": {
+      "group": "D",
+      "search": "Paraguay",
+      "aliases": [
+        "Paraguay"
+      ],
+      "sofascoreId": 4789,
+      "slug": "paraguay"
+    },
+    "Australia": {
+      "group": "D",
+      "search": "Australia",
+      "aliases": [
+        "Australia"
+      ],
+      "sofascoreId": 4741,
+      "slug": "australia"
+    },
+    "Türkiye": {
+      "group": "D",
+      "sofascoreId": 4700,
+      "slug": "turkey",
+      "search": "Turkiye",
+      "aliases": [
+        "Türkiye",
+        "Turkey"
+      ]
+    },
+    "Germany": {
+      "group": "E",
+      "search": "Germany",
+      "aliases": [
+        "Germany"
+      ],
+      "sofascoreId": 4711,
+      "slug": "germany"
+    },
+    "Curaçao": {
+      "group": "E",
+      "search": "Curacao",
+      "aliases": [
+        "Curaçao",
+        "Curacao"
+      ],
+      "sofascoreId": 55827,
+      "slug": "curacao"
+    },
+    "Côte d'Ivoire": {
+      "group": "E",
+      "sofascoreId": 4768,
+      "slug": "cote-divoire",
+      "search": "Cote d Ivoire",
+      "aliases": [
+        "Côte d'Ivoire",
+        "Ivory Coast"
+      ]
+    },
+    "Ecuador": {
+      "group": "E",
+      "search": "Ecuador",
+      "aliases": [
+        "Ecuador"
+      ],
+      "sofascoreId": 4757,
+      "slug": "ecuador"
+    },
+    "Netherlands": {
+      "group": "F",
+      "search": "Netherlands",
+      "aliases": [
+        "Netherlands"
+      ],
+      "sofascoreId": 4705,
+      "slug": "netherlands"
+    },
+    "Japan": {
+      "group": "F",
+      "search": "Japan",
+      "aliases": [
+        "Japan"
+      ],
+      "sofascoreId": 4770,
+      "slug": "japan"
+    },
+    "Sweden": {
+      "group": "F",
+      "search": "Sweden",
+      "aliases": [
+        "Sweden"
+      ],
+      "sofascoreId": 4688,
+      "slug": "sweden"
+    },
+    "Tunisia": {
+      "group": "F",
+      "search": "Tunisia",
+      "aliases": [
+        "Tunisia"
+      ],
+      "sofascoreId": 4729,
+      "slug": "tunisia"
+    },
+    "Belgium": {
+      "group": "G",
+      "search": "Belgium",
+      "aliases": [
+        "Belgium"
+      ],
+      "sofascoreId": 4717,
+      "slug": "belgium"
+    },
+    "Egypt": {
+      "group": "G",
+      "search": "Egypt",
+      "aliases": [
+        "Egypt"
+      ],
+      "sofascoreId": 4758,
+      "slug": "egypt"
+    },
+    "Iran": {
+      "group": "G",
+      "search": "Iran",
+      "aliases": [
+        "Iran"
+      ],
+      "sofascoreId": 4766,
+      "slug": "iran"
+    },
+    "New Zealand": {
+      "group": "G",
+      "search": "New Zealand",
+      "aliases": [
+        "New Zealand"
+      ],
+      "sofascoreId": 4784,
+      "slug": "new-zealand"
+    },
+    "Spain": {
+      "group": "H",
+      "search": "Spain",
+      "aliases": [
+        "Spain"
+      ],
+      "sofascoreId": 4698,
+      "slug": "spain"
+    },
+    "Cape Verde": {
+      "group": "H",
+      "search": "Cape Verde",
+      "aliases": [
+        "Cape Verde"
+      ],
+      "sofascoreId": 4753,
+      "slug": "cape-verde"
+    },
+    "Saudi Arabia": {
+      "group": "H",
+      "search": "Saudi Arabia",
+      "aliases": [
+        "Saudi Arabia"
+      ],
+      "sofascoreId": 4834,
+      "slug": "saudi-arabia"
+    },
+    "Uruguay": {
+      "group": "H",
+      "search": "Uruguay",
+      "aliases": [
+        "Uruguay"
+      ],
+      "sofascoreId": 4725,
+      "slug": "uruguay"
+    },
+    "France": {
+      "group": "I",
+      "search": "France",
+      "aliases": [
+        "France"
+      ],
+      "sofascoreId": 4481,
+      "slug": "france"
+    },
+    "Senegal": {
+      "group": "I",
+      "search": "Senegal",
+      "aliases": [
+        "Senegal"
+      ],
+      "sofascoreId": 4739,
+      "slug": "senegal"
+    },
+    "Iraq": {
+      "group": "I",
+      "search": "Iraq",
+      "aliases": [
+        "Iraq"
+      ],
+      "sofascoreId": 4767,
+      "slug": "iraq"
+    },
+    "Norway": {
+      "group": "I",
+      "search": "Norway",
+      "aliases": [
+        "Norway"
+      ],
+      "sofascoreId": 4475,
+      "slug": "norway"
+    },
+    "Argentina": {
+      "group": "J",
+      "search": "Argentina",
+      "aliases": [
+        "Argentina"
+      ],
+      "sofascoreId": 4819,
+      "slug": "argentina"
+    },
+    "Algeria": {
+      "group": "J",
+      "search": "Algeria",
+      "aliases": [
+        "Algeria"
+      ],
+      "sofascoreId": 4691,
+      "slug": "algeria"
+    },
+    "Austria": {
+      "group": "J",
+      "search": "Austria",
+      "aliases": [
+        "Austria"
+      ],
+      "sofascoreId": 4718,
+      "slug": "austria"
+    },
+    "Jordan": {
+      "group": "J",
+      "search": "Jordan",
+      "aliases": [
+        "Jordan"
+      ],
+      "sofascoreId": 4771,
+      "slug": "jordan"
+    },
+    "Portugal": {
+      "group": "K",
+      "search": "Portugal",
+      "aliases": [
+        "Portugal"
+      ],
+      "sofascoreId": 4704,
+      "slug": "portugal"
+    },
+    "Colombia": {
+      "group": "K",
+      "search": "Colombia",
+      "aliases": [
+        "Colombia"
+      ],
+      "sofascoreId": 4820,
+      "slug": "colombia"
+    },
+    "Uzbekistan": {
+      "group": "K",
+      "search": "Uzbekistan",
+      "aliases": [
+        "Uzbekistan"
+      ],
+      "sofascoreId": 4723,
+      "slug": "uzbekistan"
+    },
+    "DR Congo": {
+      "group": "K",
+      "search": "DR Congo",
+      "aliases": [
+        "DR Congo",
+        "Congo DR"
+      ],
+      "sofascoreId": 4823,
+      "slug": "dr-congo"
+    },
+    "England": {
+      "group": "L",
+      "search": "England",
+      "aliases": [
+        "England"
+      ],
+      "sofascoreId": 4713,
+      "slug": "england"
+    },
+    "Croatia": {
+      "group": "L",
+      "search": "Croatia",
+      "aliases": [
+        "Croatia"
+      ],
+      "sofascoreId": 4715,
+      "slug": "croatia"
+    },
+    "Ghana": {
+      "group": "L",
+      "search": "Ghana",
+      "aliases": [
+        "Ghana"
+      ],
+      "sofascoreId": 4764,
+      "slug": "ghana"
+    },
+    "Panama": {
+      "group": "L",
+      "search": "Panama",
+      "aliases": [
+        "Panama"
+      ],
+      "sofascoreId": 5164,
+      "slug": "panama"
+    }
+  }
+}

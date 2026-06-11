@@ -16,7 +16,11 @@
     "generate:data": "node scripts/generate-world-cup-data.mjs",
     "generate:squads": "node scripts/generate-world-cup-squads.mjs",
     "import:api-football": "node scripts/import-api-football.mjs",
-    "import:manual-teams": "node scripts/import-manual-teams.mjs"
+    "import:manual-teams": "node scripts/import-manual-teams.mjs",
+    "import:sofascore": "node scripts/sofascore-import.mjs",
+    "discover:sofascore-ids": "node scripts/discover-sofascore-ids.mjs",
+    "sync:team-form": "node scripts/sync-team-form.mjs",
+    "backtest:blend": "node scripts/backtest-blend.mjs"
   },
   "dependencies": {
     "concurrently": "^9.2.1",

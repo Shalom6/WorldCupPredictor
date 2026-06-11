@@ -1,7 +1,7 @@
 import nationalTeamsData from './data/national-teams.json' with { type: 'json' };
 import historicalIndex from './data/historical-index.json' with { type: 'json' };
 import { sanitizeRoster, sanitizeUclSeason } from './dataSanity.js';
-import { resolveRoster } from './rosterData.js';
+import { getRosterImportSource, resolveRoster } from './rosterData.js';
 
 const { teams: TEAM_BUNDLES, aliasIndex } = nationalTeamsData;
 
@@ -62,8 +62,8 @@ function blend3(hist, season, form, weights) {
   return { pick, weights };
 }
 
-export function buildTeamProfileFromBundle(bundle) {
-  const weights = historicalIndex.blendWeights;
+export function buildTeamProfileFromBundle(bundle, blendWeightsOverride = null) {
+  const weights = blendWeightsOverride ?? historicalIndex.blendWeights;
   const hist = bundle.historical;
   const season = bundle.season2026 ?? bundle.season2025_26;
   const wc = seasonWcRates(season);
@@ -107,6 +107,8 @@ export function buildTeamProfileFromBundle(bundle) {
     propProfile: p.propProfile ?? null
   }));
 
+  const rosterSource = getRosterImportSource(bundle.name);
+
   return {
     name: bundle.name,
     goalsForPerMatch: round(goalsForPerMatch, 2),
@@ -123,7 +125,8 @@ export function buildTeamProfileFromBundle(bundle) {
       blendWeights: weights,
       formMatches: season?.formLast10?.length ?? 0,
       rosterSize: players.length,
-      source: season?.importSource ?? 'bundled-world-cup-2026',
+      source: rosterSource ?? season?.importSource ?? 'bundled-world-cup-2026',
+      rosterSource: rosterSource ?? 'bundled-world-cup-2026',
       wcDataQuality: wc.dataQuality,
       confederation: bundle.confederation ?? null,
       fifaStrength: bundle.fifaStrength ?? null
@@ -136,7 +139,8 @@ export function resolveTeamBundle(teamName) {
   return TEAM_BUNDLES[canonical] ?? null;
 }
 
-export function getTeamProfiles(homeTeamName, awayTeamName) {
+export function getTeamProfiles(homeTeamName, awayTeamName, opts = {}) {
+  const blendWeights = opts.blendWeights ?? null;
   const fallback = (name) => ({
     name,
     goalsForPerMatch: 1.4,
@@ -153,8 +157,8 @@ export function getTeamProfiles(homeTeamName, awayTeamName) {
   const homeBundle = resolveTeamBundle(homeTeamName);
   const awayBundle = resolveTeamBundle(awayTeamName);
 
-  const home = homeBundle ? buildTeamProfileFromBundle(homeBundle) : fallback(homeTeamName);
-  const away = awayBundle ? buildTeamProfileFromBundle(awayBundle) : fallback(awayTeamName);
+  const home = homeBundle ? buildTeamProfileFromBundle(homeBundle, blendWeights) : fallback(homeTeamName);
+  const away = awayBundle ? buildTeamProfileFromBundle(awayBundle, blendWeights) : fallback(awayTeamName);
 
   return { home, away };
 }

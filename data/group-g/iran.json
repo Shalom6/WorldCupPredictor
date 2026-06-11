@@ -1,0 +1,4061 @@
+{
+  "_note": "International match logs imported from Sofascore. Club friendlies excluded. Last 22 national-team matches as of import date.",
+  "team": "Iran",
+  "group": "G",
+  "dataSource": "sofascore",
+  "importedAt": "2026-06-11T08:43:40.444Z",
+  "eventsProcessed": 22,
+  "teamMatchResults": [
+    {
+      "date": "2026-06-04",
+      "opponent": "Mali",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2026-05-29",
+      "opponent": "Gambia",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2026-03-31",
+      "opponent": "Costa Rica",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2026-03-27",
+      "opponent": "Nigeria",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "venue": "home"
+    },
+    {
+      "date": "2025-10-14",
+      "opponent": "Tanzania",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-10-10",
+      "opponent": "Russia",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "venue": "away"
+    },
+    {
+      "date": "2025-09-04",
+      "opponent": "Tajikistan",
+      "competition": "CAFA Nations Cup, Group B",
+      "result": "D",
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "venue": "away"
+    },
+    {
+      "date": "2025-09-01",
+      "opponent": "India",
+      "competition": "CAFA Nations Cup, Group B",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-08-29",
+      "opponent": "Afghanistan",
+      "competition": "CAFA Nations Cup, Group B",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2025-06-10",
+      "opponent": "North Korea",
+      "competition": "World Cup Qualification, AFC, Round 3, Group A",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-06-05",
+      "opponent": "Qatar",
+      "competition": "World Cup Qualification, AFC, Round 3, Group A",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2025-03-25",
+      "opponent": "Uzbekistan",
+      "competition": "World Cup Qualification, AFC, Round 3, Group A",
+      "result": "D",
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "venue": "home"
+    },
+    {
+      "date": "2025-03-20",
+      "opponent": "United Arab Emirates",
+      "competition": "World Cup Qualification, AFC, Round 3, Group A",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2024-11-19",
+      "opponent": "Kyrgyzstan",
+      "competition": "World Cup Qualification, AFC, Round 3, Group A",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "venue": "away"
+    },
+    {
+      "date": "2024-11-14",
+      "opponent": "North Korea",
+      "competition": "World Cup Qualification, AFC, Round 3, Group A",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "venue": "away"
+    }
+  ],
+  "players": [
+    {
+      "id": "iran-alireza-beiranvand",
+      "name": "Alireza Beiranvand",
+      "team": "Iran",
+      "group": "G",
+      "position": "Goalkeeper",
+      "number": "1",
+      "likelyStarter": true,
+      "sofascoreId": 791374,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-10-10",
+          "opponent": "Russia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 5.6,
+          "saves": 2,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8,
+          "saves": 2,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3,
+          "saves": 2,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1,
+          "saves": 1,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6,
+          "saves": 1,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6,
+          "saves": 3,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8,
+          "saves": 0,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9,
+          "saves": 1,
+          "goalsConceded": 0,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9,
+          "saves": 2,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.3,
+          "saves": 6,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 31,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 90
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 10,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-10-10"
+      }
+    },
+    {
+      "id": "iran-hossein-hosseini",
+      "name": "Hossein Hosseini",
+      "team": "Iran",
+      "group": "G",
+      "position": "Goalkeeper",
+      "number": "22",
+      "likelyStarter": false,
+      "sofascoreId": 328769,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-06-10",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7,
+          "saves": 1,
+          "goalsConceded": 0,
+          "keeperSweeper": 1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 30,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 90
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 1,
+        "competitions": [
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-06-10"
+      }
+    },
+    {
+      "id": "iran-payam-niazmand",
+      "name": "Payam Niazmand",
+      "team": "Iran",
+      "group": "G",
+      "position": "Goalkeeper",
+      "number": null,
+      "likelyStarter": false,
+      "sofascoreId": 932221,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [],
+      "seasonRates": null,
+      "hitRates": null,
+      "importMeta": {
+        "appearances": 0,
+        "competitions": [],
+        "lastMatch": null
+      }
+    },
+    {
+      "id": "iran-ali-nemati",
+      "name": "Ali Nemati",
+      "team": "Iran",
+      "group": "G",
+      "position": "Defender",
+      "number": "13",
+      "likelyStarter": true,
+      "sofascoreId": 932486,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-10-10",
+          "opponent": "Russia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 76,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 52,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 80,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 66,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.8
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.3,
+        "sot90": 0.2,
+        "passes90": 57,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 66
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 22,
+          "season": 22
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-10-10"
+      }
+    },
+    {
+      "id": "iran-danial-eiri",
+      "name": "Danial Eiri",
+      "team": "Iran",
+      "group": "G",
+      "position": "Defender",
+      "number": null,
+      "likelyStarter": false,
+      "sofascoreId": 1464876,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [],
+      "seasonRates": null,
+      "hitRates": null,
+      "importMeta": {
+        "appearances": 0,
+        "competitions": [],
+        "lastMatch": null
+      }
+    },
+    {
+      "id": "iran-ehsan-hajsafi",
+      "name": "Ehsan Hajsafi",
+      "team": "Iran",
+      "group": "G",
+      "position": "Defender",
+      "number": null,
+      "likelyStarter": false,
+      "sofascoreId": 1196902,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [],
+      "seasonRates": null,
+      "hitRates": null,
+      "importMeta": {
+        "appearances": 0,
+        "competitions": [],
+        "lastMatch": null
+      }
+    },
+    {
+      "id": "iran-hossein-kanaani",
+      "name": "Hossein Kanaani",
+      "team": "Iran",
+      "group": "G",
+      "position": "Defender",
+      "number": "13",
+      "likelyStarter": true,
+      "sofascoreId": 812952,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-03-25",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 70,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 78,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 82,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 36,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.1
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 49,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.23,
+        "shots90": 0.2,
+        "sot90": 0.2,
+        "passes90": 65,
+        "cards90": 0,
+        "fouls90": 0.5,
+        "minutesAvg": 79
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 5,
+        "competitions": [
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-03-25"
+      }
+    },
+    {
+      "id": "iran-milad-mohammadi",
+      "name": "Milad Mohammadi",
+      "team": "Iran",
+      "group": "G",
+      "position": "Defender",
+      "number": "5",
+      "likelyStarter": true,
+      "sofascoreId": 812531,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-06-05",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 35,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 5.4
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 62,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 72,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.12,
+        "shots90": 1.1,
+        "sot90": 0.5,
+        "passes90": 42,
+        "cards90": 0,
+        "fouls90": 1,
+        "minutesAvg": 83
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 33,
+          "season": 33
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 44,
+          "season": 44
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 60,
+          "l10": 33,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-06-05"
+      }
+    },
+    {
+      "id": "iran-roozbeh-cheshmi",
+      "name": "Roozbeh Cheshmi",
+      "team": "Iran",
+      "group": "G",
+      "position": "Defender",
+      "number": "15",
+      "likelyStarter": false,
+      "sofascoreId": 828230,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-06-05",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 60,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 27,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 1.1,
+        "sot90": 0.6,
+        "passes90": 57,
+        "cards90": 0,
+        "fouls90": 1.7,
+        "minutesAvg": 54
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 3,
+        "competitions": [
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-06-05"
+      }
+    },
+    {
+      "id": "iran-saleh-hardani",
+      "name": "Saleh Hardani",
+      "team": "Iran",
+      "group": "G",
+      "position": "Defender",
+      "number": "2",
+      "likelyStarter": true,
+      "sofascoreId": 1836024,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-06-10",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 56,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 47,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.7
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 63,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "away",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.1
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.17,
+        "assists90": 0,
+        "shots90": 0.5,
+        "sot90": 0.2,
+        "passes90": 38,
+        "cards90": 0,
+        "fouls90": 1.3,
+        "minutesAvg": 67
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 13,
+          "season": 13
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 13,
+          "season": 13
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 25,
+          "season": 25
+        }
+      },
+      "importMeta": {
+        "appearances": 8,
+        "competitions": [
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-06-10"
+      }
+    },
+    {
+      "id": "iran-shoja-khalilzadeh",
+      "name": "Shoja Khalilzadeh",
+      "team": "Iran",
+      "group": "G",
+      "position": "Defender",
+      "number": "4",
+      "likelyStarter": true,
+      "sofascoreId": 223340,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-10-10",
+          "opponent": "Russia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 58,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 83,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 100,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 78,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 51,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 47,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.2
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 68,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 55,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 83,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.2,
+        "sot90": 0.1,
+        "passes90": 73,
+        "cards90": 0,
+        "fouls90": 0.6,
+        "minutesAvg": 86
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-10-10"
+      }
+    },
+    {
+      "id": "iran-amirmohammad-razzaghinia",
+      "name": "Amirmohammad Razzaghinia",
+      "team": "Iran",
+      "group": "G",
+      "position": "Midfielder",
+      "number": "13",
+      "likelyStarter": false,
+      "sofascoreId": 1500737,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-06-10",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 34,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 26,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 34
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 1,
+        "competitions": [
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-06-10"
+      }
+    },
+    {
+      "id": "iran-aria-yousefi",
+      "name": "Aria Yousefi",
+      "team": "Iran",
+      "group": "G",
+      "position": "Midfielder",
+      "number": "23",
+      "likelyStarter": true,
+      "sofascoreId": 1170977,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-06-10",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 34,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 69,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.8,
+        "sot90": 0,
+        "passes90": 53,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 54
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 4,
+        "competitions": [
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-06-10"
+      }
+    },
+    {
+      "id": "iran-mehdi-ghayedi",
+      "name": "Mehdi Ghayedi",
+      "team": "Iran",
+      "group": "G",
+      "position": "Midfielder",
+      "number": "10",
+      "likelyStarter": true,
+      "sofascoreId": 881182,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-03-25",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 27,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 54,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "away",
+          "minutes": 35,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 57,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.38,
+        "assists90": 0,
+        "shots90": 2.1,
+        "sot90": 0.8,
+        "passes90": 20,
+        "cards90": 0,
+        "fouls90": 0.4,
+        "minutesAvg": 60
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 25,
+          "season": 25
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 38,
+          "season": 38
+        },
+        "shots25": {
+          "l5": 40,
+          "l10": 25,
+          "season": 25
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 38,
+          "season": 38
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 8,
+        "competitions": [
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-03-25"
+      }
+    },
+    {
+      "id": "iran-mohammad-ghorbani",
+      "name": "Mohammad Ghorbani",
+      "team": "Iran",
+      "group": "G",
+      "position": "Midfielder",
+      "number": "3",
+      "likelyStarter": false,
+      "sofascoreId": 1171024,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-10-10",
+          "opponent": "Russia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 27,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 1,
+        "sot90": 1,
+        "passes90": 34,
+        "cards90": 0,
+        "fouls90": 4,
+        "minutesAvg": 18
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        }
+      },
+      "importMeta": {
+        "appearances": 5,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-10-10"
+      }
+    },
+    {
+      "id": "iran-ramin-rezaeian",
+      "name": "Ramin Rezaeian",
+      "team": "Iran",
+      "group": "G",
+      "position": "Midfielder",
+      "number": "23",
+      "likelyStarter": false,
+      "sofascoreId": 786133,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-10-10",
+          "opponent": "Russia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 37,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 70
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 1,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2025-10-10"
+      }
+    },
+    {
+      "id": "iran-saeid-ezatolahi",
+      "name": "Saeid Ezatolahi",
+      "team": "Iran",
+      "group": "G",
+      "position": "Midfielder",
+      "number": "6",
+      "likelyStarter": true,
+      "sofascoreId": 359334,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-10-10",
+          "opponent": "Russia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 61,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 75,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 48,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 63,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.3
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 67,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.9
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 1.5,
+        "sot90": 0.6,
+        "passes90": 54,
+        "cards90": 0,
+        "fouls90": 1.4,
+        "minutesAvg": 77
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 60,
+          "l10": 40,
+          "season": 40
+        },
+        "shots25": {
+          "l5": 40,
+          "l10": 20,
+          "season": 20
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 40,
+          "season": 40
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 30,
+          "season": 30
+        }
+      },
+      "importMeta": {
+        "appearances": 10,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-10-10"
+      }
+    },
+    {
+      "id": "iran-saman-ghoddos",
+      "name": "Saman Ghoddos",
+      "team": "Iran",
+      "group": "G",
+      "position": "Midfielder",
+      "number": "14",
+      "likelyStarter": true,
+      "sofascoreId": 548050,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-10-10",
+          "opponent": "Russia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 37,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "away",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 50,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.31,
+        "shots90": 0.8,
+        "sot90": 0,
+        "passes90": 45,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 72
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 40,
+          "l10": 25,
+          "season": 25
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 13,
+          "season": 13
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 25,
+          "season": 25
+        }
+      },
+      "importMeta": {
+        "appearances": 8,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-10-10"
+      }
+    },
+    {
+      "id": "iran-ali-alipour",
+      "name": "Ali Alipour",
+      "team": "Iran",
+      "group": "G",
+      "position": "Forward",
+      "number": "18",
+      "likelyStarter": false,
+      "sofascoreId": 791368,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-09-01",
+          "opponent": "India",
+          "competition": "CAFA Nations Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 1,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 38,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 14,
+        "cards90": 0,
+        "fouls90": 7.8,
+        "minutesAvg": 23
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 3,
+        "competitions": [
+          "CAFA Nations Cup, Group B",
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-09-01"
+      }
+    },
+    {
+      "id": "iran-alireza-jahanbakhsh",
+      "name": "Alireza Jahanbakhsh",
+      "team": "Iran",
+      "group": "G",
+      "position": "Forward",
+      "number": "7",
+      "likelyStarter": true,
+      "sofascoreId": 331837,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-10-10",
+          "opponent": "Russia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 69,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 4,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "away",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 2,
+        "sot90": 0.7,
+        "passes90": 34,
+        "cards90": 0,
+        "fouls90": 2.6,
+        "minutesAvg": 52
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 38,
+          "season": 38
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 38,
+          "season": 38
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 60,
+          "l10": 38,
+          "season": 38
+        }
+      },
+      "importMeta": {
+        "appearances": 8,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-10-10"
+      }
+    },
+    {
+      "id": "iran-amirhossein-hosseinzadeh",
+      "name": "Amirhossein Hosseinzadeh",
+      "team": "Iran",
+      "group": "G",
+      "position": "Forward",
+      "number": "18",
+      "likelyStarter": false,
+      "sofascoreId": 905472,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-10-10",
+          "opponent": "Russia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 70,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-09-01",
+          "opponent": "India",
+          "competition": "CAFA Nations Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 1,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-08-29",
+          "opponent": "Afghanistan",
+          "competition": "CAFA Nations Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 0,
+          "goals": 1,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 34,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 4,
+          "rating": 6.2
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 1.1,
+        "assists90": 0,
+        "shots90": 3.3,
+        "sot90": 1.7,
+        "passes90": 26,
+        "cards90": 0,
+        "fouls90": 2.8,
+        "minutesAvg": 33
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 80,
+          "l10": 57,
+          "season": 57
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 29,
+          "season": 29
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 14,
+          "season": 14
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 43,
+          "season": 43
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 14,
+          "season": 14
+        }
+      },
+      "importMeta": {
+        "appearances": 7,
+        "competitions": [
+          "Int. Friendly Games",
+          "CAFA Nations Cup, Group B",
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-10-10"
+      }
+    },
+    {
+      "id": "iran-dennis-eckert-ayensa",
+      "name": "Dennis Eckert Ayensa",
+      "team": "Iran",
+      "group": "G",
+      "position": "Forward",
+      "number": null,
+      "likelyStarter": false,
+      "sofascoreId": 812797,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [],
+      "seasonRates": null,
+      "hitRates": null,
+      "importMeta": {
+        "appearances": 0,
+        "competitions": [],
+        "lastMatch": null
+      }
+    },
+    {
+      "id": "iran-mahdi-torabi",
+      "name": "Mahdi Torabi",
+      "team": "Iran",
+      "group": "G",
+      "position": "Forward",
+      "number": "16",
+      "likelyStarter": false,
+      "sofascoreId": 812953,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2024-09-05",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 3,
+        "sot90": 0,
+        "passes90": 99,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 30
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 1,
+        "competitions": [
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2024-09-05"
+      }
+    },
+    {
+      "id": "iran-mehdi-taremi",
+      "name": "Mehdi Taremi",
+      "team": "Iran",
+      "group": "G",
+      "position": "Forward",
+      "number": "9",
+      "likelyStarter": true,
+      "sofascoreId": 812533,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-10-10",
+          "opponent": "Russia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-09-01",
+          "opponent": "India",
+          "competition": "CAFA Nations Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 1,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 1,
+          "shots": 6,
+          "shotsOnTarget": 3,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.6
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-03-25",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 2,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 2,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 9.1
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 3,
+          "shots": 8,
+          "shotsOnTarget": 6,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 8.9
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.51,
+        "assists90": 0.4,
+        "shots90": 3.3,
+        "sot90": 1.6,
+        "passes90": 30,
+        "cards90": 0,
+        "fouls90": 0.6,
+        "minutesAvg": 89
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 60,
+          "l10": 40,
+          "season": 45
+        },
+        "goals15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 9
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 18
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 60,
+          "season": 64
+        },
+        "shots25": {
+          "l5": 40,
+          "l10": 50,
+          "season": 55
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 70,
+          "season": 73
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 18
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "CAFA Nations Cup, Group B",
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-10-10"
+      }
+    },
+    {
+      "id": "iran-mohammad-mohebi",
+      "name": "Mohammad Mohebi",
+      "team": "Iran",
+      "group": "G",
+      "position": "Forward",
+      "number": "8",
+      "likelyStarter": true,
+      "sofascoreId": 996805,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-09-04",
+          "opponent": "Tajikistan",
+          "competition": "CAFA Nations Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 1,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "United Arab Emirates",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 81,
+          "goals": 2,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.7
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 9
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "away",
+          "minutes": 55,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.89,
+        "assists90": 0,
+        "shots90": 2.7,
+        "sot90": 1.1,
+        "passes90": 30,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 81
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 80,
+          "l10": 67,
+          "season": 67
+        },
+        "goals15": {
+          "l5": 20,
+          "l10": 17,
+          "season": 17
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 60,
+          "l10": 50,
+          "season": 50
+        },
+        "shots25": {
+          "l5": 40,
+          "l10": 33,
+          "season": 33
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 50,
+          "season": 50
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 17,
+          "season": 17
+        }
+      },
+      "importMeta": {
+        "appearances": 6,
+        "competitions": [
+          "CAFA Nations Cup, Group B",
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-09-04"
+      }
+    },
+    {
+      "id": "iran-shahriar-moghanlou",
+      "name": "Shahriar Moghanlou",
+      "team": "Iran",
+      "group": "G",
+      "position": "Forward",
+      "number": "19",
+      "likelyStarter": false,
+      "sofascoreId": 993899,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-06-10",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 56,
+          "goals": 0,
+          "assists": 0,
+          "shots": 7,
+          "shotsOnTarget": 1,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "North Korea",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "away",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-10-15",
+          "opponent": "Qatar",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-10-10",
+          "opponent": "Uzbekistan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "D",
+          "venue": "away",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-09-05",
+          "opponent": "Kyrgyzstan",
+          "competition": "World Cup Qualification, AFC, Round 3, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.4
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 6.2,
+        "sot90": 0.8,
+        "passes90": 21,
+        "cards90": 0,
+        "fouls90": 3.1,
+        "minutesAvg": 19
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 17,
+          "season": 17
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 17,
+          "season": 17
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 17,
+          "season": 17
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 17,
+          "season": 17
+        }
+      },
+      "importMeta": {
+        "appearances": 6,
+        "competitions": [
+          "World Cup Qualification, AFC, Round 3, Group A"
+        ],
+        "lastMatch": "2025-06-10"
+      }
+    }
+  ],
+  "fringeCallups": [
+    {
+      "name": "Danial Esmaeilifar",
+      "appearances": 1
+    },
+    {
+      "name": "Mohammad Amin Hazbavi",
+      "appearances": 2
+    },
+    {
+      "name": "Omid Noorafkan",
+      "appearances": 9
+    },
+    {
+      "name": "Ali Gholizadeh",
+      "appearances": 6
+    },
+    {
+      "name": "Aref Aghasi",
+      "appearances": 2
+    },
+    {
+      "name": "Hossein Abarghouei",
+      "appearances": 1
+    },
+    {
+      "name": "Mohammad Mohebi",
+      "appearances": 4
+    },
+    {
+      "name": "Mohammadjavad Hosseinnejad",
+      "appearances": 2
+    },
+    {
+      "name": "Seyed Mohammad Karimi",
+      "appearances": 7
+    },
+    {
+      "name": "Kasra Taheri",
+      "appearances": 1
+    },
+    {
+      "name": "Majid Aliyari",
+      "appearances": 1
+    },
+    {
+      "name": "Mehdi Hashemnejad",
+      "appearances": 1
+    },
+    {
+      "name": "Sardar Azmoun",
+      "appearances": 8
+    }
+  ]
+}

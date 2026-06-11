@@ -1,0 +1,6390 @@
+{
+  "_note": "International match logs imported from Sofascore. Club friendlies excluded. Last 22 national-team matches as of import date.",
+  "team": "Saudi Arabia",
+  "group": "H",
+  "dataSource": "sofascore",
+  "importedAt": "2026-06-11T08:45:25.063Z",
+  "eventsProcessed": 22,
+  "teamMatchResults": [
+    {
+      "date": "2026-06-09",
+      "opponent": "Senegal",
+      "competition": "Int. Friendly Games",
+      "result": "D",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2026-06-05",
+      "opponent": "Puerto Rico",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2026-05-31",
+      "opponent": "Ecuador",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "venue": "away"
+    },
+    {
+      "date": "2026-03-31",
+      "opponent": "Serbia",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "venue": "away"
+    },
+    {
+      "date": "2026-03-27",
+      "opponent": "Egypt",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "venue": "home"
+    },
+    {
+      "date": "2025-12-15",
+      "opponent": "Jordan",
+      "competition": "Arab Cup, Knockout Stage",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2025-12-08",
+      "opponent": "Morocco",
+      "competition": "Arab Cup, Group B",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2025-12-05",
+      "opponent": "Comoros",
+      "competition": "Arab Cup, Group B",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2025-12-02",
+      "opponent": "Oman",
+      "competition": "Arab Cup, Group B",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2025-11-18",
+      "opponent": "Algeria",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "venue": "home"
+    },
+    {
+      "date": "2025-11-14",
+      "opponent": "Côte d'Ivoire",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-10-14",
+      "opponent": "Iraq",
+      "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+      "result": "D",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-10-08",
+      "opponent": "Indonesia",
+      "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "venue": "away"
+    },
+    {
+      "date": "2025-09-08",
+      "opponent": "Czechia",
+      "competition": "Int. Friendly Games",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2025-09-04",
+      "opponent": "North Macedonia",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "venue": "home"
+    }
+  ],
+  "players": [
+    {
+      "id": "saudi-arabia-abdulquddus-atiah",
+      "name": "Abdulquddus Atiah",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Goalkeeper",
+      "number": null,
+      "likelyStarter": false,
+      "sofascoreId": 925459,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [],
+      "seasonRates": null,
+      "hitRates": null,
+      "importMeta": {
+        "appearances": 0,
+        "competitions": [],
+        "lastMatch": null
+      },
+      "profile": {
+        "club": "Al-Taawoun",
+        "marketValueEur": 250000,
+        "marketValueDisplay": "€250K",
+        "dateOfBirth": "1997-03-01",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-abdulrahman-al-sanbi",
+      "name": "Abdulrahman Al Sanbi",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Goalkeeper",
+      "number": "21",
+      "likelyStarter": true,
+      "sofascoreId": 1066728,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-12-08",
+          "opponent": "Morocco",
+          "competition": "Arab Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3,
+          "saves": 2,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Czechia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 45,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5,
+          "saves": 0,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "North Macedonia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6,
+          "saves": 1,
+          "goalsConceded": 1,
+          "keeperSweeper": 2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 28,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 90
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 3,
+        "competitions": [
+          "Arab Cup, Group B",
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2025-12-08"
+      },
+      "profile": {
+        "club": "Al-Ahli",
+        "marketValueEur": 310000,
+        "marketValueDisplay": "€310K",
+        "dateOfBirth": "2001-02-02",
+        "age": 25,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-ahmed-al-kassar",
+      "name": "Ahmed Al-Kassar",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Goalkeeper",
+      "number": null,
+      "likelyStarter": false,
+      "sofascoreId": 818749,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [],
+      "seasonRates": null,
+      "hitRates": null,
+      "importMeta": {
+        "appearances": 0,
+        "competitions": [],
+        "lastMatch": null
+      },
+      "profile": {
+        "club": "Al-Qadsiah",
+        "marketValueEur": 185000,
+        "marketValueDisplay": "€185K",
+        "dateOfBirth": "1991-05-08",
+        "age": 35,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-mohammed-al-owais",
+      "name": "Mohammed Al-Owais",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Goalkeeper",
+      "number": "21",
+      "likelyStarter": true,
+      "sofascoreId": 791416,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.2,
+          "saves": 5,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6,
+          "saves": 4,
+          "goalsConceded": 2,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Serbia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.8,
+          "saves": 8,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 25,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 90
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 3,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al Ula",
+        "marketValueEur": 290000,
+        "marketValueDisplay": "€290K",
+        "dateOfBirth": "1991-10-10",
+        "age": 34,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-nawaf-al-aqidi",
+      "name": "Nawaf Al-Aqidi",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Goalkeeper",
+      "number": "1",
+      "likelyStarter": true,
+      "sofascoreId": 1014518,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 5.1,
+          "saves": 4,
+          "goalsConceded": 4,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-12-15",
+          "opponent": "Jordan",
+          "competition": "Arab Cup, Knockout Stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5,
+          "saves": 4,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6,
+          "saves": 1,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-12-02",
+          "opponent": "Oman",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6,
+          "saves": 1,
+          "goalsConceded": 1,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8,
+          "saves": 2,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7,
+          "saves": 1,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7,
+          "saves": 3,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-06-29",
+          "opponent": "Mexico",
+          "competition": "CONCACAF Gold Cup, Knockout stage",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9,
+          "saves": 4,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-06-22",
+          "opponent": "Trinidad and Tobago",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7,
+          "saves": 2,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-06-20",
+          "opponent": "USA",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7,
+          "saves": 2,
+          "goalsConceded": 1,
+          "keeperSweeper": 2
+        },
+        {
+          "date": "2025-06-16",
+          "opponent": "Haiti",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6,
+          "saves": 4,
+          "goalsConceded": 0,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Australia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4,
+          "saves": 1,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1,
+          "saves": 2,
+          "goalsConceded": 0,
+          "keeperSweeper": 2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 27,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 90
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 13,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Knockout Stage",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B",
+          "CONCACAF Gold Cup, Knockout stage",
+          "CONCACAF Gold Cup, Group D",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-03-27"
+      },
+      "profile": {
+        "club": "Al-Nassr",
+        "marketValueEur": 755000,
+        "marketValueDisplay": "€755K",
+        "dateOfBirth": "2000-05-10",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-abdulelah-al-amri",
+      "name": "Abdulelah Al-Amri",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Defender",
+      "number": "4",
+      "likelyStarter": true,
+      "sofascoreId": 881831,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 5.8
+        },
+        {
+          "date": "2025-12-08",
+          "opponent": "Morocco",
+          "competition": "Arab Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 71,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.1
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 66,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-12-02",
+          "opponent": "Oman",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-06-29",
+          "opponent": "Mexico",
+          "competition": "CONCACAF Gold Cup, Knockout stage",
+          "result": "L",
+          "venue": "away",
+          "minutes": 53,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.2
+        },
+        {
+          "date": "2025-06-22",
+          "opponent": "Trinidad and Tobago",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 84,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-06-20",
+          "opponent": "USA",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-16",
+          "opponent": "Haiti",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.7
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Australia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 85,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.4,
+        "sot90": 0.1,
+        "passes90": 60,
+        "cards90": 0,
+        "fouls90": 0.7,
+        "minutesAvg": 63
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 8
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 17
+        }
+      },
+      "importMeta": {
+        "appearances": 12,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B",
+          "CONCACAF Gold Cup, Knockout stage",
+          "CONCACAF Gold Cup, Group D",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Nassr",
+        "marketValueEur": 1000000,
+        "marketValueDisplay": "€1M",
+        "dateOfBirth": "1997-01-15",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-ali-lajami",
+      "name": "Ali Lajami",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Defender",
+      "number": "5",
+      "likelyStarter": false,
+      "sofascoreId": 818667,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 5.9
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 57,
+        "cards90": 0,
+        "fouls90": 4,
+        "minutesAvg": 38
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 3,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Hilal",
+        "marketValueEur": 825000,
+        "marketValueDisplay": "€825K",
+        "dateOfBirth": "1996-04-25",
+        "age": 30,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-ali-majrashi",
+      "name": "Ali Majrashi",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Defender",
+      "number": "2",
+      "likelyStarter": true,
+      "sofascoreId": 917035,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-03-31",
+          "opponent": "Serbia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-12-15",
+          "opponent": "Jordan",
+          "competition": "Arab Cup, Knockout Stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 54,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-12-08",
+          "opponent": "Morocco",
+          "competition": "Arab Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-12-02",
+          "opponent": "Oman",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Czechia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "North Macedonia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-06-29",
+          "opponent": "Mexico",
+          "competition": "CONCACAF Gold Cup, Knockout stage",
+          "result": "L",
+          "venue": "away",
+          "minutes": 69,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-22",
+          "opponent": "Trinidad and Tobago",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 54,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-06-20",
+          "opponent": "USA",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Australia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.1,
+        "shots90": 0.4,
+        "sot90": 0.1,
+        "passes90": 37,
+        "cards90": 0,
+        "fouls90": 2.2,
+        "minutesAvg": 62
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 60,
+          "l10": 50,
+          "season": 50
+        }
+      },
+      "importMeta": {
+        "appearances": 14,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Knockout Stage",
+          "Arab Cup, Group B",
+          "CONCACAF Gold Cup, Knockout stage",
+          "CONCACAF Gold Cup, Group D",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-03-31"
+      },
+      "profile": {
+        "club": "Al-Ahli",
+        "marketValueEur": 1200000,
+        "marketValueDisplay": "€1.2M",
+        "dateOfBirth": "1999-10-01",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-hassan-altambakti",
+      "name": "Hassan Altambakti",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Defender",
+      "number": "17",
+      "likelyStarter": true,
+      "sofascoreId": 881837,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 72,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 5.9
+        },
+        {
+          "date": "2025-12-15",
+          "opponent": "Jordan",
+          "competition": "Arab Cup, Knockout Stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 81,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 37,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-12-02",
+          "opponent": "Oman",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 59,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 57,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Czechia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 94,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "North Macedonia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 63,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Australia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.4
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.1,
+        "sot90": 0,
+        "passes90": 61,
+        "cards90": 0,
+        "fouls90": 1.6,
+        "minutesAvg": 77
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 40,
+          "season": 45
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Knockout Stage",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Hilal",
+        "marketValueEur": 1900000,
+        "marketValueDisplay": "€1.9M",
+        "dateOfBirth": "1999-02-09",
+        "age": 27,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-hassan-kadesh",
+      "name": "Hassan Kadesh",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Defender",
+      "number": "14",
+      "likelyStarter": false,
+      "sofascoreId": 847235,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 48,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.1
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-06-16",
+          "opponent": "Haiti",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Australia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 65,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 58,
+        "cards90": 0,
+        "fouls90": 0.3,
+        "minutesAvg": 45
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 7,
+        "competitions": [
+          "Int. Friendly Games",
+          "CONCACAF Gold Cup, Group D",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Ittihad",
+        "marketValueEur": 270000,
+        "marketValueDisplay": "€270K",
+        "dateOfBirth": "1992-08-01",
+        "age": 33,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-jehad-thakri",
+      "name": "Jehad Thakri",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Defender",
+      "number": "3",
+      "likelyStarter": true,
+      "sofascoreId": 1845169,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Czechia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 50,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 39,
+        "cards90": 0,
+        "fouls90": 0.5,
+        "minutesAvg": 65
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 6,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Qadsiah",
+        "marketValueEur": 950000,
+        "marketValueDisplay": "€950K",
+        "dateOfBirth": "2001-07-21",
+        "age": 24,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-moteb-al-harbi",
+      "name": "Moteb Al-Harbi",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Defender",
+      "number": "25",
+      "likelyStarter": true,
+      "sofascoreId": 1022679,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 59,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.1
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Czechia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "North Macedonia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 86,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 50,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.6,
+        "sot90": 0.3,
+        "passes90": 50,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 65
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 5,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 4, Gr. B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Hilal",
+        "marketValueEur": 1200000,
+        "marketValueDisplay": "€1.2M",
+        "dateOfBirth": "2000-02-19",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-nawaf-boushal",
+      "name": "Nawaf Boushal",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Defender",
+      "number": "13",
+      "likelyStarter": true,
+      "sofascoreId": 986400,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 49,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Serbia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-12-15",
+          "opponent": "Jordan",
+          "competition": "Arab Cup, Knockout Stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-12-08",
+          "opponent": "Morocco",
+          "competition": "Arab Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-12-02",
+          "opponent": "Oman",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 50,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Czechia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-06-29",
+          "opponent": "Mexico",
+          "competition": "CONCACAF Gold Cup, Knockout stage",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-22",
+          "opponent": "Trinidad and Tobago",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-20",
+          "opponent": "USA",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "L",
+          "venue": "home",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-06-16",
+          "opponent": "Haiti",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.4,
+        "sot90": 0.1,
+        "passes90": 35,
+        "cards90": 0,
+        "fouls90": 1,
+        "minutesAvg": 64
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 30,
+          "season": 20
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Knockout Stage",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B",
+          "CONCACAF Gold Cup, Knockout stage",
+          "CONCACAF Gold Cup, Group D"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Nassr",
+        "marketValueEur": 1500000,
+        "marketValueDisplay": "€1.5M",
+        "dateOfBirth": "1999-09-16",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-abdullah-al-khaibari",
+      "name": "Abdullah Al-Khaibari",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Midfielder",
+      "number": "15",
+      "likelyStarter": true,
+      "sofascoreId": 867179,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Serbia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-12-15",
+          "opponent": "Jordan",
+          "competition": "Arab Cup, Knockout Stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 72,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 49,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 53,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-12-02",
+          "opponent": "Oman",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 51,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 57,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Czechia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 66,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "North Macedonia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 75,
+          "cards": 0,
+          "fouls": 4,
+          "rating": 6.4
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.5,
+        "sot90": 0,
+        "passes90": 56,
+        "cards90": 0,
+        "fouls90": 1.6,
+        "minutesAvg": 76
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 9
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 30,
+          "season": 36
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Knockout Stage",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Nassr",
+        "marketValueEur": 725000,
+        "marketValueDisplay": "€725K",
+        "dateOfBirth": "1996-08-16",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-ala-a-al-hejji",
+      "name": "Ala'a Al-Hejji",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Midfielder",
+      "number": "30",
+      "likelyStarter": false,
+      "sofascoreId": 826242,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 1.96,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 35,
+        "cards90": 0,
+        "fouls90": 2,
+        "minutesAvg": 23
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 2,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Neom SC",
+        "marketValueEur": 145000,
+        "marketValueDisplay": "€145K",
+        "dateOfBirth": "1995-12-03",
+        "age": 30,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-ayman-yahya",
+      "name": "Ayman Yahya",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Midfielder",
+      "number": "15",
+      "likelyStarter": false,
+      "sofascoreId": 1130539,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Serbia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6
+        },
+        {
+          "date": "2025-12-08",
+          "opponent": "Morocco",
+          "competition": "Arab Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-12-02",
+          "opponent": "Oman",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 72,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-06-22",
+          "opponent": "Trinidad and Tobago",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-06-20",
+          "opponent": "USA",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "L",
+          "venue": "home",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-06-16",
+          "opponent": "Haiti",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 1.4,
+        "sot90": 0.2,
+        "passes90": 42,
+        "cards90": 0,
+        "fouls90": 1.3,
+        "minutesAvg": 47
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 17
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 8
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 17
+        }
+      },
+      "importMeta": {
+        "appearances": 12,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B",
+          "CONCACAF Gold Cup, Group D",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Nassr",
+        "marketValueEur": 1400000,
+        "marketValueDisplay": "€1.4M",
+        "dateOfBirth": "2001-05-14",
+        "age": 25,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-mohamed-kanno",
+      "name": "Mohamed Kanno",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Midfielder",
+      "number": "23",
+      "likelyStarter": true,
+      "sofascoreId": 828524,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 48,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Serbia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.2
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 87,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 73,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-12-15",
+          "opponent": "Jordan",
+          "competition": "Arab Cup, Knockout Stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 74,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 2,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 68,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 9.2
+        },
+        {
+          "date": "2025-12-02",
+          "opponent": "Oman",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.8
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.1
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 4,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.1
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "North Macedonia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 72,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Australia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 71,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.2,
+        "assists90": 0,
+        "shots90": 1,
+        "sot90": 0.4,
+        "passes90": 59,
+        "cards90": 0,
+        "fouls90": 1.2,
+        "minutesAvg": 74
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 8
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 8
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 30,
+          "season": 25
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 10,
+          "season": 8
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 20,
+          "season": 25
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 30,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 12,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Knockout Stage",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Hilal",
+        "marketValueEur": 930000,
+        "marketValueDisplay": "€930K",
+        "dateOfBirth": "1994-09-22",
+        "age": 31,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-mohammed-abu-al-shamat",
+      "name": "Mohammed Abu Al-Shamat",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Midfielder",
+      "number": "12",
+      "likelyStarter": true,
+      "sofascoreId": 1804369,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-12-15",
+          "opponent": "Jordan",
+          "competition": "Arab Cup, Knockout Stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-12-08",
+          "opponent": "Morocco",
+          "competition": "Arab Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 2.3,
+        "sot90": 0,
+        "passes90": 48,
+        "cards90": 0,
+        "fouls90": 2.8,
+        "minutesAvg": 40
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 25,
+          "l10": 25,
+          "season": 25
+        },
+        "shots25": {
+          "l5": 25,
+          "l10": 25,
+          "season": 25
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        }
+      },
+      "importMeta": {
+        "appearances": 4,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Knockout Stage",
+          "Arab Cup, Group B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Qadsiah",
+        "marketValueEur": 1400000,
+        "marketValueDisplay": "€1.4M",
+        "dateOfBirth": "2002-08-11",
+        "age": 23,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-musab-al-juwayr",
+      "name": "Musab Al Juwayr",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Midfielder",
+      "number": "7",
+      "likelyStarter": true,
+      "sofascoreId": 1106234,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 70,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Serbia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 63,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-12-15",
+          "opponent": "Jordan",
+          "competition": "Arab Cup, Knockout Stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 26,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-12-08",
+          "opponent": "Morocco",
+          "competition": "Arab Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 69,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 49,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-12-02",
+          "opponent": "Oman",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 70,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 46,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 51,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Czechia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "North Macedonia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 74,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Australia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.11,
+        "assists90": 0.11,
+        "shots90": 1.2,
+        "sot90": 0.5,
+        "passes90": 72,
+        "cards90": 0,
+        "fouls90": 1.3,
+        "minutesAvg": 57
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 13
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 20,
+          "season": 13
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 27
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 30,
+          "season": 20
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Knockout Stage",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Qadsiah",
+        "marketValueEur": 4700000,
+        "marketValueDisplay": "€4.7M",
+        "dateOfBirth": "2003-06-20",
+        "age": 22,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-nasser-al-dawsari",
+      "name": "Nasser Al-Dawsari",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Midfielder",
+      "number": "6",
+      "likelyStarter": false,
+      "sofascoreId": 872607,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-12-15",
+          "opponent": "Jordan",
+          "competition": "Arab Cup, Knockout Stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 64,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-12-08",
+          "opponent": "Morocco",
+          "competition": "Arab Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-12-02",
+          "opponent": "Oman",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 53,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.7
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Australia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 1.4,
+        "sot90": 0.2,
+        "passes90": 45,
+        "cards90": 0,
+        "fouls90": 1.2,
+        "minutesAvg": 48
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 9
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 9
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 9
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Knockout Stage",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Hilal",
+        "marketValueEur": 775000,
+        "marketValueDisplay": "€775K",
+        "dateOfBirth": "1998-12-19",
+        "age": 27,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-salem-al-dawsari",
+      "name": "Salem Al-Dawsari",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Midfielder",
+      "number": "10",
+      "likelyStarter": true,
+      "sofascoreId": 160893,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.9
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-12-15",
+          "opponent": "Jordan",
+          "competition": "Arab Cup, Knockout Stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 2,
+          "shots": 5,
+          "shotsOnTarget": 2,
+          "passes": 45,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 9.5
+        },
+        {
+          "date": "2025-12-02",
+          "opponent": "Oman",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 2,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 47,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 2,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Czechia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Australia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 55,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.1,
+        "assists90": 0.48,
+        "shots90": 3.2,
+        "sot90": 1.4,
+        "passes90": 37,
+        "cards90": 0,
+        "fouls90": 0.3,
+        "minutesAvg": 84
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 9
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 40,
+          "l10": 20,
+          "season": 27
+        },
+        "shots15": {
+          "l5": 80,
+          "l10": 90,
+          "season": 91
+        },
+        "shots25": {
+          "l5": 60,
+          "l10": 70,
+          "season": 73
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 80,
+          "season": 82
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Knockout Stage",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Hilal",
+        "marketValueEur": 1300000,
+        "marketValueDisplay": "€1.3M",
+        "dateOfBirth": "1991-08-19",
+        "age": 34,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-saud-abdulhamid",
+      "name": "Saud Abdulhamid",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Midfielder",
+      "number": "12",
+      "likelyStarter": true,
+      "sofascoreId": 966849,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.7
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Serbia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.1
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 5,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-06-29",
+          "opponent": "Mexico",
+          "competition": "CONCACAF Gold Cup, Knockout stage",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-06-22",
+          "opponent": "Trinidad and Tobago",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-06-20",
+          "opponent": "USA",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-06-16",
+          "opponent": "Haiti",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.8
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Australia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 1,
+        "sot90": 0.1,
+        "passes90": 36,
+        "cards90": 0,
+        "fouls90": 1.4,
+        "minutesAvg": 69
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 9
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 10,
+          "season": 9
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 9
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 18
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 4, Gr. B",
+          "CONCACAF Gold Cup, Knockout stage",
+          "CONCACAF Gold Cup, Group D",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "RC Lens",
+        "marketValueEur": 8400000,
+        "marketValueDisplay": "€8.4M",
+        "dateOfBirth": "1999-07-18",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-ziyad-aljohani",
+      "name": "Ziyad Aljohani",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Midfielder",
+      "number": "18",
+      "likelyStarter": true,
+      "sofascoreId": 1048372,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-03-31",
+          "opponent": "Serbia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 72,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 3,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Czechia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 65,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.2
+        },
+        {
+          "date": "2025-06-29",
+          "opponent": "Mexico",
+          "competition": "CONCACAF Gold Cup, Knockout stage",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 5,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-06-22",
+          "opponent": "Trinidad and Tobago",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 61,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-06-20",
+          "opponent": "USA",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-16",
+          "opponent": "Haiti",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Australia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 55,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Bahrain",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 37,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.3,
+        "sot90": 0.1,
+        "passes90": 38,
+        "cards90": 0,
+        "fouls90": 1.8,
+        "minutesAvg": 69
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 10
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 10
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 30,
+          "season": 30
+        }
+      },
+      "importMeta": {
+        "appearances": 10,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, AFC, Round 4, Gr. B",
+          "CONCACAF Gold Cup, Knockout stage",
+          "CONCACAF Gold Cup, Group D",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-03-31"
+      },
+      "profile": {
+        "club": "Al-Ahli",
+        "marketValueEur": 775000,
+        "marketValueDisplay": "€775K",
+        "dateOfBirth": "2001-11-11",
+        "age": 24,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-abdullah-al-hamdan",
+      "name": "Abdullah Al-Hamdan",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Forward",
+      "number": "19",
+      "likelyStarter": false,
+      "sofascoreId": 915991,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Serbia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-12-15",
+          "opponent": "Jordan",
+          "competition": "Arab Cup, Knockout Stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-12-08",
+          "opponent": "Morocco",
+          "competition": "Arab Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Czechia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.9
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "North Macedonia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 23,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.97,
+        "assists90": 0,
+        "shots90": 3.6,
+        "sot90": 1,
+        "passes90": 35,
+        "cards90": 0,
+        "fouls90": 0.3,
+        "minutesAvg": 28
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 30,
+          "season": 30
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 30,
+          "season": 30
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 10,
+          "season": 10
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 30,
+          "season": 30
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 10,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Knockout Stage",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Nassr",
+        "marketValueEur": 335000,
+        "marketValueDisplay": "€335K",
+        "dateOfBirth": "1999-09-12",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-firas-al-buraikan",
+      "name": "Firas Al-Buraikan",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Forward",
+      "number": "9",
+      "likelyStarter": true,
+      "sofascoreId": 893307,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Serbia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-12-15",
+          "opponent": "Jordan",
+          "competition": "Arab Cup, Knockout Stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6
+        },
+        {
+          "date": "2025-12-08",
+          "opponent": "Morocco",
+          "competition": "Arab Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.1
+        },
+        {
+          "date": "2025-12-05",
+          "opponent": "Comoros",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-12-02",
+          "opponent": "Oman",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 76,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 2,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 3,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 9.2
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Czechia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "North Macedonia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 67,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-06-29",
+          "opponent": "Mexico",
+          "competition": "CONCACAF Gold Cup, Knockout stage",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-06-22",
+          "opponent": "Trinidad and Tobago",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.8
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.41,
+        "assists90": 0,
+        "shots90": 1.4,
+        "sot90": 0.8,
+        "passes90": 20,
+        "cards90": 0,
+        "fouls90": 0.8,
+        "minutesAvg": 73
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 27
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 27
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 10,
+          "season": 20
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 30,
+          "season": 40
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Knockout Stage",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B",
+          "CONCACAF Gold Cup, Knockout stage",
+          "CONCACAF Gold Cup, Group D"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Ahli",
+        "marketValueEur": 3700000,
+        "marketValueDisplay": "€3.7M",
+        "dateOfBirth": "2000-05-14",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-khalid-al-ghannam",
+      "name": "Khalid Al-Ghannam",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Forward",
+      "number": "20",
+      "likelyStarter": false,
+      "sofascoreId": 976538,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.9,
+        "sot90": 0,
+        "passes90": 38,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 35
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 3,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Ettifaq",
+        "marketValueEur": 825000,
+        "marketValueDisplay": "€825K",
+        "dateOfBirth": "2000-11-08",
+        "age": 25,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-saleh-al-shehri",
+      "name": "Saleh Al-Shehri",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Forward",
+      "number": "11",
+      "likelyStarter": false,
+      "sofascoreId": 818779,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-03-31",
+          "opponent": "Serbia",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-12-15",
+          "opponent": "Jordan",
+          "competition": "Arab Cup, Knockout Stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-12-08",
+          "opponent": "Morocco",
+          "competition": "Arab Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.1
+        },
+        {
+          "date": "2025-12-02",
+          "opponent": "Oman",
+          "competition": "Arab Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 18,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Iraq",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-10-08",
+          "opponent": "Indonesia",
+          "competition": "World Cup Qualification, AFC, Round 4, Gr. B",
+          "result": "W",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-09-08",
+          "opponent": "Czechia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "North Macedonia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-29",
+          "opponent": "Mexico",
+          "competition": "CONCACAF Gold Cup, Knockout stage",
+          "result": "L",
+          "venue": "away",
+          "minutes": 69,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-06-22",
+          "opponent": "Trinidad and Tobago",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-06-20",
+          "opponent": "USA",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "L",
+          "venue": "home",
+          "minutes": 33,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-06-16",
+          "opponent": "Haiti",
+          "competition": "CONCACAF Gold Cup, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Australia",
+          "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.38,
+        "assists90": 0,
+        "shots90": 2.5,
+        "sot90": 1,
+        "passes90": 19,
+        "cards90": 0,
+        "fouls90": 1.9,
+        "minutesAvg": 31
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 13
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 13
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 30,
+          "season": 33
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "Arab Cup, Knockout Stage",
+          "Arab Cup, Group B",
+          "World Cup Qualification, AFC, Round 4, Gr. B",
+          "CONCACAF Gold Cup, Knockout stage",
+          "CONCACAF Gold Cup, Group D",
+          "World Cup Qualification, AFC, Round 3, Gr. C"
+        ],
+        "lastMatch": "2026-03-31"
+      },
+      "profile": {
+        "club": "Al-Ittihad",
+        "marketValueEur": 530000,
+        "marketValueDisplay": "€530K",
+        "dateOfBirth": "1993-11-01",
+        "age": 32,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "saudi-arabia-sultan-mandash",
+      "name": "Sultan Mandash",
+      "team": "Saudi Arabia",
+      "group": "H",
+      "position": "Forward",
+      "number": "24",
+      "likelyStarter": false,
+      "sofascoreId": 818568,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-09",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        }
+      ],
+      "seasonRates": {
+        "goals90": 1.06,
+        "assists90": 0,
+        "shots90": 1.1,
+        "sot90": 1.1,
+        "passes90": 34,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 28
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 3,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-09"
+      },
+      "profile": {
+        "club": "Al-Hilal",
+        "marketValueEur": 390000,
+        "marketValueDisplay": "€390K",
+        "dateOfBirth": "1994-10-17",
+        "age": 31,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    }
+  ],
+  "fringeCallups": [
+    {
+      "name": "Abdullah Madu",
+      "appearances": 4
+    },
+    {
+      "name": "Khalifah Al-Dawsari",
+      "appearances": 1
+    },
+    {
+      "name": "Mohammed Mahzari",
+      "appearances": 1
+    },
+    {
+      "name": "Mohammed Sulaiman Bakor",
+      "appearances": 4
+    },
+    {
+      "name": "Muhannad Shanqeeti",
+      "appearances": 1
+    },
+    {
+      "name": "Muteb Al-Mufarrij",
+      "appearances": 2
+    },
+    {
+      "name": "Rayan Hamed",
+      "appearances": 2
+    },
+    {
+      "name": "Saad Al-Mousa",
+      "appearances": 2
+    },
+    {
+      "name": "Saad Al-Nasser",
+      "appearances": 2
+    },
+    {
+      "name": "Waleed Al-Ahmed",
+      "appearances": 4
+    },
+    {
+      "name": "Abdulaziz Al-Aliwa",
+      "appearances": 1
+    },
+    {
+      "name": "Ali Al-Hassan",
+      "appearances": 4
+    },
+    {
+      "name": "Faisal Al-Ghamdi",
+      "appearances": 3
+    },
+    {
+      "name": "Muhannad Al Saad",
+      "appearances": 1
+    },
+    {
+      "name": "Mukhtar Ali",
+      "appearances": 3
+    },
+    {
+      "name": "Murad Al Hawsawi",
+      "appearances": 1
+    },
+    {
+      "name": "Naif Masoud",
+      "appearances": 2
+    },
+    {
+      "name": "Salman Alfaraj",
+      "appearances": 2
+    },
+    {
+      "name": "Turki Alammar",
+      "appearances": 3
+    },
+    {
+      "name": "Abdullah Al-Salem",
+      "appearances": 2
+    },
+    {
+      "name": "Abdulrahman Alobud",
+      "appearances": 12
+    },
+    {
+      "name": "Hammam Al-Hammami",
+      "appearances": 1
+    },
+    {
+      "name": "Marwan Al-Sahafi",
+      "appearances": 9
+    },
+    {
+      "name": "Saleh Abu Al-Shamat",
+      "appearances": 9
+    }
+  ]
+}

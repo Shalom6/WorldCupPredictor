@@ -1,0 +1,5846 @@
+{
+  "_note": "International match logs imported from Sofascore. Club friendlies excluded. Last 22 national-team matches as of import date.",
+  "team": "Brazil",
+  "group": "C",
+  "dataSource": "sofascore",
+  "importedAt": "2026-06-11T08:35:02.131Z",
+  "eventsProcessed": 22,
+  "teamMatchResults": [
+    {
+      "date": "2026-06-06",
+      "opponent": "Egypt",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2026-05-31",
+      "opponent": "Panama",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 6,
+      "goalsAgainst": 2,
+      "venue": "home"
+    },
+    {
+      "date": "2026-04-01",
+      "opponent": "Croatia",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2026-03-26",
+      "opponent": "France",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "venue": "home"
+    },
+    {
+      "date": "2025-11-18",
+      "opponent": "Tunisia",
+      "competition": "Int. Friendly Games",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2025-11-15",
+      "opponent": "Senegal",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-10-14",
+      "opponent": "Japan",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "venue": "away"
+    },
+    {
+      "date": "2025-10-10",
+      "opponent": "South Korea",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-09-09",
+      "opponent": "Bolivia",
+      "competition": "World Cup Qualification, CONMEBOL",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2025-09-05",
+      "opponent": "Chile",
+      "competition": "World Cup Qualification, CONMEBOL",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-06-11",
+      "opponent": "Paraguay",
+      "competition": "World Cup Qualification, CONMEBOL",
+      "result": "W",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-06-05",
+      "opponent": "Ecuador",
+      "competition": "World Cup Qualification, CONMEBOL",
+      "result": "D",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-03-26",
+      "opponent": "Argentina",
+      "competition": "World Cup Qualification, CONMEBOL",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "venue": "away"
+    },
+    {
+      "date": "2025-03-21",
+      "opponent": "Colombia",
+      "competition": "World Cup Qualification, CONMEBOL",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2024-11-20",
+      "opponent": "Uruguay",
+      "competition": "World Cup Qualification, CONMEBOL",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "home"
+    }
+  ],
+  "players": [
+    {
+      "id": "brazil-alisson",
+      "name": "Alisson",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Goalkeeper",
+      "number": "1",
+      "likelyStarter": true,
+      "sofascoreId": 243609,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3,
+          "saves": 0,
+          "goalsConceded": 1,
+          "keeperSweeper": 2
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3,
+          "saves": 4,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Bolivia",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.6,
+          "saves": 9,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7,
+          "saves": 0,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-06-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9,
+          "saves": 1,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Ecuador",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3,
+          "saves": 3,
+          "goalsConceded": 0,
+          "keeperSweeper": 2
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "Colombia",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8,
+          "saves": 2,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-09-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4,
+          "saves": 1,
+          "goalsConceded": 1,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2024-09-07",
+          "opponent": "Ecuador",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2,
+          "saves": 1,
+          "goalsConceded": 0,
+          "keeperSweeper": 2
+        },
+        {
+          "date": "2024-07-03",
+          "opponent": "Colombia",
+          "competition": "CONMEBOL Copa América, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2,
+          "saves": 5,
+          "goalsConceded": 1,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2024-06-29",
+          "opponent": "Paraguay",
+          "competition": "CONMEBOL Copa América, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4,
+          "saves": 5,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 25,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 81
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL",
+          "CONMEBOL Copa América, Group D"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Liverpool FC",
+        "marketValueEur": 18700000,
+        "marketValueDisplay": "€18.7M",
+        "dateOfBirth": "1992-10-02",
+        "age": 33,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-ederson",
+      "name": "Ederson",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Goalkeeper",
+      "number": "23",
+      "likelyStarter": true,
+      "sofascoreId": 254491,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7,
+          "saves": 4,
+          "goalsConceded": 2,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2026-03-26",
+          "opponent": "France",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 5.4,
+          "saves": 1,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8,
+          "saves": 1,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-11-20",
+          "opponent": "Uruguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8,
+          "saves": 1,
+          "goalsConceded": 1,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Venezuela",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5,
+          "saves": 3,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-10-16",
+          "opponent": "Peru",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2,
+          "saves": 2,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 49,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8,
+          "saves": 0,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 29,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 84
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 7,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL"
+        ],
+        "lastMatch": "2026-05-31"
+      },
+      "profile": {
+        "club": "Fenerbahçe",
+        "marketValueEur": 9200000,
+        "marketValueDisplay": "€9.2M",
+        "dateOfBirth": "1993-08-17",
+        "age": 32,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-weverton",
+      "name": "Weverton",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Goalkeeper",
+      "number": "12",
+      "likelyStarter": false,
+      "sofascoreId": 243529,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8,
+          "saves": 1,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 30,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 45
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 1,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Grêmio",
+        "marketValueEur": 750000,
+        "marketValueDisplay": "€750K",
+        "dateOfBirth": "1987-12-13",
+        "age": 38,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-alex-sandro",
+      "name": "Alex Sandro",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Defender",
+      "number": "6",
+      "likelyStarter": true,
+      "sofascoreId": 84854,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.2
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2025-06-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 65,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Ecuador",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 54,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.3,
+        "sot90": 0,
+        "passes90": 54,
+        "cards90": 0,
+        "fouls90": 0.6,
+        "minutesAvg": 63
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 5,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Flamengo",
+        "marketValueEur": 1500000,
+        "marketValueDisplay": "€1.5M",
+        "dateOfBirth": "1991-01-26",
+        "age": 35,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-bremer",
+      "name": "Bremer",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Defender",
+      "number": "14",
+      "likelyStarter": false,
+      "sofascoreId": 885197,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-03-26",
+          "opponent": "France",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 54,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.5,
+        "assists90": 0,
+        "shots90": 1,
+        "sot90": 0.5,
+        "passes90": 58,
+        "cards90": 0,
+        "fouls90": 1.5,
+        "minutesAvg": 60
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 33,
+          "l10": 33,
+          "season": 33
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 3,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Juventus",
+        "marketValueEur": 33000000,
+        "marketValueDisplay": "€33M",
+        "dateOfBirth": "1997-03-18",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-danilo",
+      "name": "Danilo",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Defender",
+      "number": "2",
+      "likelyStarter": true,
+      "sofascoreId": 124992,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.7
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.2
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Tunisia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-06-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2024-11-20",
+          "opponent": "Uruguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 55,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 79,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-09-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 54,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2024-09-07",
+          "opponent": "Ecuador",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 81,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-07-03",
+          "opponent": "Colombia",
+          "competition": "CONMEBOL Copa América, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-06-29",
+          "opponent": "Paraguay",
+          "competition": "CONMEBOL Copa América, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 56,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.3,
+        "sot90": 0,
+        "passes90": 64,
+        "cards90": 0,
+        "fouls90": 0.7,
+        "minutesAvg": 67
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 20,
+          "season": 18
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL",
+          "CONMEBOL Copa América, Group D"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Flamengo",
+        "marketValueEur": 2600000,
+        "marketValueDisplay": "€2.6M",
+        "dateOfBirth": "1991-07-15",
+        "age": 34,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-douglas-santos",
+      "name": "Douglas Santos",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Defender",
+      "number": "6",
+      "likelyStarter": true,
+      "sofascoreId": 243583,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 37,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 56,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2026-03-26",
+          "opponent": "France",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.1
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "South Korea",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 60,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.2,
+        "shots90": 0.2,
+        "sot90": 0,
+        "passes90": 55,
+        "cards90": 0,
+        "fouls90": 0.6,
+        "minutesAvg": 74
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 17,
+          "season": 17
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 17,
+          "season": 17
+        }
+      },
+      "importMeta": {
+        "appearances": 6,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Zenit St. Petersburg",
+        "marketValueEur": 7000000,
+        "marketValueDisplay": "€7M",
+        "dateOfBirth": "1994-03-22",
+        "age": 32,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-gabriel-magalhaes",
+      "name": "Gabriel Magalhães",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Defender",
+      "number": "14",
+      "likelyStarter": true,
+      "sofascoreId": 869792,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-11-15",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 64,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "South Korea",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 74,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 92,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "Colombia",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7
+        },
+        {
+          "date": "2024-11-20",
+          "opponent": "Uruguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 99,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.9
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Venezuela",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 70,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.6
+        },
+        {
+          "date": "2024-10-16",
+          "opponent": "Peru",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 73,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 95,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.6
+        },
+        {
+          "date": "2024-09-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 83,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-09-07",
+          "opponent": "Ecuador",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 94,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.7
+        },
+        {
+          "date": "2024-06-29",
+          "opponent": "Paraguay",
+          "competition": "CONMEBOL Copa América, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 4,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.4,
+        "sot90": 0.1,
+        "passes90": 77,
+        "cards90": 0,
+        "fouls90": 1.5,
+        "minutesAvg": 80
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 9
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 80,
+          "l10": 50,
+          "season": 45
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL",
+          "CONMEBOL Copa América, Group D"
+        ],
+        "lastMatch": "2025-11-15"
+      },
+      "profile": {
+        "club": "Arsenal",
+        "marketValueEur": 70000000,
+        "marketValueDisplay": "€70M",
+        "dateOfBirth": "1997-12-19",
+        "age": 28,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-leo-pereira",
+      "name": "Léo Pereira",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Defender",
+      "number": "15",
+      "likelyStarter": true,
+      "sofascoreId": 358548,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 86,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.2
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 87,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2026-03-26",
+          "opponent": "France",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 66,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.3,
+        "sot90": 0.3,
+        "passes90": 76,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 79
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 25,
+          "l10": 25,
+          "season": 25
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 4,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Flamengo",
+        "marketValueEur": 9400000,
+        "marketValueDisplay": "€9.4M",
+        "dateOfBirth": "1996-01-31",
+        "age": 30,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-marquinhos",
+      "name": "Marquinhos",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Defender",
+      "number": "4",
+      "likelyStarter": true,
+      "sofascoreId": 155995,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 5.9
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 78,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Tunisia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 80,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Bolivia",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 80,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-06-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 78,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Ecuador",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 76,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-03-26",
+          "opponent": "Argentina",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 64,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.2
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "Colombia",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 50,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-20",
+          "opponent": "Uruguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 98,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Venezuela",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 58,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2024-10-16",
+          "opponent": "Peru",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 78,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 89,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-09-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 82,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.1,
+        "sot90": 0,
+        "passes90": 73,
+        "cards90": 0,
+        "fouls90": 0.4,
+        "minutesAvg": 83
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Paris Saint-Germain",
+        "marketValueEur": 29000000,
+        "marketValueDisplay": "€29M",
+        "dateOfBirth": "1994-05-14",
+        "age": 32,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-roger-ibanez",
+      "name": "Roger Ibañez",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Defender",
+      "number": "24",
+      "likelyStarter": false,
+      "sofascoreId": 888949,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-03-26",
+          "opponent": "France",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 65,
+        "cards90": 0,
+        "fouls90": 1.6,
+        "minutesAvg": 43
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 4,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Al-Ahli",
+        "marketValueEur": 16500000,
+        "marketValueDisplay": "€16.5M",
+        "dateOfBirth": "1998-11-23",
+        "age": 27,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-bruno-guimaraes",
+      "name": "Bruno Guimarães",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "5",
+      "likelyStarter": true,
+      "sofascoreId": 866469,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.1
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Tunisia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 37,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 54,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "South Korea",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 66,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.9
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Bolivia",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 59,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 64,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.9
+        },
+        {
+          "date": "2025-06-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 65,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.9
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Ecuador",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "Colombia",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2024-11-20",
+          "opponent": "Uruguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "home",
+          "minutes": 86,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 53,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Venezuela",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-10-16",
+          "opponent": "Peru",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 63,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.16,
+        "assists90": 0.24,
+        "shots90": 1.1,
+        "sot90": 0.3,
+        "passes90": 59,
+        "cards90": 0,
+        "fouls90": 1.8,
+        "minutesAvg": 74
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 13
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 13
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 40,
+          "season": 27
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 60,
+          "season": 53
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Newcastle United",
+        "marketValueEur": 77000000,
+        "marketValueDisplay": "€77M",
+        "dateOfBirth": "1997-11-16",
+        "age": 28,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-casemiro",
+      "name": "Casemiro",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "5",
+      "likelyStarter": true,
+      "sofascoreId": 122951,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.2
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2026-03-26",
+          "opponent": "France",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 53,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Tunisia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.8
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 72,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "South Korea",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 109,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.7
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 69,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-06-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 78,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Ecuador",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 47,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.22,
+        "assists90": 0.22,
+        "shots90": 1.9,
+        "sot90": 0.7,
+        "passes90": 68,
+        "cards90": 0,
+        "fouls90": 0.9,
+        "minutesAvg": 74
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 18
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 18
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 40,
+          "season": 45
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 20,
+          "season": 18
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 40,
+          "season": 45
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 9
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Manchester United",
+        "marketValueEur": 7300000,
+        "marketValueDisplay": "€7.3M",
+        "dateOfBirth": "1992-02-23",
+        "age": 34,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-danilo-santos",
+      "name": "Danilo Santos",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "18",
+      "likelyStarter": false,
+      "sofascoreId": 1064039,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.9
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 8.2
+        },
+        {
+          "date": "2026-03-26",
+          "opponent": "France",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.97,
+        "assists90": 0,
+        "shots90": 2.4,
+        "sot90": 1.5,
+        "passes90": 40,
+        "cards90": 0,
+        "fouls90": 1,
+        "minutesAvg": 46
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 25,
+          "l10": 25,
+          "season": 25
+        }
+      },
+      "importMeta": {
+        "appearances": 4,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Botafogo",
+        "marketValueEur": 25000000,
+        "marketValueDisplay": "€25M",
+        "dateOfBirth": "2001-04-25",
+        "age": 25,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-ederson",
+      "name": "Éderson",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "24",
+      "likelyStarter": false,
+      "sofascoreId": 946888,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-03-26",
+          "opponent": "Argentina",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.3
+        },
+        {
+          "date": "2024-07-03",
+          "opponent": "Colombia",
+          "competition": "CONMEBOL Copa América, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 67,
+        "cards90": 0,
+        "fouls90": 6.7,
+        "minutesAvg": 14
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        }
+      },
+      "importMeta": {
+        "appearances": 2,
+        "competitions": [
+          "World Cup Qualification, CONMEBOL",
+          "CONMEBOL Copa América, Group D"
+        ],
+        "lastMatch": "2025-03-26"
+      },
+      "profile": {
+        "club": "Atalanta",
+        "marketValueEur": 43000000,
+        "marketValueDisplay": "€43M",
+        "dateOfBirth": "1999-07-07",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-fabinho",
+      "name": "Fabinho",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "17",
+      "likelyStarter": false,
+      "sofascoreId": 243585,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Tunisia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 54,
+        "cards90": 0,
+        "fouls90": 0.6,
+        "minutesAvg": 37
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 4,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Al-Ittihad",
+        "marketValueEur": 11900000,
+        "marketValueDisplay": "€11.9M",
+        "dateOfBirth": "1993-10-23",
+        "age": 32,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-lucas-paqueta",
+      "name": "Lucas Paquetá",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "8",
+      "likelyStarter": false,
+      "sofascoreId": 839981,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 8.9
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Tunisia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 55,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "South Korea",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Bolivia",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 45,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-11-20",
+          "opponent": "Uruguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "home",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Venezuela",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-09-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 64,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-09-07",
+          "opponent": "Ecuador",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 55,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-07-03",
+          "opponent": "Colombia",
+          "competition": "CONMEBOL Copa América, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2024-06-29",
+          "opponent": "Paraguay",
+          "competition": "CONMEBOL Copa América, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 79,
+          "goals": 1,
+          "assists": 1,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.39,
+        "assists90": 0.52,
+        "shots90": 2,
+        "sot90": 0.4,
+        "passes90": 61,
+        "cards90": 0,
+        "fouls90": 1.8,
+        "minutesAvg": 46
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 40,
+          "l10": 20,
+          "season": 27
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 20,
+          "season": 27
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL",
+          "CONMEBOL Copa América, Group D"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Flamengo",
+        "marketValueEur": 36000000,
+        "marketValueDisplay": "€36M",
+        "dateOfBirth": "1997-08-26",
+        "age": 28,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-luiz-henrique",
+      "name": "Luiz Henrique",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "20",
+      "likelyStarter": false,
+      "sofascoreId": 1035995,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2026-03-26",
+          "opponent": "France",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Tunisia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Bolivia",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6
+        },
+        {
+          "date": "2024-11-20",
+          "opponent": "Uruguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "home",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Venezuela",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-10-16",
+          "opponent": "Peru",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 21,
+          "goals": 1,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.3
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "away",
+          "minutes": 22,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-09-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-09-07",
+          "opponent": "Ecuador",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.3,
+        "assists90": 0.45,
+        "shots90": 2,
+        "sot90": 0.8,
+        "passes90": 22,
+        "cards90": 0,
+        "fouls90": 1.7,
+        "minutesAvg": 40
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 13
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 30,
+          "season": 33
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 13
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Zenit St. Petersburg",
+        "marketValueEur": 25000000,
+        "marketValueDisplay": "€25M",
+        "dateOfBirth": "2001-01-02",
+        "age": 25,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-raphinha",
+      "name": "Raphinha",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "11",
+      "likelyStarter": true,
+      "sofascoreId": 831005,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-03-26",
+          "opponent": "France",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.2
+        },
+        {
+          "date": "2025-09-09",
+          "opponent": "Bolivia",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7
+        },
+        {
+          "date": "2025-06-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 37,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-03-26",
+          "opponent": "Argentina",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "Colombia",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 8.2
+        },
+        {
+          "date": "2024-11-20",
+          "opponent": "Uruguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 0,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.3
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Venezuela",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-10-16",
+          "opponent": "Peru",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 78,
+          "goals": 2,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 3,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.3
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2024-07-03",
+          "opponent": "Colombia",
+          "competition": "CONMEBOL Copa América, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.8
+        },
+        {
+          "date": "2024-06-29",
+          "opponent": "Paraguay",
+          "competition": "CONMEBOL Copa América, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.45,
+        "assists90": 0.18,
+        "shots90": 3.2,
+        "sot90": 1.3,
+        "passes90": 30,
+        "cards90": 0,
+        "fouls90": 1.6,
+        "minutesAvg": 71
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 20,
+          "season": 29
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 14
+        },
+        "shots15": {
+          "l5": 80,
+          "l10": 90,
+          "season": 86
+        },
+        "shots25": {
+          "l5": 40,
+          "l10": 50,
+          "season": 43
+        },
+        "sot05": {
+          "l5": 80,
+          "l10": 70,
+          "season": 64
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 50,
+          "season": 43
+        }
+      },
+      "importMeta": {
+        "appearances": 14,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL",
+          "CONMEBOL Copa América, Group D"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "FC Barcelona",
+        "marketValueEur": 72000000,
+        "marketValueDisplay": "€72M",
+        "dateOfBirth": "1996-12-14",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-rayan",
+      "name": "Rayan",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Midfielder",
+      "number": "26",
+      "likelyStarter": false,
+      "sofascoreId": 1464966,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.7
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 1.53,
+        "assists90": 0,
+        "shots90": 6.1,
+        "sot90": 4.6,
+        "passes90": 24,
+        "cards90": 0,
+        "fouls90": 3.1,
+        "minutesAvg": 30
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "shots25": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "sot05": {
+          "l5": 100,
+          "l10": 100,
+          "season": 100
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 2,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-05-31"
+      },
+      "profile": {
+        "club": "Bournemouth",
+        "marketValueEur": 39000000,
+        "marketValueDisplay": "€39M",
+        "dateOfBirth": "2006-08-03",
+        "age": 19,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-endrick",
+      "name": "Endrick",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Forward",
+      "number": "9",
+      "likelyStarter": false,
+      "sofascoreId": 1174937,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.8
+        },
+        {
+          "date": "2025-03-26",
+          "opponent": "Argentina",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-10-16",
+          "opponent": "Peru",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-09-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2024-07-03",
+          "opponent": "Colombia",
+          "competition": "CONMEBOL Copa América, Group D",
+          "result": "D",
+          "venue": "home",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-06-29",
+          "opponent": "Paraguay",
+          "competition": "CONMEBOL Copa América, Group D",
+          "result": "W",
+          "venue": "away",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.37,
+        "assists90": 0.37,
+        "shots90": 1.9,
+        "sot90": 1.1,
+        "passes90": 14,
+        "cards90": 0,
+        "fouls90": 1.5,
+        "minutesAvg": 27
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 22,
+          "season": 22
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 22,
+          "season": 22
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL",
+          "CONMEBOL Copa América, Group D"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Olympique Lyonnais",
+        "marketValueEur": 42000000,
+        "marketValueDisplay": "€42M",
+        "dateOfBirth": "2006-07-21",
+        "age": 19,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-gabriel-martinelli",
+      "name": "Gabriel Martinelli",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Forward",
+      "number": "22",
+      "likelyStarter": false,
+      "sofascoreId": 922573,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2026-03-26",
+          "opponent": "France",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 57,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-09-05",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-06-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Ecuador",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 26,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-11-20",
+          "opponent": "Uruguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "home",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Venezuela",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Chile",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "away",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.45,
+        "assists90": 0,
+        "shots90": 2.3,
+        "sot90": 0.9,
+        "passes90": 28,
+        "cards90": 0,
+        "fouls90": 0.9,
+        "minutesAvg": 40
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 40,
+          "l10": 20,
+          "season": 20
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 40,
+          "season": 40
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 40,
+          "season": 40
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 10
+        }
+      },
+      "importMeta": {
+        "appearances": 10,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Arsenal",
+        "marketValueEur": 42000000,
+        "marketValueDisplay": "€42M",
+        "dateOfBirth": "2001-06-18",
+        "age": 24,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-igor-thiago",
+      "name": "Igor Thiago",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Forward",
+      "number": "21",
+      "likelyStarter": false,
+      "sofascoreId": 1016907,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.9
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2026-03-26",
+          "opponent": "France",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        }
+      ],
+      "seasonRates": {
+        "goals90": 1.36,
+        "assists90": 0.68,
+        "shots90": 3.4,
+        "sot90": 2.7,
+        "passes90": 19,
+        "cards90": 0,
+        "fouls90": 0.7,
+        "minutesAvg": 33
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 25,
+          "l10": 25,
+          "season": 25
+        },
+        "shots15": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 75,
+          "l10": 75,
+          "season": 75
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 4,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Brentford",
+        "marketValueEur": 52000000,
+        "marketValueDisplay": "€52M",
+        "dateOfBirth": "2001-06-26",
+        "age": 24,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-matheus-cunha",
+      "name": "Matheus Cunha",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Forward",
+      "number": "21",
+      "likelyStarter": true,
+      "sofascoreId": 886363,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 5.8
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-03-26",
+          "opponent": "France",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Tunisia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 65,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 33,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "South Korea",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.7
+        },
+        {
+          "date": "2025-06-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.7
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Ecuador",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 26,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-03-26",
+          "opponent": "Argentina",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 69,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "Colombia",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.14,
+        "assists90": 0.27,
+        "shots90": 1.6,
+        "sot90": 0.4,
+        "passes90": 29,
+        "cards90": 0,
+        "fouls90": 1.5,
+        "minutesAvg": 55
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 8
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 20,
+          "season": 17
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 17
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 20,
+          "season": 17
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 25
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 20,
+          "season": 25
+        }
+      },
+      "importMeta": {
+        "appearances": 12,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Manchester United",
+        "marketValueEur": 73000000,
+        "marketValueDisplay": "€73M",
+        "dateOfBirth": "1999-05-27",
+        "age": 27,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-neymar",
+      "name": "Neymar",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Forward",
+      "number": null,
+      "likelyStarter": false,
+      "sofascoreId": 124712,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [],
+      "seasonRates": null,
+      "hitRates": null,
+      "importMeta": {
+        "appearances": 0,
+        "competitions": [],
+        "lastMatch": null
+      },
+      "profile": {
+        "club": "Santos",
+        "marketValueEur": 8500000,
+        "marketValueDisplay": "€8.5M",
+        "dateOfBirth": "1992-02-05",
+        "age": 34,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "brazil-vinicius-junior",
+      "name": "Vinícius Júnior",
+      "team": "Brazil",
+      "group": "C",
+      "position": "Forward",
+      "number": "7",
+      "likelyStarter": true,
+      "sofascoreId": 868812,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-06",
+          "opponent": "Egypt",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-05-31",
+          "opponent": "Panama",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.2
+        },
+        {
+          "date": "2026-04-01",
+          "opponent": "Croatia",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2026-03-26",
+          "opponent": "France",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-11-18",
+          "opponent": "Tunisia",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-11-15",
+          "opponent": "Senegal",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-10-14",
+          "opponent": "Japan",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "away",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-10-10",
+          "opponent": "South Korea",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "away",
+          "minutes": 79,
+          "goals": 1,
+          "assists": 1,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.2
+        },
+        {
+          "date": "2025-06-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 78,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-05",
+          "opponent": "Ecuador",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-03-26",
+          "opponent": "Argentina",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-03-21",
+          "opponent": "Colombia",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "W",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 1,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 4,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.8
+        },
+        {
+          "date": "2024-11-20",
+          "opponent": "Uruguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 0,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2024-11-14",
+          "opponent": "Venezuela",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2024-09-11",
+          "opponent": "Paraguay",
+          "competition": "World Cup Qualification, CONMEBOL",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.31,
+        "assists90": 0.23,
+        "shots90": 2.8,
+        "sot90": 1.2,
+        "passes90": 28,
+        "cards90": 0,
+        "fouls90": 1,
+        "minutesAvg": 79
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 30,
+          "season": 27
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 40,
+          "l10": 30,
+          "season": 20
+        },
+        "shots15": {
+          "l5": 80,
+          "l10": 70,
+          "season": 73
+        },
+        "shots25": {
+          "l5": 40,
+          "l10": 30,
+          "season": 40
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 60,
+          "season": 60
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qualification, CONMEBOL"
+        ],
+        "lastMatch": "2026-06-06"
+      },
+      "profile": {
+        "club": "Real Madrid",
+        "marketValueEur": 156000000,
+        "marketValueDisplay": "€156M",
+        "dateOfBirth": "2000-07-12",
+        "age": 25,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    }
+  ],
+  "fringeCallups": [
+    {
+      "name": "Bento",
+      "appearances": 5
+    },
+    {
+      "name": "Hugo Souza",
+      "appearances": 1
+    },
+    {
+      "name": "Abner Vinícius",
+      "appearances": 4
+    },
+    {
+      "name": "Alexsandro Ribeiro",
+      "appearances": 3
+    },
+    {
+      "name": "Caio Henrique",
+      "appearances": 4
+    },
+    {
+      "name": "Carlos Augusto",
+      "appearances": 2
+    },
+    {
+      "name": "Éder Militão",
+      "appearances": 5
+    },
+    {
+      "name": "Fabrício Bruno",
+      "appearances": 4
+    },
+    {
+      "name": "Guilherme Arana",
+      "appearances": 4
+    },
+    {
+      "name": "Kaiki",
+      "appearances": 1
+    },
+    {
+      "name": "Léo Ortiz",
+      "appearances": 2
+    },
+    {
+      "name": "Lucas Beraldo",
+      "appearances": 2
+    },
+    {
+      "name": "Murillo",
+      "appearances": 1
+    },
+    {
+      "name": "Paulo Henrique",
+      "appearances": 2
+    },
+    {
+      "name": "Vanderson",
+      "appearances": 5
+    },
+    {
+      "name": "Vitinho",
+      "appearances": 2
+    },
+    {
+      "name": "Wendell",
+      "appearances": 3
+    },
+    {
+      "name": "André",
+      "appearances": 8
+    },
+    {
+      "name": "Andreas Pereira",
+      "appearances": 4
+    },
+    {
+      "name": "Andrey Santos",
+      "appearances": 5
+    },
+    {
+      "name": "Douglas Luiz",
+      "appearances": 2
+    },
+    {
+      "name": "Estêvão",
+      "appearances": 11
+    },
+    {
+      "name": "Gabriel Sara",
+      "appearances": 1
+    },
+    {
+      "name": "Gerson",
+      "appearances": 9
+    },
+    {
+      "name": "Jean Lucas",
+      "appearances": 1
+    },
+    {
+      "name": "João Gomes",
+      "appearances": 4
+    },
+    {
+      "name": "Joelinton",
+      "appearances": 3
+    },
+    {
+      "name": "Matheus Pereira",
+      "appearances": 1
+    },
+    {
+      "name": "Samuel Lino",
+      "appearances": 1
+    },
+    {
+      "name": "Savinho",
+      "appearances": 8
+    },
+    {
+      "name": "Wesley",
+      "appearances": 8
+    },
+    {
+      "name": "Igor Jesus",
+      "appearances": 5
+    },
+    {
+      "name": "João Pedro",
+      "appearances": 7
+    },
+    {
+      "name": "Kaio Jorge",
+      "appearances": 1
+    },
+    {
+      "name": "Lucas Moura",
+      "appearances": 2
+    },
+    {
+      "name": "Richarlison",
+      "appearances": 6
+    },
+    {
+      "name": "Rodrygo",
+      "appearances": 12
+    },
+    {
+      "name": "Vitor Roque",
+      "appearances": 1
+    }
+  ]
+}

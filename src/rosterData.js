@@ -22,6 +22,15 @@ export function getCuratedRoster(teamName) {
   return curatedRosters[teamName] ?? [];
 }
 
+/** Detect SofaScore-imported squads (international logs drive xgShare + prop weights). */
+export function getRosterImportSource(teamName) {
+  const roster = getCuratedRoster(teamName);
+  if (!roster.length) return null;
+  const withLogs = roster.filter((p) => p.propProfile || p.minutesFactor > 0.5).length;
+  if (withLogs >= 12) return 'sofascore';
+  return 'bundled-world-cup-2026';
+}
+
 export function resolveRoster(teamName, candidateRoster) {
   const curated = getCuratedRoster(teamName);
   if (!candidateRoster?.length) return curated;

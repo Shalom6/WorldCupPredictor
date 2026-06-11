@@ -38,6 +38,13 @@ function formatStatsPayload(fixture, home, away, bundle) {
 
   const marketWeight = Math.round((statsBlend?.marketWeight ?? 0) * 100);
   const modelWeight = Math.round((statsBlend?.modelWeight ?? 1) * 100);
+  const sofaTeams = [home, away].filter((t) => t.dataProvenance?.rosterSource === 'sofascore');
+  const rosterNote =
+    sofaTeams.length === 2
+      ? 'Squads and player prop weights from Sofascore international match logs.'
+      : sofaTeams.length === 1
+        ? `${sofaTeams[0].name} squad from Sofascore international logs; opponent uses modelled roster.`
+        : 'Player props use modelled squad shares (import Sofascore data for real international logs).';
 
   return {
     fixture,
@@ -57,9 +64,10 @@ function formatStatsPayload(fixture, home, away, bundle) {
       home: home.dataProvenance,
       away: away.dataProvenance
     },
+    rosterNote,
     blendNote: marketImplied
-      ? `Projections: ${marketWeight}% Polymarket-implied rates · ${modelWeight}% season model`
-      : 'Projections: season model only (Polymarket unavailable)'
+      ? `Projections: ${marketWeight}% Polymarket-implied rates · ${modelWeight}% season model. ${rosterNote}`
+      : `Projections: season model only (Polymarket unavailable). ${rosterNote}`
   };
 }
 

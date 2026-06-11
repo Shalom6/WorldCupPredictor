@@ -2,9 +2,9 @@
   "era": "1930-2026",
   "description": "Long-run World Cup-era baselines used as priors when blending national team profiles",
   "blendWeights": {
-    "historical": 0.25,
-    "season2026": 0.55,
-    "formLast10": 0.2
+    "historical": 0.4,
+    "season2026": 0.5,
+    "formLast10": 0.1
   },
   "teams": [
     "Mexico",

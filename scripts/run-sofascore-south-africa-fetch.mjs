@@ -5,7 +5,10 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import puppeteer from 'puppeteer';
+import puppeteer from 'puppeteer-extra';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth';
+
+puppeteer.use(StealthPlugin());
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const outPath = path.join(__dirname, '..', 'data', 'south-africa-raw.json');
@@ -34,8 +37,9 @@ async function main() {
     );
     await page.goto('https://www.sofascore.com/football/team/south-africa/4736', {
       waitUntil: 'domcontentloaded',
-      timeout: 60000
+      timeout: 90000
     });
+    await new Promise((r) => setTimeout(r, 5000));
 
     console.log('Running fetch (22 events, ~2 min)…');
     const data = await page.evaluate(async (script) => {

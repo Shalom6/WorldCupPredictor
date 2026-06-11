@@ -1,0 +1,6524 @@
+{
+  "_note": "International match logs imported from Sofascore. Club friendlies excluded. Last 22 national-team matches as of import date.",
+  "team": "Netherlands",
+  "group": "F",
+  "dataSource": "sofascore",
+  "importedAt": "2026-06-11T08:40:47.947Z",
+  "eventsProcessed": 22,
+  "teamMatchResults": [
+    {
+      "date": "2026-06-08",
+      "opponent": "Uzbekistan",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2026-06-03",
+      "opponent": "Algeria",
+      "competition": "Int. Friendly Games",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2026-03-31",
+      "opponent": "Ecuador",
+      "competition": "Int. Friendly Games",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2026-03-27",
+      "opponent": "Norway",
+      "competition": "Int. Friendly Games",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2025-11-17",
+      "opponent": "Lithuania",
+      "competition": "World Cup Qual. UEFA G",
+      "result": "W",
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-11-14",
+      "opponent": "Poland",
+      "competition": "World Cup Qual. UEFA G",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2025-10-12",
+      "opponent": "Finland",
+      "competition": "World Cup Qual. UEFA G",
+      "result": "W",
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-10-09",
+      "opponent": "Malta",
+      "competition": "World Cup Qual. UEFA G",
+      "result": "W",
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-09-07",
+      "opponent": "Lithuania",
+      "competition": "World Cup Qual. UEFA G",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "venue": "away"
+    },
+    {
+      "date": "2025-09-04",
+      "opponent": "Poland",
+      "competition": "World Cup Qual. UEFA G",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2025-06-10",
+      "opponent": "Malta",
+      "competition": "World Cup Qual. UEFA G",
+      "result": "W",
+      "goalsFor": 8,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2025-06-07",
+      "opponent": "Finland",
+      "competition": "World Cup Qual. UEFA G",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
+      "date": "2025-03-20",
+      "opponent": "Spain",
+      "competition": "UEFA Nations League, Finals",
+      "result": "D",
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "venue": "home"
+    },
+    {
+      "date": "2024-11-19",
+      "opponent": "Bosnia & Herzegovina",
+      "competition": "UEFA Nations League, League A, Gr. 3",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2024-11-16",
+      "opponent": "Hungary",
+      "competition": "UEFA Nations League, League A, Gr. 3",
+      "result": "W",
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "venue": "home"
+    }
+  ],
+  "players": [
+    {
+      "id": "netherlands-bart-verbruggen",
+      "name": "Bart Verbruggen",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Goalkeeper",
+      "number": "1",
+      "likelyStarter": true,
+      "sofascoreId": 994363,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8,
+          "saves": 0,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9,
+          "saves": 1,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Norway",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9,
+          "saves": 1,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-11-17",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7,
+          "saves": 1,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-11-14",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1,
+          "saves": 4,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4,
+          "saves": 3,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9,
+          "saves": 0,
+          "goalsConceded": 0,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2025-09-07",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3,
+          "saves": 1,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5,
+          "saves": 1,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Spain",
+          "competition": "UEFA Nations League, Finals",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.8,
+          "saves": 5,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2,
+          "saves": 2,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-10-14",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4,
+          "saves": 4,
+          "goalsConceded": 1,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5,
+          "saves": 0,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7,
+          "saves": 3,
+          "goalsConceded": 2,
+          "keeperSweeper": 2
+        },
+        {
+          "date": "2024-09-07",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5,
+          "saves": 1,
+          "goalsConceded": 2,
+          "keeperSweeper": 0
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 31,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 85
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, Finals",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "Brighton & Hove Albion",
+        "marketValueEur": 37000000,
+        "marketValueDisplay": "€37M",
+        "dateOfBirth": "2002-08-18",
+        "age": 23,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-mark-flekken",
+      "name": "Mark Flekken",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Goalkeeper",
+      "number": "23",
+      "likelyStarter": true,
+      "sofascoreId": 171919,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3,
+          "saves": 0,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4,
+          "saves": 2,
+          "goalsConceded": 1,
+          "keeperSweeper": 2
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2,
+          "saves": 2,
+          "goalsConceded": 0,
+          "keeperSweeper": 1
+        },
+        {
+          "date": "2025-06-07",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7,
+          "saves": 2,
+          "goalsConceded": 0,
+          "keeperSweeper": 0
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5,
+          "saves": 2,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 37,
+        "cards90": 0,
+        "fouls90": 0.2,
+        "minutesAvg": 77
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 5,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "Bayer 04 Leverkusen",
+        "marketValueEur": 6400000,
+        "marketValueDisplay": "€6.4M",
+        "dateOfBirth": "1993-06-13",
+        "age": 32,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-robin-roefs",
+      "name": "Robin Roefs",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Goalkeeper",
+      "number": "13",
+      "likelyStarter": false,
+      "sofascoreId": 1012928,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.2,
+          "saves": 0,
+          "goalsConceded": 1,
+          "keeperSweeper": 0
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 28,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 45
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 1,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Sunderland",
+        "marketValueEur": 26000000,
+        "marketValueDisplay": "€26M",
+        "dateOfBirth": "2003-01-17",
+        "age": 23,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-jan-paul-van-hecke",
+      "name": "Jan Paul van Hecke",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Defender",
+      "number": "20",
+      "likelyStarter": true,
+      "sofascoreId": 962012,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 89,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.9
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 88,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 85,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Norway",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 54,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-11-14",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 87,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 100,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-06-07",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 59,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Spain",
+          "competition": "UEFA Nations League, Finals",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 54,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 119,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.3,
+        "sot90": 0,
+        "passes90": 87,
+        "cards90": 0,
+        "fouls90": 0.9,
+        "minutesAvg": 63
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 18
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, Finals",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "Brighton & Hove Albion",
+        "marketValueEur": 38000000,
+        "marketValueDisplay": "€38M",
+        "dateOfBirth": "2000-06-08",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-jorrel-hato",
+      "name": "Jorrel Hato",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Defender",
+      "number": "3",
+      "likelyStarter": true,
+      "sofascoreId": 1153079,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Spain",
+          "competition": "UEFA Nations League, Finals",
+          "result": "D",
+          "venue": "home",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 5.8
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 57,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-10-14",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 65,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.5,
+        "sot90": 0,
+        "passes90": 50,
+        "cards90": 0,
+        "fouls90": 0.5,
+        "minutesAvg": 49
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 7,
+        "competitions": [
+          "Int. Friendly Games",
+          "UEFA Nations League, Finals",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Chelsea",
+        "marketValueEur": 36000000,
+        "marketValueDisplay": "€36M",
+        "dateOfBirth": "2006-03-07",
+        "age": 20,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-lutsharel-geertruida",
+      "name": "Lutsharel Geertruida",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Defender",
+      "number": "2",
+      "likelyStarter": false,
+      "sofascoreId": 856739,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 21,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-11-17",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 26,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-14",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 55,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Spain",
+          "competition": "UEFA Nations League, Finals",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.1
+        },
+        {
+          "date": "2024-10-14",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "L",
+          "venue": "away",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "home",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-09-07",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 49,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 38
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, Finals",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Sunderland",
+        "marketValueEur": 22000000,
+        "marketValueDisplay": "€22M",
+        "dateOfBirth": "2000-07-18",
+        "age": 25,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-mats-wieffer",
+      "name": "Mats Wieffer",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Defender",
+      "number": "19",
+      "likelyStarter": false,
+      "sofascoreId": 959628,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 69,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 34,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Spain",
+          "competition": "UEFA Nations League, Finals",
+          "result": "D",
+          "venue": "home",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 66,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-10-14",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.7,
+        "sot90": 0,
+        "passes90": 63,
+        "cards90": 0,
+        "fouls90": 2.1,
+        "minutesAvg": 44
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 17,
+          "season": 17
+        }
+      },
+      "importMeta": {
+        "appearances": 6,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, Finals",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Brighton & Hove Albion",
+        "marketValueEur": 24000000,
+        "marketValueDisplay": "€24M",
+        "dateOfBirth": "1999-11-16",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-micky-van-de-ven",
+      "name": "Micky van de Ven",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Defender",
+      "number": "15",
+      "likelyStarter": true,
+      "sofascoreId": 998247,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 58,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Norway",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-11-14",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 58,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 50,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-09-07",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 53,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 49,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 9.1
+        },
+        {
+          "date": "2025-06-07",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-10-14",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 92,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 96,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2024-07-06",
+          "opponent": "Türkiye",
+          "competition": "Euro, Knockout stage",
+          "result": "W",
+          "venue": "home",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-07-02",
+          "opponent": "Romania",
+          "competition": "Euro, Knockout stage",
+          "result": "W",
+          "venue": "away",
+          "minutes": 21,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.09,
+        "assists90": 0.09,
+        "shots90": 0.4,
+        "sot90": 0.1,
+        "passes90": 55,
+        "cards90": 0,
+        "fouls90": 0.7,
+        "minutesAvg": 65
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, League A, Gr. 3",
+          "Euro, Knockout stage"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "Tottenham Hotspur",
+        "marketValueEur": 63000000,
+        "marketValueDisplay": "€63M",
+        "dateOfBirth": "2001-04-19",
+        "age": 25,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-nathan-ake",
+      "name": "Nathan Aké",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Defender",
+      "number": "5",
+      "likelyStarter": true,
+      "sofascoreId": 149663,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 45,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-11-17",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 60,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-09-07",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 49,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2025-06-07",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 55,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-09-07",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 52,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-07-10",
+          "opponent": "England",
+          "competition": "Euro, Knockout stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-07-06",
+          "opponent": "Türkiye",
+          "competition": "Euro, Knockout stage",
+          "result": "W",
+          "venue": "home",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 57,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-07-02",
+          "opponent": "Romania",
+          "competition": "Euro, Knockout stage",
+          "result": "W",
+          "venue": "away",
+          "minutes": 69,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0.4,
+        "sot90": 0,
+        "passes90": 56,
+        "cards90": 0,
+        "fouls90": 0.9,
+        "minutesAvg": 63
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 9
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 18
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, League A, Gr. 3",
+          "Euro, Knockout stage"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Manchester City",
+        "marketValueEur": 13700000,
+        "marketValueDisplay": "€13.7M",
+        "dateOfBirth": "1995-02-18",
+        "age": 31,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-virgil-van-dijk",
+      "name": "Virgil van Dijk",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Defender",
+      "number": "4",
+      "likelyStarter": true,
+      "sofascoreId": 151545,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 87,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 37,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.3
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Norway",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 58,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-11-17",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 79,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.1
+        },
+        {
+          "date": "2025-11-14",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 89,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 91,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 8.5
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 63,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-09-07",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 101,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 124,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 73,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.8
+        },
+        {
+          "date": "2025-06-07",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 90,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.7
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Spain",
+          "competition": "UEFA Nations League, Finals",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 40,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 125,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.7
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 152,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.22,
+        "assists90": 0,
+        "shots90": 0.9,
+        "sot90": 0.3,
+        "passes90": 88,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 83
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 30,
+          "season": 27
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 30,
+          "season": 27
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 30,
+          "season": 27
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, Finals",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "Liverpool FC",
+        "marketValueEur": 18600000,
+        "marketValueDisplay": "€18.6M",
+        "dateOfBirth": "1991-07-08",
+        "age": 34,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-cody-gakpo",
+      "name": "Cody Gakpo",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Midfielder",
+      "number": "11",
+      "likelyStarter": true,
+      "sofascoreId": 862967,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 2,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 10
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 2,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Norway",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.4
+        },
+        {
+          "date": "2025-11-17",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 79,
+          "goals": 1,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.7
+        },
+        {
+          "date": "2025-11-14",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.5
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 84,
+          "goals": 2,
+          "assists": 1,
+          "shots": 4,
+          "shotsOnTarget": 2,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 9.6
+        },
+        {
+          "date": "2025-09-07",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 4,
+          "shotsOnTarget": 2,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 8.4
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-06-07",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 85,
+          "goals": 0,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.8
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Spain",
+          "competition": "UEFA Nations League, Finals",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 79,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.64,
+        "assists90": 0.32,
+        "shots90": 2.6,
+        "sot90": 1.4,
+        "passes90": 32,
+        "cards90": 0,
+        "fouls90": 1,
+        "minutesAvg": 76
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 40,
+          "l10": 40,
+          "season": 40
+        },
+        "goals15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 13
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 30,
+          "season": 27
+        },
+        "shots15": {
+          "l5": 80,
+          "l10": 60,
+          "season": 67
+        },
+        "shots25": {
+          "l5": 80,
+          "l10": 60,
+          "season": 53
+        },
+        "sot05": {
+          "l5": 80,
+          "l10": 80,
+          "season": 67
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 20
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, Finals",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "Liverpool FC",
+        "marketValueEur": 63000000,
+        "marketValueDisplay": "€63M",
+        "dateOfBirth": "1999-05-07",
+        "age": 27,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-crysencio-summerville",
+      "name": "Crysencio Summerville",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Midfielder",
+      "number": "24",
+      "likelyStarter": false,
+      "sofascoreId": 917005,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.5
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 15,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.9
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 2.7,
+        "sot90": 0.7,
+        "passes90": 23,
+        "cards90": 0,
+        "fouls90": 2,
+        "minutesAvg": 68
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "shots25": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "sot05": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        }
+      },
+      "importMeta": {
+        "appearances": 2,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "West Ham United",
+        "marketValueEur": 33000000,
+        "marketValueDisplay": "€33M",
+        "dateOfBirth": "2001-10-30",
+        "age": 24,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-denzel-dumfries",
+      "name": "Denzel Dumfries",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Midfielder",
+      "number": "22",
+      "likelyStarter": true,
+      "sofascoreId": 759520,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.1
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 3
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Norway",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.3
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 48,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 36,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.3
+        },
+        {
+          "date": "2025-09-07",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 68,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 2,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 8
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-06-07",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.9
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 56,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 9.4
+        },
+        {
+          "date": "2024-10-14",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 4,
+          "rating": 8
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.1
+        },
+        {
+          "date": "2024-09-07",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-07-10",
+          "opponent": "England",
+          "competition": "Euro, Knockout stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.36,
+        "assists90": 0.36,
+        "shots90": 1.7,
+        "sot90": 0.7,
+        "passes90": 41,
+        "cards90": 0,
+        "fouls90": 1.5,
+        "minutesAvg": 82
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 30,
+          "season": 33
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 40,
+          "l10": 50,
+          "season": 33
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 60,
+          "season": 53
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 20,
+          "season": 13
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 60,
+          "season": 53
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 30,
+          "season": 47
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, League A, Gr. 3",
+          "Euro, Knockout stage"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "Inter",
+        "marketValueEur": 26000000,
+        "marketValueDisplay": "€26M",
+        "dateOfBirth": "1996-04-18",
+        "age": 30,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-frenkie-de-jong",
+      "name": "Frenkie de Jong",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Midfielder",
+      "number": "21",
+      "likelyStarter": true,
+      "sofascoreId": 795222,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 72,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 66,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 69,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 56,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-11-17",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 64,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 75,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8
+        },
+        {
+          "date": "2025-11-14",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 94,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.1
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 118,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 51,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 92,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.5
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 2,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 88,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 8.5
+        },
+        {
+          "date": "2025-06-07",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 111,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.2
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Spain",
+          "competition": "UEFA Nations League, Finals",
+          "result": "D",
+          "venue": "home",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 62,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 68,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 63,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.32,
+        "shots90": 0.3,
+        "sot90": 0.1,
+        "passes90": 92,
+        "cards90": 0,
+        "fouls90": 1,
+        "minutesAvg": 78
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 18
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 9
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 10,
+          "season": 9
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 18
+        }
+      },
+      "importMeta": {
+        "appearances": 11,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, Finals",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "FC Barcelona",
+        "marketValueEur": 42000000,
+        "marketValueDisplay": "€42M",
+        "dateOfBirth": "1997-05-12",
+        "age": 29,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-guus-til",
+      "name": "Guus Til",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Midfielder",
+      "number": "20",
+      "likelyStarter": false,
+      "sofascoreId": 845798,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 5.8
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 3,
+        "sot90": 0,
+        "passes90": 21,
+        "cards90": 0,
+        "fouls90": 6,
+        "minutesAvg": 15
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 2,
+        "competitions": [
+          "Int. Friendly Games",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "PSV Eindhoven",
+        "marketValueEur": 15500000,
+        "marketValueDisplay": "€15.5M",
+        "dateOfBirth": "1997-12-22",
+        "age": 28,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-justin-kluivert",
+      "name": "Justin Kluivert",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Midfielder",
+      "number": "17",
+      "likelyStarter": true,
+      "sofascoreId": 851596,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-14",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 31,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 44,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 39,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2025-06-07",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 21,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Spain",
+          "competition": "UEFA Nations League, Finals",
+          "result": "D",
+          "venue": "home",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.19,
+        "shots90": 1.5,
+        "sot90": 0.2,
+        "passes90": 38,
+        "cards90": 0,
+        "fouls90": 1.5,
+        "minutesAvg": 52
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "shots15": {
+          "l5": 40,
+          "l10": 33,
+          "season": 33
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 40,
+          "l10": 33,
+          "season": 33
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, Finals",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Bournemouth",
+        "marketValueEur": 29000000,
+        "marketValueDisplay": "€29M",
+        "dateOfBirth": "1999-05-05",
+        "age": 27,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-marten-de-roon",
+      "name": "Marten de Roon",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Midfielder",
+      "number": "3",
+      "likelyStarter": false,
+      "sofascoreId": 100389,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 21,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 73,
+        "cards90": 0,
+        "fouls90": 8.6,
+        "minutesAvg": 21
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 100,
+          "l10": 100,
+          "season": 100
+        }
+      },
+      "importMeta": {
+        "appearances": 1,
+        "competitions": [
+          "Int. Friendly Games"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Atalanta",
+        "marketValueEur": 3100000,
+        "marketValueDisplay": "€3.1M",
+        "dateOfBirth": "1991-03-29",
+        "age": 35,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-quinten-timber",
+      "name": "Quinten Timber",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Midfielder",
+      "number": "16",
+      "likelyStarter": false,
+      "sofascoreId": 959805,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 21,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Norway",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 12,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-11-17",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 26,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-09-07",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-10-14",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 80,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-09-07",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.21,
+        "assists90": 0,
+        "shots90": 1.5,
+        "sot90": 0.4,
+        "passes90": 44,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 43
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 10
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 10
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 10
+        }
+      },
+      "importMeta": {
+        "appearances": 10,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Olympique de Marseille",
+        "marketValueEur": 24000000,
+        "marketValueDisplay": "€24M",
+        "dateOfBirth": "2001-06-17",
+        "age": 24,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-ryan-gravenberch",
+      "name": "Ryan Gravenberch",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Midfielder",
+      "number": "6",
+      "likelyStarter": true,
+      "sofascoreId": 904897,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 70,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.2
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Norway",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 56,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2025-11-14",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 69,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 57,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.7
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 108,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-06-07",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 97,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.6
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 67,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-10-14",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "L",
+          "venue": "away",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.2
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 92,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.9
+        },
+        {
+          "date": "2024-09-07",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 73,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0.08,
+        "shots90": 0.9,
+        "sot90": 0.2,
+        "passes90": 70,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 74
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 13
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 20,
+          "season": 20
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 27
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "Liverpool FC",
+        "marketValueEur": 98000000,
+        "marketValueDisplay": "€98M",
+        "dateOfBirth": "2002-05-16",
+        "age": 24,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-teun-koopmeiners",
+      "name": "Teun Koopmeiners",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Midfielder",
+      "number": "20",
+      "likelyStarter": false,
+      "sofascoreId": 803033,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 21,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Norway",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Spain",
+          "competition": "UEFA Nations League, Finals",
+          "result": "D",
+          "venue": "home",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 70,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 22,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.9
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.36,
+        "assists90": 0.36,
+        "shots90": 1.4,
+        "sot90": 0.7,
+        "passes90": 45,
+        "cards90": 0,
+        "fouls90": 1.1,
+        "minutesAvg": 42
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 17,
+          "season": 17
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 17,
+          "season": 17
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 17,
+          "season": 17
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 33,
+          "season": 33
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "importMeta": {
+        "appearances": 6,
+        "competitions": [
+          "Int. Friendly Games",
+          "UEFA Nations League, Finals",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Juventus",
+        "marketValueEur": 13200000,
+        "marketValueDisplay": "€13.2M",
+        "dateOfBirth": "1998-02-28",
+        "age": 28,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-tijjani-reijnders",
+      "name": "Tijjani Reijnders",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Midfielder",
+      "number": "14",
+      "likelyStarter": true,
+      "sofascoreId": 893549,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 38,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 69,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 22,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.1
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Norway",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 69,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 27,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-11-17",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 1,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 57,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.3
+        },
+        {
+          "date": "2025-11-14",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 45,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 3,
+          "passes": 42,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.2
+        },
+        {
+          "date": "2025-09-07",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 46,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-07",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 69,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Spain",
+          "competition": "UEFA Nations League, Finals",
+          "result": "D",
+          "venue": "home",
+          "minutes": 89,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 58,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.7
+        },
+        {
+          "date": "2024-10-14",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 13,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 35,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.41,
+        "assists90": 0.08,
+        "shots90": 2.7,
+        "sot90": 1.2,
+        "passes90": 44,
+        "cards90": 0,
+        "fouls90": 0.7,
+        "minutesAvg": 73
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 40,
+          "l10": 30,
+          "season": 33
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        },
+        "shots15": {
+          "l5": 80,
+          "l10": 70,
+          "season": 67
+        },
+        "shots25": {
+          "l5": 40,
+          "l10": 40,
+          "season": 33
+        },
+        "sot05": {
+          "l5": 80,
+          "l10": 70,
+          "season": 73
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 7
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, Finals",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "Manchester City",
+        "marketValueEur": 58000000,
+        "marketValueDisplay": "€58M",
+        "dateOfBirth": "1998-07-29",
+        "age": 27,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-brian-brobbey",
+      "name": "Brian Brobbey",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Forward",
+      "number": "19",
+      "likelyStarter": true,
+      "sofascoreId": 910048,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 25,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 2,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 14,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.9
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Norway",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 21,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 71,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.3
+        },
+        {
+          "date": "2024-10-14",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "L",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "home",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-07-10",
+          "opponent": "England",
+          "competition": "Euro, Knockout stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": null
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.24,
+        "assists90": 0.24,
+        "shots90": 2,
+        "sot90": 0.2,
+        "passes90": 12,
+        "cards90": 0,
+        "fouls90": 1.7,
+        "minutesAvg": 41
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 11,
+          "season": 11
+        },
+        "shots15": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 11,
+          "season": 11
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 22,
+          "season": 22
+        }
+      },
+      "importMeta": {
+        "appearances": 9,
+        "competitions": [
+          "Int. Friendly Games",
+          "UEFA Nations League, League A, Gr. 3",
+          "Euro, Knockout stage"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "Sunderland",
+        "marketValueEur": 26000000,
+        "marketValueDisplay": "€26M",
+        "dateOfBirth": "2002-02-01",
+        "age": 24,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-donyell-malen",
+      "name": "Donyell Malen",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Forward",
+      "number": "18",
+      "likelyStarter": true,
+      "sofascoreId": 803039,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-08",
+          "opponent": "Uzbekistan",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 65,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 5.9
+        },
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 69,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.1
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Norway",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 69,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 10,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.1
+        },
+        {
+          "date": "2025-11-17",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8
+        },
+        {
+          "date": "2025-11-14",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.4
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 79,
+          "goals": 1,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 2,
+          "passes": 19,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-09-07",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 41,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.3
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 18,
+          "goals": 2,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 9.5
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 1,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.2
+        },
+        {
+          "date": "2024-10-14",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 18,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.9
+        },
+        {
+          "date": "2024-10-11",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.46,
+        "assists90": 0.23,
+        "shots90": 3.1,
+        "sot90": 1.4,
+        "passes90": 22,
+        "cards90": 0,
+        "fouls90": 0.6,
+        "minutesAvg": 52
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 20,
+          "l10": 20,
+          "season": 20
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 13
+        },
+        "shots15": {
+          "l5": 60,
+          "l10": 50,
+          "season": 47
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 30,
+          "season": 27
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 60,
+          "season": 60
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2026-06-08"
+      },
+      "profile": {
+        "club": "AS Roma",
+        "marketValueEur": 48000000,
+        "marketValueDisplay": "€48M",
+        "dateOfBirth": "1999-01-19",
+        "age": 27,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-memphis-depay",
+      "name": "Memphis Depay",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Forward",
+      "number": "10",
+      "likelyStarter": true,
+      "sofascoreId": 138833,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 23,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-11-17",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 63,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2025-11-14",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 20,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 62,
+          "goals": 1,
+          "assists": 2,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 32,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.7
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 1,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 11,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-09-07",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 84,
+          "goals": 2,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 2,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 8.7
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 28,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.6
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 72,
+          "goals": 2,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 33,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 9.5
+        },
+        {
+          "date": "2025-06-07",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 69,
+          "goals": 1,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 2,
+          "passes": 26,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.7
+        },
+        {
+          "date": "2025-03-20",
+          "opponent": "Spain",
+          "competition": "UEFA Nations League, Finals",
+          "result": "D",
+          "venue": "home",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 30,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 7.3
+        },
+        {
+          "date": "2024-07-10",
+          "opponent": "England",
+          "competition": "Euro, Knockout stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 35,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-07-06",
+          "opponent": "Türkiye",
+          "competition": "Euro, Knockout stage",
+          "result": "W",
+          "venue": "home",
+          "minutes": 87,
+          "goals": 0,
+          "assists": 1,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 29,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 8.1
+        },
+        {
+          "date": "2024-07-02",
+          "opponent": "Romania",
+          "competition": "Euro, Knockout stage",
+          "result": "W",
+          "venue": "away",
+          "minutes": 89,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 0,
+          "passes": 24,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.3
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.82,
+        "assists90": 0.51,
+        "shots90": 3.6,
+        "sot90": 1.3,
+        "passes90": 32,
+        "cards90": 0,
+        "fouls90": 0.9,
+        "minutesAvg": 68
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 60,
+          "l10": 60,
+          "season": 46
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 20,
+          "season": 15
+        },
+        "assists05": {
+          "l5": 20,
+          "l10": 30,
+          "season": 31
+        },
+        "shots15": {
+          "l5": 60,
+          "l10": 70,
+          "season": 69
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 40,
+          "season": 46
+        },
+        "sot05": {
+          "l5": 80,
+          "l10": 90,
+          "season": 77
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 20,
+          "season": 23
+        }
+      },
+      "importMeta": {
+        "appearances": 13,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, Finals",
+          "Euro, Knockout stage"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "Corinthians",
+        "marketValueEur": 7200000,
+        "marketValueDisplay": "€7.2M",
+        "dateOfBirth": "1994-02-13",
+        "age": 32,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-noa-lang",
+      "name": "Noa Lang",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Forward",
+      "number": "10",
+      "likelyStarter": false,
+      "sofascoreId": 875136,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2025-11-17",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.6
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 43,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 7,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.63,
+        "assists90": 0.63,
+        "shots90": 4.4,
+        "sot90": 1.3,
+        "passes90": 50,
+        "cards90": 0,
+        "fouls90": 1.3,
+        "minutesAvg": 36
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 25,
+          "l10": 25,
+          "season": 25
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 25,
+          "l10": 25,
+          "season": 25
+        },
+        "shots15": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "shots25": {
+          "l5": 25,
+          "l10": 25,
+          "season": 25
+        },
+        "sot05": {
+          "l5": 50,
+          "l10": 50,
+          "season": 50
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 25,
+          "l10": 25,
+          "season": 25
+        }
+      },
+      "importMeta": {
+        "appearances": 4,
+        "competitions": [
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, League A, Gr. 3"
+        ],
+        "lastMatch": "2025-11-17"
+      },
+      "profile": {
+        "club": "Galatasaray",
+        "marketValueEur": 24000000,
+        "marketValueDisplay": "€24M",
+        "dateOfBirth": "1999-06-17",
+        "age": 26,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    },
+    {
+      "id": "netherlands-wout-weghorst",
+      "name": "Wout Weghorst",
+      "team": "Netherlands",
+      "group": "F",
+      "position": "Forward",
+      "number": "9",
+      "likelyStarter": false,
+      "sofascoreId": 252215,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [
+        {
+          "date": "2026-06-03",
+          "opponent": "Algeria",
+          "competition": "Int. Friendly Games",
+          "result": "L",
+          "venue": "home",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.4
+        },
+        {
+          "date": "2026-03-31",
+          "opponent": "Ecuador",
+          "competition": "Int. Friendly Games",
+          "result": "D",
+          "venue": "home",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2026-03-27",
+          "opponent": "Norway",
+          "competition": "Int. Friendly Games",
+          "result": "W",
+          "venue": "home",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-10-12",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 2,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-10-09",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 17,
+          "cards": 0,
+          "fouls": 2,
+          "rating": 7.4
+        },
+        {
+          "date": "2025-09-07",
+          "opponent": "Lithuania",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 5,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.6
+        },
+        {
+          "date": "2025-09-04",
+          "opponent": "Poland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2025-06-10",
+          "opponent": "Malta",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "home",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.7
+        },
+        {
+          "date": "2025-06-07",
+          "opponent": "Finland",
+          "competition": "World Cup Qual. UEFA G",
+          "result": "W",
+          "venue": "away",
+          "minutes": 21,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 8,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.7
+        },
+        {
+          "date": "2024-11-19",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 6,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.8
+        },
+        {
+          "date": "2024-11-16",
+          "opponent": "Hungary",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 21,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 7.5
+        },
+        {
+          "date": "2024-09-10",
+          "opponent": "Germany",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "D",
+          "venue": "home",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 1,
+          "cards": 0,
+          "fouls": 0,
+          "rating": 6.5
+        },
+        {
+          "date": "2024-09-07",
+          "opponent": "Bosnia & Herzegovina",
+          "competition": "UEFA Nations League, League A, Gr. 3",
+          "result": "W",
+          "venue": "home",
+          "minutes": 16,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 3,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 7.3
+        },
+        {
+          "date": "2024-07-10",
+          "opponent": "England",
+          "competition": "Euro, Knockout stage",
+          "result": "L",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 9,
+          "cards": 0,
+          "fouls": 3,
+          "rating": 6.4
+        },
+        {
+          "date": "2024-07-06",
+          "opponent": "Türkiye",
+          "competition": "Euro, Knockout stage",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 4,
+          "cards": 0,
+          "fouls": 1,
+          "rating": 6.5
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0.43,
+        "assists90": 0,
+        "shots90": 2,
+        "sot90": 0.7,
+        "passes90": 20,
+        "cards90": 0,
+        "fouls90": 1.7,
+        "minutesAvg": 28
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 13
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 7
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 20
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 20,
+          "l10": 10,
+          "season": 13
+        }
+      },
+      "importMeta": {
+        "appearances": 15,
+        "competitions": [
+          "Int. Friendly Games",
+          "World Cup Qual. UEFA G",
+          "UEFA Nations League, League A, Gr. 3",
+          "Euro, Knockout stage"
+        ],
+        "lastMatch": "2026-06-03"
+      },
+      "profile": {
+        "club": "AFC Ajax",
+        "marketValueEur": 2100000,
+        "marketValueDisplay": "€2.1M",
+        "dateOfBirth": "1992-08-07",
+        "age": 33,
+        "internationalCaps": null,
+        "internationalGoals": null,
+        "source": "sofascore"
+      }
+    }
+  ],
+  "fringeCallups": [
+    {
+      "name": "Daley Blind",
+      "appearances": 1
+    },
+    {
+      "name": "Jeremie Frimpong",
+      "appearances": 8
+    },
+    {
+      "name": "Jurriën Timber",
+      "appearances": 8
+    },
+    {
+      "name": "Matthijs de Ligt",
+      "appearances": 7
+    },
+    {
+      "name": "Quilindschy Hartman",
+      "appearances": 1
+    },
+    {
+      "name": "Stefan de Vrij",
+      "appearances": 12
+    },
+    {
+      "name": "Devyne Rensch",
+      "appearances": 1
+    },
+    {
+      "name": "Jerdy Schouten",
+      "appearances": 9
+    },
+    {
+      "name": "Joey Veerman",
+      "appearances": 3
+    },
+    {
+      "name": "Kees Smit",
+      "appearances": 1
+    },
+    {
+      "name": "Luciano Valente",
+      "appearances": 2
+    },
+    {
+      "name": "Sem Steijn",
+      "appearances": 1
+    },
+    {
+      "name": "Steven Bergwijn",
+      "appearances": 2
+    },
+    {
+      "name": "Xavi Simons",
+      "appearances": 15
+    },
+    {
+      "name": "Emmanuel Emegha",
+      "appearances": 2
+    },
+    {
+      "name": "Joshua Zirkzee",
+      "appearances": 6
+    }
+  ]
+}

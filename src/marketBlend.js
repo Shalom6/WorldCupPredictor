@@ -16,14 +16,15 @@ function readWeight(envKey, fallback) {
   return Number.isFinite(n) ? clamp(n, 0, 1) : fallback;
 }
 
+/** Tuned via scripts/backtest-blend.mjs — market leads when Polymarket has live odds. */
 export const DEFAULT_PREDICTION_BLEND = {
-  marketWeight: readWeight('POLYMARKET_PREDICTION_WEIGHT', 0.65),
-  modelWeight: 1 - readWeight('POLYMARKET_PREDICTION_WEIGHT', 0.65)
+  marketWeight: readWeight('POLYMARKET_PREDICTION_WEIGHT', 0.72),
+  modelWeight: 1 - readWeight('POLYMARKET_PREDICTION_WEIGHT', 0.72)
 };
 
 export const DEFAULT_STATS_BLEND = {
-  marketWeight: readWeight('POLYMARKET_STATS_WEIGHT', 0.6),
-  modelWeight: 1 - readWeight('POLYMARKET_STATS_WEIGHT', 0.6)
+  marketWeight: readWeight('POLYMARKET_STATS_WEIGHT', 0.7),
+  modelWeight: 1 - readWeight('POLYMARKET_STATS_WEIGHT', 0.7)
 };
 
 export function resolvePredictionBlend(override) {
