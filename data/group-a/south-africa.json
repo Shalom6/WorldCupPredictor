@@ -3,9 +3,18 @@
   "team": "South Africa",
   "group": "A",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-11T08:31:36.359Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-11T23:52:29.040Z",
+  "eventsProcessed": 16,
   "teamMatchResults": [
+    {
+      "date": "2026-06-11",
+      "opponent": "Mexico",
+      "competition": "FIFA World Cup, Group A",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "venue": "away"
+    },
     {
       "date": "2026-06-06",
       "opponent": "Jamaica",
@@ -233,16 +242,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Siwelele FC",
-        "marketValueEur": 330000,
-        "marketValueDisplay": "€330K",
-        "dateOfBirth": "1994-04-02",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -257,6 +256,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-31",
           "opponent": "Panama",
@@ -472,10 +486,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 39,
+        "passes90": 36,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 82
+        "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
@@ -520,24 +534,15 @@
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Mamelodi Sundowns",
-        "marketValueEur": 930000,
-        "marketValueDisplay": "€930K",
-        "dateOfBirth": "1992-01-21",
-        "age": 34,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -668,16 +673,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Orlando Pirates",
-        "marketValueEur": 1300000,
-        "marketValueDisplay": "€1.3M",
-        "dateOfBirth": "1996-12-14",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -692,6 +687,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 16,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-31",
           "opponent": "Panama",
@@ -839,13 +849,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.25,
+        "assists90": 0.22,
         "shots90": 1.1,
         "sot90": 0.4,
-        "passes90": 53,
+        "passes90": 49,
         "cards90": 0,
         "fouls90": 0.7,
-        "minutesAvg": 82
+        "minutesAvg": 81
       },
       "hitRates": {
         "goals05": {
@@ -860,23 +870,23 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "shots15": {
-          "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l5": 0,
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 0,
+          "l10": 10,
+          "season": 10
         },
         "sot05": {
           "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l10": 40,
+          "season": 40
         },
         "cards05": {
           "l5": 0,
@@ -885,29 +895,20 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Mamelodi Sundowns",
-        "marketValueEur": 1900000,
-        "marketValueDisplay": "€1.9M",
-        "dateOfBirth": "1995-07-22",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -997,16 +998,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Kaizer Chiefs",
-        "marketValueEur": 630000,
-        "marketValueDisplay": "€630K",
-        "dateOfBirth": "2001-01-30",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -1021,6 +1012,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-05-29",
           "opponent": "Nicaragua",
@@ -1089,18 +1095,18 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.4,
+        "shots90": 0.3,
         "sot90": 0,
-        "passes90": 69,
+        "passes90": 50,
         "cards90": 0,
-        "fouls90": 0.4,
-        "minutesAvg": 82
+        "fouls90": 0.3,
+        "minutesAvg": 84
       },
       "hitRates": {
         "goals05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "goals15": {
           "l5": 0,
@@ -1139,22 +1145,13 @@
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "COSAFA Cup, Group A"
         ],
-        "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Hannover 96",
-        "marketValueEur": 1900000,
-        "marketValueDisplay": "€1.9M",
-        "dateOfBirth": "2004-02-20",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -1169,6 +1166,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-31",
           "opponent": "Panama",
@@ -1316,12 +1328,12 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.11,
-        "shots90": 0.5,
+        "assists90": 0.1,
+        "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 44,
+        "passes90": 40,
         "cards90": 0,
-        "fouls90": 1.1,
+        "fouls90": 1,
         "minutesAvg": 88
       },
       "hitRates": {
@@ -1337,13 +1349,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -1351,9 +1363,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 0,
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -1362,29 +1374,20 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l10": 30,
+          "season": 30
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Mamelodi Sundowns",
-        "marketValueEur": 1300000,
-        "marketValueDisplay": "€1.3M",
-        "dateOfBirth": "1995-04-26",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -1523,16 +1526,6 @@
           "FIFA World Cup, Qualification CAF, Group C"
         ],
         "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Mamelodi Sundowns",
-        "marketValueEur": 880000,
-        "marketValueDisplay": "€880K",
-        "dateOfBirth": "2004-02-05",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -1547,6 +1540,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 25,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-31",
           "opponent": "Panama",
@@ -1709,11 +1717,11 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.11,
+        "goals90": 0.1,
         "assists90": 0,
         "shots90": 1,
-        "sot90": 0.2,
-        "passes90": 60,
+        "sot90": 0.3,
+        "passes90": 56,
         "cards90": 0,
         "fouls90": 0.4,
         "minutesAvg": 86
@@ -1722,7 +1730,7 @@
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "goals15": {
           "l5": 0,
@@ -1735,9 +1743,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 30
+          "season": 27
         },
         "shots25": {
           "l5": 0,
@@ -1746,8 +1754,8 @@
         },
         "sot05": {
           "l5": 40,
-          "l10": 20,
-          "season": 20
+          "l10": 30,
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -1757,28 +1765,19 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Chicago Fire",
-        "marketValueEur": 2700000,
-        "marketValueDisplay": "€2.7M",
-        "dateOfBirth": "2005-09-19",
-        "age": 20,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -1793,6 +1792,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 0
+        },
         {
           "date": "2026-05-29",
           "opponent": "Nicaragua",
@@ -1895,10 +1909,10 @@
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0,
-        "passes90": 73,
-        "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 78
+        "passes90": 61,
+        "cards90": 0.16,
+        "fouls90": 1.1,
+        "minutesAvg": 79
       },
       "hitRates": {
         "goals05": {
@@ -1932,34 +1946,25 @@
           "season": 0
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 14,
+          "season": 14
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l5": 20,
+          "l10": 29,
+          "season": 29
         }
       },
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Orlando Pirates",
-        "marketValueEur": 1700000,
-        "marketValueDisplay": "€1.7M",
-        "dateOfBirth": "1995-09-22",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -2049,16 +2054,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Philadelphia Union",
-        "marketValueEur": 2100000,
-        "marketValueDisplay": "€2.1M",
-        "dateOfBirth": "2004-04-30",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2230,16 +2225,6 @@
           "FIFA World Cup, Qualification CAF, Group C"
         ],
         "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Molde FK",
-        "marketValueEur": 2300000,
-        "marketValueDisplay": "€2.3M",
-        "dateOfBirth": "2004-03-15",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2361,16 +2346,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Polokwane City",
-        "marketValueEur": 1100000,
-        "marketValueDisplay": "€1.1M",
-        "dateOfBirth": "1999-01-14",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2380,11 +2355,26 @@
       "group": "A",
       "position": "Midfielder",
       "number": "23",
-      "likelyStarter": false,
+      "likelyStarter": true,
       "sofascoreId": 1049669,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-05-29",
           "opponent": "Nicaragua",
@@ -2437,12 +2427,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.7,
+        "shots90": 0.5,
         "sot90": 0,
-        "passes90": 78,
+        "passes90": 52,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 41
+        "fouls90": 0.5,
+        "minutesAvg": 46
       },
       "hitRates": {
         "goals05": {
@@ -2487,21 +2477,12 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Mamelodi Sundowns",
-        "marketValueEur": 1400000,
-        "marketValueDisplay": "€1.4M",
-        "dateOfBirth": "2001-05-05",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -2641,16 +2622,6 @@
           "COSAFA Cup, Knockout stage"
         ],
         "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Orlando Pirates",
-        "marketValueEur": 780000,
-        "marketValueDisplay": "€780K",
-        "dateOfBirth": "2002-07-21",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2665,6 +2636,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-05-29",
           "opponent": "Nicaragua",
@@ -2878,17 +2864,17 @@
         "goals90": 0.61,
         "assists90": 0.2,
         "shots90": 2.6,
-        "sot90": 1.3,
-        "passes90": 39,
+        "sot90": 1.4,
+        "passes90": 38,
         "cards90": 0,
         "fouls90": 0.7,
-        "minutesAvg": 68
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 50,
-          "season": 46
+          "season": 43
         },
         "goals15": {
           "l5": 0,
@@ -2898,22 +2884,22 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots15": {
-          "l5": 80,
-          "l10": 70,
-          "season": 62
+          "l5": 60,
+          "l10": 60,
+          "season": 57
         },
         "shots25": {
-          "l5": 40,
-          "l10": 30,
-          "season": 23
+          "l5": 20,
+          "l10": 20,
+          "season": 21
         },
         "sot05": {
           "l5": 60,
-          "l10": 60,
-          "season": 62
+          "l10": 70,
+          "season": 64
         },
         "cards05": {
           "l5": 0,
@@ -2923,28 +2909,19 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Orlando Pirates",
-        "marketValueEur": 2200000,
-        "marketValueDisplay": "€2.2M",
-        "dateOfBirth": "2001-08-25",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -3116,16 +3093,6 @@
           "Africa Cup of Nations, Group B"
         ],
         "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Orlando Pirates",
-        "marketValueEur": 1900000,
-        "marketValueDisplay": "€1.9M",
-        "dateOfBirth": "2004-10-23",
-        "age": 21,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3140,6 +3107,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 50,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 0
+        },
         {
           "date": "2026-05-29",
           "opponent": "Nicaragua",
@@ -3270,20 +3252,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.17,
+        "goals90": 0.16,
         "assists90": 0,
-        "shots90": 0.7,
+        "shots90": 0.6,
         "sot90": 0.5,
-        "passes90": 62,
-        "cards90": 0,
-        "fouls90": 2.6,
-        "minutesAvg": 65
+        "passes90": 57,
+        "cards90": 0.16,
+        "fouls90": 2.4,
+        "minutesAvg": 63
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "goals15": {
           "l5": 0,
@@ -3297,8 +3279,8 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots25": {
           "l5": 0,
@@ -3307,38 +3289,29 @@
         },
         "sot05": {
           "l5": 40,
-          "l10": 38,
-          "season": 38
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 11,
+          "season": 11
         },
         "fouls15": {
           "l5": 20,
-          "l10": 50,
-          "season": 50
+          "l10": 44,
+          "season": 44
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Tondela",
-        "marketValueEur": 640000,
-        "marketValueDisplay": "€640K",
-        "dateOfBirth": "1999-03-03",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -3353,6 +3326,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 0
+        },
         {
           "date": "2026-03-31",
           "opponent": "Panama",
@@ -3533,11 +3521,11 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.9,
-        "sot90": 0.6,
-        "passes90": 68,
-        "cards90": 0,
-        "fouls90": 1.6,
+        "shots90": 1.7,
+        "sot90": 0.5,
+        "passes90": 62,
+        "cards90": 0.09,
+        "fouls90": 1.4,
         "minutesAvg": 84
       },
       "hitRates": {
@@ -3557,50 +3545,41 @@
           "season": 0
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 60,
-          "season": 55
+          "season": 50
         },
         "shots25": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 36
+          "season": 33
         },
         "sot05": {
-          "l5": 80,
+          "l5": 60,
           "l10": 60,
-          "season": 55
+          "season": 50
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "fouls15": {
           "l5": 60,
           "l10": 40,
-          "season": 36
+          "season": 33
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Mamelodi Sundowns",
-        "marketValueEur": 2700000,
-        "marketValueDisplay": "€2.7M",
-        "dateOfBirth": "1997-01-24",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -3615,6 +3594,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 34,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-05-29",
           "opponent": "Nicaragua",
@@ -3761,20 +3755,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.24,
+        "goals90": 0.22,
         "assists90": 0,
-        "shots90": 1.4,
+        "shots90": 1.3,
         "sot90": 0.7,
-        "passes90": 51,
+        "passes90": 47,
         "cards90": 0,
-        "fouls90": 1.4,
+        "fouls90": 1.3,
         "minutesAvg": 42
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "goals15": {
           "l5": 0,
@@ -3788,8 +3782,8 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -3798,8 +3792,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l10": 30,
+          "season": 30
         },
         "cards05": {
           "l5": 0,
@@ -3808,28 +3802,19 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Orlando Pirates",
-        "marketValueEur": 1700000,
-        "marketValueDisplay": "€1.7M",
-        "dateOfBirth": "2000-03-06",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -3935,16 +3920,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "AEL Limassol",
-        "marketValueEur": 730000,
-        "marketValueDisplay": "€730K",
-        "dateOfBirth": "2002-11-11",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3959,6 +3934,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 0
+        },
         {
           "date": "2026-05-29",
           "opponent": "Nicaragua",
@@ -4010,13 +4000,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.67,
-        "shots90": 0.7,
+        "assists90": 0.57,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 43,
-        "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 45
+        "passes90": 37,
+        "cards90": 0.57,
+        "fouls90": 0.6,
+        "minutesAvg": 40
       },
       "hitRates": {
         "goals05": {
@@ -4030,9 +4020,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots15": {
           "l5": 0,
@@ -4050,9 +4040,9 @@
           "season": 0
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "fouls15": {
           "l5": 0,
@@ -4061,21 +4051,12 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Mamelodi Sundowns",
-        "marketValueEur": 290000,
-        "marketValueDisplay": "€290K",
-        "dateOfBirth": "1989-08-03",
-        "age": 36,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -4296,16 +4277,6 @@
           "FIFA World Cup, Qualification CAF, Group C"
         ],
         "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Orlando Pirates",
-        "marketValueEur": 1000000,
-        "marketValueDisplay": "€1M",
-        "dateOfBirth": "2000-10-02",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -4320,6 +4291,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-31",
           "opponent": "Panama",
@@ -4450,20 +4436,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.76,
-        "assists90": 0.38,
-        "shots90": 3.4,
-        "sot90": 0.8,
-        "passes90": 17,
+        "goals90": 0.71,
+        "assists90": 0.36,
+        "shots90": 3.2,
+        "sot90": 0.7,
+        "passes90": 16,
         "cards90": 0,
-        "fouls90": 1.9,
-        "minutesAvg": 30
+        "fouls90": 1.8,
+        "minutesAvg": 28
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "goals15": {
           "l5": 0,
@@ -4472,13 +4458,13 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots15": {
-          "l5": 40,
-          "l10": 38,
-          "season": 38
+          "l5": 20,
+          "l10": 33,
+          "season": 33
         },
         "shots25": {
           "l5": 0,
@@ -4487,8 +4473,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "cards05": {
           "l5": 0,
@@ -4497,29 +4483,20 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Orlando Pirates",
-        "marketValueEur": 1300000,
-        "marketValueDisplay": "€1.3M",
-        "dateOfBirth": "2000-06-05",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -4534,6 +4511,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-05-29",
           "opponent": "Nicaragua",
@@ -4586,12 +4578,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 4.4,
-        "sot90": 1.5,
-        "passes90": 7,
+        "shots90": 2,
+        "sot90": 0.7,
+        "passes90": 3,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 21
+        "minutesAvg": 35
       },
       "hitRates": {
         "goals05": {
@@ -4610,19 +4602,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots25": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "sot05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -4636,22 +4628,13 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Mamelodi Sundowns",
-        "marketValueEur": 2800000,
-        "marketValueDisplay": "€2.8M",
-        "dateOfBirth": "1995-12-19",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -4666,6 +4649,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 56,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-05-29",
           "opponent": "Nicaragua",
@@ -4844,20 +4842,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.33,
-        "assists90": 0.33,
-        "shots90": 2.1,
-        "sot90": 1,
-        "passes90": 16,
+        "goals90": 0.31,
+        "assists90": 0.31,
+        "shots90": 1.9,
+        "sot90": 0.9,
+        "passes90": 15,
         "cards90": 0,
-        "fouls90": 1.5,
-        "minutesAvg": 75
+        "fouls90": 1.4,
+        "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 27
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -4865,24 +4863,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 27
+          "season": 25
         },
         "shots15": {
           "l5": 40,
           "l10": 50,
-          "season": 55
+          "season": 50
         },
         "shots25": {
           "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "sot05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 60,
-          "season": 64
+          "season": 58
         },
         "cards05": {
           "l5": 0,
@@ -4891,29 +4889,20 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 40,
-          "season": 36
+          "l10": 30,
+          "season": 33
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-05-29"
-      },
-      "profile": {
-        "club": "Burnley",
-        "marketValueEur": 10300000,
-        "marketValueDisplay": "€10.3M",
-        "dateOfBirth": "2000-09-03",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-11"
       }
     }
   ],

@@ -1,4 +1,18 @@
 {
   "_note": "Add final scores here as matches finish. Keys are fixture ids from fixtures.json (e.g. GS-A-1).",
-  "results": {}
+  "results": {
+    "GS-A-1": {
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 0,
+      "scorers": {
+        "home": [
+          { "name": "Julián Quiñones", "minute": 9 },
+          { "name": "Raúl Jiménez", "minute": 67 }
+        ],
+        "away": []
+      },
+      "notes": "World Cup 2026 opener. Three red cards (Sithole, Zwane, Montes)."
+    }
+  }
 }

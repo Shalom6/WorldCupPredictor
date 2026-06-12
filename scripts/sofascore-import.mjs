@@ -85,6 +85,12 @@ return fetchTeamFromSofascore(${JSON.stringify(config)}, { maxEvents: 22, delayM
     return new Function(`return (async () => { ${script} })()`)();
   }, browserScript);
 
+  if (!data?.eventsProcessed) {
+    console.warn(`  ⚠ fetch returned 0 events — keeping existing raw data`);
+    if (fs.existsSync(paths.raw)) return JSON.parse(fs.readFileSync(paths.raw, 'utf8'));
+    throw new Error('SofaScore fetch returned no events and no existing raw file');
+  }
+
   fs.writeFileSync(paths.raw, JSON.stringify(data, null, 2));
   console.log(`  raw → ${path.relative(root, paths.raw)} (${data.eventsProcessed} events, ${data.players.length} players)`);
   return data;
