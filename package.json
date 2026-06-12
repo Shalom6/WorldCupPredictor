@@ -20,7 +20,8 @@
     "import:sofascore": "node scripts/sofascore-import.mjs",
     "discover:sofascore-ids": "node scripts/discover-sofascore-ids.mjs",
     "sync:team-form": "node scripts/sync-team-form.mjs",
-    "backtest:blend": "node scripts/backtest-blend.mjs"
+    "backtest:blend": "node scripts/backtest-blend.mjs",
+    "sync:results": "node scripts/sync-live-results.mjs"
   },
   "dependencies": {
     "concurrently": "^9.2.1",
