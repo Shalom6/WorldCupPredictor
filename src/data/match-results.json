@@ -126,6 +126,67 @@
       },
       "syncedAt": "2026-06-12T04:16:41.523Z",
       "source": "espn"
+    },
+    "GS-B-1": {
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Cyle Larin",
+            "minute": "78'",
+            "assist": "Promise David"
+          }
+        ],
+        "away": [
+          {
+            "name": "Jovo Lukic",
+            "minute": "21'",
+            "assist": "Sead Kolasinac"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 61.2,
+          "away": 38.8
+        },
+        "shots": {
+          "home": 13,
+          "away": 8
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 3
+        },
+        "corners": {
+          "home": 9,
+          "away": 4
+        },
+        "fouls": {
+          "home": 10,
+          "away": 20
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 3
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 2,
+          "away": 1
+        },
+        "passAccuracy": {
+          "home": 70,
+          "away": 60
+        }
+      },
+      "syncedAt": "2026-06-12T22:09:16.487Z",
+      "source": "espn"
     }
   }
 }
