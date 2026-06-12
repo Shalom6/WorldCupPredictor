@@ -1,7 +1,8 @@
 'use client';
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import { getFixtureOutcome } from '../src/matchResult.js';
+import { getMatchReport } from '../src/matchResult.js';
+import MatchReport from './MatchReport.jsx';
 
 const POLYMARKET_POLL_MS = 120_000;
 const STAGES = [{ id: 'group', label: 'Group Stage' }, { id: 'knockout', label: 'Knockouts' }];
@@ -296,7 +297,7 @@ export default function PredictionsPanel({
     return `${Math.floor(secs / 60)}m ago`;
   }, [marketUpdatedAt, nowTick]);
 
-  const catalogResult = useMemo(() => getFixtureOutcome(selectedFixture), [selectedFixture]);
+  const catalogResult = useMemo(() => getMatchReport(selectedFixture), [selectedFixture]);
   const p = displayData?.probabilities;
   const matchResult = displayData?.matchResult ?? catalogResult;
   const isPlayed = Boolean(matchResult);
@@ -420,14 +421,7 @@ export default function PredictionsPanel({
       {stageTab === 'knockout' ? null : (
         <>
           {isPlayed ? (
-            <div className="glass card resultCard">
-              <div className="cardTitle">Final result</div>
-              <p className="verdictSummary">{matchResult.summary}</p>
-              <p className="muted small">
-                Full time · {homeName} {matchResult.homeScore}–{matchResult.awayScore} {awayName}
-                {pm?.marketClosed || pm?.settled ? ' · Polymarket settled' : ''}
-              </p>
-            </div>
+            <MatchReport homeTeam={homeName} awayTeam={awayName} report={matchResult} />
           ) : null}
 
           {!isPlayed && pm && !pm.found && marketClosed ? (

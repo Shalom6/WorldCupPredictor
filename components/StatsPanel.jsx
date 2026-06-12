@@ -1,6 +1,8 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
+import { getMatchReport } from '../src/matchResult.js';
+import MatchReport from './MatchReport.jsx';
 
 function StatRow({ label, aName, a, bName, b, max }) {
   const av = Number(a);
@@ -202,10 +204,17 @@ export default function StatsPanel({ fixture }) {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
+  const [statsMode, setStatsMode] = useState('actual');
 
   const homeTeam = fixture?.homeTeam ?? 'Brazil';
   const awayTeam = fixture?.awayTeam ?? 'Morocco';
   const neutralVenue = fixture?.neutralVenue !== false;
+
+  const matchReport = useMemo(() => getMatchReport(fixture), [fixture]);
+
+  useEffect(() => {
+    setStatsMode(matchReport ? 'actual' : 'projected');
+  }, [fixture?.id, matchReport]);
 
   useEffect(() => {
     let cancelled = false;
@@ -236,6 +245,8 @@ export default function StatsPanel({ fixture }) {
     };
   }, [homeTeam, awayTeam, neutralVenue]);
 
+  const showActual = Boolean(matchReport && statsMode === 'actual');
+  const showProjected = !matchReport || statsMode === 'projected';
   const categories = data?.bettingCategories ?? [];
   const playerPropCategories = data?.playerProps?.categories ?? [];
   const scorers = data?.goalscorers ?? [];
@@ -252,14 +263,36 @@ export default function StatsPanel({ fixture }) {
             <div className="appIconInner">📊</div>
           </div>
           <div className="navTitleWrap">
-            <div className="navTitle">Match prop projections</div>
+            <div className="navTitle">Match stats</div>
             <div className="navSubtitle">
               {fixture
-                ? `${fixture.competition ?? 'UEFA Champions League'} · ${homeTeam} vs ${awayTeam}`
+                ? `${fixture.competition ?? 'FIFA World Cup 2026'} · ${homeTeam} vs ${awayTeam}`
                 : `${homeTeam} vs ${awayTeam} · run Predict to sync fixture`}
             </div>
           </div>
         </div>
+        {matchReport ? (
+          <div className="navRight statsModeTabs" role="tablist" aria-label="Stats view">
+            <button
+              type="button"
+              role="tab"
+              className={`stageTab${statsMode === 'actual' ? ' active' : ''}`}
+              aria-selected={statsMode === 'actual'}
+              onClick={() => setStatsMode('actual')}
+            >
+              Actual
+            </button>
+            <button
+              type="button"
+              role="tab"
+              className={`stageTab${statsMode === 'projected' ? ' active' : ''}`}
+              aria-selected={statsMode === 'projected'}
+              onClick={() => setStatsMode('projected')}
+            >
+              Pre-match model
+            </button>
+          </div>
+        ) : null}
       </header>
 
       {!fixture ? (
@@ -273,86 +306,100 @@ export default function StatsPanel({ fixture }) {
 
       {error ? <div className="error glass card">{error}</div> : null}
 
-      <section className="glass card infoCard">
-        <p className="muted small" style={{ margin: 0 }}>
-          {blendNote ??
-            `Poisson model + ${rosterSeason} squads. Projections are computed in-app from team rates and match context.`}
-        </p>
-      </section>
-
-      {loading && !data ? <section className="glass card"><p className="muted">Loading stats…</p></section> : null}
-
-      {matchTotals ? (
-        <section className="glass card matchTotalsCard">
-          <div className="cardTitle">Match totals (expected)</div>
-          <div className="totalsGrid">
-            {[
-              ['Goals', matchTotals.goals],
-              ['Shots', matchTotals.shots],
-              ['SOT', matchTotals.shotsOnTarget],
-              ['Corners', matchTotals.corners],
-              ['Fouls', matchTotals.fouls],
-              ['Offsides', matchTotals.offsides],
-              ['Yellow cards', matchTotals.yellowCards],
-              ['Booking pts', matchTotals.bookingPoints]
-            ].map(([label, val]) => (
-              <div key={label} className="totalChip">
-                <span className="muted small">{label}</span>
-                <strong>{val}</strong>
-              </div>
-            ))}
-          </div>
-        </section>
+      {showActual ? (
+        <MatchReport homeTeam={homeTeam} awayTeam={awayTeam} report={matchReport} />
       ) : null}
 
-      {playerPropCategories.length ? (
+      {showProjected ? (
         <>
-          <header className="sectionDivider">
-            <h2 className="sectionTitle">Player props</h2>
-            <p className="muted small sectionHint">
-              Per-player projections from squad minutes, international per-90 rates, and team totals.
+          <section className="glass card infoCard">
+            <p className="muted small" style={{ margin: 0 }}>
+              {matchReport
+                ? 'Pre-match Poisson projections — switch to Actual for the final score and team stats.'
+                : blendNote ??
+                  `Poisson model + ${rosterSeason} squads. Projections are computed in-app from team rates and match context.`}
             </p>
+          </section>
+
+          {loading && !data ? (
+            <section className="glass card">
+              <p className="muted">Loading stats…</p>
+            </section>
+          ) : null}
+
+          {matchTotals ? (
+            <section className="glass card matchTotalsCard">
+              <div className="cardTitle">Match totals (expected)</div>
+              <div className="totalsGrid">
+                {[
+                  ['Goals', matchTotals.goals],
+                  ['Shots', matchTotals.shots],
+                  ['SOT', matchTotals.shotsOnTarget],
+                  ['Corners', matchTotals.corners],
+                  ['Fouls', matchTotals.fouls],
+                  ['Offsides', matchTotals.offsides],
+                  ['Yellow cards', matchTotals.yellowCards],
+                  ['Booking pts', matchTotals.bookingPoints]
+                ].map(([label, val]) => (
+                  <div key={label} className="totalChip">
+                    <span className="muted small">{label}</span>
+                    <strong>{val}</strong>
+                  </div>
+                ))}
+              </div>
+            </section>
+          ) : null}
+
+          {playerPropCategories.length ? (
+            <>
+              <header className="sectionDivider">
+                <h2 className="sectionTitle">Player props</h2>
+                <p className="muted small sectionHint">
+                  Per-player projections from squad minutes, international per-90 rates, and team totals.
+                </p>
+              </header>
+              <div className="bettingGrid playerPropsGrid">
+                {playerPropCategories.map((cat) => (
+                  <PlayerPropCategoryCard key={cat.id} category={cat} />
+                ))}
+              </div>
+            </>
+          ) : null}
+
+          <header className="sectionDivider">
+            <h2 className="sectionTitle">Match props</h2>
           </header>
-          <div className="bettingGrid playerPropsGrid">
-            {playerPropCategories.map((cat) => (
-              <PlayerPropCategoryCard key={cat.id} category={cat} />
+
+          <div className="bettingGrid">
+            {categories.map((cat) => (
+              <BettingCategoryCard key={cat.id} category={cat} homeTeam={homeTeam} awayTeam={awayTeam} />
             ))}
           </div>
+
+          <div className="grid statsGridLayout">
+            <PlayerList
+              title="Goalscorers"
+              rows={scorers}
+              emptyLabel={loading ? 'Loading…' : 'No scorer data.'}
+              hint="Anytime scorer — % chance of at least one goal."
+            />
+            <PlayerList
+              title="Most likely assists"
+              rows={assisters}
+              emptyLabel={loading ? 'Loading…' : 'No assist data.'}
+              hint="At least one assist — mids weighted higher."
+            />
+          </div>
+
+          {data?.dataSources?.home ? (
+            <p className="muted small footer">
+              Data: {data.dataSources.home.source} · roster {rosterSeason}
+              {data.dataSources.home.uclDataQuality === 'ucl-goals-repaired'
+                ? ' · qualifying goals repaired'
+                : ''}
+            </p>
+          ) : null}
         </>
-      ) : null}
-
-      <header className="sectionDivider">
-        <h2 className="sectionTitle">Match props</h2>
-      </header>
-
-      <div className="bettingGrid">
-        {categories.map((cat) => (
-          <BettingCategoryCard key={cat.id} category={cat} homeTeam={homeTeam} awayTeam={awayTeam} />
-        ))}
-      </div>
-
-      <div className="grid statsGridLayout">
-        <PlayerList
-          title="Goalscorers"
-          rows={scorers}
-          emptyLabel={loading ? 'Loading…' : 'No scorer data.'}
-          hint="Anytime scorer — % chance of at least one goal."
-        />
-        <PlayerList
-          title="Most likely assists"
-          rows={assisters}
-          emptyLabel={loading ? 'Loading…' : 'No assist data.'}
-          hint="At least one assist — mids weighted higher."
-        />
-      </div>
-
-      {data?.dataSources?.home ? (
-        <p className="muted small footer">
-          Data: {data.dataSources.home.source} · roster {rosterSeason}
-          {data.dataSources.home.uclDataQuality === 'ucl-goals-repaired'
-            ? ' · qualifying goals repaired'
-            : ''}
-        </p>
       ) : null}
     </section>
   );

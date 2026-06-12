@@ -398,6 +398,223 @@ body {
   border-color: var(--hair-strong);
 }
 
+.matchReport {
+  border-color: var(--hair-strong);
+}
+
+.matchReportHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px 20px;
+  margin-bottom: 16px;
+}
+
+.matchReportScoreline {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.matchReportScore {
+  font-size: 1.35rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.matchReportGoalsGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px 24px;
+  margin-bottom: 18px;
+}
+
+@media (max-width: 640px) {
+  .matchReportGoalsGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.matchReportGoals {
+  list-style: none;
+  margin: 8px 0 0;
+  padding: 0;
+}
+
+.matchReportGoal {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--hair);
+}
+
+.matchReportGoal:last-child {
+  border-bottom: none;
+}
+
+.matchReportMinute {
+  flex: 0 0 auto;
+  min-width: 2.5rem;
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+}
+
+.matchReportScorer {
+  font-weight: 500;
+}
+
+.matchReportAssist {
+  flex-basis: 100%;
+  padding-left: 2.5rem;
+}
+
+.matchReportStats {
+  margin-top: 4px;
+}
+
+.matchStatRow .statHead {
+  margin-bottom: 8px;
+}
+
+.matchStatSplit {
+  display: flex;
+  width: 100%;
+  height: 10px;
+  border-radius: 999px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.06);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+}
+
+.matchStatSplitHome,
+.matchStatSplitAway {
+  height: 100%;
+  min-width: 0;
+  transition: width 0.35s ease;
+}
+
+.matchStatSplitHome {
+  background: linear-gradient(90deg, #15803d 0%, #22c55e 100%);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+.matchStatSplitAway {
+  background: linear-gradient(90deg, #ca8a04 0%, #facc15 100%);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+.matchStatTagHome {
+  border-color: rgba(34, 197, 94, 0.45);
+  color: #86efac;
+}
+
+.matchStatTagAway {
+  border-color: rgba(250, 204, 21, 0.45);
+  color: #fde047;
+}
+
+.matchReportNotes {
+  margin: 14px 0 0;
+}
+
+.matchReportCompact .matchReportHead {
+  margin-bottom: 12px;
+}
+
+.matchReportNoGoals {
+  margin: 8px 0 0;
+}
+
+.statsModeTabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-left: auto;
+}
+
+.lmMatchModeHead {
+  margin-bottom: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.matchPlayerTableCard {
+  margin-top: 12px;
+}
+
+.matchPlayerTableHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.matchPlayerFilters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.matchPlayerFilter {
+  padding: 6px 12px;
+  font-size: 12px;
+}
+
+.matchPlayerTableWrap {
+  overflow-x: auto;
+}
+
+.matchPlayerTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.matchPlayerTable th,
+.matchPlayerTable td {
+  padding: 8px 10px;
+  text-align: left;
+  border-bottom: 1px solid var(--hair);
+  white-space: nowrap;
+}
+
+.matchPlayerTable th {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.matchPlayerSortBtn {
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  cursor: pointer;
+  padding: 0;
+}
+
+.matchPlayerSortBtn.active {
+  color: var(--ucl-white);
+}
+
+.matchPlayerRowHighlight td:first-child {
+  font-weight: 600;
+}
+
 .probBar {
   display: flex;
   width: 100%;

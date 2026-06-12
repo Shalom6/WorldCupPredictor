@@ -1,6 +1,9 @@
 'use client';
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { getMatchReport } from '../src/matchResult.js';
+import MatchPlayerTable from './MatchPlayerTable.jsx';
+import MatchReport from './MatchReport.jsx';
 
 const OUTFIELD_STAT_TYPES = [
   { id: 'shots', code: 'SHO', label: 'Shots', field: 'shots', defaultLine: 0 },
@@ -301,7 +304,7 @@ function FilterSelect({ label, value, onChange, options }) {
   );
 }
 
-export default function PlayersPanel() {
+export default function PlayersPanel({ fixture = null }) {
   const [query, setQuery] = useState('');
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchResults, setSearchResults] = useState([]);
@@ -312,6 +315,9 @@ export default function PlayersPanel() {
   const [detail, setDetail] = useState(null);
   const [detailLoading, setDetailLoading] = useState(false);
   const [error, setError] = useState('');
+  const [panelMode, setPanelMode] = useState('workstation');
+  const [matchPlayers, setMatchPlayers] = useState([]);
+  const [matchPlayersLoading, setMatchPlayersLoading] = useState(false);
 
   const [statTypeId, setStatTypeId] = useState('shots');
   const [timeframe, setTimeframe] = useState('season');
@@ -328,6 +334,39 @@ export default function PlayersPanel() {
     () => statTypes.find((s) => s.id === statTypeId) ?? statTypes[0],
     [statTypes, statTypeId]
   );
+
+  const homeTeam = fixture?.homeTeam;
+  const awayTeam = fixture?.awayTeam;
+  const matchReport = useMemo(() => getMatchReport(fixture), [fixture]);
+
+  useEffect(() => {
+    setPanelMode(matchReport ? 'thisMatch' : 'workstation');
+  }, [fixture?.id, matchReport]);
+
+  useEffect(() => {
+    if (!matchReport || !fixture?.id) {
+      setMatchPlayers([]);
+      return undefined;
+    }
+
+    let cancelled = false;
+    setMatchPlayersLoading(true);
+    fetch(`/api/match-players?fixtureId=${encodeURIComponent(fixture.id)}`, { cache: 'no-store' })
+      .then((r) => r.json())
+      .then((json) => {
+        if (!cancelled) setMatchPlayers(json.players ?? []);
+      })
+      .catch(() => {
+        if (!cancelled) setMatchPlayers([]);
+      })
+      .finally(() => {
+        if (!cancelled) setMatchPlayersLoading(false);
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [fixture?.id, matchReport]);
 
   const opponents = useMemo(() => {
     const ops = new Set((detail?.gameLog ?? []).map((g) => g.opponent));
@@ -463,8 +502,88 @@ export default function PlayersPanel() {
 
   const displayName = detail?.shortName ?? detail?.name ?? 'Select player';
 
+  if (matchReport && panelMode === 'thisMatch') {
+    return (
+      <section className="lmApp">
+        <header className="nav glass lmMatchModeHead">
+          <div className="navTitleWrap">
+            <div className="navTitle">Player stats — this match</div>
+            <div className="navSubtitle">
+              {homeTeam} vs {awayTeam}
+              {!fixture ? ' · pick a fixture on Predictions' : ''}
+            </div>
+          </div>
+          <div className="statsModeTabs" role="tablist" aria-label="Players view">
+            <button
+              type="button"
+              role="tab"
+              className="stageTab active"
+              aria-selected
+              onClick={() => setPanelMode('thisMatch')}
+            >
+              This match
+            </button>
+            <button
+              type="button"
+              role="tab"
+              className="stageTab"
+              aria-selected={false}
+              onClick={() => setPanelMode('workstation')}
+            >
+              Season / props
+            </button>
+          </div>
+        </header>
+
+        {!fixture ? (
+          <section className="glass card infoCard">
+            <p className="muted small">
+              Select a completed match on <strong>Predictions</strong> first — player box-score stats appear here
+              after full time.
+            </p>
+          </section>
+        ) : null}
+
+        {fixture ? (
+          <>
+            <MatchReport homeTeam={homeTeam} awayTeam={awayTeam} report={matchReport} compact />
+            <MatchPlayerTable
+              homeTeam={homeTeam}
+              awayTeam={awayTeam}
+              players={matchPlayers}
+              loading={matchPlayersLoading}
+            />
+          </>
+        ) : null}
+      </section>
+    );
+  }
+
   return (
     <section className="lmApp">
+      {matchReport ? (
+        <header className="nav glass lmMatchModeHead">
+          <div className="statsModeTabs" role="tablist" aria-label="Players view">
+            <button
+              type="button"
+              role="tab"
+              className="stageTab"
+              aria-selected={false}
+              onClick={() => setPanelMode('thisMatch')}
+            >
+              This match
+            </button>
+            <button
+              type="button"
+              role="tab"
+              className="stageTab active"
+              aria-selected
+            >
+              Season / props
+            </button>
+          </div>
+        </header>
+      ) : null}
       <div className="lmThreeCol">
         {/* Left — Profile */}
         <aside className="lmColLeft">

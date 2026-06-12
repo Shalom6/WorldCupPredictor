@@ -7,7 +7,7 @@ import {
 } from './predictor.js';
 import { getDataCatalog, getFixtureContext, getTeamProfiles } from './sampleData.js';
 import { fetchPolymarketOdds } from './polymarket.js';
-import { getFixtureOutcome } from './matchResult.js';
+import { getMatchReport } from './matchResult.js';
 function round(n, dp = 1) {
   const p = 10 ** dp;
   return Math.round(n * p) / p;
@@ -197,7 +197,7 @@ export async function buildPredictionsResponse(body) {
 
   const fixture = getFixtureContext(body);
   const { home, away } = getTeamProfiles(fixture.homeTeam, fixture.awayTeam);
-  const matchResult = getFixtureOutcome(fixture);
+  const matchResult = getMatchReport(fixture);
 
   const polymarket =
     matchResult || body?.skipPolymarket ? null : await fetchPolymarketOdds(homeTeam, awayTeam);

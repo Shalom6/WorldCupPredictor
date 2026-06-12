@@ -7,12 +7,115 @@
       "awayScore": 0,
       "scorers": {
         "home": [
-          { "name": "Julián Quiñones", "minute": 9 },
-          { "name": "Raúl Jiménez", "minute": 67 }
+          {
+            "name": "Julián Quiñones",
+            "minute": 9,
+            "assist": "Erik Lira"
+          },
+          {
+            "name": "Raúl Jiménez",
+            "minute": 67,
+            "assist": "Roberto Alvarado"
+          }
         ],
         "away": []
       },
-      "notes": "World Cup 2026 opener. Three red cards (Sithole, Zwane, Montes)."
+      "teamStats": {
+        "possession": {
+          "home": 60.5,
+          "away": 39.5
+        },
+        "shots": {
+          "home": 16,
+          "away": 3
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 2
+        },
+        "corners": {
+          "home": 3,
+          "away": 1
+        },
+        "fouls": {
+          "home": 12,
+          "away": 11
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 2
+        },
+        "redCards": {
+          "home": 1,
+          "away": 2
+        },
+        "saves": {
+          "home": 2,
+          "away": 2
+        }
+      },
+      "notes": "World Cup 2026 opener at Estadio Azteca. Three red cards (Sithole 49′, Zwane 84′, Montes 90+2′)."
+    },
+    "GS-A-2": {
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Hwang In-beom",
+            "minute": 67,
+            "assist": "Kang-in Lee"
+          },
+          {
+            "name": "Hyeon-gyu Oh",
+            "minute": 80,
+            "assist": "Hwang In-beom"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ladislav Krejčí",
+            "minute": 59,
+            "assist": "Vladimír Coufal"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 62,
+          "away": 38
+        },
+        "shots": {
+          "home": 13,
+          "away": 8
+        },
+        "shotsOnTarget": {
+          "home": 6,
+          "away": 4
+        },
+        "corners": {
+          "home": 4,
+          "away": 5
+        },
+        "fouls": {
+          "home": 8,
+          "away": 16
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 3,
+          "away": 4
+        }
+      },
+      "notes": "Estadio Akron, Guadalajara. Czechia led 1–0 until Korea rallied with two late goals."
     }
   }
 }

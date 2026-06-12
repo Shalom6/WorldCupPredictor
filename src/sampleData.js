@@ -22,6 +22,9 @@ export function getFixtureContext(body) {
       status: catalogFixture.status ?? 'scheduled',
       homeScore: catalogFixture.homeScore ?? null,
       awayScore: catalogFixture.awayScore ?? null,
+      scorers: catalogFixture.scorers ?? null,
+      teamStats: catalogFixture.teamStats ?? null,
+      notes: catalogFixture.notes ?? null,
       isKnockout: isKnockoutStage(catalogFixture.stage),
       finalScale: catalogFixture.stage === 'Final' ? 0.92 : 1,
       finalTempo: catalogFixture.stage === 'Final' ? 0.95 : 1
