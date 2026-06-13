@@ -3,7 +3,7 @@
   "team": "Qatar",
   "group": "B",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-13T21:24:30.898Z",
+  "importedAt": "2026-06-13T22:33:55.950Z",
   "eventsProcessed": 16,
   "teamMatchResults": [
     {
@@ -1124,10 +1124,10 @@
           "result": "D",
           "venue": "home",
           "minutes": 90,
-          "goals": 1,
+          "goals": 0,
           "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
           "fouls": 2
@@ -1278,10 +1278,10 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.23,
+        "goals90": 0.12,
         "assists90": 0.12,
-        "shots90": 1.1,
-        "sot90": 0.2,
+        "shots90": 0.9,
+        "sot90": 0.1,
         "passes90": 57,
         "cards90": 0,
         "fouls90": 0.9,
@@ -1289,9 +1289,9 @@
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 20,
-          "season": 20
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "goals15": {
           "l5": 0,
@@ -1314,9 +1314,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 40,
-          "l10": 20,
-          "season": 20
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
