@@ -1,6 +1,6 @@
 {
   "_note": "Auto-maintained by scripts/sync-live-results.mjs — maps fixture ids to ESPN event ids.",
-  "updatedAt": "2026-06-13T04:07:55.282Z",
+  "updatedAt": "2026-06-13T08:32:11.678Z",
   "mappings": {
     "GS-A-1": {
       "espnEventId": "760415",
@@ -25,6 +25,24 @@
       "homeTeam": "USA",
       "awayTeam": "Paraguay",
       "lastSeen": "2026-06-13T04:07:55.190Z"
+    },
+    "GS-B-2": {
+      "espnEventId": "760420",
+      "homeTeam": "Qatar",
+      "awayTeam": "Switzerland",
+      "lastSeen": "2026-06-13T08:32:11.678Z"
+    },
+    "GS-C-1": {
+      "espnEventId": "760419",
+      "homeTeam": "Brazil",
+      "awayTeam": "Morocco",
+      "lastSeen": "2026-06-13T08:32:11.678Z"
+    },
+    "GS-C-2": {
+      "espnEventId": "760418",
+      "homeTeam": "Haiti",
+      "awayTeam": "Scotland",
+      "lastSeen": "2026-06-13T08:32:11.678Z"
     }
   }
 }
