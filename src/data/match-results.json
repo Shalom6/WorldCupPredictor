@@ -149,8 +149,8 @@
       },
       "teamStats": {
         "possession": {
-          "home": 61.2,
-          "away": 38.8
+          "home": 61.1,
+          "away": 38.9
         },
         "shots": {
           "home": 13,
@@ -185,7 +185,78 @@
           "away": 60
         }
       },
-      "syncedAt": "2026-06-12T22:09:16.487Z",
+      "syncedAt": "2026-06-13T04:07:55.189Z",
+      "source": "espn"
+    },
+    "GS-D-1": {
+      "status": "finished",
+      "homeScore": 4,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Folarin Balogun",
+            "minute": "31'",
+            "assist": "Christian Pulisic"
+          },
+          {
+            "name": "Folarin Balogun",
+            "minute": "45'+5'",
+            "assist": "Malik Tillman"
+          },
+          {
+            "name": "Giovanni Reyna",
+            "minute": "90'+8'",
+            "assist": "Alex Freeman"
+          }
+        ],
+        "away": [
+          {
+            "name": "Maurício",
+            "minute": "73'",
+            "assist": "Julio Enciso"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 65.2,
+          "away": 34.8
+        },
+        "shots": {
+          "home": 16,
+          "away": 9
+        },
+        "shotsOnTarget": {
+          "home": 6,
+          "away": 1
+        },
+        "corners": {
+          "home": 3,
+          "away": 1
+        },
+        "fouls": {
+          "home": 13,
+          "away": 17
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 5
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 1,
+          "away": 3
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 70
+        }
+      },
+      "syncedAt": "2026-06-13T04:07:55.282Z",
       "source": "espn"
     }
   }
