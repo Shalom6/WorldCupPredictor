@@ -258,6 +258,66 @@
       },
       "syncedAt": "2026-06-13T04:07:55.282Z",
       "source": "espn"
+    },
+    "GS-B-2": {
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Boualem Khoukhi",
+            "minute": "90'+4'",
+            "assist": "Homam Ahmed"
+          }
+        ],
+        "away": [
+          {
+            "name": "Breel Embolo",
+            "minute": "17'"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 31.8,
+          "away": 68.2
+        },
+        "shots": {
+          "home": 7,
+          "away": 26
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 7
+        },
+        "corners": {
+          "home": 3,
+          "away": 10
+        },
+        "fouls": {
+          "home": 12,
+          "away": 11
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 5,
+          "away": 3
+        },
+        "passAccuracy": {
+          "home": 70,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-13T21:24:30.473Z",
+      "source": "espn"
     }
   }
 }

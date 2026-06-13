@@ -2,9 +2,10 @@
   "team": "Qatar",
   "group": "B",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-11T08:34:02.714Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-13T21:24:30.898Z",
+  "eventsProcessed": 16,
   "eventDates": [
+    "2026-06-13",
     "2026-06-06",
     "2026-05-28",
     "2025-12-07",
@@ -19,16 +20,18 @@
     "2025-07-23",
     "2025-06-10",
     "2025-06-05",
-    "2025-03-25",
-    "2025-03-20",
-    "2024-12-27",
-    "2024-12-24",
-    "2024-12-21",
-    "2024-11-19",
-    "2024-11-14",
-    "2024-10-15"
+    "2025-03-25"
   ],
   "teamMatchResults": [
+    {
+      "date": "2026-06-13",
+      "opponent": "Switzerland",
+      "competition": "FIFA World Cup, Group B",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
     {
       "date": "2026-06-06",
       "opponent": "El Salvador",
@@ -321,6 +324,12 @@
       "name": "Mahmud Abunad",
       "position": "Goalkeeper",
       "number": null
+    },
+    {
+      "sofascoreId": null,
+      "name": "Mahmoud Abunada",
+      "position": "Goalkeeper",
+      "number": "1"
     }
   ],
   "players": [
@@ -991,6 +1000,36 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2025-11-17",
           "opponent": "Zimbabwe",
           "competition": "Int. Friendly Games",
@@ -1313,6 +1352,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-06",
           "opponent": "El Salvador",
           "competition": "Int. Friendly Games",
@@ -1534,6 +1588,21 @@
       "number": "16",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -1965,6 +2034,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-06",
           "opponent": "El Salvador",
           "competition": "Int. Friendly Games",
@@ -2356,6 +2440,21 @@
       "number": "2",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -3609,6 +3708,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-06",
           "opponent": "El Salvador",
           "competition": "Int. Friendly Games",
@@ -4097,6 +4211,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-06",
           "opponent": "El Salvador",
           "competition": "Int. Friendly Games",
@@ -4250,6 +4379,21 @@
       "number": "9",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 88,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -4739,6 +4883,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-06",
           "opponent": "El Salvador",
           "competition": "Int. Friendly Games",
@@ -4908,6 +5067,21 @@
       "number": "12",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -5082,6 +5256,21 @@
       "number": "6",
       "likelyStarter": false,
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-12-07",
           "opponent": "Tunisia",
@@ -5761,6 +5950,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-06",
           "opponent": "El Salvador",
           "competition": "Int. Friendly Games",
@@ -5914,6 +6118,21 @@
       "number": "10",
       "likelyStarter": false,
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 2,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -6353,6 +6572,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-06",
           "opponent": "El Salvador",
           "competition": "Int. Friendly Games",
@@ -6495,6 +6729,31 @@
           "cards": 0,
           "fouls": 1,
           "rating": 6.3
+        }
+      ]
+    },
+    {
+      "id": "qatar-mahmoud-abunada",
+      "name": "Mahmoud Abunada",
+      "position": "Goalkeeper",
+      "number": "1",
+      "likelyStarter": true,
+      "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1,
+          "saves": 5
         }
       ]
     }

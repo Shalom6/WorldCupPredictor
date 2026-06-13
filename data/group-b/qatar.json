@@ -3,9 +3,18 @@
   "team": "Qatar",
   "group": "B",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-11T08:34:02.714Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-13T21:24:30.898Z",
+  "eventsProcessed": 16,
   "teamMatchResults": [
+    {
+      "date": "2026-06-13",
+      "opponent": "Switzerland",
+      "competition": "FIFA World Cup, Group B",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
     {
       "date": "2026-06-06",
       "opponent": "El Salvador",
@@ -143,6 +152,26 @@
     }
   ],
   "players": [
+    {
+      "id": "qatar-mahmoud-abunada",
+      "name": "Mahmoud Abunada",
+      "team": "Qatar",
+      "group": "B",
+      "position": "Goalkeeper",
+      "number": "1",
+      "likelyStarter": false,
+      "sofascoreId": null,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [],
+      "seasonRates": null,
+      "hitRates": null,
+      "importMeta": {
+        "appearances": 0,
+        "competitions": [],
+        "lastMatch": null
+      }
+    },
     {
       "id": "qatar-mahmud-abunad",
       "name": "Mahmud Abunad",
@@ -330,16 +359,6 @@
           "World Cup Qualification, AFC, Round 4, Gr. A"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Rayyan",
-        "marketValueEur": 420000,
-        "marketValueDisplay": "€420K",
-        "dateOfBirth": "2000-02-05",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -644,16 +663,6 @@
           "Gulf Cup, Group A"
         ],
         "lastMatch": "2025-12-07"
-      },
-      "profile": {
-        "club": "Al-Sadd",
-        "marketValueEur": 660000,
-        "marketValueDisplay": "€660K",
-        "dateOfBirth": "1998-02-14",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -786,16 +795,6 @@
           "Gulf Cup, Group A"
         ],
         "lastMatch": "2025-09-03"
-      },
-      "profile": {
-        "club": "Al Duhail",
-        "marketValueEur": 440000,
-        "marketValueDisplay": "€440K",
-        "dateOfBirth": "1999-04-24",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -901,16 +900,6 @@
           "Gulf Cup, Group A"
         ],
         "lastMatch": "2024-12-24"
-      },
-      "profile": {
-        "club": "Al-Arabi SC",
-        "marketValueEur": 240000,
-        "marketValueDisplay": "€240K",
-        "dateOfBirth": "2003-08-15",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -925,6 +914,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -1041,12 +1045,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.6,
+        "shots90": 0.5,
         "sot90": 0,
-        "passes90": 41,
+        "passes90": 36,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 68
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
@@ -1086,28 +1090,19 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         }
       },
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "Arab Cup, Group A",
           "World Cup Qualification, AFC, Round 4, Gr. A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Gharafa",
-        "marketValueEur": 360000,
-        "marketValueDisplay": "€360K",
-        "dateOfBirth": "2005-03-11",
-        "age": 21,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-13"
       }
     },
     {
@@ -1122,6 +1117,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -1268,20 +1278,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.13,
-        "assists90": 0.13,
+        "goals90": 0.23,
+        "assists90": 0.12,
         "shots90": 1.1,
-        "sot90": 0.1,
-        "passes90": 65,
+        "sot90": 0.2,
+        "passes90": 57,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 75
+        "fouls90": 0.9,
+        "minutesAvg": 77
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 40,
+          "l10": 20,
+          "season": 20
         },
         "goals15": {
           "l5": 0,
@@ -1290,13 +1300,13 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
-          "l5": 40,
-          "l10": 22,
-          "season": 22
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
@@ -1304,9 +1314,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 40,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -1314,29 +1324,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Sadd",
-        "marketValueEur": 190000,
-        "marketValueDisplay": "€190K",
-        "dateOfBirth": "1990-07-09",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-13"
       }
     },
     {
@@ -1654,16 +1655,6 @@
           "Gulf Cup, Group A"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Cultural Leonesa",
-        "marketValueEur": 460000,
-        "marketValueDisplay": "€460K",
-        "dateOfBirth": "1999-08-25",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -1678,6 +1669,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -1746,12 +1752,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.3,
+        "shots90": 0.5,
         "sot90": 0,
-        "passes90": 53,
+        "passes90": 41,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 77
+        "fouls90": 0.7,
+        "minutesAvg": 79
       },
       "hitRates": {
         "goals05": {
@@ -1796,22 +1802,13 @@
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "Arab Cup, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Arabi SC",
-        "marketValueEur": 210000,
-        "marketValueDisplay": "€210K",
-        "dateOfBirth": "1997-12-22",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-13"
       }
     },
     {
@@ -2113,16 +2110,6 @@
           "Gulf Cup, Group A"
         ],
         "lastMatch": "2026-05-28"
-      },
-      "profile": {
-        "club": "Al-Wakrah",
-        "marketValueEur": 315000,
-        "marketValueDisplay": "€315K",
-        "dateOfBirth": "1990-07-03",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2137,6 +2124,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -2267,11 +2269,11 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.25,
+        "goals90": 0.22,
         "assists90": 0,
         "shots90": 0.6,
-        "sot90": 0.4,
-        "passes90": 51,
+        "sot90": 0.3,
+        "passes90": 45,
         "cards90": 0,
         "fouls90": 1.1,
         "minutesAvg": 90
@@ -2279,8 +2281,8 @@
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "goals15": {
           "l5": 0,
@@ -2294,8 +2296,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots25": {
           "l5": 0,
@@ -2304,8 +2306,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "cards05": {
           "l5": 0,
@@ -2314,28 +2316,19 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Sadd",
-        "marketValueEur": 160000,
-        "marketValueDisplay": "€160K",
-        "dateOfBirth": "1990-08-06",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-13"
       }
     },
     {
@@ -2572,16 +2565,6 @@
           "Gulf Cup, Group A"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al Duhail",
-        "marketValueEur": 325000,
-        "marketValueDisplay": "€325K",
-        "dateOfBirth": "1996-04-07",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2802,16 +2785,6 @@
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
         "lastMatch": "2025-12-04"
-      },
-      "profile": {
-        "club": "Al-Rayyan",
-        "marketValueEur": 245000,
-        "marketValueDisplay": "€245K",
-        "dateOfBirth": "1990-10-28",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2982,16 +2955,6 @@
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
         "lastMatch": "2025-10-14"
-      },
-      "profile": {
-        "club": "Al-Gharafa",
-        "marketValueEur": 475000,
-        "marketValueDisplay": "€475K",
-        "dateOfBirth": "2000-09-22",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3308,16 +3271,6 @@
           "Gulf Cup, Group A"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Arabi SC",
-        "marketValueEur": 270000,
-        "marketValueDisplay": "€270K",
-        "dateOfBirth": "1993-06-25",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3332,6 +3285,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -3575,10 +3543,10 @@
       ],
       "seasonRates": {
         "goals90": 0.14,
-        "assists90": 0.43,
-        "shots90": 0.8,
-        "sot90": 0.4,
-        "passes90": 49,
+        "assists90": 0.41,
+        "shots90": 0.7,
+        "sot90": 0.3,
+        "passes90": 46,
         "cards90": 0,
         "fouls90": 0.2,
         "minutesAvg": 83
@@ -3597,12 +3565,12 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "shots25": {
           "l5": 0,
@@ -3612,7 +3580,7 @@
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 27
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -3626,25 +3594,16 @@
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "Arab Cup, Group A",
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "World Cup Qualification, AFC, Round 3, Group A",
           "Gulf Cup, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Sadd",
-        "marketValueEur": 7500000,
-        "marketValueDisplay": "€7.5M",
-        "dateOfBirth": "1996-11-18",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-13"
       }
     },
     {
@@ -3897,16 +3856,6 @@
           "Gulf Cup, Group A"
         ],
         "lastMatch": "2026-05-28"
-      },
-      "profile": {
-        "club": "Al Duhail",
-        "marketValueEur": 2400000,
-        "marketValueDisplay": "€2.4M",
-        "dateOfBirth": "1996-08-19",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3921,6 +3870,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -4071,10 +4035,10 @@
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0,
-        "passes90": 55,
+        "passes90": 48,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 64
+        "minutesAvg": 66
       },
       "hitRates": {
         "goals05": {
@@ -4113,30 +4077,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l5": 0,
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "Arab Cup, Group A",
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Wakrah",
-        "marketValueEur": 325000,
-        "marketValueDisplay": "€325K",
-        "dateOfBirth": "1996-10-22",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-13"
       }
     },
     {
@@ -4151,6 +4106,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 88,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -4378,13 +4348,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.11,
-        "shots90": 1.4,
-        "sot90": 0.5,
-        "passes90": 33,
+        "assists90": 0.1,
+        "shots90": 1.5,
+        "sot90": 0.7,
+        "passes90": 30,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 60
+        "fouls90": 1.1,
+        "minutesAvg": 62
       },
       "hitRates": {
         "goals05": {
@@ -4403,9 +4373,9 @@
           "season": 7
         },
         "shots15": {
-          "l5": 20,
-          "l10": 30,
-          "season": 21
+          "l5": 40,
+          "l10": 40,
+          "season": 27
         },
         "shots25": {
           "l5": 0,
@@ -4414,8 +4384,8 @@
         },
         "sot05": {
           "l5": 40,
-          "l10": 40,
-          "season": 36
+          "l10": 50,
+          "season": 40
         },
         "cards05": {
           "l5": 0,
@@ -4423,30 +4393,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 7
+          "l5": 40,
+          "l10": 20,
+          "season": 13
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "Arab Cup, Group A",
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al Duhail",
-        "marketValueEur": 1900000,
-        "marketValueDisplay": "€1.9M",
-        "dateOfBirth": "1994-08-19",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-13"
       }
     },
     {
@@ -4461,6 +4422,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -4624,13 +4600,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.26,
-        "shots90": 0.8,
+        "assists90": 0.24,
+        "shots90": 0.7,
         "sot90": 0.1,
-        "passes90": 41,
-        "cards90": 0,
+        "passes90": 38,
+        "cards90": 0.12,
         "fouls90": 1.9,
-        "minutesAvg": 68
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
@@ -4646,12 +4622,12 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots25": {
           "l5": 0,
@@ -4661,38 +4637,29 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 9
         },
         "fouls15": {
-          "l5": 60,
-          "l10": 50,
-          "season": 50
+          "l5": 80,
+          "l10": 60,
+          "season": 55
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "Arab Cup, Group A",
           "World Cup Qualification, AFC, Round 3, Group A",
           "Gulf Cup, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Rayyan",
-        "marketValueEur": 475000,
-        "marketValueDisplay": "€475K",
-        "dateOfBirth": "2002-02-20",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-13"
       }
     },
     {
@@ -4707,6 +4674,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -4823,12 +4805,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
+        "shots90": 0.2,
         "sot90": 0,
-        "passes90": 70,
+        "passes90": 65,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 62
+        "minutesAvg": 58
       },
       "hitRates": {
         "goals05": {
@@ -4868,28 +4850,19 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         }
       },
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al Duhail",
-        "marketValueEur": 160000,
-        "marketValueDisplay": "€160K",
-        "dateOfBirth": "1990-09-16",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-13"
       }
     },
     {
@@ -5126,16 +5099,6 @@
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al Shamal SC",
-        "marketValueEur": 470000,
-        "marketValueDisplay": "€470K",
-        "dateOfBirth": "2003-10-30",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -5150,6 +5113,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -5296,20 +5274,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.81,
+        "goals90": 0.74,
         "assists90": 0,
         "shots90": 3.2,
-        "sot90": 1.1,
-        "passes90": 16,
+        "sot90": 1.2,
+        "passes90": 15,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 37
+        "fouls90": 1,
+        "minutesAvg": 36
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l10": 30,
+          "season": 30
         },
         "goals15": {
           "l5": 0,
@@ -5323,18 +5301,18 @@
         },
         "shots15": {
           "l5": 60,
-          "l10": 44,
-          "season": 44
+          "l10": 40,
+          "season": 40
         },
         "shots25": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "sot05": {
-          "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l5": 40,
+          "l10": 40,
+          "season": 40
         },
         "cards05": {
           "l5": 0,
@@ -5348,23 +5326,14 @@
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "Arab Cup, Group A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Rayyan",
-        "marketValueEur": 290000,
-        "marketValueDisplay": "€290K",
-        "dateOfBirth": "1993-01-31",
-        "age": 33,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-13"
       }
     },
     {
@@ -5379,6 +5348,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 2,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -5433,10 +5417,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 38,
+        "passes90": 35,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 9
+        "minutesAvg": 7
       },
       "hitRates": {
         "goals05": {
@@ -5481,21 +5465,12 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Sadd",
-        "marketValueEur": 330000,
-        "marketValueDisplay": "€330K",
-        "dateOfBirth": "1990-12-11",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-13"
       }
     },
     {
@@ -5765,16 +5740,6 @@
           "Gulf Cup, Group A"
         ],
         "lastMatch": "2025-12-07"
-      },
-      "profile": {
-        "club": "Al-Gharafa",
-        "marketValueEur": 195000,
-        "marketValueDisplay": "€195K",
-        "dateOfBirth": "1993-12-20",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -5912,16 +5877,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al Duhail",
-        "marketValueEur": 210000,
-        "marketValueDisplay": "€210K",
-        "dateOfBirth": "2006-06-16",
-        "age": 19,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -5931,11 +5886,26 @@
       "group": "B",
       "position": "Forward",
       "number": "11",
-      "likelyStarter": false,
+      "likelyStarter": true,
       "sofascoreId": 985156,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "El Salvador",
@@ -6084,12 +6054,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.5,
+        "shots90": 0.4,
         "sot90": 0.2,
-        "passes90": 17,
+        "passes90": 15,
         "cards90": 0,
-        "fouls90": 2.8,
-        "minutesAvg": 43
+        "fouls90": 2.4,
+        "minutesAvg": 45
       },
       "hitRates": {
         "goals05": {
@@ -6119,8 +6089,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -6129,28 +6099,19 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "Gulf Cup, Group A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Wakrah",
-        "marketValueEur": 290000,
-        "marketValueDisplay": "€290K",
-        "dateOfBirth": "1999-08-06",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-13"
       }
     }
   ],
@@ -6177,7 +6138,7 @@
     },
     {
       "name": "Ahmed Suhail",
-      "appearances": 6
+      "appearances": 8
     },
     {
       "name": "Al-Hashmi Al-Hussain",
@@ -6261,7 +6222,7 @@
     },
     {
       "name": "Mohamed Gouda",
-      "appearances": 7
+      "appearances": 8
     },
     {
       "name": "Mohammed Waad",
@@ -6297,6 +6258,10 @@
     },
     {
       "name": "Sebastian Soria",
+      "appearances": 1
+    },
+    {
+      "name": "Mahmoud Abunada",
       "appearances": 1
     }
   ]
