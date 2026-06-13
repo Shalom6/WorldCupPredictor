@@ -2,9 +2,10 @@
   "team": "Canada",
   "group": "B",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-11T08:33:06.771Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-13T05:06:39.901Z",
+  "eventsProcessed": 16,
   "eventDates": [
+    "2026-06-12",
     "2026-06-05",
     "2026-06-02",
     "2026-04-01",
@@ -19,16 +20,18 @@
     "2025-06-25",
     "2025-06-21",
     "2025-06-18",
-    "2025-06-07",
-    "2025-03-23",
-    "2025-03-21",
-    "2024-11-20",
-    "2024-11-15",
-    "2024-10-15",
-    "2024-09-11",
-    "2024-09-07"
+    "2025-06-07"
   ],
   "teamMatchResults": [
+    {
+      "date": "2026-06-12",
+      "opponent": "Bosnia and Herzegovina",
+      "competition": "FIFA World Cup, Group B",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
     {
       "date": "2026-06-05",
       "opponent": "Ireland",
@@ -629,6 +632,22 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
+        {
           "date": "2026-06-05",
           "opponent": "Ireland",
           "competition": "Int. Friendly Games",
@@ -880,6 +899,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-05",
           "opponent": "Ireland",
           "competition": "Int. Friendly Games",
@@ -1123,6 +1157,21 @@
       "number": "13",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-05",
           "opponent": "Ireland",
@@ -1830,6 +1879,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-05",
           "opponent": "Ireland",
           "competition": "Int. Friendly Games",
@@ -2424,6 +2488,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-05",
           "opponent": "Ireland",
           "competition": "Int. Friendly Games",
@@ -2700,6 +2779,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-04-01",
           "opponent": "Tunisia",
           "competition": "Int. Friendly Games",
@@ -2950,6 +3044,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-05",
           "opponent": "Ireland",
           "competition": "Int. Friendly Games",
@@ -3199,6 +3308,21 @@
       "number": "14",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-11-19",
           "opponent": "Venezuela",
@@ -3460,6 +3584,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-02",
           "opponent": "Uzbekistan",
           "competition": "Int. Friendly Games",
@@ -3661,6 +3800,21 @@
       "number": "23",
       "likelyStarter": false,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-05",
           "opponent": "Ireland",
@@ -4442,6 +4596,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 91,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-05",
           "opponent": "Ireland",
           "competition": "Int. Friendly Games",
@@ -4675,6 +4844,21 @@
       "number": "17",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-05",
           "opponent": "Ireland",
@@ -5047,6 +5231,21 @@
       "number": "9",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 14,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-05",
           "opponent": "Ireland",
@@ -5600,6 +5799,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-05",
           "opponent": "Ireland",
           "competition": "Int. Friendly Games",
@@ -6008,6 +6222,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-05",
           "opponent": "Ireland",
           "competition": "Int. Friendly Games",
@@ -6255,6 +6484,21 @@
       "number": "12",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-05",
           "opponent": "Ireland",

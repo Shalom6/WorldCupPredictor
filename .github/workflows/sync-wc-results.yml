@@ -22,13 +22,16 @@ jobs:
           node-version: '22'
 
       - name: Sync results from ESPN
-        run: node scripts/sync-live-results.mjs
+        run: node scripts/sync-live-results.mjs --no-players
+
+      - name: Sync player box scores from ESPN
+        run: node scripts/sync-match-players.mjs
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/data/match-results.json src/data/espn-fixture-map.json
+          git add src/data/match-results.json src/data/espn-fixture-map.json data/group-*/*.json data/group-*/*-raw.json src/data/world-cup-players.json src/data/rosters-2025-26.json src/data/national-teams.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0

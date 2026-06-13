@@ -2,9 +2,10 @@
   "team": "Bosnia and Herzegovina",
   "group": "B",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-11T08:33:33.764Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-13T05:06:39.916Z",
+  "eventsProcessed": 16,
   "eventDates": [
+    "2026-06-12",
     "2026-06-06",
     "2026-05-29",
     "2025-11-18",
@@ -19,16 +20,18 @@
     "2025-03-21",
     "2024-11-19",
     "2024-11-16",
-    "2024-10-14",
-    "2024-10-11",
-    "2024-09-10",
-    "2024-09-07",
-    "2024-06-09",
-    "2024-06-03",
-    "2024-03-21",
-    "2023-11-19"
+    "2024-10-14"
   ],
   "teamMatchResults": [
+    {
+      "date": "2026-06-12",
+      "opponent": "Canada",
+      "competition": "FIFA World Cup, Group B",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
     {
       "date": "2026-06-06",
       "opponent": "Panama",
@@ -447,6 +450,22 @@
       "number": "1",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 1
+        },
         {
           "date": "2025-11-18",
           "opponent": "Austria",
@@ -903,6 +922,21 @@
       "number": "7",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-11-15",
           "opponent": "Romania",
@@ -1871,6 +1905,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
+        {
           "date": "2025-11-15",
           "opponent": "Romania",
           "competition": "World Cup Qual. UEFA H",
@@ -2083,6 +2132,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
+        {
           "date": "2025-03-24",
           "opponent": "Cyprus",
           "competition": "World Cup Qual. UEFA H",
@@ -2246,6 +2310,21 @@
       "number": "23",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-11-18",
           "opponent": "Austria",
@@ -2427,6 +2506,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2025-11-18",
           "opponent": "Austria",
           "competition": "World Cup Qual. UEFA H",
@@ -2590,6 +2684,21 @@
       "number": "8",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-11-18",
           "opponent": "Austria",
@@ -2840,6 +2949,21 @@
       "number": "6",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-11-18",
           "opponent": "Austria",
@@ -3403,6 +3527,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 6,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2025-11-15",
           "opponent": "Romania",
           "competition": "World Cup Qual. UEFA H",
@@ -3884,6 +4023,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2025-11-15",
           "opponent": "Romania",
           "competition": "World Cup Qual. UEFA H",
@@ -4070,6 +4224,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2025-11-18",
           "opponent": "Austria",
           "competition": "World Cup Qual. UEFA H",
@@ -4207,6 +4376,21 @@
       "number": "19",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-11-18",
           "opponent": "Austria",
@@ -4694,6 +4878,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 4
+        },
+        {
           "date": "2025-09-09",
           "opponent": "Austria",
           "competition": "World Cup Qual. UEFA H",
@@ -4927,6 +5126,21 @@
       "number": "20",
       "likelyStarter": false,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-11-18",
           "opponent": "Austria",
@@ -5218,7 +5432,23 @@
       "position": "Forward",
       "number": null,
       "likelyStarter": false,
-      "gameLog": []
+      "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        }
+      ]
     },
     {
       "id": "bosnia-and-herzegovina-luka-kulenovic",
@@ -5322,6 +5552,21 @@
       "number": "21",
       "likelyStarter": false,
       "gameLog": [
+        {
+          "date": "2026-06-12",
+          "opponent": "Canada",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-11-18",
           "opponent": "Austria",

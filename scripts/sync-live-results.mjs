@@ -16,6 +16,7 @@ import {
   matchEventsToFixtures,
   parseFinishedMatch
 } from './lib/espn-world-cup.mjs';
+import { syncPlayersForFixtures, buildPlayerSyncPairs } from './lib/sync-players-pipeline.mjs';
 
 const root = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const fixturesPath = path.join(root, 'src', 'data', 'fixtures.json');
@@ -26,7 +27,8 @@ function parseArgs(argv) {
   return {
     dryRun: argv.includes('--dry-run'),
     commit: argv.includes('--commit'),
-    force: argv.includes('--force')
+    force: argv.includes('--force'),
+    players: argv.includes('--players') || !argv.includes('--no-players')
   };
 }
 
@@ -140,6 +142,14 @@ async function main() {
   }
 
   console.log(`\nDone: ${updated} updated, ${skipped} unchanged, ${pairs.length} mapped fixtures.`);
+
+  if (opts.players && !opts.dryRun) {
+    const playerPairs = buildPlayerSyncPairs(fixtures, events, mapDoc, resultsDoc);
+    if (playerPairs.length) {
+      const playerFiles = await syncPlayersForFixtures(playerPairs, { dryRun: false });
+      for (const f of playerFiles) changedFiles.add(f);
+    }
+  }
 
   if (opts.commit && changedFiles.size) {
     runGitCommit([...changedFiles]);

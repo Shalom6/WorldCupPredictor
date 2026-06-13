@@ -56,14 +56,26 @@ Do not modify unrelated files. Skip player log patches unless explicitly request
 
 You can use GitHub Actions *or* Cursor Automation — both call the same script. Actions is more reliable when the IDE is closed.
 
-## Player box scores
+## Player box scores (automated)
 
-ESPN sync updates **team-level** results only. Per-player minutes still come from patch scripts (`scripts/patch-gs-a-*.mjs`) until SofaScore or API-Football post-match import is wired in.
+`scripts/sync-match-players.mjs` reads ESPN rosters + substitution events and writes per-player game logs (minutes, goals, shots, cards) into `data/group-*/` raw + squad files, then refreshes `world-cup-players.json`.
 
-After a big match, optionally run:
+`npm run sync:results` runs player sync automatically after team results. Use `--no-players` to skip.
 
 ```bash
-node scripts/patch-gs-a-N.mjs   # if you add a patch file
+npm run sync:players
+npm run sync:players -- --fixture=GS-A-1
+npm run sync:players -- --commit
+```
+
+Name matching handles accent differences and Korean name order (e.g. `Lee Kang-In` ↔ `Kang-in Lee`). Players not in the squad file are logged as unmatched.
+
+## Player box scores (legacy manual patches)
+
+Manual patch scripts still work if ESPN data is incomplete:
+
+```bash
+node scripts/patch-gs-a-N.mjs
 npm run import:manual-teams -- --group=A
 ```
 

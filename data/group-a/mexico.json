@@ -3,7 +3,7 @@
   "team": "Mexico",
   "group": "A",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-11T23:52:29.025Z",
+  "importedAt": "2026-06-13T05:06:58.616Z",
   "eventsProcessed": 16,
   "teamMatchResults": [
     {
@@ -361,7 +361,8 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 0,
+          "saves": 2
         },
         {
           "date": "2026-06-05",
@@ -678,7 +679,7 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 1,
-          "fouls": 0
+          "fouls": 2
         },
         {
           "date": "2026-06-05",
@@ -928,7 +929,7 @@
         "sot90": 0.3,
         "passes90": 60,
         "cards90": 0.07,
-        "fouls90": 0.9,
+        "fouls90": 1,
         "minutesAvg": 84
       },
       "hitRates": {
@@ -968,9 +969,9 @@
           "season": 6
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 25
+          "l5": 40,
+          "l10": 30,
+          "season": 31
         }
       },
       "importMeta": {
@@ -1335,7 +1336,7 @@
           "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "shots": 0,
+          "shots": 1,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -1569,7 +1570,7 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.3,
+        "shots90": 0.4,
         "sot90": 0.2,
         "passes90": 52,
         "cards90": 0,
@@ -1650,11 +1651,11 @@
           "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "shots": 0,
+          "shots": 2,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 1
         },
         {
           "date": "2026-06-05",
@@ -1900,11 +1901,11 @@
       "seasonRates": {
         "goals90": 0.09,
         "assists90": 0,
-        "shots90": 0.5,
+        "shots90": 0.7,
         "sot90": 0.1,
         "passes90": 44,
         "cards90": 0,
-        "fouls90": 1.6,
+        "fouls90": 1.7,
         "minutesAvg": 66
       },
       "hitRates": {
@@ -1924,9 +1925,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -3482,11 +3483,11 @@
           "minutes": 66,
           "goals": 0,
           "assists": 0,
-          "shots": 0,
+          "shots": 4,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 1,
-          "fouls": 0
+          "fouls": 2
         },
         {
           "date": "2026-06-05",
@@ -3604,11 +3605,11 @@
       "seasonRates": {
         "goals90": 0.37,
         "assists90": 0.18,
-        "shots90": 3.3,
+        "shots90": 4.1,
         "sot90": 1.1,
         "passes90": 33,
         "cards90": 0.18,
-        "fouls90": 1.1,
+        "fouls90": 1.5,
         "minutesAvg": 61
       },
       "hitRates": {
@@ -3628,14 +3629,14 @@
           "season": 13
         },
         "shots15": {
-          "l5": 80,
-          "l10": 63,
-          "season": 63
+          "l5": 100,
+          "l10": 75,
+          "season": 75
         },
         "shots25": {
-          "l5": 40,
-          "l10": 38,
-          "season": 38
+          "l5": 60,
+          "l10": 50,
+          "season": 50
         },
         "sot05": {
           "l5": 40,
@@ -3648,9 +3649,9 @@
           "season": 13
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l5": 40,
+          "l10": 38,
+          "season": 38
         }
       },
       "importMeta": {
@@ -4221,7 +4222,7 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 1
         },
         {
           "date": "2026-06-05",
@@ -4359,7 +4360,7 @@
         "sot90": 0.8,
         "passes90": 36,
         "cards90": 0,
-        "fouls90": 0.4,
+        "fouls90": 0.6,
         "minutesAvg": 52
       },
       "hitRates": {
@@ -4439,7 +4440,7 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 1
         },
         {
           "date": "2026-06-05",
@@ -4545,7 +4546,7 @@
         "sot90": 0.7,
         "passes90": 58,
         "cards90": 0,
-        "fouls90": 1,
+        "fouls90": 1.4,
         "minutesAvg": 38
       },
       "hitRates": {
@@ -5061,7 +5062,7 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 1
         },
         {
           "date": "2026-05-23",
@@ -5183,7 +5184,7 @@
         "sot90": 1.7,
         "passes90": 11,
         "cards90": 0,
-        "fouls90": 0.3,
+        "fouls90": 0.7,
         "minutesAvg": 33
       },
       "hitRates": {
@@ -5395,11 +5396,11 @@
           "minutes": 79,
           "goals": 1,
           "assists": 0,
-          "shots": 3,
+          "shots": 5,
           "shotsOnTarget": 2,
-          "passes": 30,
+          "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 1
         },
         {
           "date": "2026-06-05",
@@ -5581,11 +5582,11 @@
       "seasonRates": {
         "goals90": 0.16,
         "assists90": 0.16,
-        "shots90": 2.9,
+        "shots90": 3.2,
         "sot90": 1,
-        "passes90": 34,
+        "passes90": 29,
         "cards90": 0,
-        "fouls90": 1.1,
+        "fouls90": 1.3,
         "minutesAvg": 47
       },
       "hitRates": {
@@ -5663,10 +5664,10 @@
           "goals": 1,
           "assists": 0,
           "shots": 4,
-          "shotsOnTarget": 3,
-          "passes": 16,
+          "shotsOnTarget": 2,
+          "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 1
         },
         {
           "date": "2026-06-05",
@@ -5913,10 +5914,10 @@
         "goals90": 0.58,
         "assists90": 0,
         "shots90": 2.4,
-        "sot90": 1.3,
-        "passes90": 25,
+        "sot90": 1.2,
+        "passes90": 23,
         "cards90": 0,
-        "fouls90": 1.7,
+        "fouls90": 1.8,
         "minutesAvg": 68
       },
       "hitRates": {
@@ -5997,7 +5998,7 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 2
         },
         {
           "date": "2026-06-05",
@@ -6247,7 +6248,7 @@
         "sot90": 0.9,
         "passes90": 41,
         "cards90": 0,
-        "fouls90": 0.6,
+        "fouls90": 0.7,
         "minutesAvg": 68
       },
       "hitRates": {
@@ -6287,9 +6288,9 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         }
       },
       "importMeta": {
