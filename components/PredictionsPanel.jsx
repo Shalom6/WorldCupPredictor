@@ -1,6 +1,7 @@
 'use client';
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { useLiveCatalog } from '../hooks/useLiveScores.js';
 import { getMatchReport } from '../src/matchResult.js';
 import MatchReport from './MatchReport.jsx';
 
@@ -76,9 +77,10 @@ function ProbRow({ label, p, homeName, awayName }) {
 }
 
 function formatFixtureLabel(f) {
+  const live = f.live || f.status === 'in_progress' ? ' · LIVE' : '';
   const score =
     f.homeScore != null && f.awayScore != null ? ` (${f.homeScore}–${f.awayScore})` : '';
-  return `${f.homeTeam} vs ${f.awayTeam}${score} · MD${f.matchday}`;
+  return `${f.homeTeam} vs ${f.awayTeam}${score}${live} · MD${f.matchday}`;
 }
 
 export default function PredictionsPanel({
@@ -89,6 +91,7 @@ export default function PredictionsPanel({
   setFixtureId
 }) {
   const [catalog, setCatalog] = useState(null);
+  const { catalog: liveCatalog } = useLiveCatalog(catalog);
   const [stageTab, setStageTab] = useState('group');
   const [neutralVenue, setNeutralVenue] = useState(false);
   const [liveMarket, setLiveMarket] = useState(true);
@@ -102,20 +105,20 @@ export default function PredictionsPanel({
   const loadSeq = useRef(0);
 
   const groupFixtures = useMemo(() => {
-    if (!catalog?.groupStage) return [];
-    return catalog.groupStage.filter((f) => f.group === group);
-  }, [catalog, group]);
+    if (!liveCatalog?.groupStage) return [];
+    return liveCatalog.groupStage.filter((f) => f.group === group);
+  }, [liveCatalog, group]);
 
-  const knockoutFixtures = catalog?.knockout ?? [];
+  const knockoutFixtures = liveCatalog?.knockout ?? [];
   const activeFixtures = stageTab === 'group' ? groupFixtures : knockoutFixtures;
 
   const selectedFixture = useMemo(() => {
-    const all = [...(catalog?.groupStage ?? []), ...(catalog?.knockout ?? [])];
+    const all = [...(liveCatalog?.groupStage ?? []), ...(liveCatalog?.knockout ?? [])];
     if (fixtureId) {
       return all.find((f) => f.id === fixtureId) ?? null;
     }
     return activeFixtures[0] ?? null;
-  }, [catalog, fixtureId, activeFixtures]);
+  }, [liveCatalog, fixtureId, activeFixtures]);
 
   const dataMatchesSelection = data?.fixture?.id === selectedFixture?.id;
   const displayData = dataMatchesSelection ? data : null;

@@ -3,7 +3,7 @@ name: Sync World Cup results
 on:
   schedule:
     # Every 15 minutes during tournament (UTC). Adjust if needed.
-    - cron: '*/15 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:

@@ -366,7 +366,7 @@ export default function PlayersPanel({ fixture = null }) {
     return () => {
       cancelled = true;
     };
-  }, [fixture?.id, matchReport]);
+  }, [fixture?.id, fixture?.homeScore, fixture?.awayScore, matchReport]);
 
   const opponents = useMemo(() => {
     const ops = new Set((detail?.gameLog ?? []).map((g) => g.opponent));

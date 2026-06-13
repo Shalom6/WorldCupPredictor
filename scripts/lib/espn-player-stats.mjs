@@ -180,12 +180,55 @@ function parseRosterRow(entry, maps) {
 }
 
 function fixtureDateIso(fixture, summary) {
-  const wall = summary?.keyEvents?.[0]?.wallclock;
-  if (wall) return wall.slice(0, 10);
   const raw = fixture?.date ?? '';
   const parsed = new Date(raw);
   if (!Number.isNaN(parsed.getTime())) return parsed.toISOString().slice(0, 10);
+  const wall = summary?.keyEvents?.[0]?.wallclock;
+  if (wall) return wall.slice(0, 10);
   return new Date().toISOString().slice(0, 10);
+}
+
+function slugifyPlayerId(team, name) {
+  return `${team}-${name}`
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
+/** Add a player who appeared in the match but is not yet in the squad file. */
+function ensurePlayerInRaw(raw, rosterEntry) {
+  const espnName = rosterEntry.athlete?.displayName;
+  if (!espnName) return null;
+
+  let player = findSquadPlayer(raw.players, espnName);
+  if (player) return player;
+
+  const position = rosterEntry.position?.displayName ?? 'Forward';
+  const number = rosterEntry.jersey ?? null;
+  player = {
+    id: slugifyPlayerId(raw.team, espnName),
+    name: espnName,
+    position,
+    number,
+    likelyStarter: Boolean(rosterEntry.starter),
+    gameLog: []
+  };
+  raw.players = raw.players ?? [];
+  raw.players.push(player);
+
+  raw.officialSquad = raw.officialSquad ?? [];
+  if (!raw.officialSquad.some((s) => normPlayerName(s.name) === normPlayerName(espnName))) {
+    raw.officialSquad.push({
+      sofascoreId: null,
+      name: player.name,
+      position,
+      number
+    });
+  }
+
+  return player;
 }
 
 function teamMatchMeta(fixture, summary, teamName, isHome) {
@@ -233,8 +276,21 @@ function baseGameEntry(teamMatch, patch) {
   };
 }
 
-function stripMatchFromLog(log, date, opponent) {
-  return (log ?? []).filter((g) => g.date !== date || g.opponent !== opponent);
+function isWorldCupEntry(entry) {
+  const c = String(entry?.competition ?? '');
+  return c.includes('World Cup') || c.includes('FIFA World Cup');
+}
+
+function stripMatchFromLog(log, teamMatch) {
+  return (log ?? []).filter(
+    (g) => !(g.opponent === teamMatch.opponent && isWorldCupEntry(g))
+  );
+}
+
+function stripTeamMatchResults(results, teamMatch) {
+  return (results ?? []).filter(
+    (r) => !(r.opponent === teamMatch.opponent && String(r.competition ?? '').includes('World Cup'))
+  );
 }
 
 function prependUnique(results, entry) {
@@ -244,8 +300,9 @@ function prependUnique(results, entry) {
   return [entry, ...filtered].slice(0, 22);
 }
 
-function entriesEqual(a, b) {
+function entriesEqual(a, b, teamMatch) {
   if (!a || !b) return false;
+  if (teamMatch && a.date !== teamMatch.date) return false;
   const keys = ['minutes', 'goals', 'assists', 'shots', 'shotsOnTarget', 'fouls', 'cards', 'saves'];
   return keys.every((k) => (a[k] ?? 0) === (b[k] ?? 0));
 }
@@ -268,40 +325,101 @@ export function patchTeamRawFromEspn(raw, { fixture, summary, teamName, isHome }
   let patched = 0;
   let updated = 0;
 
+  for (const player of raw.players ?? []) {
+    const before = player.gameLog?.length ?? 0;
+    player.gameLog = stripMatchFromLog(player.gameLog, teamMatch);
+    if ((player.gameLog?.length ?? 0) < before) updated++;
+  }
+
   for (const entry of rosterSide.roster ?? []) {
     const row = parseRosterRow(entry, maps);
     if (!row) continue;
 
-    const player = findSquadPlayer(raw.players, row.espnName);
+    let player = findSquadPlayer(raw.players, row.espnName);
+    if (!player) {
+      player = ensurePlayerInRaw(raw, entry);
+    }
     if (!player) {
       unmatched.push(row.espnName);
       continue;
     }
 
     const existing = (player.gameLog ?? []).find(
-      (g) => g.date === teamMatch.date && g.opponent === teamMatch.opponent
+      (g) => g.opponent === teamMatch.opponent && isWorldCupEntry(g)
     );
     const nextEntry = baseGameEntry(teamMatch, row);
 
-    if (existing && entriesEqual(existing, nextEntry)) {
+    if (existing && entriesEqual(existing, nextEntry, teamMatch)) {
       patched++;
       continue;
     }
 
-    player.gameLog = stripMatchFromLog(player.gameLog, teamMatch.date, teamMatch.opponent);
-    player.gameLog = [nextEntry, ...player.gameLog];
+    player.gameLog = [nextEntry, ...(player.gameLog ?? [])];
     patched++;
     updated++;
   }
 
-  if (updated > 0) {
-    raw.importedAt = new Date().toISOString();
-    raw.teamMatchResults = prependUnique(raw.teamMatchResults, teamMatch);
+  if (updated > 0 || patched > 0) {
+    raw.teamMatchResults = prependUnique(
+      stripTeamMatchResults(raw.teamMatchResults, teamMatch),
+      teamMatch
+    );
     raw.eventsProcessed = raw.teamMatchResults.length;
     raw.eventDates = raw.teamMatchResults.map((m) => m.date);
   }
 
+  if (updated > 0) {
+    raw.importedAt = new Date().toISOString();
+  }
+
   return { patched, updated, unmatched, teamMatch };
+}
+
+/** Live player rows from ESPN summary (for API before git sync lands). */
+export function parseLivePlayerRows(summary, fixture, catalogPlayers = []) {
+  const maps = buildEventMaps(summary.keyEvents);
+  const rows = [];
+
+  for (const [teamName, isHome] of [
+    [fixture.homeTeam, true],
+    [fixture.awayTeam, false]
+  ]) {
+    const rosterSide = (summary.rosters ?? []).find((r) =>
+      isHome ? r.homeAway === 'home' : r.homeAway === 'away'
+    );
+    if (!rosterSide) continue;
+
+    const teamCatalog = catalogPlayers.filter((p) => p.team === teamName);
+
+    for (const entry of rosterSide.roster ?? []) {
+      const row = parseRosterRow(entry, maps);
+      if (!row) continue;
+
+      const squad = findSquadPlayer(teamCatalog, row.espnName);
+      rows.push({
+        id: squad?.id ?? slugifyPlayerId(teamName, row.espnName),
+        name: squad?.name ?? row.espnName,
+        team: teamName,
+        position: squad?.position ?? entry.position?.displayName ?? '—',
+        number: squad?.number ?? entry.jersey ?? null,
+        minutes: row.minutes,
+        goals: row.goals,
+        assists: row.assists,
+        shots: row.shots,
+        shotsOnTarget: row.shotsOnTarget,
+        cards: row.cards,
+        fouls: row.fouls,
+        passes: row.passes ?? 0,
+        rating: row.rating ?? null
+      });
+    }
+  }
+
+  return rows.sort((a, b) => {
+    const impact = b.goals - a.goals || b.assists - a.assists || b.minutes - a.minutes;
+    if (impact !== 0) return impact;
+    return a.team.localeCompare(b.team) || a.name.localeCompare(b.name);
+  });
 }
 
 export function rosterSideForTeam(summary, fixture, teamName) {

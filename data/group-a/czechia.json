@@ -3,18 +3,9 @@
   "team": "Czechia",
   "group": "A",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-13T05:07:00.040Z",
-  "eventsProcessed": 17,
+  "importedAt": "2026-06-13T05:14:41.930Z",
+  "eventsProcessed": 16,
   "teamMatchResults": [
-    {
-      "date": "2026-06-12",
-      "opponent": "South Korea",
-      "competition": "FIFA World Cup, Group A",
-      "result": "L",
-      "goalsFor": 1,
-      "goalsAgainst": 2,
-      "venue": "away"
-    },
     {
       "date": "2026-06-11",
       "opponent": "South Korea",
@@ -364,22 +355,6 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0,
-          "saves": 4
-        },
-        {
           "date": "2026-06-11",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
@@ -686,7 +661,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 23,
+        "passes90": 24,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 84
@@ -734,7 +709,7 @@
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group A",
           "World Cup Qual. UEFA L",
@@ -742,7 +717,7 @@
           "UEFA Nations League, League B, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -1051,21 +1026,6 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-11",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
@@ -1227,13 +1187,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.3,
+        "assists90": 0.33,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 30,
+        "passes90": 34,
         "cards90": 0,
-        "fouls90": 1.2,
-        "minutesAvg": 82
+        "fouls90": 1.3,
+        "minutesAvg": 81
       },
       "hitRates": {
         "goals05": {
@@ -1249,12 +1209,12 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 20
         },
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -1264,7 +1224,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -1274,17 +1234,17 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 18
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group A",
           "World Cup Qual. UEFA L",
           "UEFA Nations League, League B, Gr. 1"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -1300,7 +1260,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
           "result": "L",
@@ -1313,21 +1273,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 3
-        },
-        {
-          "date": "2026-06-11",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 1,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2025-10-12",
@@ -1555,20 +1500,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.13,
-        "assists90": 0.06,
-        "shots90": 1.1,
-        "sot90": 0.4,
-        "passes90": 49,
+        "goals90": 0.07,
+        "assists90": 0.07,
+        "shots90": 1,
+        "sot90": 0.3,
+        "passes90": 53,
         "cards90": 0,
-        "fouls90": 1.9,
+        "fouls90": 2,
         "minutesAvg": 90
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 20,
-          "season": 13
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -1576,14 +1521,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
+          "l5": 20,
           "l10": 10,
-          "season": 6
+          "season": 7
         },
         "shots15": {
           "l5": 20,
-          "l10": 20,
-          "season": 25
+          "l10": 10,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
@@ -1592,8 +1537,8 @@
         },
         "sot05": {
           "l5": 40,
-          "l10": 40,
-          "season": 38
+          "l10": 30,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -1601,13 +1546,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 80,
-          "l10": 80,
-          "season": 75
+          "l5": 100,
+          "l10": 90,
+          "season": 80
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group A",
           "World Cup Qual. UEFA L",
@@ -1615,7 +1560,7 @@
           "Euro, Group F",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -1631,21 +1576,6 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 3
-        },
-        {
           "date": "2026-06-11",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
@@ -1658,7 +1588,7 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 3
         },
         {
           "date": "2025-11-17",
@@ -1790,20 +1720,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.11,
-        "assists90": 0.11,
-        "shots90": 0.5,
+        "goals90": 0.12,
+        "assists90": 0.12,
+        "shots90": 0.6,
         "sot90": 0.1,
-        "passes90": 35,
+        "passes90": 39,
         "cards90": 0,
-        "fouls90": 2.1,
+        "fouls90": 2.4,
         "minutesAvg": 85
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 10,
-          "season": 10
+          "l10": 11,
+          "season": 11
         },
         "goals15": {
           "l5": 0,
@@ -1812,13 +1742,13 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 11,
+          "season": 11
         },
         "shots15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 22,
+          "season": 22
         },
         "shots25": {
           "l5": 0,
@@ -1827,8 +1757,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 10,
-          "season": 10
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
           "l5": 0,
@@ -1837,12 +1767,12 @@
         },
         "fouls15": {
           "l5": 80,
-          "l10": 60,
-          "season": 60
+          "l10": 67,
+          "season": 67
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 9,
         "competitions": [
           "FIFA World Cup, Group A",
           "World Cup Qual. UEFA L",
@@ -1850,7 +1780,7 @@
           "UEFA Nations League, League B, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -1860,26 +1790,11 @@
       "group": "A",
       "position": "Defender",
       "number": "2",
-      "likelyStarter": true,
+      "likelyStarter": false,
       "sofascoreId": 1144329,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
-        {
-          "date": "2026-06-12",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
         {
           "date": "2026-06-11",
           "opponent": "South Korea",
@@ -1893,7 +1808,7 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 1
         },
         {
           "date": "2025-11-17",
@@ -1915,12 +1830,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.5,
+        "shots90": 0.8,
         "sot90": 0,
-        "passes90": 11,
+        "passes90": 20,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 67
+        "fouls90": 0.8,
+        "minutesAvg": 56
       },
       "hitRates": {
         "goals05": {
@@ -1965,12 +1880,12 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 2,
         "competitions": [
           "FIFA World Cup, Group A",
           "World Cup Qual. UEFA L"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -2238,21 +2153,6 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 1,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 3
-        },
-        {
           "date": "2026-06-11",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
@@ -2265,7 +2165,7 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 3
         },
         {
           "date": "2025-11-17",
@@ -2510,12 +2410,12 @@
       ],
       "seasonRates": {
         "goals90": 0.06,
-        "assists90": 0.24,
+        "assists90": 0.19,
         "shots90": 0.3,
         "sot90": 0.2,
-        "passes90": 44,
+        "passes90": 47,
         "cards90": 0,
-        "fouls90": 1.1,
+        "fouls90": 1.2,
         "minutesAvg": 89
       },
       "hitRates": {
@@ -2530,9 +2430,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 60,
-          "l10": 30,
-          "season": 24
+          "l5": 40,
+          "l10": 20,
+          "season": 19
         },
         "shots15": {
           "l5": 20,
@@ -2547,7 +2447,7 @@
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 12
+          "season": 13
         },
         "cards05": {
           "l5": 0,
@@ -2555,20 +2455,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 60,
           "l10": 50,
-          "season": 41
+          "season": 44
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group A",
           "World Cup Qual. UEFA L",
           "UEFA Nations League, League B, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -2578,26 +2478,11 @@
       "group": "A",
       "position": "Midfielder",
       "number": null,
-      "likelyStarter": true,
+      "likelyStarter": false,
       "sofascoreId": 1403491,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
-        {
-          "date": "2026-06-12",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 84,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
         {
           "date": "2026-06-11",
           "opponent": "South Korea",
@@ -2667,11 +2552,11 @@
         }
       },
       "importMeta": {
-        "appearances": 2,
+        "appearances": 1,
         "competitions": [
           "FIFA World Cup, Group A"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -3164,7 +3049,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
           "result": "L",
@@ -3174,21 +3059,6 @@
           "assists": 0,
           "shots": 2,
           "shotsOnTarget": 2,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-11",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 26,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -3293,12 +3163,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.8,
+        "shots90": 1.9,
         "sot90": 0.6,
-        "passes90": 33,
+        "passes90": 36,
         "cards90": 0,
-        "fouls90": 1.8,
-        "minutesAvg": 39
+        "fouls90": 1.9,
+        "minutesAvg": 40
       },
       "hitRates": {
         "goals05": {
@@ -3317,9 +3187,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l5": 40,
+          "l10": 29,
+          "season": 29
         },
         "shots25": {
           "l5": 0,
@@ -3328,8 +3198,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 14,
+          "season": 14
         },
         "cards05": {
           "l5": 0,
@@ -3338,18 +3208,18 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 14,
+          "season": 14
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group A",
           "World Cup Qual. UEFA L",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -3365,7 +3235,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
           "result": "L",
@@ -3378,21 +3248,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
-        },
-        {
-          "date": "2026-06-11",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2025-11-17",
@@ -3636,20 +3491,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.25,
+        "goals90": 0.27,
         "assists90": 0,
-        "shots90": 1.4,
-        "sot90": 0.6,
-        "passes90": 40,
+        "shots90": 1.5,
+        "sot90": 0.7,
+        "passes90": 43,
         "cards90": 0,
-        "fouls90": 2.2,
-        "minutesAvg": 84
+        "fouls90": 2.4,
+        "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 20,
-          "season": 24
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -3663,18 +3518,18 @@
         },
         "shots15": {
           "l5": 40,
-          "l10": 50,
-          "season": 41
+          "l10": 60,
+          "season": 44
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
-          "season": 12
+          "l10": 20,
+          "season": 13
         },
         "sot05": {
           "l5": 20,
-          "l10": 40,
-          "season": 41
+          "l10": 50,
+          "season": 44
         },
         "cards05": {
           "l5": 0,
@@ -3683,12 +3538,12 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 50,
-          "season": 65
+          "l10": 60,
+          "season": 69
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group A",
           "World Cup Qual. UEFA L",
@@ -3696,7 +3551,7 @@
           "UEFA Nations League, League B, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -3732,7 +3587,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
           "result": "L",
@@ -3742,21 +3597,6 @@
           "assists": 0,
           "shots": 2,
           "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-11",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 26,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -3923,20 +3763,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.4,
+        "goals90": 0.42,
         "assists90": 0,
-        "shots90": 4,
-        "sot90": 2,
-        "passes90": 16,
+        "shots90": 4.2,
+        "sot90": 2.1,
+        "passes90": 17,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 38
+        "fouls90": 1.7,
+        "minutesAvg": 39
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
           "l10": 20,
-          "season": 17
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -3950,18 +3790,18 @@
         },
         "shots15": {
           "l5": 40,
-          "l10": 40,
-          "season": 50
+          "l10": 50,
+          "season": 55
         },
         "shots25": {
           "l5": 0,
-          "l10": 0,
-          "season": 17
+          "l10": 10,
+          "season": 18
         },
         "sot05": {
           "l5": 60,
-          "l10": 60,
-          "season": 67
+          "l10": 70,
+          "season": 73
         },
         "cards05": {
           "l5": 0,
@@ -3970,12 +3810,12 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 10,
-          "season": 25
+          "l10": 20,
+          "season": 27
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group A",
           "World Cup Qual. UEFA L",
@@ -3983,7 +3823,7 @@
           "Euro, Group F",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -4235,21 +4075,6 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 64,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-11",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
@@ -4262,7 +4087,7 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 1
         },
         {
           "date": "2025-10-12",
@@ -4508,11 +4333,11 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0.08,
-        "shots90": 1.7,
-        "sot90": 0.7,
-        "passes90": 35,
+        "shots90": 1.8,
+        "sot90": 0.8,
+        "passes90": 37,
         "cards90": 0,
-        "fouls90": 1.1,
+        "fouls90": 1.2,
         "minutesAvg": 67
       },
       "hitRates": {
@@ -4532,19 +4357,19 @@
           "season": 6
         },
         "shots15": {
-          "l5": 40,
+          "l5": 60,
           "l10": 50,
-          "season": 35
+          "season": 38
         },
         "shots25": {
-          "l5": 40,
+          "l5": 60,
           "l10": 40,
-          "season": 29
+          "season": 31
         },
         "sot05": {
           "l5": 40,
           "l10": 30,
-          "season": 41
+          "season": 44
         },
         "cards05": {
           "l5": 0,
@@ -4554,18 +4379,18 @@
         "fouls15": {
           "l5": 40,
           "l10": 30,
-          "season": 24
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group A",
           "World Cup Qual. UEFA L",
           "UEFA Nations League, League B, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -4581,21 +4406,6 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 6,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-11",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
@@ -4608,7 +4418,7 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 1
         },
         {
           "date": "2025-11-17",
@@ -4710,12 +4520,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 2,
+        "shots90": 2.1,
         "sot90": 0.5,
         "passes90": 13,
         "cards90": 0,
-        "fouls90": 2,
-        "minutesAvg": 22
+        "fouls90": 2.1,
+        "minutesAvg": 24
       },
       "hitRates": {
         "goals05": {
@@ -4735,8 +4545,8 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 14,
+          "season": 14
         },
         "shots25": {
           "l5": 0,
@@ -4745,8 +4555,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 14,
+          "season": 14
         },
         "cards05": {
           "l5": 0,
@@ -4760,7 +4570,7 @@
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group A",
           "World Cup Qual. UEFA L",
@@ -4768,7 +4578,7 @@
           "Euro, Group F",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -4784,7 +4594,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
           "result": "L",
@@ -4794,21 +4604,6 @@
           "assists": 0,
           "shots": 0,
           "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-11",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -5007,25 +4802,25 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.59,
+        "goals90": 0.65,
         "assists90": 0,
-        "shots90": 3.7,
-        "sot90": 1.9,
-        "passes90": 13,
+        "shots90": 3.9,
+        "sot90": 2,
+        "passes90": 15,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 66
+        "fouls90": 0.9,
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 30,
-          "season": 36
+          "season": 38
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 8
         },
         "assists05": {
           "l5": 0,
@@ -5034,18 +4829,18 @@
         },
         "shots15": {
           "l5": 60,
-          "l10": 70,
-          "season": 64
+          "l10": 60,
+          "season": 62
         },
         "shots25": {
           "l5": 40,
           "l10": 50,
-          "season": 50
+          "season": 54
         },
         "sot05": {
           "l5": 40,
           "l10": 60,
-          "season": 64
+          "season": 62
         },
         "cards05": {
           "l5": 0,
@@ -5055,11 +4850,11 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 14
+          "season": 15
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group A",
           "World Cup Qual. UEFA L",
@@ -5067,7 +4862,7 @@
           "UEFA Nations League, League B, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -5083,7 +4878,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
           "result": "L",
@@ -5096,21 +4891,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
-        },
-        {
-          "date": "2026-06-11",
-          "opponent": "South Korea",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 64,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2025-10-12",
@@ -5354,20 +5134,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.29,
-        "assists90": 0.07,
-        "shots90": 1.9,
-        "sot90": 0.8,
-        "passes90": 24,
+        "goals90": 0.31,
+        "assists90": 0.08,
+        "shots90": 2,
+        "sot90": 0.9,
+        "passes90": 25,
         "cards90": 0,
-        "fouls90": 1.2,
+        "fouls90": 1.3,
         "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 10,
-          "season": 18
+          "l10": 20,
+          "season": 19
         },
         "goals15": {
           "l5": 0,
@@ -5380,19 +5160,19 @@
           "season": 6
         },
         "shots15": {
-          "l5": 20,
+          "l5": 40,
           "l10": 60,
-          "season": 53
+          "season": 56
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 18
+          "season": 19
         },
         "sot05": {
           "l5": 20,
-          "l10": 40,
-          "season": 41
+          "l10": 50,
+          "season": 44
         },
         "cards05": {
           "l5": 0,
@@ -5402,11 +5182,11 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 24
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group A",
           "World Cup Qual. UEFA L",
@@ -5414,7 +5194,7 @@
           "UEFA Nations League, League B, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -5430,7 +5210,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
           "result": "L",
@@ -5746,7 +5526,7 @@
           "UEFA Nations League, League B, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     }
   ],

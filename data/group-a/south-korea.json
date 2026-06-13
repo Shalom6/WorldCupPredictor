@@ -3,18 +3,9 @@
   "team": "South Korea",
   "group": "A",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-13T05:07:00.016Z",
-  "eventsProcessed": 17,
+  "importedAt": "2026-06-13T05:14:41.917Z",
+  "eventsProcessed": 16,
   "teamMatchResults": [
-    {
-      "date": "2026-06-12",
-      "opponent": "Czechia",
-      "competition": "FIFA World Cup, Group A",
-      "result": "W",
-      "goalsFor": 2,
-      "goalsAgainst": 1,
-      "venue": "home"
-    },
     {
       "date": "2026-06-11",
       "opponent": "Czechia",
@@ -515,7 +506,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
           "result": "W",
@@ -529,21 +520,6 @@
           "cards": 0,
           "fouls": 0,
           "saves": 3
-        },
-        {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2026-06-04",
@@ -646,10 +622,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 19,
+        "passes90": 22,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 84
+        "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
@@ -694,12 +670,12 @@
         }
       },
       "importMeta": {
-        "appearances": 7,
+        "appearances": 6,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -826,7 +802,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
           "result": "W",
@@ -839,21 +815,6 @@
           "passes": 0,
           "cards": 1,
           "fouls": 1
-        },
-        {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2026-06-04",
@@ -891,12 +852,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.3,
-        "sot90": 0.3,
-        "passes90": 35,
-        "cards90": 0.27,
-        "fouls90": 1.4,
-        "minutesAvg": 83
+        "shots90": 0.4,
+        "sot90": 0.4,
+        "passes90": 48,
+        "cards90": 0.37,
+        "fouls90": 1.9,
+        "minutesAvg": 81
       },
       "hitRates": {
         "goals05": {
@@ -925,28 +886,28 @@
           "season": 0
         },
         "sot05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 33,
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 33,
+          "l10": 33,
+          "season": 33
         },
         "fouls15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 33,
+          "l10": 33,
+          "season": 33
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 3,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -962,7 +923,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
           "result": "W",
@@ -975,21 +936,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 3
-        },
-        {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2026-06-04",
@@ -1123,12 +1069,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.5,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 53,
+        "passes90": 60,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 74
+        "fouls90": 1.8,
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
@@ -1148,13 +1094,13 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 11,
+          "season": 11
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 11,
+          "season": 11
         },
         "sot05": {
           "l5": 0,
@@ -1167,19 +1113,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 40,
-          "season": 40
+          "l5": 40,
+          "l10": 44,
+          "season": 44
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 9,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -1195,21 +1141,6 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
@@ -1222,7 +1153,7 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 2
         },
         {
           "date": "2026-06-04",
@@ -1470,9 +1401,9 @@
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 72,
+        "passes90": 77,
         "cards90": 0,
-        "fouls90": 0.9,
+        "fouls90": 1,
         "minutesAvg": 83
       },
       "hitRates": {
@@ -1512,19 +1443,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
+          "l5": 40,
           "l10": 40,
-          "season": 24
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -2018,21 +1949,6 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
@@ -2045,7 +1961,7 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 1
         },
         {
           "date": "2026-06-04",
@@ -2291,11 +2207,11 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0.07,
-        "shots90": 0.3,
+        "shots90": 0.4,
         "sot90": 0,
-        "passes90": 44,
+        "passes90": 47,
         "cards90": 0,
-        "fouls90": 0.6,
+        "fouls90": 0.7,
         "minutesAvg": 77
       },
       "hitRates": {
@@ -2316,7 +2232,7 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 0,
+          "l10": 10,
           "season": 6
         },
         "shots25": {
@@ -2341,13 +2257,13 @@
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -2582,7 +2498,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
           "result": "W",
@@ -2592,21 +2508,6 @@
           "assists": 1,
           "shots": 3,
           "shotsOnTarget": 2,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 84,
-          "goals": 1,
-          "assists": 1,
-          "shots": 0,
-          "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -2805,20 +2706,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.17,
-        "assists90": 0.34,
-        "shots90": 1.9,
+        "goals90": 0.09,
+        "assists90": 0.27,
+        "shots90": 2,
         "sot90": 0.7,
-        "passes90": 74,
+        "passes90": 81,
         "cards90": 0,
-        "fouls90": 1,
+        "fouls90": 1.1,
         "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 20,
-          "season": 14
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "goals15": {
           "l5": 0,
@@ -2826,24 +2727,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 21
+          "season": 15
         },
         "shots15": {
           "l5": 60,
           "l10": 60,
-          "season": 50
+          "season": 54
         },
         "shots25": {
           "l5": 20,
           "l10": 30,
-          "season": 21
+          "season": 23
         },
         "sot05": {
           "l5": 60,
           "l10": 50,
-          "season": 43
+          "season": 46
         },
         "cards05": {
           "l5": 0,
@@ -2853,17 +2754,17 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 14
+          "season": 15
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -2879,7 +2780,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
           "result": "W",
@@ -2892,21 +2793,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
-        },
-        {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2026-06-04",
@@ -3150,20 +3036,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.32,
-        "assists90": 0.16,
-        "shots90": 1,
-        "sot90": 0.6,
-        "passes90": 41,
+        "goals90": 0.35,
+        "assists90": 0.17,
+        "shots90": 1.1,
+        "sot90": 0.7,
+        "passes90": 45,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 66
+        "fouls90": 1.1,
+        "minutesAvg": 65
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 24
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -3173,22 +3059,22 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 12
+          "season": 13
         },
         "shots15": {
           "l5": 20,
-          "l10": 10,
-          "season": 18
+          "l10": 20,
+          "season": 19
         },
         "shots25": {
           "l5": 0,
-          "l10": 0,
+          "l10": 10,
           "season": 6
         },
         "sot05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 41
+          "l5": 40,
+          "l10": 40,
+          "season": 44
         },
         "cards05": {
           "l5": 0,
@@ -3196,19 +3082,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
+          "l5": 40,
           "l10": 20,
-          "season": 18
+          "season": 19
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -3409,21 +3295,6 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 21,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
@@ -3568,20 +3439,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.41,
+        "goals90": 0.46,
         "assists90": 0,
-        "shots90": 3.3,
-        "sot90": 0.8,
-        "passes90": 21,
+        "shots90": 3.7,
+        "sot90": 0.9,
+        "passes90": 24,
         "cards90": 0,
-        "fouls90": 1.2,
+        "fouls90": 1.4,
         "minutesAvg": 22
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 11,
+          "season": 11
         },
         "goals15": {
           "l5": 0,
@@ -3595,8 +3466,8 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 30,
-          "season": 30
+          "l10": 33,
+          "season": 33
         },
         "shots25": {
           "l5": 0,
@@ -3605,8 +3476,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
           "l5": 0,
@@ -3615,18 +3486,18 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 10,
-          "season": 10
+          "l10": 11,
+          "season": 11
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 9,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -3642,21 +3513,6 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 6,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
@@ -3665,7 +3521,7 @@
           "minutes": 6,
           "goals": 0,
           "assists": 0,
-          "shots": 0,
+          "shots": 1,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -3904,13 +3760,13 @@
         "passes90": 58,
         "cards90": 0,
         "fouls90": 1.3,
-        "minutesAvg": 51
+        "minutesAvg": 54
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 6
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -3925,7 +3781,7 @@
         "shots15": {
           "l5": 0,
           "l10": 0,
-          "season": 6
+          "season": 7
         },
         "shots25": {
           "l5": 0,
@@ -3935,7 +3791,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 25
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -3945,18 +3801,18 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 6
+          "season": 7
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "EAFF E-1 Football Championship",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -3971,21 +3827,6 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
-        {
-          "date": "2026-06-12",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 6,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -4138,7 +3979,7 @@
         "passes90": 66,
         "cards90": 0,
         "fouls90": 1.3,
-        "minutesAvg": 49
+        "minutesAvg": 54
       },
       "hitRates": {
         "goals05": {
@@ -4178,18 +4019,18 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 20,
-          "season": 20
+          "l10": 22,
+          "season": 22
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 9,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "EAFF E-1 Football Championship"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -4455,7 +4296,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
           "result": "W",
@@ -4465,21 +4306,6 @@
           "assists": 1,
           "shots": 1,
           "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 1,
-          "shots": 0,
-          "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -4726,14 +4552,14 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.07,
-        "assists90": 0.52,
-        "shots90": 1.7,
+        "goals90": 0.08,
+        "assists90": 0.48,
+        "shots90": 1.9,
         "sot90": 0.4,
-        "passes90": 39,
+        "passes90": 42,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 71
+        "fouls90": 1.1,
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
@@ -4748,23 +4574,23 @@
         },
         "assists05": {
           "l5": 40,
-          "l10": 50,
-          "season": 41
+          "l10": 40,
+          "season": 38
         },
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 35
+          "season": 38
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 12
+          "season": 13
         },
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 29
+          "season": 31
         },
         "cards05": {
           "l5": 0,
@@ -4774,17 +4600,17 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 24
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -4800,21 +4626,6 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 69,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
@@ -4827,7 +4638,7 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 0
+          "fouls": 1
         },
         {
           "date": "2026-06-04",
@@ -5075,9 +4886,9 @@
         "assists90": 0.08,
         "shots90": 0.8,
         "sot90": 0.1,
-        "passes90": 44,
+        "passes90": 47,
         "cards90": 0,
-        "fouls90": 1.8,
+        "fouls90": 1.9,
         "minutesAvg": 68
       },
       "hitRates": {
@@ -5098,12 +4909,12 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 0,
+          "l10": 10,
           "season": 6
         },
         "shots25": {
           "l5": 0,
-          "l10": 0,
+          "l10": 10,
           "season": 6
         },
         "sot05": {
@@ -5118,19 +4929,19 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 30,
-          "season": 47
+          "l10": 40,
+          "season": 50
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "EAFF E-1 Football Championship",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -5145,21 +4956,6 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
-        {
-          "date": "2026-06-12",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 84,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -5339,12 +5135,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.9,
+        "shots90": 1,
         "sot90": 0.3,
-        "passes90": 48,
+        "passes90": 56,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 51
+        "fouls90": 1,
+        "minutesAvg": 48
       },
       "hitRates": {
         "goals05": {
@@ -5363,9 +5159,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
+          "l5": 40,
           "l10": 20,
-          "season": 17
+          "season": 18
         },
         "shots25": {
           "l5": 0,
@@ -5373,9 +5169,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 20,
-          "season": 17
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -5385,17 +5181,17 @@
         "fouls15": {
           "l5": 40,
           "l10": 30,
-          "season": 25
+          "season": 27
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -5564,7 +5360,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
           "result": "W",
@@ -5830,7 +5626,7 @@
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -5846,21 +5642,6 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 21,
-          "goals": 1,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
@@ -5869,7 +5650,7 @@
           "minutes": 21,
           "goals": 1,
           "assists": 0,
-          "shots": 2,
+          "shots": 1,
           "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
@@ -6117,20 +5898,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 1.12,
-        "assists90": 0.16,
-        "shots90": 4,
-        "sot90": 2.1,
+        "goals90": 1,
+        "assists90": 0.17,
+        "shots90": 3.8,
+        "sot90": 2,
         "passes90": 21,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 33
+        "fouls90": 1.2,
+        "minutesAvg": 34
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 41
+          "season": 38
         },
         "goals15": {
           "l5": 0,
@@ -6143,19 +5924,19 @@
           "season": 6
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 35
+          "season": 31
         },
         "shots25": {
           "l5": 0,
-          "l10": 20,
-          "season": 18
+          "l10": 30,
+          "season": 19
         },
         "sot05": {
-          "l5": 80,
+          "l5": 60,
           "l10": 70,
-          "season": 59
+          "season": 56
         },
         "cards05": {
           "l5": 0,
@@ -6165,17 +5946,17 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 12
+          "season": 13
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {
@@ -6191,7 +5972,7 @@
       "dataScope": "international",
       "gameLog": [
         {
-          "date": "2026-06-12",
+          "date": "2026-06-11",
           "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
           "result": "W",
@@ -6201,21 +5982,6 @@
           "assists": 0,
           "shots": 6,
           "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 69,
-          "goals": 0,
-          "assists": 0,
-          "shots": 5,
-          "shotsOnTarget": 2,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -6462,11 +6228,11 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.6,
-        "assists90": 0.17,
-        "shots90": 3.5,
-        "sot90": 1.4,
-        "passes90": 26,
+        "goals90": 0.65,
+        "assists90": 0.18,
+        "shots90": 3.3,
+        "sot90": 1.3,
+        "passes90": 28,
         "cards90": 0,
         "fouls90": 0.3,
         "minutesAvg": 61
@@ -6474,8 +6240,8 @@
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 20,
-          "season": 35
+          "l10": 30,
+          "season": 38
         },
         "goals15": {
           "l5": 20,
@@ -6485,22 +6251,22 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 12
+          "season": 13
         },
         "shots15": {
-          "l5": 100,
-          "l10": 50,
-          "season": 53
-        },
-        "shots25": {
-          "l5": 100,
-          "l10": 50,
-          "season": 41
-        },
-        "sot05": {
           "l5": 80,
           "l10": 50,
-          "season": 59
+          "season": 50
+        },
+        "shots25": {
+          "l5": 80,
+          "l10": 50,
+          "season": 38
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 50,
+          "season": 56
         },
         "cards05": {
           "l5": 0,
@@ -6514,13 +6280,13 @@
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-11"
       }
     },
     {

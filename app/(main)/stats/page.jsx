@@ -2,12 +2,14 @@
 
 import { useEffect, useState } from 'react';
 import StatsPanel from '../../../components/StatsPanel';
+import { useLiveFixture } from '../../../hooks/useLiveScores.js';
 import { readStoredFixtureSelection, readStoredPrediction } from '../../../src/fixtureSelection.js';
 import { getFixtureById } from '../../../src/fixturesCatalog.js';
 
 export default function StatsPage() {
-  const [fixture, setFixture] = useState(null);
+  const [baseFixture, setBaseFixture] = useState(null);
   const [ready, setReady] = useState(false);
+  const fixture = useLiveFixture(baseFixture);
 
   useEffect(() => {
     const { fixtureId } = readStoredFixtureSelection();
@@ -15,7 +17,7 @@ export default function StatsPage() {
     const selected = fixtureId ? getFixtureById(fixtureId) : null;
     const synced =
       prediction?.fixture?.id === fixtureId ? prediction.fixture : selected;
-    setFixture(synced);
+    setBaseFixture(synced);
     setReady(true);
   }, []);
 

@@ -56,6 +56,16 @@ Do not modify unrelated files. Skip player log patches unless explicitly request
 
 You can use GitHub Actions *or* Cursor Automation — both call the same script. Actions is more reliable when the IDE is closed.
 
+## Live updates in the app
+
+While the app is open, it polls ESPN every **60 seconds** via `/api/live-scores`:
+
+- Scores and match status update as soon as a game finishes (no page refresh needed)
+- Stats / Players tabs switch to **Actual** / **This match** when the final whistle blows
+- Player box scores merge ESPN live data with the catalog (includes subs like Tomáš Chorý)
+
+GitHub Actions still commits persistent data every **5 minutes**.
+
 ## Player box scores (automated)
 
 `scripts/sync-match-players.mjs` reads ESPN rosters + substitution events and writes per-player game logs (minutes, goals, shots, cards) into `data/group-*/` raw + squad files, then refreshes `world-cup-players.json`.
