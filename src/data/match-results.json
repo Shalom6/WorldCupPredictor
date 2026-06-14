@@ -537,8 +537,8 @@
       },
       "teamStats": {
         "possession": {
-          "home": 64.7,
-          "away": 35.3
+          "home": 64.6,
+          "away": 35.4
         },
         "shots": {
           "home": 26,
@@ -573,7 +573,78 @@
           "away": 80
         }
       },
-      "syncedAt": "2026-06-14T20:10:51.532Z",
+      "syncedAt": "2026-06-14T22:46:22.484Z",
+      "source": "espn"
+    },
+    "GS-F-1": {
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 2,
+      "scorers": {
+        "home": [
+          {
+            "name": "Virgil van Dijk",
+            "minute": "51'",
+            "assist": "Ryan Gravenberch"
+          },
+          {
+            "name": "Crysencio Summerville",
+            "minute": "64'",
+            "assist": "Ryan Gravenberch"
+          }
+        ],
+        "away": [
+          {
+            "name": "Keito Nakamura",
+            "minute": "57'",
+            "assist": "Takefusa Kubo"
+          },
+          {
+            "name": "Daichi Kamada",
+            "minute": "88'",
+            "assist": "Koki Ogawa"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 59.8,
+          "away": 40.2
+        },
+        "shots": {
+          "home": 10,
+          "away": 10
+        },
+        "shotsOnTarget": {
+          "home": 6,
+          "away": 3
+        },
+        "corners": {
+          "home": 5,
+          "away": 4
+        },
+        "fouls": {
+          "home": 7,
+          "away": 7
+        },
+        "yellowCards": {
+          "home": 3,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 1,
+          "away": 4
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 80
+        }
+      },
+      "syncedAt": "2026-06-14T22:46:22.573Z",
       "source": "espn"
     }
   }
