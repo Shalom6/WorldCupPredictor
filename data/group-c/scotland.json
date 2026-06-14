@@ -3,9 +3,18 @@
   "team": "Scotland",
   "group": "C",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-11T08:36:29.439Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-14T06:41:26.867Z",
+  "eventsProcessed": 16,
   "teamMatchResults": [
+    {
+      "date": "2026-06-14",
+      "opponent": "Haiti",
+      "competition": "FIFA World Cup, Group C",
+      "result": "W",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
     {
       "date": "2026-06-06",
       "opponent": "Bolivia",
@@ -155,6 +164,22 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -370,10 +395,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 33,
+        "passes90": 30,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 82
+        "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
@@ -418,24 +443,15 @@
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C",
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Nottingham Forest",
-        "marketValueEur": 1100000,
-        "marketValueDisplay": "€1.1M",
-        "dateOfBirth": "1996-01-22",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -683,16 +699,6 @@
           "UEFA Nations League, League A, Gr. 1"
         ],
         "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "Heart of Midlothian",
-        "marketValueEur": 27000,
-        "marketValueDisplay": "€27K",
-        "dateOfBirth": "1982-12-31",
-        "age": 43,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -804,16 +810,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "Rangers",
-        "marketValueEur": 865000,
-        "marketValueDisplay": "€865K",
-        "dateOfBirth": "1996-01-23",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -828,6 +824,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -944,12 +955,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.7,
+        "shots90": 0.6,
         "sot90": 0.2,
-        "passes90": 36,
-        "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 57
+        "passes90": 30,
+        "cards90": 0.19,
+        "fouls90": 1.7,
+        "minutesAvg": 59
       },
       "hitRates": {
         "goals05": {
@@ -969,8 +980,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots25": {
           "l5": 0,
@@ -979,37 +990,28 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 13,
+          "season": 13
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 29,
-          "season": 29
+          "l5": 40,
+          "l10": 38,
+          "season": 38
         }
       },
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Brentford",
-        "marketValueEur": 16500000,
-        "marketValueDisplay": "€16.5M",
-        "dateOfBirth": "2002-06-10",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -1024,6 +1026,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -1267,19 +1284,19 @@
       ],
       "seasonRates": {
         "goals90": 0.07,
-        "assists90": 0.22,
-        "shots90": 0.7,
-        "sot90": 0.2,
-        "passes90": 59,
+        "assists90": 0.21,
+        "shots90": 0.6,
+        "sot90": 0.1,
+        "passes90": 55,
         "cards90": 0,
-        "fouls90": 0.5,
+        "fouls90": 0.6,
         "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -1289,7 +1306,7 @@
         "assists05": {
           "l5": 20,
           "l10": 30,
-          "season": 20
+          "season": 19
         },
         "shots15": {
           "l5": 20,
@@ -1299,7 +1316,7 @@
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "sot05": {
           "l5": 20,
@@ -1313,29 +1330,20 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 20,
-          "season": 13
+          "l10": 30,
+          "season": 19
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Liverpool FC",
-        "marketValueEur": 7500000,
-        "marketValueDisplay": "€7.5M",
-        "dateOfBirth": "1994-03-11",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -1457,16 +1465,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Wrexham",
-        "marketValueEur": 2100000,
-        "marketValueDisplay": "€2.1M",
-        "dateOfBirth": "1995-12-20",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -1481,6 +1479,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -1727,7 +1740,7 @@
         "assists90": 0,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 50,
+        "passes90": 47,
         "cards90": 0,
         "fouls90": 1.1,
         "minutesAvg": 81
@@ -1751,7 +1764,7 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -1761,7 +1774,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "cards05": {
           "l5": 0,
@@ -1771,28 +1784,19 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 27
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Hibernian",
-        "marketValueEur": 195000,
-        "marketValueDisplay": "€195K",
-        "dateOfBirth": "1991-11-20",
-        "age": 34,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -1807,6 +1811,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -1906,13 +1925,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.18,
-        "shots90": 0.7,
+        "assists90": 0.15,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 63,
+        "passes90": 53,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 85
+        "fouls90": 0.8,
+        "minutesAvg": 86
       },
       "hitRates": {
         "goals05": {
@@ -1927,18 +1946,18 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "shots15": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "shots25": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "sot05": {
           "l5": 0,
@@ -1951,29 +1970,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l5": 0,
+          "l10": 14,
+          "season": 14
         }
       },
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C",
           "Euro, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Ettifaq",
-        "marketValueEur": 2400000,
-        "marketValueDisplay": "€2.4M",
-        "dateOfBirth": "1995-05-07",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -2290,16 +2300,6 @@
           "UEFA Nations League, League A, Gr. 1"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Rangers",
-        "marketValueEur": 2100000,
-        "marketValueDisplay": "€2.1M",
-        "dateOfBirth": "1996-09-25",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2536,16 +2536,6 @@
           "Euro, Group A"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Celtic",
-        "marketValueEur": 7700000,
-        "marketValueDisplay": "€7.7M",
-        "dateOfBirth": "1997-06-05",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2560,6 +2550,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-05-30",
           "opponent": "Curaçao",
@@ -2646,10 +2651,10 @@
         "assists90": 0,
         "shots90": 0.5,
         "sot90": 0,
-        "passes90": 61,
+        "passes90": 57,
         "cards90": 0,
-        "fouls90": 0,
-        "minutesAvg": 37
+        "fouls90": 0.5,
+        "minutesAvg": 34
       },
       "hitRates": {
         "goals05": {
@@ -2694,21 +2699,12 @@
         }
       },
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "Everton U21",
-        "marketValueEur": 16300000,
-        "marketValueDisplay": "€16.3M",
-        "dateOfBirth": "2001-10-16",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -3009,16 +3005,6 @@
           "Euro, Group A"
         ],
         "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "GNK Dinamo Zagreb",
-        "marketValueEur": 3700000,
-        "marketValueDisplay": "€3.7M",
-        "dateOfBirth": "1996-11-12",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3335,16 +3321,6 @@
           "UEFA Nations League, League A, Gr. 1"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Celtic",
-        "marketValueEur": 1500000,
-        "marketValueDisplay": "€1.5M",
-        "dateOfBirth": "1998-11-16",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3359,6 +3335,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -3585,14 +3576,14 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.12,
-        "assists90": 0.35,
-        "shots90": 1.3,
-        "sot90": 0.7,
-        "passes90": 26,
+        "goals90": 0.11,
+        "assists90": 0.32,
+        "shots90": 1.4,
+        "sot90": 0.6,
+        "passes90": 24,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 55
+        "fouls90": 1,
+        "minutesAvg": 56
       },
       "hitRates": {
         "goals05": {
@@ -3608,12 +3599,12 @@
         "assists05": {
           "l5": 40,
           "l10": 30,
-          "season": 21
+          "season": 20
         },
         "shots15": {
           "l5": 60,
-          "l10": 30,
-          "season": 21
+          "l10": 40,
+          "season": 27
         },
         "shots25": {
           "l5": 20,
@@ -3621,9 +3612,9 @@
           "season": 7
         },
         "sot05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 40,
-          "season": 29
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -3633,27 +3624,18 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 14
+          "season": 13
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Bournemouth",
-        "marketValueEur": 15500000,
-        "marketValueDisplay": "€15.5M",
-        "dateOfBirth": "2005-11-11",
-        "age": 20,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -3668,6 +3650,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -3718,20 +3715,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 1.06,
+        "goals90": 0.98,
         "assists90": 0,
-        "shots90": 1.1,
-        "sot90": 1.1,
-        "passes90": 50,
-        "cards90": 0,
-        "fouls90": 2.1,
-        "minutesAvg": 28
+        "shots90": 1,
+        "sot90": 1,
+        "passes90": 46,
+        "cards90": 0.98,
+        "fouls90": 2.9,
+        "minutesAvg": 23
       },
       "hitRates": {
         "goals05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -3754,37 +3751,28 @@
           "season": 0
         },
         "sot05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "fouls15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Rangers",
-        "marketValueEur": 930000,
-        "marketValueDisplay": "€930K",
-        "dateOfBirth": "2006-10-01",
-        "age": 19,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -3799,6 +3787,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -4041,20 +4044,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.16,
+        "goals90": 0.23,
         "assists90": 0.08,
-        "shots90": 1.3,
+        "shots90": 1.4,
         "sot90": 0.7,
-        "passes90": 31,
+        "passes90": 29,
         "cards90": 0,
-        "fouls90": 1.3,
-        "minutesAvg": 74
+        "fouls90": 1.2,
+        "minutesAvg": 75
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 13
+          "l5": 20,
+          "l10": 10,
+          "season": 19
         },
         "goals15": {
           "l5": 0,
@@ -4062,14 +4065,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
-          "l5": 40,
+          "l5": 60,
           "l10": 40,
-          "season": 27
+          "season": 31
         },
         "shots25": {
           "l5": 0,
@@ -4077,9 +4080,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 40,
-          "season": 53
+          "season": 56
         },
         "cards05": {
           "l5": 0,
@@ -4087,30 +4090,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 19
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Aston Villa",
-        "marketValueEur": 14500000,
-        "marketValueDisplay": "€14.5M",
-        "dateOfBirth": "1994-10-18",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -4125,6 +4119,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -4367,20 +4376,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.1,
+        "goals90": 0.09,
         "assists90": 0.19,
         "shots90": 0.6,
         "sot90": 0.2,
-        "passes90": 55,
-        "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 63
+        "passes90": 54,
+        "cards90": 0.09,
+        "fouls90": 1,
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -4395,7 +4404,7 @@
         "shots15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -4403,40 +4412,31 @@
           "season": 0
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
           "season": 13
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Norwich City",
-        "marketValueEur": 380000,
-        "marketValueDisplay": "€380K",
-        "dateOfBirth": "1992-01-08",
-        "age": 34,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -4451,6 +4451,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -4647,12 +4662,12 @@
       "seasonRates": {
         "goals90": 0.09,
         "assists90": 0.09,
-        "shots90": 1,
+        "shots90": 0.9,
         "sot90": 0.1,
-        "passes90": 48,
+        "passes90": 44,
         "cards90": 0,
-        "fouls90": 3,
-        "minutesAvg": 80
+        "fouls90": 2.8,
+        "minutesAvg": 81
       },
       "hitRates": {
         "goals05": {
@@ -4672,8 +4687,8 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 40,
-          "season": 33
+          "l10": 30,
+          "season": 31
         },
         "shots25": {
           "l5": 0,
@@ -4691,29 +4706,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 100,
+          "l5": 80,
           "l10": 90,
-          "season": 92
+          "season": 85
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C",
           "UEFA Nations League, Promotion/Relegation Play-offs"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Bologna",
-        "marketValueEur": 13000000,
-        "marketValueDisplay": "€13M",
-        "dateOfBirth": "1999-08-24",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -4728,6 +4734,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -4976,14 +4997,14 @@
         "sot90": 0.9,
         "passes90": 33,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 65
+        "fouls90": 1.7,
+        "minutesAvg": 62
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 30,
-          "season": 27
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -4993,22 +5014,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 60,
           "l10": 40,
-          "season": 33
+          "season": 31
         },
         "shots25": {
           "l5": 40,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "sot05": {
           "l5": 60,
           "l10": 50,
-          "season": 53
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -5016,30 +5037,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 33
+          "season": 31
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Bournemouth",
-        "marketValueEur": 9700000,
-        "marketValueDisplay": "€9.7M",
-        "dateOfBirth": "1995-02-22",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -5054,6 +5066,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -5296,11 +5323,11 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.29,
+        "goals90": 0.27,
         "assists90": 0.07,
         "shots90": 2.6,
-        "sot90": 1.3,
-        "passes90": 29,
+        "sot90": 1.2,
+        "passes90": 27,
         "cards90": 0,
         "fouls90": 0.7,
         "minutesAvg": 83
@@ -5309,7 +5336,7 @@
         "goals05": {
           "l5": 40,
           "l10": 30,
-          "season": 27
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -5319,22 +5346,22 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 80,
           "l10": 80,
-          "season": 80
+          "season": 81
         },
         "shots25": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 40
+          "season": 38
         },
         "sot05": {
-          "l5": 100,
+          "l5": 80,
           "l10": 80,
-          "season": 87
+          "season": 81
         },
         "cards05": {
           "l5": 0,
@@ -5342,30 +5369,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
           "season": 13
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "SSC Napoli",
-        "marketValueEur": 38000000,
-        "marketValueDisplay": "€38M",
-        "dateOfBirth": "1996-12-08",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -5471,16 +5489,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Manchester United U21",
-        "marketValueEur": null,
-        "marketValueDisplay": null,
-        "dateOfBirth": "2007-03-19",
-        "age": 19,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -5495,6 +5503,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 4
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -5737,20 +5760,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.63,
-        "assists90": 0.09,
-        "shots90": 3,
+        "goals90": 0.59,
+        "assists90": 0.08,
+        "shots90": 2.9,
         "sot90": 1.2,
-        "passes90": 16,
+        "passes90": 15,
         "cards90": 0,
-        "fouls90": 1.6,
+        "fouls90": 1.8,
         "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 27
+          "season": 25
         },
         "goals15": {
           "l5": 20,
@@ -5760,22 +5783,22 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
-          "l5": 60,
-          "l10": 70,
-          "season": 60
+          "l5": 40,
+          "l10": 60,
+          "season": 56
         },
         "shots25": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 33
+          "season": 31
         },
         "sot05": {
           "l5": 60,
-          "l10": 50,
-          "season": 40
+          "l10": 60,
+          "season": 44
         },
         "cards05": {
           "l5": 0,
@@ -5784,30 +5807,21 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 40,
-          "season": 40
+          "l10": 50,
+          "season": 44
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Torino",
-        "marketValueEur": 4800000,
-        "marketValueDisplay": "€4.8M",
-        "dateOfBirth": "1996-07-13",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -6043,16 +6057,6 @@
           "UEFA Nations League, Promotion/Relegation Play-offs"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Ipswich Town",
-        "marketValueEur": 10900000,
-        "marketValueDisplay": "€10.9M",
-        "dateOfBirth": "1999-02-15",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -6067,6 +6071,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 4
+        },
         {
           "date": "2026-06-06",
           "opponent": "Bolivia",
@@ -6197,45 +6216,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 1.56,
-        "assists90": 0.39,
-        "shots90": 4.3,
-        "sot90": 2.7,
-        "passes90": 27,
+        "goals90": 1.15,
+        "assists90": 0.29,
+        "shots90": 3.7,
+        "sot90": 2,
+        "passes90": 20,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 29
+        "fouls90": 1.7,
+        "minutesAvg": 35
       },
       "hitRates": {
         "goals05": {
           "l5": 60,
-          "l10": 38,
-          "season": 38
+          "l10": 33,
+          "season": 33
         },
         "goals15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "assists05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots15": {
-          "l5": 60,
-          "l10": 38,
-          "season": 38
+          "l5": 80,
+          "l10": 44,
+          "season": 44
         },
         "shots25": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "sot05": {
           "l5": 60,
-          "l10": 38,
-          "season": 38
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -6243,30 +6262,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 11,
+          "season": 11
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C",
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Heart of Midlothian",
-        "marketValueEur": 3200000,
-        "marketValueDisplay": "€3.2M",
-        "dateOfBirth": "1995-08-10",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -6281,6 +6291,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "away",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-05-30",
           "opponent": "Curaçao",
@@ -6527,16 +6552,16 @@
         "assists90": 0.14,
         "shots90": 1.1,
         "sot90": 0.6,
-        "passes90": 16,
+        "passes90": 15,
         "cards90": 0,
-        "fouls90": 1.7,
-        "minutesAvg": 42
+        "fouls90": 1.9,
+        "minutesAvg": 41
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -6546,12 +6571,12 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 20,
-          "l10": 30,
-          "season": 20
+          "l10": 20,
+          "season": 19
         },
         "shots25": {
           "l5": 0,
@@ -6560,8 +6585,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 30,
-          "season": 20
+          "l10": 20,
+          "season": 19
         },
         "cards05": {
           "l5": 0,
@@ -6569,29 +6594,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 27
+          "l5": 40,
+          "l10": 30,
+          "season": 31
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. UEFA C",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "Charlton Athletic",
-        "marketValueEur": 1100000,
-        "marketValueDisplay": "€1.1M",
-        "dateOfBirth": "1995-10-07",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -6681,16 +6697,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Southampton",
-        "marketValueEur": 4099999,
-        "marketValueDisplay": "€4.1M",
-        "dateOfBirth": "1996-08-31",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     }
   ],

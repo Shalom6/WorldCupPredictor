@@ -3,9 +3,18 @@
   "team": "Haiti",
   "group": "C",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-11T08:35:59.619Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-14T06:41:26.863Z",
+  "eventsProcessed": 16,
   "teamMatchResults": [
+    {
+      "date": "2026-06-14",
+      "opponent": "Scotland",
+      "competition": "FIFA World Cup, Group C",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
     {
       "date": "2026-06-06",
       "opponent": "Peru",
@@ -311,16 +320,6 @@
           "CONCACAF Nations League, League B, Group C"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "FC Sochaux 2",
-        "marketValueEur": 92000,
-        "marketValueDisplay": "€92K",
-        "dateOfBirth": "2001-02-25",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -335,6 +334,22 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -607,7 +622,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 32,
+        "passes90": 30,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -655,25 +670,16 @@
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C",
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Bastia",
-        "marketValueEur": 155000,
-        "marketValueDisplay": "€155K",
-        "dateOfBirth": "1988-01-29",
-        "age": 38,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -766,16 +772,6 @@
           "World Cup Qual. CONCACAF Group C"
         ],
         "lastMatch": "2025-09-10"
-      },
-      "profile": {
-        "club": "FC Cosmos Koblenz",
-        "marketValueEur": 53000,
-        "marketValueDisplay": "€53K",
-        "dateOfBirth": "2000-04-27",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -980,16 +976,6 @@
           "CONCACAF Nations League, League B, Group C"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "El Paso Locomotive FC",
-        "marketValueEur": 130000,
-        "marketValueDisplay": "€130K",
-        "dateOfBirth": "2002-08-09",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -1004,6 +990,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -1247,13 +1248,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.22,
+        "assists90": 0.21,
         "shots90": 0.6,
         "sot90": 0.2,
-        "passes90": 44,
+        "passes90": 41,
         "cards90": 0,
-        "fouls90": 2,
-        "minutesAvg": 80
+        "fouls90": 2.1,
+        "minutesAvg": 81
       },
       "hitRates": {
         "goals05": {
@@ -1269,12 +1270,12 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "shots15": {
           "l5": 0,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 19
         },
         "shots25": {
           "l5": 0,
@@ -1284,7 +1285,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "cards05": {
           "l5": 0,
@@ -1292,31 +1293,22 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 40
+          "l5": 40,
+          "l10": 30,
+          "season": 44
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C",
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Angers",
-        "marketValueEur": 1900000,
-        "marketValueDisplay": "€1.9M",
-        "dateOfBirth": "1996-06-28",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -1569,16 +1561,6 @@
           "CONCACAF Nations League, League B, Group C"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Colorado Springs Switchbacks FC",
-        "marketValueEur": 130000,
-        "marketValueDisplay": "€130K",
-        "dateOfBirth": "1993-10-14",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -1593,6 +1575,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -1695,10 +1692,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 58,
+        "passes90": 49,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 82
+        "fouls90": 0.8,
+        "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
@@ -1738,27 +1735,18 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         }
       },
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "FC Lugano",
-        "marketValueEur": 2100000,
-        "marketValueDisplay": "€2.1M",
-        "dateOfBirth": "1999-02-28",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -2028,16 +2016,6 @@
           "CONCACAF Nations League, League B, Group C"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "KAA Gent",
-        "marketValueEur": 2200000,
-        "marketValueDisplay": "€2.2M",
-        "dateOfBirth": "1997-07-12",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2127,16 +2105,6 @@
           "World Cup Qual. CONCACAF Group C"
         ],
         "lastMatch": "2025-10-10"
-      },
-      "profile": {
-        "club": "Young Boys U21",
-        "marketValueEur": 23000,
-        "marketValueDisplay": "€23K",
-        "dateOfBirth": "2006-03-29",
-        "age": 20,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2151,6 +2119,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -2362,13 +2345,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.19,
-        "shots90": 0.3,
+        "assists90": 0.17,
+        "shots90": 0.4,
         "sot90": 0,
-        "passes90": 33,
+        "passes90": 30,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 73
+        "fouls90": 0.6,
+        "minutesAvg": 74
       },
       "hitRates": {
         "goals05": {
@@ -2384,12 +2367,12 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 15
+          "season": 14
         },
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots25": {
           "l5": 0,
@@ -2407,31 +2390,22 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 8
+          "l5": 40,
+          "l10": 20,
+          "season": 14
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C",
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Nancy",
-        "marketValueEur": 360000,
-        "marketValueDisplay": "€360K",
-        "dateOfBirth": "1999-03-09",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -2446,6 +2420,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -2690,9 +2679,9 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.2,
+        "shots90": 0.3,
         "sot90": 0,
-        "passes90": 50,
+        "passes90": 47,
         "cards90": 0,
         "fouls90": 0.8,
         "minutesAvg": 88
@@ -2736,29 +2725,20 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 20
+          "season": 19
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C",
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "LDU",
-        "marketValueEur": 310000,
-        "marketValueDisplay": "€310K",
-        "dateOfBirth": "1990-05-21",
-        "age": 36,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -2930,16 +2910,6 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "SV Zulte Waregem",
-        "marketValueEur": 620000,
-        "marketValueDisplay": "€620K",
-        "dateOfBirth": "2001-08-24",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2954,6 +2924,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -3196,20 +3181,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.21,
-        "assists90": 0.14,
+        "goals90": 0.19,
+        "assists90": 0.13,
         "shots90": 1.4,
         "sot90": 0.3,
-        "passes90": 42,
+        "passes90": 40,
         "cards90": 0,
-        "fouls90": 1.8,
+        "fouls90": 1.9,
         "minutesAvg": 87
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "goals15": {
           "l5": 0,
@@ -3224,17 +3209,17 @@
         "shots15": {
           "l5": 40,
           "l10": 30,
-          "season": 33
+          "season": 31
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 27
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -3242,31 +3227,22 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 60,
-          "l10": 70,
-          "season": 60
+          "l5": 80,
+          "l10": 80,
+          "season": 63
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C",
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Philadelphia Union",
-        "marketValueEur": 3200000,
-        "marketValueDisplay": "€3.2M",
-        "dateOfBirth": "2000-05-20",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -3356,16 +3332,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "1. FC Tatran Prešov",
-        "marketValueEur": 210000,
-        "marketValueDisplay": "€210K",
-        "dateOfBirth": "2000-07-29",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3380,6 +3346,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -3527,12 +3508,12 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.12,
-        "shots90": 1.6,
-        "sot90": 0.4,
-        "passes90": 42,
-        "cards90": 0,
-        "fouls90": 2.3,
+        "assists90": 0.1,
+        "shots90": 1.8,
+        "sot90": 0.3,
+        "passes90": 38,
+        "cards90": 0.1,
+        "fouls90": 2.2,
         "minutesAvg": 86
       },
       "hitRates": {
@@ -3548,52 +3529,43 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
-          "l5": 40,
-          "l10": 56,
-          "season": 56
+          "l5": 60,
+          "l10": 60,
+          "season": 60
         },
         "shots25": {
-          "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "sot05": {
-          "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l5": 0,
+          "l10": 30,
+          "season": 30
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "fouls15": {
-          "l5": 80,
-          "l10": 78,
-          "season": 78
+          "l5": 60,
+          "l10": 70,
+          "season": 70
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Wolverhampton",
-        "marketValueEur": 17600000,
-        "marketValueDisplay": "€17.6M",
-        "dateOfBirth": "1998-06-27",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -3608,6 +3580,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -3707,13 +3694,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.21,
-        "shots90": 1.4,
+        "assists90": 0.19,
+        "shots90": 1.5,
         "sot90": 0,
-        "passes90": 31,
+        "passes90": 29,
         "cards90": 0,
         "fouls90": 3.1,
-        "minutesAvg": 73
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
@@ -3728,13 +3715,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "shots15": {
           "l5": 40,
-          "l10": 50,
-          "season": 50
+          "l10": 43,
+          "season": 43
         },
         "shots25": {
           "l5": 0,
@@ -3752,28 +3739,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 60,
-          "l10": 67,
-          "season": 67
+          "l5": 40,
+          "l10": 57,
+          "season": 57
         }
       },
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Auxerre",
-        "marketValueEur": 2800000,
-        "marketValueDisplay": "€2.8M",
-        "dateOfBirth": "2001-09-24",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -4091,16 +4069,6 @@
           "CONCACAF Nations League, League B, Group C"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Vizela",
-        "marketValueEur": 205000,
-        "marketValueDisplay": "€205K",
-        "dateOfBirth": "1998-04-09",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -4115,6 +4083,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 85,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -4325,20 +4308,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.23,
-        "assists90": 0.12,
-        "shots90": 1.9,
+        "goals90": 0.21,
+        "assists90": 0.11,
+        "shots90": 2,
         "sot90": 0.8,
-        "passes90": 23,
+        "passes90": 20,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 59
+        "fouls90": 0.7,
+        "minutesAvg": 61
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 15
+          "season": 14
         },
         "goals15": {
           "l5": 0,
@@ -4346,24 +4329,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 8
-        },
-        "shots15": {
-          "l5": 40,
-          "l10": 50,
-          "season": 46
-        },
-        "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 15
+          "season": 7
+        },
+        "shots15": {
+          "l5": 60,
+          "l10": 50,
+          "season": 50
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 20,
+          "season": 21
         },
         "sot05": {
-          "l5": 40,
-          "l10": 40,
-          "season": 38
+          "l5": 60,
+          "l10": 50,
+          "season": 43
         },
         "cards05": {
           "l5": 0,
@@ -4371,30 +4354,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
+          "l5": 20,
           "l10": 10,
-          "season": 15
+          "season": 21
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C",
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, CONCACAF 2nd round, Group C"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Almere City FC",
-        "marketValueEur": 270000,
-        "marketValueDisplay": "€270K",
-        "dateOfBirth": "2001-07-07",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -4484,16 +4458,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Violette AC",
-        "marketValueEur": 97000,
-        "marketValueDisplay": "€97K",
-        "dateOfBirth": "2004-12-28",
-        "age": 21,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -4632,16 +4596,6 @@
           "World Cup Qual. CONCACAF Group C"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Toronto FC",
-        "marketValueEur": 770000,
-        "marketValueDisplay": "€770K",
-        "dateOfBirth": "1996-11-25",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -4959,16 +4913,6 @@
           "CONCACAF Nations League, League B, Group C"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Esteghlal FC",
-        "marketValueEur": 720000,
-        "marketValueDisplay": "€720K",
-        "dateOfBirth": "1994-04-07",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -4983,6 +4927,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 4
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -5225,20 +5184,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.33,
-        "assists90": 0.17,
-        "shots90": 1.8,
+        "goals90": 0.31,
+        "assists90": 0.15,
+        "shots90": 1.9,
         "sot90": 0.8,
-        "passes90": 17,
+        "passes90": 15,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 72
+        "fouls90": 1.6,
+        "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 27
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -5252,18 +5211,18 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 20,
-          "season": 40
+          "l10": 30,
+          "season": 44
         },
         "shots25": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 30,
+          "season": 25
         },
         "sot05": {
           "l5": 20,
-          "l10": 30,
-          "season": 53
+          "l10": 40,
+          "season": 56
         },
         "cards05": {
           "l5": 0,
@@ -5271,31 +5230,22 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 30,
-          "season": 27
+          "l5": 40,
+          "l10": 40,
+          "season": 31
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C",
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Çaykur Rizespor",
-        "marketValueEur": 2400000,
-        "marketValueDisplay": "€2.4M",
-        "dateOfBirth": "1995-03-29",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -5310,6 +5260,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -5332,10 +5297,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 6,
+        "passes90": 4,
         "cards90": 0,
-        "fouls90": 0,
-        "minutesAvg": 30
+        "fouls90": 2.1,
+        "minutesAvg": 22
       },
       "hitRates": {
         "goals05": {
@@ -5380,21 +5345,12 @@
         }
       },
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Ferencváros TC",
-        "marketValueEur": 1300000,
-        "marketValueDisplay": "€1.3M",
-        "dateOfBirth": "2000-10-12",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -5409,6 +5365,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -5651,20 +5622,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.62,
-        "assists90": 0.12,
-        "shots90": 2.7,
-        "sot90": 1.7,
-        "passes90": 18,
+        "goals90": 0.57,
+        "assists90": 0.11,
+        "shots90": 2.6,
+        "sot90": 1.6,
+        "passes90": 16,
         "cards90": 0,
-        "fouls90": 2,
-        "minutesAvg": 48
+        "fouls90": 2.1,
+        "minutesAvg": 49
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 30,
-          "season": 33
+          "l10": 20,
+          "season": 31
         },
         "goals15": {
           "l5": 0,
@@ -5674,12 +5645,12 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 20,
           "l10": 30,
-          "season": 40
+          "season": 38
         },
         "shots25": {
           "l5": 0,
@@ -5687,9 +5658,9 @@
           "season": 13
         },
         "sot05": {
-          "l5": 60,
-          "l10": 70,
-          "season": 73
+          "l5": 40,
+          "l10": 60,
+          "season": 69
         },
         "cards05": {
           "l5": 0,
@@ -5698,30 +5669,21 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 27
+          "l10": 30,
+          "season": 31
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C",
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "FC Dallas",
-        "marketValueEur": 1300000,
-        "marketValueDisplay": "€1.3M",
-        "dateOfBirth": "2001-02-11",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -5736,6 +5698,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -5786,20 +5763,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.92,
+        "goals90": 0.66,
         "assists90": 0,
-        "shots90": 3.2,
-        "sot90": 0.9,
-        "passes90": 17,
+        "shots90": 3,
+        "sot90": 0.7,
+        "passes90": 12,
         "cards90": 0,
-        "fouls90": 2.3,
-        "minutesAvg": 65
+        "fouls90": 2.7,
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
-          "l5": 67,
-          "l10": 67,
-          "season": 67
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -5817,14 +5794,14 @@
           "season": 100
         },
         "shots25": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "sot05": {
-          "l5": 67,
-          "l10": 67,
-          "season": 67
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -5832,27 +5809,18 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Sunderland",
-        "marketValueEur": 18500000,
-        "marketValueDisplay": "€18.5M",
-        "dateOfBirth": "2000-08-27",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -5867,6 +5835,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Scotland",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "home",
+          "minutes": 5,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-29",
           "opponent": "Tunisia",
@@ -5921,10 +5904,10 @@
         "assists90": 0,
         "shots90": 0.7,
         "sot90": 0,
-        "passes90": 21,
+        "passes90": 20,
         "cards90": 0,
-        "fouls90": 2.9,
-        "minutesAvg": 41
+        "fouls90": 2.8,
+        "minutesAvg": 32
       },
       "hitRates": {
         "goals05": {
@@ -5963,28 +5946,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C"
         ],
-        "lastMatch": "2026-03-29"
-      },
-      "profile": {
-        "club": "Vizela",
-        "marketValueEur": 190000,
-        "marketValueDisplay": "€190K",
-        "dateOfBirth": "1999-01-30",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     }
   ],

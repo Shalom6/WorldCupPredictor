@@ -264,13 +264,7 @@
       "homeScore": 1,
       "awayScore": 1,
       "scorers": {
-        "home": [
-          {
-            "name": "Boualem Khoukhi",
-            "minute": "90'+4'",
-            "assist": "Homam Ahmed"
-          }
-        ],
+        "home": [],
         "away": [
           {
             "name": "Breel Embolo",
@@ -316,7 +310,7 @@
           "away": 90
         }
       },
-      "syncedAt": "2026-06-13T23:42:15.516Z",
+      "syncedAt": "2026-06-14T06:41:26.248Z",
       "source": "espn"
     },
     "GS-C-1": {
@@ -341,8 +335,8 @@
       },
       "teamStats": {
         "possession": {
-          "home": 51.3,
-          "away": 48.7
+          "home": 51.4,
+          "away": 48.6
         },
         "shots": {
           "home": 12,
@@ -377,7 +371,61 @@
           "away": 90
         }
       },
-      "syncedAt": "2026-06-14T01:59:44.955Z",
+      "syncedAt": "2026-06-14T06:41:26.293Z",
+      "source": "espn"
+    },
+    "GS-C-2": {
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 1,
+      "scorers": {
+        "home": [],
+        "away": [
+          {
+            "name": "John McGinn",
+            "minute": "28'"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 53.7,
+          "away": 46.3
+        },
+        "shots": {
+          "home": 15,
+          "away": 9
+        },
+        "shotsOnTarget": {
+          "home": 2,
+          "away": 2
+        },
+        "corners": {
+          "home": 4,
+          "away": 3
+        },
+        "fouls": {
+          "home": 23,
+          "away": 21
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 3
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 1,
+          "away": 2
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 80
+        }
+      },
+      "syncedAt": "2026-06-14T06:41:26.381Z",
       "source": "espn"
     }
   }
