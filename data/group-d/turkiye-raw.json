@@ -2,9 +2,10 @@
   "team": "Türkiye",
   "group": "D",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-11T08:38:23.686Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-14T12:09:52.680Z",
+  "eventsProcessed": 16,
   "eventDates": [
+    "2026-06-14",
     "2026-06-06",
     "2026-06-01",
     "2026-03-31",
@@ -19,16 +20,18 @@
     "2025-06-07",
     "2025-03-23",
     "2025-03-20",
-    "2024-11-19",
-    "2024-11-16",
-    "2024-10-14",
-    "2024-10-11",
-    "2024-09-09",
-    "2024-09-06",
-    "2024-07-06",
-    "2024-07-02"
+    "2024-11-19"
   ],
   "teamMatchResults": [
+    {
+      "date": "2026-06-14",
+      "opponent": "Australia",
+      "competition": "FIFA World Cup, Group D",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "venue": "away"
+    },
     {
       "date": "2026-06-06",
       "opponent": "Venezuela",
@@ -321,6 +324,30 @@
       "name": "Mert Günok",
       "position": "Goalkeeper",
       "number": null
+    },
+    {
+      "sofascoreId": null,
+      "name": "Ugurcan Çakir",
+      "position": "Goalkeeper",
+      "number": "23"
+    },
+    {
+      "sofascoreId": null,
+      "name": "Ferdi Kadioglu",
+      "position": "Left Back",
+      "number": "20"
+    },
+    {
+      "sofascoreId": null,
+      "name": "Baris Alper Yilmaz",
+      "position": "Attacking Midfielder Left",
+      "number": "21"
+    },
+    {
+      "sofascoreId": null,
+      "name": "Kenan Yildiz",
+      "position": "Substitute",
+      "number": "11"
     }
   ],
   "players": [
@@ -819,6 +846,21 @@
       "number": "14",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Venezuela",
@@ -1824,6 +1866,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-06",
           "opponent": "Venezuela",
           "competition": "Int. Friendly Games",
@@ -2073,6 +2130,21 @@
       "number": "18",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Venezuela",
@@ -2710,6 +2782,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-06",
           "opponent": "Venezuela",
           "competition": "Int. Friendly Games",
@@ -2995,6 +3082,21 @@
       "number": "8",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 8,
+          "shotsOnTarget": 3,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Venezuela",
@@ -3670,6 +3772,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-06",
           "opponent": "Venezuela",
           "competition": "Int. Friendly Games",
@@ -4169,6 +4286,21 @@
       "number": "16",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Venezuela",
@@ -4696,6 +4828,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-06",
           "opponent": "Venezuela",
           "competition": "Int. Friendly Games",
@@ -4946,6 +5093,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-06",
           "opponent": "Venezuela",
           "competition": "Int. Friendly Games",
@@ -5115,6 +5277,21 @@
       "number": "21",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Venezuela",
@@ -5379,6 +5556,21 @@
       "number": "19",
       "likelyStarter": false,
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 5,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Venezuela",
@@ -5794,6 +5986,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 85,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-06",
           "opponent": "Venezuela",
           "competition": "Int. Friendly Games",
@@ -6100,6 +6307,103 @@
           "cards": 0,
           "fouls": 1,
           "rating": 6.8
+        }
+      ]
+    },
+    {
+      "id": "turkiye-ugurcan-cakir",
+      "name": "Ugurcan Çakir",
+      "position": "Goalkeeper",
+      "number": "23",
+      "likelyStarter": true,
+      "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        }
+      ]
+    },
+    {
+      "id": "turkiye-ferdi-kadioglu",
+      "name": "Ferdi Kadioglu",
+      "position": "Left Back",
+      "number": "20",
+      "likelyStarter": true,
+      "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        }
+      ]
+    },
+    {
+      "id": "turkiye-baris-alper-yilmaz",
+      "name": "Baris Alper Yilmaz",
+      "position": "Attacking Midfielder Left",
+      "number": "21",
+      "likelyStarter": true,
+      "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        }
+      ]
+    },
+    {
+      "id": "turkiye-kenan-yildiz",
+      "name": "Kenan Yildiz",
+      "position": "Substitute",
+      "number": "11",
+      "likelyStarter": false,
+      "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 6,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         }
       ]
     }

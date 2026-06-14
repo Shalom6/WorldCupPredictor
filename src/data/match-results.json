@@ -427,6 +427,65 @@
       },
       "syncedAt": "2026-06-14T06:41:26.381Z",
       "source": "espn"
+    },
+    "GS-D-2": {
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 0,
+      "scorers": {
+        "home": [
+          {
+            "name": "Nestory Irankunda",
+            "minute": "27'",
+            "assist": "Paul Okon-Engstler"
+          },
+          {
+            "name": "Connor Metcalfe",
+            "minute": "75'"
+          }
+        ],
+        "away": []
+      },
+      "teamStats": {
+        "possession": {
+          "home": 28.3,
+          "away": 71.7
+        },
+        "shots": {
+          "home": 9,
+          "away": 30
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 8
+        },
+        "corners": {
+          "home": 5,
+          "away": 8
+        },
+        "fouls": {
+          "home": 12,
+          "away": 4
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 8,
+          "away": 2
+        },
+        "passAccuracy": {
+          "home": 70,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-14T12:09:51.952Z",
+      "source": "espn"
     }
   }
 }
