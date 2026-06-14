@@ -318,6 +318,67 @@
       },
       "syncedAt": "2026-06-13T23:42:15.516Z",
       "source": "espn"
+    },
+    "GS-C-1": {
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Vinícius Júnior",
+            "minute": "32'",
+            "assist": "Bruno Guimarães"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ismael Saibari",
+            "minute": "21'",
+            "assist": "Brahim Díaz"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 51.3,
+          "away": 48.7
+        },
+        "shots": {
+          "home": 12,
+          "away": 14
+        },
+        "shotsOnTarget": {
+          "home": 5,
+          "away": 3
+        },
+        "corners": {
+          "home": 6,
+          "away": 2
+        },
+        "fouls": {
+          "home": 16,
+          "away": 14
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 2,
+          "away": 4
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-14T01:59:44.955Z",
+      "source": "espn"
     }
   }
 }
