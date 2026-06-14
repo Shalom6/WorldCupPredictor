@@ -3,9 +3,18 @@
   "team": "Curaçao",
   "group": "E",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-11T08:39:19.029Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-14T20:10:51.938Z",
+  "eventsProcessed": 16,
   "teamMatchResults": [
+    {
+      "date": "2026-06-14",
+      "opponent": "Germany",
+      "competition": "FIFA World Cup, Group E",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 7,
+      "venue": "away"
+    },
     {
       "date": "2026-06-07",
       "opponent": "Aruba",
@@ -155,6 +164,22 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 4
+        },
         {
           "date": "2026-05-30",
           "opponent": "Scotland",
@@ -446,10 +471,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 30,
+        "passes90": 28,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 89
+        "minutesAvg": 90
       },
       "hitRates": {
         "goals05": {
@@ -494,8 +519,9 @@
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group E",
           "Int. Friendly Games",
           "FIFA Series, Australia",
           "World Cup Qual. CONCACAF Group B",
@@ -503,17 +529,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group B"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "Miami FC",
-        "marketValueEur": 155000,
-        "marketValueDisplay": "€155K",
-        "dateOfBirth": "1989-02-06",
-        "age": 37,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -606,16 +622,6 @@
           "FIFA Series, Australia"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "VVV-Venlo",
-        "marketValueEur": 49000,
-        "marketValueDisplay": "€49K",
-        "dateOfBirth": "1999-07-06",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -636,16 +642,6 @@
         "appearances": 0,
         "competitions": [],
         "lastMatch": null
-      },
-      "profile": {
-        "club": "SC Telstar",
-        "marketValueEur": 27000,
-        "marketValueDisplay": "€27K",
-        "dateOfBirth": "2002-02-15",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -833,16 +829,6 @@
           "CONCACAF Nations League, League B, Group B"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Rotherham United",
-        "marketValueEur": 730000,
-        "marketValueDisplay": "€730K",
-        "dateOfBirth": "2003-09-04",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -857,6 +843,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-05-30",
           "opponent": "Scotland",
@@ -940,12 +941,12 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.21,
-        "shots90": 0.6,
+        "assists90": 0.17,
+        "shots90": 0.5,
         "sot90": 0.2,
-        "passes90": 37,
+        "passes90": 31,
         "cards90": 0,
-        "fouls90": 1.3,
+        "fouls90": 1,
         "minutesAvg": 87
       },
       "hitRates": {
@@ -961,8 +962,8 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "shots15": {
           "l5": 0,
@@ -976,8 +977,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "cards05": {
           "l5": 0,
@@ -986,27 +987,18 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 60,
-          "season": 60
+          "l10": 50,
+          "season": 50
         }
       },
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
+          "FIFA World Cup, Group E",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group B"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "PSV Eindhoven",
-        "marketValueEur": 3700000,
-        "marketValueDisplay": "€3.7M",
-        "dateOfBirth": "1999-03-05",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -1016,11 +1008,26 @@
       "group": "E",
       "position": "Defender",
       "number": "24",
-      "likelyStarter": false,
+      "likelyStarter": true,
       "sofascoreId": 1177177,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-05-30",
           "opponent": "Scotland",
@@ -1041,11 +1048,11 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 2,
+        "shots90": 1,
         "sot90": 0,
-        "passes90": 20,
+        "passes90": 10,
         "cards90": 0,
-        "fouls90": 0,
+        "fouls90": 0.5,
         "minutesAvg": 90
       },
       "hitRates": {
@@ -1065,9 +1072,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 100,
-          "l10": 100,
-          "season": 100
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "shots25": {
           "l5": 0,
@@ -1091,21 +1098,12 @@
         }
       },
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group E",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "NEC Nijmegen",
-        "marketValueEur": 1500000,
-        "marketValueDisplay": "€1.5M",
-        "dateOfBirth": "2003-05-16",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -1407,16 +1405,6 @@
           "CONCACAF Nations League, League B, Group B"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Kayserispor",
-        "marketValueEur": 905000,
-        "marketValueDisplay": "€905K",
-        "dateOfBirth": "1994-03-20",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -1735,16 +1723,6 @@
           "CONCACAF Nations League, League B, Group B"
         ],
         "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "Abha",
-        "marketValueEur": 410000,
-        "marketValueDisplay": "€410K",
-        "dateOfBirth": "1993-12-23",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -1759,6 +1737,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-05-30",
           "opponent": "Scotland",
@@ -2001,20 +1994,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.08,
+        "goals90": 0.15,
         "assists90": 0.08,
-        "shots90": 1.3,
+        "shots90": 1.4,
         "sot90": 0.3,
-        "passes90": 33,
+        "passes90": 30,
         "cards90": 0,
         "fouls90": 1.2,
-        "minutesAvg": 71
+        "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 7
+          "l5": 20,
+          "l10": 20,
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -2024,22 +2017,22 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "shots15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 33
+          "l5": 40,
+          "l10": 30,
+          "season": 38
         },
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "sot05": {
           "l5": 40,
-          "l10": 30,
-          "season": 20
+          "l10": 40,
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -2048,13 +2041,14 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 20,
-          "season": 27
+          "l10": 10,
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group E",
           "Int. Friendly Games",
           "FIFA Series, Australia",
           "World Cup Qual. CONCACAF Group B",
@@ -2062,17 +2056,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group B"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "FC Zürich",
-        "marketValueEur": 670000,
-        "marketValueDisplay": "€670K",
-        "dateOfBirth": "2004-02-03",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -2087,6 +2071,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-05-30",
           "opponent": "Scotland",
@@ -2157,10 +2156,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 70,
+        "passes90": 51,
         "cards90": 0,
-        "fouls90": 0,
-        "minutesAvg": 63
+        "fouls90": 0.5,
+        "minutesAvg": 69
       },
       "hitRates": {
         "goals05": {
@@ -2199,29 +2198,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group E",
           "Int. Friendly Games",
           "FIFA Series, Australia",
           "World Cup Qual. CONCACAF Group B"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "Konyaspor",
-        "marketValueEur": 1600000,
-        "marketValueDisplay": "€1.6M",
-        "dateOfBirth": "1996-10-12",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -2539,16 +2529,6 @@
           "CONCACAF Nations League, League B, Group B"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "RKC Waalwijk",
-        "marketValueEur": 345000,
-        "marketValueDisplay": "€345K",
-        "dateOfBirth": "1998-06-09",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2563,6 +2543,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-05-30",
           "opponent": "Scotland",
@@ -2806,10 +2801,10 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.07,
+        "assists90": 0.06,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 46,
+        "passes90": 43,
         "cards90": 0,
         "fouls90": 1,
         "minutesAvg": 88
@@ -2828,7 +2823,7 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 20,
@@ -2852,13 +2847,14 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 19
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group E",
           "Int. Friendly Games",
           "FIFA Series, Australia",
           "World Cup Qual. CONCACAF Group B",
@@ -2866,17 +2862,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group B"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "PEC Zwolle",
-        "marketValueEur": 855000,
-        "marketValueDisplay": "€855K",
-        "dateOfBirth": "1998-08-23",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -3063,16 +3049,6 @@
           "World Cup Qual. CONCACAF Group B"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Sparta Rotterdam",
-        "marketValueEur": 1400000,
-        "marketValueDisplay": "€1.4M",
-        "dateOfBirth": "2001-08-19",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3391,16 +3367,6 @@
           "CONCACAF Nations League, League B, Group B"
         ],
         "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "RKC Waalwijk",
-        "marketValueEur": 325000,
-        "marketValueDisplay": "€325K",
-        "dateOfBirth": "1999-08-19",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3415,6 +3381,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 25,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-31",
           "opponent": "Australia",
@@ -3657,35 +3638,35 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.45,
-        "assists90": 0.36,
-        "shots90": 1.8,
+        "goals90": 0.44,
+        "assists90": 0.35,
+        "shots90": 1.9,
         "sot90": 0.6,
         "passes90": 20,
         "cards90": 0,
         "fouls90": 0.9,
-        "minutesAvg": 66
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 13
         },
         "goals15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "assists05": {
-          "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l5": 0,
+          "l10": 10,
+          "season": 19
         },
         "shots15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 40,
-          "season": 40
+          "season": 38
         },
         "shots25": {
           "l5": 20,
@@ -3694,8 +3675,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 20,
-          "season": 27
+          "l10": 10,
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -3705,29 +3686,20 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 19
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group E",
           "FIFA Series, Australia",
           "World Cup Qual. CONCACAF Group B",
           "CONCACAF Gold Cup, Group B",
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group B"
         ],
-        "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "SK Beveren",
-        "marketValueEur": 965000,
-        "marketValueDisplay": "€965K",
-        "dateOfBirth": "2000-04-10",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -3742,6 +3714,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-05-30",
           "opponent": "Scotland",
@@ -3984,19 +3971,19 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.29,
-        "assists90": 0.15,
-        "shots90": 2.8,
-        "sot90": 1.3,
-        "passes90": 29,
+        "goals90": 0.27,
+        "assists90": 0.14,
+        "shots90": 2.6,
+        "sot90": 1.2,
+        "passes90": 27,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 41
+        "fouls90": 0.8,
+        "minutesAvg": 42
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 13
         },
         "goals15": {
@@ -4005,24 +3992,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "sot05": {
-          "l5": 60,
-          "l10": 60,
-          "season": 47
+          "l5": 40,
+          "l10": 50,
+          "season": 44
         },
         "cards05": {
           "l5": 0,
@@ -4036,8 +4023,9 @@
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group E",
           "Int. Friendly Games",
           "FIFA Series, Australia",
           "World Cup Qual. CONCACAF Group B",
@@ -4045,17 +4033,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group B"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "AE Kifisia",
-        "marketValueEur": 670000,
-        "marketValueDisplay": "€670K",
-        "dateOfBirth": "2002-03-29",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -4070,6 +4048,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-05-30",
           "opponent": "Scotland",
@@ -4312,45 +4305,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.37,
-        "assists90": 0.22,
-        "shots90": 2.3,
-        "sot90": 1,
-        "passes90": 29,
+        "goals90": 0.35,
+        "assists90": 0.21,
+        "shots90": 2.2,
+        "sot90": 0.9,
+        "passes90": 27,
         "cards90": 0,
         "fouls90": 2.5,
         "minutesAvg": 81
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 27
+          "season": 25
         },
         "goals15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "shots15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 40,
-          "season": 47
+          "season": 44
         },
         "shots25": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 33
+          "season": 31
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 40
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -4358,14 +4351,15 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 60,
           "l10": 60,
-          "season": 67
+          "season": 69
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group E",
           "Int. Friendly Games",
           "FIFA Series, Australia",
           "World Cup Qual. CONCACAF Group B",
@@ -4373,17 +4367,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group B"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "FC Volendam",
-        "marketValueEur": 1800000,
-        "marketValueDisplay": "€1.8M",
-        "dateOfBirth": "1997-08-07",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -4685,16 +4669,6 @@
           "CONCACAF Nations League, League B, Group B"
         ],
         "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Maccabi Haifa",
-        "marketValueEur": 600000,
-        "marketValueDisplay": "€600K",
-        "dateOfBirth": "1994-09-29",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -4834,16 +4808,6 @@
           "CONCACAF Nations League, League B, Group B"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "FC Den Bosch",
-        "marketValueEur": 415000,
-        "marketValueDisplay": "€415K",
-        "dateOfBirth": "1999-11-11",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -4858,6 +4822,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-05-30",
           "opponent": "Scotland",
@@ -5101,19 +5080,19 @@
       ],
       "seasonRates": {
         "goals90": 0.07,
-        "assists90": 0.22,
-        "shots90": 1.1,
+        "assists90": 0.2,
+        "shots90": 1.2,
         "sot90": 0.6,
-        "passes90": 51,
+        "passes90": 47,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 82
+        "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -5121,24 +5100,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 13
         },
         "shots15": {
           "l5": 40,
-          "l10": 20,
-          "season": 20
+          "l10": 30,
+          "season": 25
         },
         "shots25": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "sot05": {
-          "l5": 60,
-          "l10": 50,
-          "season": 47
+          "l5": 40,
+          "l10": 40,
+          "season": 44
         },
         "cards05": {
           "l5": 0,
@@ -5148,12 +5127,13 @@
         "fouls15": {
           "l5": 60,
           "l10": 40,
-          "season": 27
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group E",
           "Int. Friendly Games",
           "FIFA Series, Australia",
           "World Cup Qual. CONCACAF Group B",
@@ -5161,17 +5141,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group B"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "Iğdır FK",
-        "marketValueEur": 270000,
-        "marketValueDisplay": "€270K",
-        "dateOfBirth": "1991-08-21",
-        "age": 34,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -5186,6 +5156,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-05-30",
           "opponent": "Scotland",
@@ -5268,45 +5253,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.91,
-        "assists90": 0.3,
-        "shots90": 1.8,
-        "sot90": 1.2,
-        "passes90": 28,
+        "goals90": 0.71,
+        "assists90": 0.24,
+        "shots90": 1.7,
+        "sot90": 1,
+        "passes90": 22,
         "cards90": 0,
-        "fouls90": 0.3,
-        "minutesAvg": 59
+        "fouls90": 0.5,
+        "minutesAvg": 63
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l10": 33,
+          "season": 33
         },
         "goals15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "assists05": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "shots15": {
           "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l10": 33,
+          "season": 33
         },
         "shots25": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "sot05": {
           "l5": 60,
-          "l10": 60,
-          "season": 60
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -5320,23 +5305,14 @@
         }
       },
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
+          "FIFA World Cup, Group E",
           "Int. Friendly Games",
           "FIFA Series, Australia",
           "World Cup Qual. CONCACAF Group B"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "Sheffield United",
-        "marketValueEur": 3400000,
-        "marketValueDisplay": "€3.4M",
-        "dateOfBirth": "1999-12-04",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -5508,16 +5484,6 @@
           "World Cup Qual. CONCACAF Group B"
         ],
         "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "SC Telstar",
-        "marketValueEur": 775000,
-        "marketValueDisplay": "€775K",
-        "dateOfBirth": "2002-09-11",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -5722,16 +5688,6 @@
           "CONCACAF Nations League, League B, Group B"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "FC Volendam",
-        "marketValueEur": 270000,
-        "marketValueDisplay": "€270K",
-        "dateOfBirth": "1992-09-19",
-        "age": 33,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -5746,6 +5702,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-05-30",
           "opponent": "Scotland",
@@ -5988,20 +5959,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.91,
+        "goals90": 0.9,
         "assists90": 0.26,
         "shots90": 2.2,
         "sot90": 1.4,
         "passes90": 14,
         "cards90": 0,
-        "fouls90": 2,
-        "minutesAvg": 46
+        "fouls90": 2.1,
+        "minutesAvg": 44
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 10,
-          "season": 27
+          "l10": 0,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -6016,17 +5987,17 @@
         "shots15": {
           "l5": 0,
           "l10": 0,
-          "season": 20
+          "season": 19
         },
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 20
+          "season": 19
         },
         "sot05": {
           "l5": 0,
-          "l10": 20,
-          "season": 33
+          "l10": 10,
+          "season": 31
         },
         "cards05": {
           "l5": 0,
@@ -6035,13 +6006,14 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 30,
-          "season": 27
+          "l10": 20,
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group E",
           "Int. Friendly Games",
           "FIFA Series, Australia",
           "World Cup Qual. CONCACAF Group B",
@@ -6049,17 +6021,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group B"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "Terengganu",
-        "marketValueEur": 170000,
-        "marketValueDisplay": "€170K",
-        "dateOfBirth": "1996-06-09",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -6074,6 +6036,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 65,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-05-30",
           "opponent": "Scotland",
@@ -6237,10 +6214,10 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.3,
-        "shots90": 1.9,
-        "sot90": 0.6,
-        "passes90": 19,
+        "assists90": 0.27,
+        "shots90": 1.7,
+        "sot90": 0.5,
+        "passes90": 17,
         "cards90": 0,
         "fouls90": 1.3,
         "minutesAvg": 61
@@ -6258,23 +6235,23 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 18
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 30
+          "season": 27
         },
         "shots25": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 30
+          "season": 27
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 30
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -6284,28 +6261,19 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 18
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group E",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group B",
           "CONCACAF Gold Cup, Group B",
           "World Cup Qualification, CONCACAF 2nd round, Group C"
         ],
-        "lastMatch": "2026-05-30"
-      },
-      "profile": {
-        "club": "Miami FC",
-        "marketValueEur": 215000,
-        "marketValueDisplay": "€215K",
-        "dateOfBirth": "1993-11-07",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     },
     {
@@ -6315,11 +6283,26 @@
       "group": "E",
       "position": "Forward",
       "number": "12",
-      "likelyStarter": true,
+      "likelyStarter": false,
       "sofascoreId": 1199057,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-14",
+          "opponent": "Germany",
+          "competition": "FIFA World Cup, Group E",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-31",
           "opponent": "Australia",
@@ -6402,20 +6385,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.33,
+        "goals90": 0.29,
         "assists90": 0,
         "shots90": 2,
-        "sot90": 0.3,
-        "passes90": 25,
+        "sot90": 0.6,
+        "passes90": 21,
         "cards90": 0,
         "fouls90": 0.3,
-        "minutesAvg": 54
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -6429,18 +6412,18 @@
         },
         "shots15": {
           "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l10": 33,
+          "season": 33
         },
         "shots25": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "sot05": {
-          "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l5": 40,
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -6454,22 +6437,13 @@
         }
       },
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
+          "FIFA World Cup, Group E",
           "FIFA Series, Australia",
           "World Cup Qual. CONCACAF Group B"
         ],
-        "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Middlesbrough",
-        "marketValueEur": 3400000,
-        "marketValueDisplay": "€3.4M",
-        "dateOfBirth": "2002-05-18",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-14"
       }
     }
   ],

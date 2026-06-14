@@ -486,6 +486,95 @@
       },
       "syncedAt": "2026-06-14T14:25:22.529Z",
       "source": "espn"
+    },
+    "GS-E-1": {
+      "status": "finished",
+      "homeScore": 7,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Felix Nmecha",
+            "minute": "6'",
+            "assist": "Florian Wirtz"
+          },
+          {
+            "name": "Nico Schlotterbeck",
+            "minute": "38'",
+            "assist": "Nathaniel Brown"
+          },
+          {
+            "name": "Kai Havertz",
+            "minute": "45'+5'"
+          },
+          {
+            "name": "Jamal Musiala",
+            "minute": "47'",
+            "assist": "Joshua Kimmich"
+          },
+          {
+            "name": "Nathaniel Brown",
+            "minute": "68'",
+            "assist": "Deniz Undav"
+          },
+          {
+            "name": "Deniz Undav",
+            "minute": "78'",
+            "assist": "Joshua Kimmich"
+          },
+          {
+            "name": "Kai Havertz",
+            "minute": "88'",
+            "assist": "Deniz Undav"
+          }
+        ],
+        "away": [
+          {
+            "name": "Livano Comenencia",
+            "minute": "21'"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 64.7,
+          "away": 35.3
+        },
+        "shots": {
+          "home": 26,
+          "away": 8
+        },
+        "shotsOnTarget": {
+          "home": 12,
+          "away": 2
+        },
+        "corners": {
+          "home": 8,
+          "away": 1
+        },
+        "fouls": {
+          "home": 18,
+          "away": 11
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 1,
+          "away": 4
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 80
+        }
+      },
+      "syncedAt": "2026-06-14T20:10:51.532Z",
+      "source": "espn"
     }
   }
 }
