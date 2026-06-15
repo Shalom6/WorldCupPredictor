@@ -13,25 +13,25 @@
       "requestCount": 58
     },
     "manualTeams": {
-      "Japan": {
+      "Cape Verde": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-15T13:33:42.078Z"
+        "importedAt": "2026-06-15T18:11:43.355Z"
       },
-      "Netherlands": {
-        "playerCount": 26,
+      "Saudi Arabia": {
+        "playerCount": 28,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-15T13:33:42.078Z"
+        "importedAt": "2026-06-15T18:11:43.355Z"
       },
-      "Sweden": {
+      "Spain": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-15T13:33:42.078Z"
+        "importedAt": "2026-06-15T18:11:43.355Z"
       },
-      "Tunisia": {
+      "Uruguay": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-15T13:33:42.078Z"
+        "importedAt": "2026-06-15T18:11:43.355Z"
       }
     }
   },
@@ -11170,16 +11170,6 @@
         ],
         "lastMatch": "2026-06-09"
       },
-      "profile": {
-        "club": "Bayer 04 Leverkusen",
-        "marketValueEur": 19400000,
-        "marketValueDisplay": "€19.4M",
-        "dateOfBirth": "1995-09-20",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 177177
     },
     {
@@ -12734,16 +12724,6 @@
           "Euro, Group B"
         ],
         "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Atlético Madrid",
-        "marketValueEur": 48000000,
-        "marketValueDisplay": "€48M",
-        "dateOfBirth": "2001-07-20",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 910031
     },
@@ -36573,29 +36553,29 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.9,
+      "minutesFactor": 0.91,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 0.7,
-        "sotShare": 0.2,
+        "shotsShare": 0.8,
+        "sotShare": 0.3,
         "cardWeight": 0.02,
         "foulWeight": 0.3
       },
       "seasonRates": {
         "goals90": 0.07,
         "assists90": 0,
-        "shots90": 0.7,
-        "sot90": 0.2,
-        "passes90": 93,
+        "shots90": 0.8,
+        "sot90": 0.3,
+        "passes90": 87,
         "cards90": 0,
         "fouls90": 0.3,
-        "minutesAvg": 81
+        "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -36608,9 +36588,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
-          "l10": 30,
-          "season": 27
+          "l5": 40,
+          "l10": 40,
+          "season": 31
         },
         "shots25": {
           "l5": 0,
@@ -36618,9 +36598,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 20,
-          "season": 13
+          "l5": 40,
+          "l10": 30,
+          "season": 19
         },
         "cards05": {
           "l5": 0,
@@ -36630,10 +36610,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -36879,25 +36874,16 @@
       "dataScope": "international",
       "searchText": "aymeric laporte spain defender h",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage",
           "Euro, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Athletic Club",
-        "marketValueEur": 9400000,
-        "marketValueDisplay": "€9.4M",
-        "dateOfBirth": "1994-05-27",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 149734
     },
@@ -43302,16 +43288,6 @@
           "World Cup Qual. UEFA E"
         ],
         "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Celta Vigo",
-        "marketValueEur": 3100000,
-        "marketValueDisplay": "€3.1M",
-        "dateOfBirth": "1993-01-17",
-        "age": 33,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 785989
     },
@@ -56632,16 +56608,6 @@
         "competitions": [],
         "lastMatch": null
       },
-      "profile": {
-        "club": "San Diego FC",
-        "marketValueEur": 1100000,
-        "marketValueDisplay": "€1.1M",
-        "dateOfBirth": "2000-08-24",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 906020
     },
     {
@@ -59924,54 +59890,54 @@
       "number": "9",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.6,
+      "minutesFactor": 0.61,
       "xgShare": 0.2,
       "propProfile": {
         "shotsShare": 1.5,
         "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 1
+        "foulWeight": 0.9
       },
       "seasonRates": {
-        "goals90": 0.55,
-        "assists90": 0.11,
+        "goals90": 0.51,
+        "assists90": 0.1,
         "shots90": 1.5,
         "sot90": 0.3,
-        "passes90": 5,
+        "passes90": 4,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 54
+        "fouls90": 0.9,
+        "minutesAvg": 55
       },
       "hitRates": {
         "goals05": {
           "l5": 60,
           "l10": 40,
-          "season": 27
+          "season": 25
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 0,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 19
         },
         "shots25": {
           "l5": 0,
-          "l10": 20,
+          "l10": 10,
           "season": 13
         },
         "sot05": {
           "l5": 20,
-          "l10": 30,
-          "season": 20
+          "l10": 20,
+          "season": 19
         },
         "cards05": {
           "l5": 0,
@@ -59981,10 +59947,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 19
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -60230,23 +60211,14 @@
       "dataScope": "international",
       "searchText": "dailon rocha livramento cape verde forward h",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Casa Pia",
-        "marketValueEur": 775000,
-        "marketValueDisplay": "€775K",
-        "dateOfBirth": "2001-05-04",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 1155358
     },
@@ -61406,7 +61378,7 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.61,
+      "minutesFactor": 0.57,
       "xgShare": 0.11,
       "propProfile": {
         "shotsShare": 3.3,
@@ -61419,16 +61391,16 @@
         "assists90": 0.35,
         "shots90": 3.3,
         "sot90": 1.3,
-        "passes90": 46,
+        "passes90": 45,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 55
+        "minutesAvg": 51
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 21
+          "season": 20
         },
         "goals15": {
           "l5": 0,
@@ -61438,22 +61410,22 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 21
+          "season": 20
         },
         "shots15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 57
+          "season": 53
         },
         "shots25": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 21
+          "season": 20
         },
         "sot05": {
-          "l5": 80,
+          "l5": 60,
           "l10": 50,
-          "season": 50
+          "season": 47
         },
         "cards05": {
           "l5": 0,
@@ -61467,6 +61439,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -61696,8 +61683,9 @@
       "dataScope": "international",
       "searchText": "dani olmo spain midfielder h",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, Finals",
@@ -61705,17 +61693,7 @@
           "Euro, Knockout stage",
           "Euro, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "FC Barcelona",
-        "marketValueEur": 58000000,
-        "marketValueDisplay": "€58M",
-        "dateOfBirth": "1998-05-07",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 789071
     },
@@ -65213,16 +65191,6 @@
           "Euro, Group B"
         ],
         "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Arsenal",
-        "marketValueEur": 38000000,
-        "marketValueDisplay": "€38M",
-        "dateOfBirth": "1995-09-15",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 581310
     },
@@ -68932,7 +68900,7 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.57,
+      "minutesFactor": 0.54,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.05,
@@ -68942,13 +68910,13 @@
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.19,
+        "assists90": 0.18,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 31,
+        "passes90": 29,
         "cards90": 0,
         "fouls90": 0.6,
-        "minutesAvg": 51
+        "minutesAvg": 49
       },
       "hitRates": {
         "goals05": {
@@ -68963,8 +68931,8 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
           "l5": 0,
@@ -68993,6 +68961,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -69142,23 +69125,14 @@
       "dataScope": "international",
       "searchText": "deroy duarte cape verde midfielder h",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Ludogorets",
-        "marketValueEur": 1700000,
-        "marketValueDisplay": "€1.7M",
-        "dateOfBirth": "1999-07-04",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 921089
     },
@@ -70210,29 +70184,29 @@
       "number": "3",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.92,
-      "xgShare": 0.07,
+      "minutesFactor": 0.93,
+      "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.2,
-        "sotShare": 0.03,
+        "shotsShare": 0.3,
+        "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.31,
-        "assists90": 0.15,
-        "shots90": 0.2,
-        "sot90": 0,
-        "passes90": 13,
+        "goals90": 0.27,
+        "assists90": 0.13,
+        "shots90": 0.3,
+        "sot90": 0.1,
+        "passes90": 11,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 83
+        "fouls90": 0.5,
+        "minutesAvg": 84
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 29,
-          "season": 29
+          "l5": 0,
+          "l10": 25,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -70241,8 +70215,8 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots15": {
           "l5": 0,
@@ -70255,9 +70229,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 13,
+          "season": 13
         },
         "cards05": {
           "l5": 0,
@@ -70266,11 +70240,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -70388,23 +70377,14 @@
       "dataScope": "international",
       "searchText": "diney borges cape verde defender h",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Al Bataeh",
-        "marketValueEur": 930000,
-        "marketValueDisplay": "€930K",
-        "dateOfBirth": "1995-01-17",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 784677
     },
@@ -83459,16 +83439,6 @@
         ],
         "lastMatch": "2026-06-09"
       },
-      "profile": {
-        "club": "FC Barcelona",
-        "marketValueEur": 34000000,
-        "marketValueDisplay": "€34M",
-        "dateOfBirth": "2001-01-09",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 876214
     },
     {
@@ -87089,51 +87059,51 @@
       "minutesFactor": 0.8,
       "xgShare": 0.1,
       "propProfile": {
-        "shotsShare": 2.3,
-        "sotShare": 0.6,
+        "shotsShare": 2.6,
+        "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "foulWeight": 0.4
       },
       "seasonRates": {
-        "goals90": 0.27,
-        "assists90": 0.27,
-        "shots90": 2.3,
-        "sot90": 0.6,
-        "passes90": 68,
+        "goals90": 0.25,
+        "assists90": 0.25,
+        "shots90": 2.6,
+        "sot90": 0.7,
+        "passes90": 64,
         "cards90": 0,
-        "fouls90": 0.5,
+        "fouls90": 0.4,
         "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 10,
-          "season": 14
+          "l10": 0,
+          "season": 13
         },
         "goals15": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 7
         },
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 21
+          "season": 20
         },
         "shots15": {
-          "l5": 20,
+          "l5": 40,
           "l10": 40,
-          "season": 57
+          "season": 60
         },
         "shots25": {
-          "l5": 20,
-          "l10": 20,
-          "season": 29
+          "l5": 40,
+          "l10": 30,
+          "season": 33
         },
         "sot05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 30,
-          "season": 36
+          "season": 40
         },
         "cards05": {
           "l5": 0,
@@ -87147,6 +87117,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -87376,25 +87361,16 @@
       "dataScope": "international",
       "searchText": "fabián ruiz spain midfielder h",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Paris Saint-Germain",
-        "marketValueEur": 29000000,
-        "marketValueDisplay": "€29M",
-        "dateOfBirth": "1996-04-03",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 784655
     },
@@ -90386,29 +90362,29 @@
       "number": "11",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.54,
-      "xgShare": 0.23,
+      "minutesFactor": 0.58,
+      "xgShare": 0.22,
       "propProfile": {
         "shotsShare": 4,
-        "sotShare": 1.8,
+        "sotShare": 1.7,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.8
       },
       "seasonRates": {
-        "goals90": 0.76,
-        "assists90": 0.61,
+        "goals90": 0.67,
+        "assists90": 0.54,
         "shots90": 4,
-        "sot90": 1.8,
-        "passes90": 29,
+        "sot90": 1.7,
+        "passes90": 25,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 49
+        "fouls90": 0.8,
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 40,
-          "season": 42
+          "season": 38
         },
         "goals15": {
           "l5": 0,
@@ -90418,22 +90394,22 @@
         "assists05": {
           "l5": 40,
           "l10": 40,
-          "season": 33
+          "season": 31
         },
         "shots15": {
           "l5": 100,
-          "l10": 80,
-          "season": 75
+          "l10": 90,
+          "season": 77
         },
         "shots25": {
-          "l5": 40,
-          "l10": 40,
-          "season": 33
+          "l5": 60,
+          "l10": 50,
+          "season": 38
         },
         "sot05": {
-          "l5": 60,
-          "l10": 70,
-          "season": 67
+          "l5": 80,
+          "l10": 80,
+          "season": 69
         },
         "cards05": {
           "l5": 0,
@@ -90441,12 +90417,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -90644,25 +90635,16 @@
       "dataScope": "international",
       "searchText": "ferran torres spain forward h",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage",
           "Euro, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "FC Barcelona",
-        "marketValueEur": 54000000,
-        "marketValueDisplay": "€54M",
-        "dateOfBirth": "2000-02-29",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 855833
     },
@@ -96865,16 +96847,6 @@
         ],
         "lastMatch": "2026-03-27"
       },
-      "profile": {
-        "club": "Apollon Limassol",
-        "marketValueEur": 315000,
-        "marketValueDisplay": "€315K",
-        "dateOfBirth": "1990-11-27",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 787429
     },
     {
@@ -99111,16 +99083,6 @@
           "Africa Cup of Nations, Qualification, Group C"
         ],
         "lastMatch": "2024-11-19"
-      },
-      "profile": {
-        "club": "Akron Togliatti",
-        "marketValueEur": 1200000,
-        "marketValueDisplay": "€1.2M",
-        "dateOfBirth": "2001-12-28",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1111215
     },
@@ -109659,16 +109621,6 @@
           "Africa Cup of Nations, Qualification, Group C"
         ],
         "lastMatch": "2025-09-09"
-      },
-      "profile": {
-        "club": "Maccabi Tel Aviv",
-        "marketValueEur": 1200000,
-        "marketValueDisplay": "€1.2M",
-        "dateOfBirth": "2002-05-03",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1094395
     },
@@ -125149,23 +125101,23 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.72,
+      "minutesFactor": 0.73,
       "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 0.7,
+        "shotsShare": 0.6,
         "sotShare": 0.03,
         "cardWeight": 0.02,
         "foulWeight": 0.2
       },
       "seasonRates": {
-        "goals90": 0.11,
-        "assists90": 0.11,
-        "shots90": 0.7,
+        "goals90": 0.1,
+        "assists90": 0.1,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 19,
+        "passes90": 17,
         "cards90": 0,
         "fouls90": 0.2,
-        "minutesAvg": 65
+        "minutesAvg": 66
       },
       "hitRates": {
         "goals05": {
@@ -125185,12 +125137,12 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 8
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 8
         },
         "sot05": {
@@ -125210,6 +125162,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-10-13",
           "opponent": "Eswatini",
@@ -125407,22 +125374,13 @@
       "dataScope": "international",
       "searchText": "jamiro monteiro cape verde midfielder h",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2025-10-13"
-      },
-      "profile": {
-        "club": "PEC Zwolle",
-        "marketValueEur": 590000,
-        "marketValueDisplay": "€590K",
-        "dateOfBirth": "1993-11-28",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 815080
     },
@@ -134300,16 +134258,6 @@
         ],
         "lastMatch": "2026-06-04"
       },
-      "profile": {
-        "club": "FC Barcelona",
-        "marketValueEur": 41000000,
-        "marketValueDisplay": "€41M",
-        "dateOfBirth": "2001-05-04",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 930267
     },
     {
@@ -135298,7 +135246,7 @@
       "number": "8",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.82,
+      "minutesFactor": 0.77,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.2,
@@ -135311,10 +135259,10 @@
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0,
-        "passes90": 24,
+        "passes90": 23,
         "cards90": 0,
         "fouls90": 0.5,
-        "minutesAvg": 74
+        "minutesAvg": 69
       },
       "hitRates": {
         "goals05": {
@@ -135359,6 +135307,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -135556,23 +135519,14 @@
       "dataScope": "international",
       "searchText": "joão paulo cape verde midfielder h",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "FCSB",
-        "marketValueEur": 730000,
-        "marketValueDisplay": "€730K",
-        "dateOfBirth": "1998-05-24",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 1001675
     },
@@ -147834,17 +147788,17 @@
       "minutesFactor": 0.62,
       "xgShare": 0.14,
       "propProfile": {
-        "shotsShare": 0.5,
+        "shotsShare": 0.6,
         "sotShare": 0.2,
         "cardWeight": 0.02,
         "foulWeight": 0.3
       },
       "seasonRates": {
-        "goals90": 0.16,
-        "assists90": 0.16,
-        "shots90": 0.5,
+        "goals90": 0.15,
+        "assists90": 0.15,
+        "shots90": 0.6,
         "sot90": 0.2,
-        "passes90": 14,
+        "passes90": 13,
         "cards90": 0,
         "fouls90": 0.3,
         "minutesAvg": 56
@@ -147853,7 +147807,7 @@
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "goals15": {
           "l5": 0,
@@ -147863,22 +147817,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "cards05": {
           "l5": 0,
@@ -147888,10 +147842,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-09-09",
           "opponent": "Cameroon",
@@ -148057,22 +148026,13 @@
       "dataScope": "international",
       "searchText": "jovane cabral cape verde forward h",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2025-09-09"
-      },
-      "profile": {
-        "club": "CF Estrela Amadora",
-        "marketValueEur": 910000,
-        "marketValueDisplay": "€910K",
-        "dateOfBirth": "1998-06-14",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 845802
     },
@@ -156795,16 +156755,6 @@
         "competitions": [],
         "lastMatch": null
       },
-      "profile": {
-        "club": "SJK",
-        "marketValueEur": 270000,
-        "marketValueDisplay": "€270K",
-        "dateOfBirth": "2000-06-05",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1048591
     },
     {
@@ -160513,16 +160463,6 @@
           "Africa Cup of Nations, Qualification, Group C"
         ],
         "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "FC Krasnodar",
-        "marketValueEur": 4900000,
-        "marketValueDisplay": "€4.9M",
-        "dateOfBirth": "1997-01-27",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 906838
     },
@@ -167532,54 +167472,54 @@
       "number": "19",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.79,
+      "minutesFactor": 0.76,
       "xgShare": 0.1,
       "propProfile": {
-        "shotsShare": 4.1,
-        "sotShare": 1.5,
+        "shotsShare": 4.2,
+        "sotShare": 1.4,
         "cardWeight": 0.02,
         "foulWeight": 1.1
       },
       "seasonRates": {
         "goals90": 0.29,
-        "assists90": 0.58,
-        "shots90": 4.1,
-        "sot90": 1.5,
-        "passes90": 40,
+        "assists90": 0.57,
+        "shots90": 4.2,
+        "sot90": 1.4,
+        "passes90": 39,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 71
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 15
+          "season": 14
         },
         "goals15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "assists05": {
           "l5": 40,
-          "l10": 40,
-          "season": 38
+          "l10": 30,
+          "season": 36
         },
         "shots15": {
           "l5": 60,
           "l10": 70,
-          "season": 69
+          "season": 71
         },
         "shots25": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 54
+          "season": 50
         },
         "sot05": {
-          "l5": 60,
-          "l10": 70,
-          "season": 69
+          "l5": 40,
+          "l10": 60,
+          "season": 64
         },
         "cards05": {
           "l5": 0,
@@ -167589,10 +167529,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 31
+          "season": 29
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-03-31",
           "opponent": "Egypt",
@@ -167806,8 +167761,9 @@
       "dataScope": "international",
       "searchText": "lamine yamal spain midfielder h",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, Finals",
@@ -167815,17 +167771,7 @@
           "Euro, Knockout stage",
           "Euro, Group B"
         ],
-        "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "FC Barcelona",
-        "marketValueEur": 215000000,
-        "marketValueDisplay": "€215M",
-        "dateOfBirth": "2007-07-13",
-        "age": 18,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 1402912
     },
@@ -167838,23 +167784,23 @@
       "number": "15",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.34,
+      "minutesFactor": 0.37,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 1.9,
-        "sotShare": 0.3,
+        "shotsShare": 1.6,
+        "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 1.9
+        "foulWeight": 1.6
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.9,
-        "sot90": 0.3,
-        "passes90": 34,
+        "shots90": 1.6,
+        "sot90": 0.2,
+        "passes90": 29,
         "cards90": 0,
-        "fouls90": 1.9,
-        "minutesAvg": 31
+        "fouls90": 1.6,
+        "minutesAvg": 33
       },
       "hitRates": {
         "goals05": {
@@ -167875,17 +167821,17 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "cards05": {
           "l5": 0,
@@ -167893,12 +167839,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 18
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -168080,23 +168041,14 @@
       "dataScope": "international",
       "searchText": "laros duarte cape verde midfielder h",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Puskás Akadémia",
-        "marketValueEur": 1000000,
-        "marketValueDisplay": "€1M",
-        "dateOfBirth": "1997-02-28",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 798177
     },
@@ -173918,16 +173870,6 @@
           "Africa Cup of Nations, Qualification, Group C"
         ],
         "lastMatch": "2025-03-25"
-      },
-      "profile": {
-        "club": "Villarreal",
-        "marketValueEur": 17500000,
-        "marketValueDisplay": "€17.5M",
-        "dateOfBirth": "2001-04-01",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 911853
     },
@@ -183814,17 +183756,17 @@
       "minutesFactor": 0.94,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 0.2,
-        "sotShare": 0.1,
+        "shotsShare": 0.3,
+        "sotShare": 0.2,
         "cardWeight": 0.02,
         "foulWeight": 1.2
       },
       "seasonRates": {
         "goals90": 0.07,
-        "assists90": 0.14,
-        "shots90": 0.2,
-        "sot90": 0.1,
-        "passes90": 61,
+        "assists90": 0.13,
+        "shots90": 0.3,
+        "sot90": 0.2,
+        "passes90": 57,
         "cards90": 0,
         "fouls90": 1.2,
         "minutesAvg": 85
@@ -183833,7 +183775,7 @@
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -183846,9 +183788,9 @@
           "season": 13
         },
         "shots15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 7
+          "l5": 20,
+          "l10": 20,
+          "season": 13
         },
         "shots25": {
           "l5": 0,
@@ -183856,9 +183798,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 13
+          "l5": 20,
+          "l10": 20,
+          "season": 19
         },
         "cards05": {
           "l5": 0,
@@ -183868,10 +183810,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 40,
-          "season": 33
+          "season": 31
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -184117,25 +184074,16 @@
       "dataScope": "international",
       "searchText": "marc cucurella spain defender h",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Chelsea",
-        "marketValueEur": 52000000,
-        "marketValueDisplay": "€52M",
-        "dateOfBirth": "1998-07-22",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 794939
     },
@@ -184566,16 +184514,6 @@
         ],
         "lastMatch": "2026-06-09"
       },
-      "profile": {
-        "club": "Atlético Madrid",
-        "marketValueEur": 27000000,
-        "marketValueDisplay": "€27M",
-        "dateOfBirth": "2003-06-20",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1094106
     },
     {
@@ -184984,16 +184922,6 @@
         "appearances": 0,
         "competitions": [],
         "lastMatch": null
-      },
-      "profile": {
-        "club": "PFK Montana 1921",
-        "marketValueEur": 340000,
-        "marketValueDisplay": "€340K",
-        "dateOfBirth": "1997-02-23",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 892133
     },
@@ -185450,17 +185378,23 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.69,
+      "minutesFactor": 0.74,
       "xgShare": 0.02,
+      "propProfile": {
+        "shotsShare": 0.05,
+        "sotShare": 0.03,
+        "cardWeight": 0.02,
+        "foulWeight": 0.2
+      },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 77,
+        "passes90": 60,
         "cards90": 0,
-        "fouls90": 0,
-        "minutesAvg": 62
+        "fouls90": 0.2,
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
@@ -185505,6 +185439,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -185590,22 +185539,13 @@
       "dataScope": "international",
       "searchText": "marcos llorente spain defender h",
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Atlético Madrid",
-        "marketValueEur": 23000000,
-        "marketValueDisplay": "€23M",
-        "dateOfBirth": "1995-01-30",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 353138
     },
@@ -190256,16 +190196,6 @@
           "Euro, Knockout stage"
         ],
         "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Arsenal",
-        "marketValueEur": 82000000,
-        "marketValueDisplay": "€82M",
-        "dateOfBirth": "1999-02-02",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 966837
     },
@@ -202953,32 +202883,32 @@
       "number": "6",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.6,
+      "minutesFactor": 0.58,
       "xgShare": 0.19,
       "propProfile": {
-        "shotsShare": 3.2,
-        "sotShare": 1.2,
+        "shotsShare": 3.3,
+        "sotShare": 1.3,
         "cardWeight": 0.02,
-        "foulWeight": 2.2
+        "foulWeight": 2.3
       },
       "seasonRates": {
-        "goals90": 0.89,
+        "goals90": 0.87,
         "assists90": 0,
-        "shots90": 3.2,
-        "sot90": 1.2,
-        "passes90": 46,
+        "shots90": 3.3,
+        "sot90": 1.3,
+        "passes90": 45,
         "cards90": 0,
-        "fouls90": 2.2,
-        "minutesAvg": 54
+        "fouls90": 2.3,
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 50,
-          "season": 33
+          "l5": 0,
+          "l10": 40,
+          "season": 31
         },
         "goals15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
           "season": 13
         },
@@ -202988,19 +202918,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 60,
-          "season": 47
+          "season": 44
         },
         "shots25": {
-          "l5": 20,
+          "l5": 0,
           "l10": 50,
-          "season": 33
+          "season": 31
         },
         "sot05": {
           "l5": 20,
           "l10": 50,
-          "season": 33
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -203010,10 +202940,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 27
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -203259,25 +203204,16 @@
       "dataScope": "international",
       "searchText": "mikel merino spain midfielder h",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Arsenal",
-        "marketValueEur": 31000000,
-        "marketValueDisplay": "€31M",
-        "dateOfBirth": "1996-06-22",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 592010
     },
@@ -203290,29 +203226,29 @@
       "number": "21",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.7,
-      "xgShare": 0.28,
+      "minutesFactor": 0.72,
+      "xgShare": 0.26,
       "propProfile": {
-        "shotsShare": 3.2,
-        "sotShare": 1.9,
+        "shotsShare": 3.4,
+        "sotShare": 1.8,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 1.04,
-        "assists90": 0.57,
-        "shots90": 3.2,
-        "sot90": 1.9,
-        "passes90": 29,
+        "goals90": 0.95,
+        "assists90": 0.52,
+        "shots90": 3.4,
+        "sot90": 1.8,
+        "passes90": 27,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 63
+        "fouls90": 1,
+        "minutesAvg": 65
       },
       "hitRates": {
         "goals05": {
-          "l5": 100,
+          "l5": 80,
           "l10": 70,
-          "season": 60
+          "season": 56
         },
         "goals15": {
           "l5": 40,
@@ -203322,22 +203258,22 @@
         "assists05": {
           "l5": 20,
           "l10": 30,
-          "season": 20
+          "season": 19
         },
         "shots15": {
           "l5": 100,
-          "l10": 70,
-          "season": 60
+          "l10": 80,
+          "season": 63
         },
         "shots25": {
           "l5": 80,
-          "l10": 60,
-          "season": 47
+          "l10": 70,
+          "season": 50
         },
         "sot05": {
           "l5": 100,
-          "l10": 70,
-          "season": 67
+          "l10": 80,
+          "season": 69
         },
         "cards05": {
           "l5": 0,
@@ -203351,6 +203287,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -203596,25 +203547,16 @@
       "dataScope": "international",
       "searchText": "mikel oyarzabal spain forward h",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Real Sociedad",
-        "marketValueEur": 27000000,
-        "marketValueDisplay": "€27M",
-        "dateOfBirth": "1997-04-21",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 823622
     },
@@ -220274,29 +220216,29 @@
       "number": "17",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.77,
+      "minutesFactor": 0.71,
       "xgShare": 0.13,
       "propProfile": {
-        "shotsShare": 3.6,
+        "shotsShare": 3.5,
         "sotShare": 1.9,
         "cardWeight": 0.02,
         "foulWeight": 0.8
       },
       "seasonRates": {
         "goals90": 0.47,
-        "assists90": 0.36,
-        "shots90": 3.6,
+        "assists90": 0.35,
+        "shots90": 3.5,
         "sot90": 1.9,
-        "passes90": 38,
+        "passes90": 37,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 69
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
           "l10": 30,
-          "season": 36
+          "season": 33
         },
         "goals15": {
           "l5": 0,
@@ -220306,22 +220248,22 @@
         "assists05": {
           "l5": 40,
           "l10": 20,
-          "season": 27
+          "season": 25
         },
         "shots15": {
-          "l5": 100,
+          "l5": 80,
           "l10": 70,
-          "season": 73
+          "season": 67
         },
         "shots25": {
-          "l5": 80,
+          "l5": 60,
           "l10": 50,
-          "season": 55
+          "season": 50
         },
         "sot05": {
-          "l5": 100,
+          "l5": 80,
           "l10": 80,
-          "season": 82
+          "season": 75
         },
         "cards05": {
           "l5": 0,
@@ -220331,10 +220273,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 3,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-09-07",
           "opponent": "Türkiye",
@@ -220516,24 +220473,15 @@
       "dataScope": "international",
       "searchText": "nico williams spain midfielder h",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group H",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2025-09-07"
-      },
-      "profile": {
-        "club": "Athletic Club",
-        "marketValueEur": 44000000,
-        "marketValueDisplay": "€44M",
-        "dateOfBirth": "2002-07-12",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 1085400
     },
@@ -226813,7 +226761,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 8,
+        "passes90": 5,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 27
@@ -226862,6 +226810,21 @@
       },
       "gameLog": [
         {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-03-27",
           "opponent": "Chile",
           "competition": "FIFA Series, New Zealand ",
@@ -226898,22 +226861,13 @@
       "dataScope": "international",
       "searchText": "nuno da costa cape verde forward h",
       "importMeta": {
-        "appearances": 2,
+        "appearances": 3,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Başakşehir FK",
-        "marketValueEur": 380000,
-        "marketValueDisplay": "€380K",
-        "dateOfBirth": "1991-02-10",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 209374
     },
@@ -233613,23 +233567,23 @@
       "number": "9",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.33,
+      "minutesFactor": 0.44,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 0.05,
+        "shotsShare": 0.6,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 3
+        "foulWeight": 2.8
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 56,
+        "passes90": 31,
         "cards90": 0,
-        "fouls90": 3,
-        "minutesAvg": 30
+        "fouls90": 2.8,
+        "minutesAvg": 40
       },
       "hitRates": {
         "goals05": {
@@ -233668,12 +233622,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -233727,22 +233696,13 @@
       "dataScope": "international",
       "searchText": "pablo gavi spain midfielder h",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "UEFA Nations League, Finals"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "FC Barcelona",
-        "marketValueEur": 31000000,
-        "marketValueDisplay": "€31M",
-        "dateOfBirth": "2004-08-05",
-        "age": 21,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 1103693
     },
@@ -236323,23 +236283,23 @@
       "number": "15",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.73,
+      "minutesFactor": 0.77,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.2,
-        "sotShare": 0.2,
+        "shotsShare": 0.3,
+        "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 0.9
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.3,
-        "shots90": 0.2,
-        "sot90": 0.2,
-        "passes90": 101,
+        "assists90": 0.26,
+        "shots90": 0.3,
+        "sot90": 0.1,
+        "passes90": 87,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 66
+        "fouls90": 0.9,
+        "minutesAvg": 69
       },
       "hitRates": {
         "goals05": {
@@ -236354,8 +236314,8 @@
         },
         "assists05": {
           "l5": 40,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "shots15": {
           "l5": 0,
@@ -236369,8 +236329,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -236384,6 +236344,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -236533,24 +236508,15 @@
       "dataScope": "international",
       "searchText": "pau cubarsí spain defender h",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 4"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "FC Barcelona",
-        "marketValueEur": 75000000,
-        "marketValueDisplay": "€75M",
-        "dateOfBirth": "2007-01-22",
-        "age": 19,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 1402913
     },
@@ -237469,44 +237435,44 @@
       "number": "20",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.59,
-      "xgShare": 0.13,
+      "minutesFactor": 0.62,
+      "xgShare": 0.12,
       "propProfile": {
         "shotsShare": 2,
         "sotShare": 1,
-        "cardWeight": 0.02,
-        "foulWeight": 0.2
+        "cardWeight": 0.1,
+        "foulWeight": 0.3
       },
       "seasonRates": {
-        "goals90": 0.45,
-        "assists90": 0.11,
+        "goals90": 0.4,
+        "assists90": 0.1,
         "shots90": 2,
         "sot90": 1,
-        "passes90": 80,
-        "cards90": 0,
-        "fouls90": 0.2,
-        "minutesAvg": 53
+        "passes90": 72,
+        "cards90": 0.1,
+        "fouls90": 0.3,
+        "minutesAvg": 56
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 30,
-          "season": 20
+          "season": 19
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
-          "l5": 40,
+          "l5": 60,
           "l10": 50,
-          "season": 40
+          "season": 44
         },
         "shots25": {
           "l5": 20,
@@ -237514,14 +237480,14 @@
           "season": 13
         },
         "sot05": {
-          "l5": 40,
+          "l5": 60,
           "l10": 60,
-          "season": 40
+          "season": 44
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
           "l5": 0,
@@ -237530,6 +237496,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -237775,24 +237756,15 @@
       "dataScope": "international",
       "searchText": "pedri spain midfielder h",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 4"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "FC Barcelona",
-        "marketValueEur": 164000000,
-        "marketValueDisplay": "€164M",
-        "dateOfBirth": "2002-11-25",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 992587
     },
@@ -238653,16 +238625,6 @@
           "UEFA Nations League, League A, Gr. 4"
         ],
         "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Tottenham Hotspur",
-        "marketValueEur": 37000000,
-        "marketValueDisplay": "€37M",
-        "dateOfBirth": "1999-09-13",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 913654
     },
@@ -240531,16 +240493,16 @@
         "shotsShare": 0.4,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.2
+        "foulWeight": 0.1
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 25,
+        "passes90": 23,
         "cards90": 0,
-        "fouls90": 0.2,
+        "fouls90": 0.1,
         "minutesAvg": 90
       },
       "hitRates": {
@@ -240562,7 +240524,7 @@
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots25": {
           "l5": 0,
@@ -240571,8 +240533,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 10,
-          "season": 8
+          "l10": 0,
+          "season": 7
         },
         "cards05": {
           "l5": 0,
@@ -240586,6 +240548,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -240799,23 +240776,14 @@
       "dataScope": "international",
       "searchText": "pico cape verde defender h",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Shamrock Rovers",
-        "marketValueEur": 260000,
-        "marketValueDisplay": "€260K",
-        "dateOfBirth": "1992-06-17",
-        "age": 33,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 147138
     },
@@ -251036,29 +251004,29 @@
       "number": "16",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.63,
-      "xgShare": 0.09,
+      "minutesFactor": 0.67,
+      "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 1.1,
-        "sotShare": 0.4,
+        "shotsShare": 1.2,
+        "sotShare": 0.3,
         "cardWeight": 0.02,
         "foulWeight": 1.4
       },
       "seasonRates": {
-        "goals90": 0.18,
+        "goals90": 0.15,
         "assists90": 0,
-        "shots90": 1.1,
-        "sot90": 0.4,
-        "passes90": 94,
+        "shots90": 1.2,
+        "sot90": 0.3,
+        "passes90": 80,
         "cards90": 0,
         "fouls90": 1.4,
-        "minutesAvg": 57
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "goals15": {
           "l5": 0,
@@ -251071,19 +251039,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l5": 40,
+          "l10": 30,
+          "season": 30
         },
         "shots25": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "sot05": {
-          "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l5": 0,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -251091,12 +251059,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l5": 20,
+          "l10": 30,
+          "season": 30
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 87,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -251246,24 +251229,15 @@
       "dataScope": "international",
       "searchText": "rodri spain midfielder h",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Manchester City",
-        "marketValueEur": 59000000,
-        "marketValueDisplay": "€59M",
-        "dateOfBirth": "1996-06-22",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 827606
     },
@@ -256607,8 +256581,8 @@
       "number": "20",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.71,
-      "xgShare": 0.11,
+      "minutesFactor": 0.73,
+      "xgShare": 0.1,
       "propProfile": {
         "shotsShare": 0.8,
         "sotShare": 0.5,
@@ -256616,45 +256590,45 @@
         "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.32,
-        "assists90": 0.11,
+        "goals90": 0.29,
+        "assists90": 0.1,
         "shots90": 0.8,
         "sot90": 0.5,
-        "passes90": 14,
+        "passes90": 13,
         "cards90": 0,
         "fouls90": 0.5,
-        "minutesAvg": 64
+        "minutesAvg": 66
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 20,
-          "season": 15
+          "l10": 10,
+          "season": 14
         },
         "goals15": {
           "l5": 0,
-          "l10": 10,
-          "season": 8
+          "l10": 0,
+          "season": 7
         },
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots15": {
           "l5": 0,
-          "l10": 20,
-          "season": 15
+          "l10": 10,
+          "season": 14
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "sot05": {
           "l5": 20,
-          "l10": 40,
-          "season": 31
+          "l10": 30,
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -256668,6 +256642,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -256881,23 +256870,14 @@
       "dataScope": "international",
       "searchText": "ryan mendes cape verde midfielder h",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Iğdır FK",
-        "marketValueEur": 220000,
-        "marketValueDisplay": "€220K",
-        "dateOfBirth": "1990-01-08",
-        "age": 36,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 52797
     },
@@ -267418,29 +267398,29 @@
       "number": "13",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.67,
-      "xgShare": 0.17,
+      "minutesFactor": 0.71,
+      "xgShare": 0.13,
       "propProfile": {
-        "shotsShare": 0.5,
-        "sotShare": 0.5,
-        "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "shotsShare": 0.4,
+        "sotShare": 0.4,
+        "cardWeight": 0.35,
+        "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 1.01,
-        "assists90": 1.01,
-        "shots90": 0.5,
-        "sot90": 0.5,
-        "passes90": 12,
-        "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 60
+        "goals90": 0.71,
+        "assists90": 0.71,
+        "shots90": 0.4,
+        "sot90": 0.4,
+        "passes90": 8,
+        "cards90": 0.35,
+        "fouls90": 0.7,
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
-          "l5": 67,
-          "l10": 67,
-          "season": 67
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -267448,9 +267428,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 67,
-          "l10": 67,
-          "season": 67
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "shots15": {
           "l5": 0,
@@ -267463,14 +267443,14 @@
           "season": 0
         },
         "sot05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "fouls15": {
           "l5": 0,
@@ -267479,6 +267459,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -267532,22 +267527,13 @@
       "dataScope": "international",
       "searchText": "sidny lopes cabral cape verde defender h",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Benfica",
-        "marketValueEur": 4099999,
-        "marketValueDisplay": "€4.1M",
-        "dateOfBirth": "2002-09-18",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 1117723
     },
@@ -270724,7 +270710,7 @@
       "minutesFactor": 0.94,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.1,
+        "shotsShare": 0.2,
         "sotShare": 0.03,
         "cardWeight": 0.02,
         "foulWeight": 0.1
@@ -270732,9 +270718,9 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.1,
+        "shots90": 0.2,
         "sot90": 0,
-        "passes90": 15,
+        "passes90": 14,
         "cards90": 0,
         "fouls90": 0.1,
         "minutesAvg": 85
@@ -270782,6 +270768,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -270963,23 +270964,14 @@
       "dataScope": "international",
       "searchText": "steven moreira cape verde defender h",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Columbus Crew",
-        "marketValueEur": 1500000,
-        "marketValueDisplay": "€1.5M",
-        "dateOfBirth": "1994-08-13",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 287833
     },
@@ -271221,16 +271213,6 @@
           "FIFA World Cup, Qualification CAF, Group D"
         ],
         "lastMatch": "2025-10-13"
-      },
-      "profile": {
-        "club": "Torreense",
-        "marketValueEur": 47000,
-        "marketValueDisplay": "€47K",
-        "dateOfBirth": "1988-05-20",
-        "age": 38,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 59609
     },
@@ -273830,7 +273812,7 @@
       "number": "18",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.6,
+      "minutesFactor": 0.54,
       "xgShare": 0.09,
       "propProfile": {
         "shotsShare": 0.4,
@@ -273839,20 +273821,20 @@
         "foulWeight": 0.2
       },
       "seasonRates": {
-        "goals90": 0.21,
+        "goals90": 0.2,
         "assists90": 0,
         "shots90": 0.4,
         "sot90": 0.2,
         "passes90": 17,
         "cards90": 0,
         "fouls90": 0.2,
-        "minutesAvg": 54
+        "minutesAvg": 49
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "goals15": {
           "l5": 0,
@@ -273876,8 +273858,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
           "l5": 0,
@@ -273891,6 +273873,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -274024,23 +274021,14 @@
       "dataScope": "international",
       "searchText": "telmo arcanjo cape verde midfielder h",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Vitória SC",
-        "marketValueEur": 2900000,
-        "marketValueDisplay": "€2.9M",
-        "dateOfBirth": "2001-06-21",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 1035280
     },
@@ -283106,7 +283094,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 25,
+        "passes90": 23,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 87
@@ -283154,6 +283142,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 1
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -283406,24 +283410,15 @@
       "dataScope": "international",
       "searchText": "unai simón spain goalkeeper h",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, Finals",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Athletic Club",
-        "marketValueEur": 24000000,
-        "marketValueDisplay": "€24M",
-        "dateOfBirth": "1997-06-11",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 797291
     },
@@ -284418,16 +284413,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Osasuna",
-        "marketValueEur": 19400000,
-        "marketValueDisplay": "€19.4M",
-        "dateOfBirth": "2003-07-13",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1145642
     },
@@ -286517,6 +286502,22 @@
       },
       "gameLog": [
         {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 7
+        },
+        {
           "date": "2026-03-27",
           "opponent": "Chile",
           "competition": "FIFA Series, New Zealand ",
@@ -286692,22 +286693,13 @@
       "dataScope": "international",
       "searchText": "vozinha cape verde goalkeeper h",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Chaves",
-        "marketValueEur": 48000,
-        "marketValueDisplay": "€48K",
-        "dateOfBirth": "1986-06-03",
-        "age": 40,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 307436
     },
@@ -286720,23 +286712,23 @@
       "number": "2",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.7,
+      "minutesFactor": 0.73,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.2,
+        "shotsShare": 0.3,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.6
+        "foulWeight": 1.4
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.21,
-        "shots90": 0.2,
+        "assists90": 0.17,
+        "shots90": 0.3,
         "sot90": 0,
-        "passes90": 26,
+        "passes90": 22,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 63
+        "fouls90": 1.4,
+        "minutesAvg": 66
       },
       "hitRates": {
         "goals05": {
@@ -286751,8 +286743,8 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots15": {
           "l5": 0,
@@ -286775,12 +286767,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 29,
-          "season": 29
+          "l5": 20,
+          "l10": 25,
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -286898,23 +286905,14 @@
       "dataScope": "international",
       "searchText": "wagner pina cape verde defender h",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Trabzonspor",
-        "marketValueEur": 11400000,
-        "marketValueDisplay": "€11.4M",
-        "dateOfBirth": "2002-11-03",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 1513625
     },
@@ -289282,8 +289280,8 @@
       "number": "17",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.48,
-      "xgShare": 0.13,
+      "minutesFactor": 0.46,
+      "xgShare": 0.12,
       "propProfile": {
         "shotsShare": 0.2,
         "sotShare": 0.03,
@@ -289291,20 +289289,20 @@
         "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 0.47,
+        "goals90": 0.43,
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0,
-        "passes90": 13,
+        "passes90": 12,
         "cards90": 0,
         "fouls90": 0.7,
-        "minutesAvg": 43
+        "minutesAvg": 41
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "goals15": {
           "l5": 0,
@@ -289338,11 +289336,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -289492,23 +289505,14 @@
       "dataScope": "international",
       "searchText": "willy semedo cape verde midfielder h",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Omonia Nicosia",
-        "marketValueEur": 1000000,
-        "marketValueDisplay": "€1M",
-        "dateOfBirth": "1994-04-27",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       },
       "sofascoreId": 889052
     },
@@ -291731,16 +291735,6 @@
         ],
         "lastMatch": "2026-03-27"
       },
-      "profile": {
-        "club": "SC Farense",
-        "marketValueEur": 290000,
-        "marketValueDisplay": "€290K",
-        "dateOfBirth": "1995-12-29",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 818064
     },
     {
@@ -293521,16 +293515,6 @@
           "UEFA Nations League, League A, Gr. 4"
         ],
         "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Crystal Palace",
-        "marketValueEur": 32000000,
-        "marketValueDisplay": "€32M",
-        "dateOfBirth": "2002-10-20",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 984624
     },
