@@ -1,6 +1,6 @@
 {
   "_note": "Auto-maintained by scripts/sync-live-results.mjs — maps fixture ids to ESPN event ids.",
-  "updatedAt": "2026-06-15T02:08:11.250Z",
+  "updatedAt": "2026-06-15T13:33:38.723Z",
   "mappings": {
     "GS-A-1": {
       "espnEventId": "760415",
@@ -67,6 +67,30 @@
       "homeTeam": "Sweden",
       "awayTeam": "Tunisia",
       "lastSeen": "2026-06-15T02:08:11.250Z"
+    },
+    "GS-G-1": {
+      "espnEventId": "760426",
+      "homeTeam": "Belgium",
+      "awayTeam": "Egypt",
+      "lastSeen": "2026-06-15T13:33:38.723Z"
+    },
+    "GS-G-2": {
+      "espnEventId": "760427",
+      "homeTeam": "Iran",
+      "awayTeam": "New Zealand",
+      "lastSeen": "2026-06-15T13:33:38.723Z"
+    },
+    "GS-H-1": {
+      "espnEventId": "760428",
+      "homeTeam": "Spain",
+      "awayTeam": "Cape Verde",
+      "lastSeen": "2026-06-15T13:33:38.723Z"
+    },
+    "GS-H-2": {
+      "espnEventId": "760429",
+      "homeTeam": "Saudi Arabia",
+      "awayTeam": "Uruguay",
+      "lastSeen": "2026-06-15T13:33:38.723Z"
     }
   }
 }
