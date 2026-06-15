@@ -3,9 +3,18 @@
   "team": "Egypt",
   "group": "G",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-11T08:43:12.448Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-15T21:19:29.982Z",
+  "eventsProcessed": 16,
   "teamMatchResults": [
+    {
+      "date": "2026-06-15",
+      "opponent": "Belgium",
+      "competition": "FIFA World Cup, Group G",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
     {
       "date": "2026-06-06",
       "opponent": "Brazil",
@@ -161,16 +170,6 @@
         "appearances": 0,
         "competitions": [],
         "lastMatch": null
-      },
-      "profile": {
-        "club": "Zamalek SC",
-        "marketValueEur": 155000,
-        "marketValueDisplay": "€155K",
-        "dateOfBirth": "1987-06-08",
-        "age": 39,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -191,16 +190,6 @@
         "appearances": 0,
         "competitions": [],
         "lastMatch": null
-      },
-      "profile": {
-        "club": "El Gouna FC",
-        "marketValueEur": 825000,
-        "marketValueDisplay": "€825K",
-        "dateOfBirth": "1999-09-01",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -467,16 +456,6 @@
           "FIFA World Cup, Qualification CAF, Group A"
         ],
         "lastMatch": "2026-05-28"
-      },
-      "profile": {
-        "club": "Al Ahly FC",
-        "marketValueEur": 470000,
-        "marketValueDisplay": "€470K",
-        "dateOfBirth": "1988-12-18",
-        "age": 37,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -491,6 +470,37 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 3
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -609,12 +619,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
-        "sot90": 0,
-        "passes90": 31,
+        "shots90": 0.3,
+        "sot90": 0.2,
+        "passes90": 22,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 67
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
@@ -633,9 +643,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 13,
+          "season": 13
         },
         "shots25": {
           "l5": 0,
@@ -643,9 +653,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 13,
+          "season": 13
         },
         "cards05": {
           "l5": 0,
@@ -659,23 +669,14 @@
         }
       },
       "importMeta": {
-        "appearances": 6,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al Ahly FC",
-        "marketValueEur": 1300000,
-        "marketValueDisplay": "€1.3M",
-        "dateOfBirth": "2000-03-17",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -690,6 +691,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 88,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -821,13 +837,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.17,
+        "assists90": 0.15,
         "shots90": 0.2,
         "sot90": 0.2,
-        "passes90": 45,
-        "cards90": 0,
-        "fouls90": 0.2,
-        "minutesAvg": 65
+        "passes90": 39,
+        "cards90": 0.15,
+        "fouls90": 0.4,
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
@@ -842,8 +858,8 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots15": {
           "l5": 0,
@@ -857,38 +873,29 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 11,
+          "season": 11
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 11,
+          "season": 11
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Zamalek SC",
-        "marketValueEur": 1000000,
-        "marketValueDisplay": "€1M",
-        "dateOfBirth": "1998-03-22",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -1109,16 +1116,6 @@
           "FIFA World Cup, Qualification CAF, Group A"
         ],
         "lastMatch": "2026-05-28"
-      },
-      "profile": {
-        "club": "Zamalek SC",
-        "marketValueEur": 1900000,
-        "marketValueDisplay": "€1.9M",
-        "dateOfBirth": "2001-04-30",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -1133,6 +1130,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 2,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -1171,10 +1183,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 49,
+        "passes90": 48,
         "cards90": 0,
         "fouls90": 1.7,
-        "minutesAvg": 53
+        "minutesAvg": 36
       },
       "hitRates": {
         "goals05": {
@@ -1219,21 +1231,12 @@
         }
       },
       "importMeta": {
-        "appearances": 2,
+        "appearances": 3,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Pyramids FC",
-        "marketValueEur": 635000,
-        "marketValueDisplay": "€635K",
-        "dateOfBirth": "1996-03-12",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -1372,16 +1375,6 @@
           "FIFA World Cup, Qualification CAF, Group A"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Nice",
-        "marketValueEur": 2700000,
-        "marketValueDisplay": "€2.7M",
-        "dateOfBirth": "1999-02-01",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -1396,6 +1389,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -1623,10 +1631,10 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.15,
-        "shots90": 0.1,
+        "assists90": 0.14,
+        "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 29,
+        "passes90": 27,
         "cards90": 0,
         "fouls90": 0.4,
         "minutesAvg": 85
@@ -1645,12 +1653,12 @@
         "assists05": {
           "l5": 40,
           "l10": 20,
-          "season": 14
+          "season": 13
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "shots25": {
           "l5": 0,
@@ -1670,28 +1678,19 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 14
+          "season": 13
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al Ahly FC",
-        "marketValueEur": 1400000,
-        "marketValueDisplay": "€1.4M",
-        "dateOfBirth": "1996-01-25",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -1706,6 +1705,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-05-28",
           "opponent": "Russia",
@@ -1891,13 +1905,13 @@
         "passes90": 21,
         "cards90": 0,
         "fouls90": 0.2,
-        "minutesAvg": 80
+        "minutesAvg": 75
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "goals15": {
           "l5": 0,
@@ -1922,7 +1936,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "cards05": {
           "l5": 0,
@@ -1932,28 +1946,19 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-05-28"
-      },
-      "profile": {
-        "club": "Al-Ain",
-        "marketValueEur": 580000,
-        "marketValueDisplay": "€580K",
-        "dateOfBirth": "1993-05-20",
-        "age": 33,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -2075,16 +2080,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "ZED FC",
-        "marketValueEur": 155000,
-        "marketValueDisplay": "€155K",
-        "dateOfBirth": "2002-01-05",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2099,6 +2094,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -2265,10 +2275,10 @@
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0.2,
-        "passes90": 32,
+        "passes90": 29,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 82
+        "fouls90": 0.5,
+        "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
@@ -2289,7 +2299,7 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots25": {
           "l5": 0,
@@ -2299,7 +2309,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "cards05": {
           "l5": 0,
@@ -2309,28 +2319,19 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al Ahly FC",
-        "marketValueEur": 270000,
-        "marketValueDisplay": "€270K",
-        "dateOfBirth": "1993-02-10",
-        "age": 33,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -2345,6 +2346,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 71,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -2475,20 +2491,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0,
-        "assists90": 0.71,
-        "shots90": 1.7,
-        "sot90": 0.2,
-        "passes90": 33,
+        "goals90": 0.2,
+        "assists90": 0.6,
+        "shots90": 1.8,
+        "sot90": 0.4,
+        "passes90": 28,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 47
+        "fouls90": 0.8,
+        "minutesAvg": 50
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 11,
+          "season": 11
         },
         "goals15": {
           "l5": 0,
@@ -2497,13 +2513,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "shots15": {
-          "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l5": 20,
+          "l10": 22,
+          "season": 22
         },
         "shots25": {
           "l5": 0,
@@ -2511,9 +2527,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l5": 20,
+          "l10": 22,
+          "season": 22
         },
         "cards05": {
           "l5": 0,
@@ -2522,28 +2538,19 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al Ahly FC",
-        "marketValueEur": 4200000,
-        "marketValueDisplay": "€4.2M",
-        "dateOfBirth": "1998-02-20",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -2681,16 +2688,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Real Oviedo",
-        "marketValueEur": 4099999,
-        "marketValueDisplay": "€4.1M",
-        "dateOfBirth": "2002-02-08",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2705,6 +2702,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 88,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -2887,10 +2899,10 @@
         "assists90": 0,
         "shots90": 0.1,
         "sot90": 0,
-        "passes90": 33,
+        "passes90": 30,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 74
+        "fouls90": 1.2,
+        "minutesAvg": 75
       },
       "hitRates": {
         "goals05": {
@@ -2929,30 +2941,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 40,
-          "season": 36
+          "l5": 60,
+          "l10": 50,
+          "season": 42
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al-Wakrah",
-        "marketValueEur": 1900000,
-        "marketValueDisplay": "€1.9M",
-        "dateOfBirth": "1994-09-29",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -2967,6 +2970,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 2,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -3104,13 +3122,13 @@
         "passes90": 21,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 53
+        "minutesAvg": 47
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "goals15": {
           "l5": 0,
@@ -3123,19 +3141,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 22,
+          "season": 22
         },
         "shots25": {
-          "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l5": 0,
+          "l10": 11,
+          "season": 11
         },
         "sot05": {
-          "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 22,
+          "season": 22
         },
         "cards05": {
           "l5": 0,
@@ -3144,28 +3162,19 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "FC Nordsjælland",
-        "marketValueEur": 2600000,
-        "marketValueDisplay": "€2.6M",
-        "dateOfBirth": "2001-04-23",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -3385,16 +3394,6 @@
           "FIFA World Cup, Qualification CAF, Group A"
         ],
         "lastMatch": "2026-05-28"
-      },
-      "profile": {
-        "club": "ZED FC",
-        "marketValueEur": 1500000,
-        "marketValueDisplay": "€1.5M",
-        "dateOfBirth": "2001-07-30",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3679,16 +3678,6 @@
           "FIFA World Cup, Qualification CAF, Group A"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al Ahly FC",
-        "marketValueEur": 4099999,
-        "marketValueDisplay": "€4.1M",
-        "dateOfBirth": "1994-10-01",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3703,6 +3692,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 3
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -3898,12 +3902,12 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.09,
+        "assists90": 0.08,
         "shots90": 0.6,
         "sot90": 0,
-        "passes90": 47,
-        "cards90": 0,
-        "fouls90": 0.5,
+        "passes90": 43,
+        "cards90": 0.08,
+        "fouls90": 0.7,
         "minutesAvg": 86
       },
       "hitRates": {
@@ -3919,13 +3923,13 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 8
         },
         "shots15": {
           "l5": 0,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "shots25": {
           "l5": 0,
@@ -3938,35 +3942,26 @@
           "season": 0
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 17
+          "l5": 40,
+          "l10": 30,
+          "season": 23
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al Ahly FC",
-        "marketValueEur": 3900000,
-        "marketValueDisplay": "€3.9M",
-        "dateOfBirth": "1998-08-12",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -3981,6 +3976,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -4143,45 +4153,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.63,
-        "assists90": 0.11,
-        "shots90": 0.7,
-        "sot90": 0.3,
-        "passes90": 19,
+        "goals90": 0.58,
+        "assists90": 0.19,
+        "shots90": 0.8,
+        "sot90": 0.4,
+        "passes90": 17,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 85
+        "fouls90": 0.8,
+        "minutesAvg": 84
       },
       "hitRates": {
         "goals05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 50
+          "season": 45
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "assists05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 10
+          "l5": 40,
+          "l10": 20,
+          "season": 18
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots25": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "sot05": {
           "l5": 60,
-          "l10": 30,
-          "season": 30
+          "l10": 40,
+          "season": 36
         },
         "cards05": {
           "l5": 0,
@@ -4189,30 +4199,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 60,
-          "l10": 30,
-          "season": 30
+          "l5": 80,
+          "l10": 40,
+          "season": 36
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Liverpool FC",
-        "marketValueEur": 21000000,
-        "marketValueDisplay": "€21M",
-        "dateOfBirth": "1992-06-15",
-        "age": 33,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -4227,6 +4228,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -4393,10 +4409,10 @@
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0.2,
-        "passes90": 34,
+        "passes90": 29,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 52
+        "fouls90": 0.9,
+        "minutesAvg": 55
       },
       "hitRates": {
         "goals05": {
@@ -4427,7 +4443,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "cards05": {
           "l5": 0,
@@ -4435,29 +4451,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 10
+          "l5": 40,
+          "l10": 20,
+          "season": 18
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Pyramids FC",
-        "marketValueEur": 3200000,
-        "marketValueDisplay": "€3.2M",
-        "dateOfBirth": "1996-05-29",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -4563,16 +4570,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Pyramids FC",
-        "marketValueEur": 2000000,
-        "marketValueDisplay": "€2M",
-        "dateOfBirth": "1997-04-27",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -4679,16 +4676,6 @@
           "FIFA World Cup, Qualification CAF, Group A"
         ],
         "lastMatch": "2026-05-28"
-      },
-      "profile": {
-        "club": "Al-Najma SC",
-        "marketValueEur": 1300000,
-        "marketValueDisplay": "€1.3M",
-        "dateOfBirth": "1996-04-06",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -4703,6 +4690,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -4929,20 +4931,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.26,
-        "assists90": 0.26,
-        "shots90": 1.2,
+        "goals90": 0.25,
+        "assists90": 0.25,
+        "shots90": 1.3,
         "sot90": 0.5,
         "passes90": 22,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 50
+        "fouls90": 0.6,
+        "minutesAvg": 48
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 14
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -4952,12 +4954,12 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 14
+          "season": 13
         },
         "shots15": {
           "l5": 20,
           "l10": 30,
-          "season": 21
+          "season": 20
         },
         "shots25": {
           "l5": 0,
@@ -4967,7 +4969,7 @@
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 14
+          "season": 13
         },
         "cards05": {
           "l5": 0,
@@ -4981,24 +4983,15 @@
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Al Ahly FC",
-        "marketValueEur": 3700000,
-        "marketValueDisplay": "€3.7M",
-        "dateOfBirth": "1996-01-10",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -5013,6 +5006,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -5051,10 +5059,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 4,
+        "passes90": 3,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 11
+        "minutesAvg": 12
       },
       "hitRates": {
         "goals05": {
@@ -5099,21 +5107,12 @@
         }
       },
       "importMeta": {
-        "appearances": 2,
+        "appearances": 3,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Barcelona U19",
-        "marketValueEur": 1500000,
-        "marketValueDisplay": "€1.5M",
-        "dateOfBirth": "2008-01-01",
-        "age": 18,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     },
     {
@@ -5128,6 +5127,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -5306,20 +5320,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.46,
+        "goals90": 0.42,
         "assists90": 0,
-        "shots90": 1.9,
-        "sot90": 0.8,
-        "passes90": 17,
+        "shots90": 2.2,
+        "sot90": 0.7,
+        "passes90": 15,
         "cards90": 0,
-        "fouls90": 1.3,
-        "minutesAvg": 71
+        "fouls90": 1.4,
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 40,
-          "season": 36
+          "l10": 30,
+          "season": 33
         },
         "goals15": {
           "l5": 0,
@@ -5332,19 +5346,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 18
+          "l5": 40,
+          "l10": 30,
+          "season": 25
         },
         "shots25": {
-          "l5": 20,
-          "l10": 20,
-          "season": 18
+          "l5": 40,
+          "l10": 30,
+          "season": 25
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 36
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -5353,29 +5367,20 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 30,
-          "season": 27
+          "l10": 40,
+          "season": 33
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Manchester City",
-        "marketValueEur": 65000000,
-        "marketValueDisplay": "€65M",
-        "dateOfBirth": "1999-02-07",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-15"
       }
     }
   ],

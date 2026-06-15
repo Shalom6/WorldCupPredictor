@@ -646,6 +646,110 @@
       },
       "syncedAt": "2026-06-14T22:46:22.573Z",
       "source": "espn"
+    },
+    "GS-G-1": {
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 1,
+      "scorers": {
+        "home": [],
+        "away": [
+          {
+            "name": "Emam Ashour",
+            "minute": "19'",
+            "assist": "Mohamed Salah"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 53.5,
+          "away": 46.5
+        },
+        "shots": {
+          "home": 15,
+          "away": 14
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 3
+        },
+        "corners": {
+          "home": 2,
+          "away": 7
+        },
+        "fouls": {
+          "home": 15,
+          "away": 15
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 2,
+          "away": 3
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 80
+        }
+      },
+      "syncedAt": "2026-06-15T21:19:29.596Z",
+      "source": "espn"
+    },
+    "GS-H-1": {
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 0,
+      "scorers": {
+        "home": [],
+        "away": []
+      },
+      "teamStats": {
+        "possession": {
+          "home": 74.3,
+          "away": 25.7
+        },
+        "shots": {
+          "home": 27,
+          "away": 6
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 1
+        },
+        "corners": {
+          "home": 11,
+          "away": 1
+        },
+        "fouls": {
+          "home": 10,
+          "away": 1
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 1,
+          "away": 7
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 70
+        }
+      },
+      "syncedAt": "2026-06-15T21:19:29.705Z",
+      "source": "espn"
     }
   }
 }
