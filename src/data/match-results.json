@@ -809,6 +809,76 @@
       },
       "syncedAt": "2026-06-16T01:46:18.728Z",
       "source": "espn"
+    },
+    "GS-G-2": {
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 2,
+      "scorers": {
+        "home": [
+          {
+            "name": "Ramin Rezaeian",
+            "minute": "32'"
+          },
+          {
+            "name": "Mohammad Mohebbi",
+            "minute": "64'",
+            "assist": "Ramin Rezaeian"
+          }
+        ],
+        "away": [
+          {
+            "name": "Elijah Just",
+            "minute": "7'",
+            "assist": "Chris Wood"
+          },
+          {
+            "name": "Elijah Just",
+            "minute": "54'",
+            "assist": "Chris Wood"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 48.3,
+          "away": 51.7
+        },
+        "shots": {
+          "home": 17,
+          "away": 14
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 8
+        },
+        "corners": {
+          "home": 4,
+          "away": 1
+        },
+        "fouls": {
+          "home": 10,
+          "away": 8
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 6,
+          "away": 2
+        },
+        "passAccuracy": {
+          "home": 80,
+          "away": 80
+        }
+      },
+      "syncedAt": "2026-06-16T07:07:45.026Z",
+      "source": "espn"
     }
   }
 }

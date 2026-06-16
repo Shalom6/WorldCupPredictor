@@ -3,9 +3,18 @@
   "team": "Iran",
   "group": "G",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-11T08:43:40.444Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-16T07:07:45.592Z",
+  "eventsProcessed": 16,
   "teamMatchResults": [
+    {
+      "date": "2026-06-16",
+      "opponent": "New Zealand",
+      "competition": "FIFA World Cup, Group G",
+      "result": "D",
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "venue": "home"
+    },
     {
       "date": "2026-06-04",
       "opponent": "Mali",
@@ -144,6 +153,26 @@
   ],
   "players": [
     {
+      "id": "iran-shahriyar-moghanloo",
+      "name": "Shahriyar Moghanloo",
+      "team": "Iran",
+      "group": "G",
+      "position": "Center Right Forward",
+      "number": "20",
+      "likelyStarter": false,
+      "sofascoreId": null,
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "gameLog": [],
+      "seasonRates": null,
+      "hitRates": null,
+      "importMeta": {
+        "appearances": 0,
+        "competitions": [],
+        "lastMatch": null
+      }
+    },
+    {
       "id": "iran-alireza-beiranvand",
       "name": "Alireza Beiranvand",
       "team": "Iran",
@@ -155,6 +184,22 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 6
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -351,7 +396,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 31,
+        "passes90": 28,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -399,12 +444,13 @@
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -531,6 +577,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -679,12 +740,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.3,
-        "sot90": 0.2,
-        "passes90": 57,
+        "shots90": 0.4,
+        "sot90": 0.1,
+        "passes90": 50,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 66
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
@@ -704,8 +765,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -714,8 +775,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -724,17 +785,18 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -768,13 +830,81 @@
       "sofascoreId": 1196902,
       "dataSource": "sofascore",
       "dataScope": "international",
-      "gameLog": [],
-      "seasonRates": null,
-      "hitRates": null,
+      "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 25,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 3.6,
+        "sot90": 0,
+        "passes90": 0,
+        "cards90": 3.6,
+        "fouls90": 3.6,
+        "minutesAvg": 25
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 100,
+          "l10": 100,
+          "season": 100
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
       "importMeta": {
-        "appearances": 0,
-        "competitions": [],
-        "lastMatch": null
+        "appearances": 1,
+        "competitions": [
+          "FIFA World Cup, Group G"
+        ],
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -943,6 +1073,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2025-06-05",
           "opponent": "Qatar",
           "competition": "World Cup Qualification, AFC, Round 3, Group A",
@@ -1089,13 +1234,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.12,
-        "shots90": 1.1,
-        "sot90": 0.5,
-        "passes90": 42,
+        "assists90": 0.11,
+        "shots90": 1,
+        "sot90": 0.4,
+        "passes90": 38,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 83
+        "fouls90": 0.9,
+        "minutesAvg": 84
       },
       "hitRates": {
         "goals05": {
@@ -1110,13 +1255,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
           "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l10": 30,
+          "season": 30
         },
         "shots25": {
           "l5": 0,
@@ -1124,9 +1269,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 60,
-          "l10": 44,
-          "season": 44
+          "l5": 40,
+          "l10": 40,
+          "season": 40
         },
         "cards05": {
           "l5": 0,
@@ -1135,16 +1280,17 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 33,
-          "season": 33
+          "l10": 30,
+          "season": 30
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group G",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-06-05"
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -1482,6 +1628,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2025-10-10",
           "opponent": "Russia",
           "competition": "Int. Friendly Games",
@@ -1631,9 +1792,9 @@
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 73,
+        "passes90": 65,
         "cards90": 0,
-        "fouls90": 0.6,
+        "fouls90": 0.7,
         "minutesAvg": 86
       },
       "hitRates": {
@@ -1664,8 +1825,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -1673,18 +1834,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 40,
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -1789,6 +1951,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2025-06-10",
           "opponent": "North Korea",
           "competition": "World Cup Qualification, AFC, Round 3, Group A",
@@ -1856,12 +2033,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.8,
-        "sot90": 0,
-        "passes90": 53,
+        "shots90": 1,
+        "sot90": 0.4,
+        "passes90": 43,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 54
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
@@ -1890,9 +2067,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -1906,11 +2083,12 @@
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group G",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-06-10"
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -1925,6 +2103,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2025-03-25",
           "opponent": "Uzbekistan",
@@ -2055,20 +2248,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.38,
+        "goals90": 0.35,
         "assists90": 0,
         "shots90": 2.1,
-        "sot90": 0.8,
-        "passes90": 20,
+        "sot90": 0.7,
+        "passes90": 18,
         "cards90": 0,
-        "fouls90": 0.4,
-        "minutesAvg": 60
+        "fouls90": 0.7,
+        "minutesAvg": 58
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "goals15": {
           "l5": 0,
@@ -2082,18 +2275,18 @@
         },
         "shots15": {
           "l5": 40,
-          "l10": 38,
-          "season": 38
+          "l10": 33,
+          "season": 33
         },
         "shots25": {
           "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "sot05": {
           "l5": 40,
-          "l10": 38,
-          "season": 38
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -2101,17 +2294,18 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 11,
+          "season": 11
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group G",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-03-25"
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -2126,6 +2320,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -2208,20 +2417,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0,
+        "goals90": 0.5,
         "assists90": 0,
-        "shots90": 1,
+        "shots90": 1.5,
         "sot90": 1,
-        "passes90": 34,
+        "passes90": 17,
         "cards90": 0,
-        "fouls90": 4,
-        "minutesAvg": 18
+        "fouls90": 2,
+        "minutesAvg": 30
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -2234,9 +2443,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         },
         "shots25": {
           "l5": 0,
@@ -2244,9 +2453,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l5": 40,
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -2255,17 +2464,18 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         }
       },
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -2275,11 +2485,26 @@
       "group": "G",
       "position": "Midfielder",
       "number": "23",
-      "likelyStarter": false,
+      "likelyStarter": true,
       "sofascoreId": 786133,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -2298,20 +2523,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0,
-        "assists90": 0,
-        "shots90": 0,
-        "sot90": 0,
-        "passes90": 37,
+        "goals90": 0.56,
+        "assists90": 0.56,
+        "shots90": 0.6,
+        "sot90": 0.6,
+        "passes90": 16,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 70
+        "minutesAvg": 80
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -2319,9 +2544,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "shots15": {
           "l5": 0,
@@ -2334,9 +2559,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -2350,11 +2575,12 @@
         }
       },
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -2369,6 +2595,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -2533,12 +2774,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.5,
+        "shots90": 1.6,
         "sot90": 0.6,
-        "passes90": 54,
+        "passes90": 49,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 77
+        "fouls90": 1.5,
+        "minutesAvg": 78
       },
       "hitRates": {
         "goals05": {
@@ -2558,18 +2799,18 @@
         },
         "shots15": {
           "l5": 60,
-          "l10": 40,
-          "season": 40
+          "l10": 50,
+          "season": 45
         },
         "shots25": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "sot05": {
           "l5": 60,
-          "l10": 40,
-          "season": 40
+          "l10": 50,
+          "season": 45
         },
         "cards05": {
           "l5": 0,
@@ -2578,17 +2819,18 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 30,
-          "season": 30
+          "l10": 40,
+          "season": 36
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -2603,6 +2845,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 65,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -2734,13 +2991,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.31,
-        "shots90": 0.8,
+        "assists90": 0.28,
+        "shots90": 1,
         "sot90": 0,
-        "passes90": 45,
+        "passes90": 41,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 72
+        "fouls90": 1,
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
@@ -2754,14 +3011,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 22,
+          "season": 22
         },
         "shots15": {
-          "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l5": 40,
+          "l10": 22,
+          "season": 22
         },
         "shots25": {
           "l5": 0,
@@ -2779,18 +3036,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 22,
+          "season": 22
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -2805,6 +3063,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 37,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-09-01",
           "opponent": "India",
@@ -2857,18 +3130,18 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
+        "shots90": 1.1,
         "sot90": 0,
-        "passes90": 14,
+        "passes90": 8,
         "cards90": 0,
-        "fouls90": 7.8,
-        "minutesAvg": 23
+        "fouls90": 5.4,
+        "minutesAvg": 28
       },
       "hitRates": {
         "goals05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -2901,18 +3174,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group G",
           "CAFA Nations Cup, Group B",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-09-01"
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -3130,6 +3404,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2025-10-10",
           "opponent": "Russia",
           "competition": "Int. Friendly Games",
@@ -3243,20 +3532,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 1.1,
+        "goals90": 1.04,
         "assists90": 0,
-        "shots90": 3.3,
-        "sot90": 1.7,
-        "passes90": 26,
+        "shots90": 3.1,
+        "sot90": 1.6,
+        "passes90": 24,
         "cards90": 0,
-        "fouls90": 2.8,
-        "minutesAvg": 33
+        "fouls90": 2.6,
+        "minutesAvg": 29
       },
       "hitRates": {
         "goals05": {
           "l5": 80,
-          "l10": 57,
-          "season": 57
+          "l10": 50,
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -3270,18 +3559,18 @@
         },
         "shots15": {
           "l5": 40,
-          "l10": 29,
-          "season": 29
+          "l10": 25,
+          "season": 25
         },
         "shots25": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "sot05": {
           "l5": 40,
-          "l10": 43,
-          "season": 43
+          "l10": 38,
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -3289,19 +3578,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l5": 0,
+          "l10": 13,
+          "season": 13
         }
       },
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "CAFA Nations Cup, Group B",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -3425,6 +3715,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -3603,45 +3908,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.51,
-        "assists90": 0.4,
+        "goals90": 0.46,
+        "assists90": 0.37,
         "shots90": 3.3,
-        "sot90": 1.6,
-        "passes90": 30,
+        "sot90": 1.5,
+        "passes90": 27,
         "cards90": 0,
         "fouls90": 0.6,
-        "minutesAvg": 89
+        "minutesAvg": 88
       },
       "hitRates": {
         "goals05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 40,
-          "season": 45
+          "season": 42
         },
         "goals15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "shots15": {
           "l5": 40,
           "l10": 60,
-          "season": 64
+          "season": 67
         },
         "shots25": {
-          "l5": 40,
-          "l10": 50,
-          "season": 55
+          "l5": 20,
+          "l10": 40,
+          "season": 50
         },
         "sot05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 70,
-          "season": 73
+          "season": 67
         },
         "cards05": {
           "l5": 0,
@@ -3651,17 +3956,18 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "CAFA Nations Cup, Group B",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       }
     },
     {
@@ -4056,6 +4362,10 @@
     {
       "name": "Sardar Azmoun",
       "appearances": 8
+    },
+    {
+      "name": "Shahriyar Moghanloo",
+      "appearances": 1
     }
   ]
 }

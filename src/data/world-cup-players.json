@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-06-08T22:07:35.112Z",
-  "playerCount": 1263,
+  "playerCount": 1264,
   "teamCount": 48,
   "dataSource": "mixed",
   "importNotes": {
@@ -16,22 +16,22 @@
       "Cape Verde": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-16T01:46:22.686Z"
+        "importedAt": "2026-06-16T07:07:49.167Z"
       },
       "Saudi Arabia": {
         "playerCount": 30,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-16T01:46:22.686Z"
+        "importedAt": "2026-06-16T07:07:49.167Z"
       },
       "Spain": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-16T01:46:22.686Z"
+        "importedAt": "2026-06-16T07:07:49.167Z"
       },
       "Uruguay": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-16T01:46:22.686Z"
+        "importedAt": "2026-06-16T07:07:49.167Z"
       }
     }
   },
@@ -12942,16 +12942,6 @@
         ],
         "lastMatch": "2026-06-06"
       },
-      "profile": {
-        "club": "KS Lechia Gdańsk",
-        "marketValueEur": 780000,
-        "marketValueDisplay": "€780K",
-        "dateOfBirth": "2002-07-04",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1000379
     },
     {
@@ -13164,16 +13154,6 @@
           "OFC Men's Nations Cup Play Offs"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Wellington Phoenix",
-        "marketValueEur": 655000,
-        "marketValueDisplay": "€655K",
-        "dateOfBirth": "1996-06-12",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 356256
     },
@@ -17926,29 +17906,29 @@
       "number": "18",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.26,
+      "minutesFactor": 0.31,
       "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 0.05,
+        "shotsShare": 1.1,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 7.8
+        "foulWeight": 5.4
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
+        "shots90": 1.1,
         "sot90": 0,
-        "passes90": 14,
+        "passes90": 8,
         "cards90": 0,
-        "fouls90": 7.8,
-        "minutesAvg": 23
+        "fouls90": 5.4,
+        "minutesAvg": 28
       },
       "hitRates": {
         "goals05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -17981,12 +17961,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 37,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-09-01",
           "opponent": "India",
@@ -18040,12 +18035,13 @@
       "dataScope": "international",
       "searchText": "ali alipour iran forward g",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group G",
           "CAFA Nations Cup, Group B",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-09-01"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 791368
     },
@@ -18857,23 +18853,23 @@
       "number": "13",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.73,
+      "minutesFactor": 0.76,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.3,
-        "sotShare": 0.2,
+        "shotsShare": 0.4,
+        "sotShare": 0.1,
         "cardWeight": 0.02,
         "foulWeight": 1.1
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.3,
-        "sot90": 0.2,
-        "passes90": 57,
+        "shots90": 0.4,
+        "sot90": 0.1,
+        "passes90": 50,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 66
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
@@ -18893,8 +18889,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -18903,8 +18899,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -18913,11 +18909,26 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -19067,12 +19078,13 @@
       "dataScope": "international",
       "searchText": "ali nemati iran defender g",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 932486
     },
@@ -19723,7 +19735,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 31,
+        "passes90": 28,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -19771,6 +19783,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 6
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -19966,12 +19994,13 @@
       "dataScope": "international",
       "searchText": "alireza beiranvand iran goalkeeper g",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 791374
     },
@@ -24118,29 +24147,29 @@
       "number": "18",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.37,
-      "xgShare": 0.16,
+      "minutesFactor": 0.32,
+      "xgShare": 0.15,
       "propProfile": {
-        "shotsShare": 3.3,
-        "sotShare": 1.7,
+        "shotsShare": 3.1,
+        "sotShare": 1.6,
         "cardWeight": 0.02,
-        "foulWeight": 2.8
+        "foulWeight": 2.6
       },
       "seasonRates": {
-        "goals90": 1.1,
+        "goals90": 1.04,
         "assists90": 0,
-        "shots90": 3.3,
-        "sot90": 1.7,
-        "passes90": 26,
+        "shots90": 3.1,
+        "sot90": 1.6,
+        "passes90": 24,
         "cards90": 0,
-        "fouls90": 2.8,
-        "minutesAvg": 33
+        "fouls90": 2.6,
+        "minutesAvg": 29
       },
       "hitRates": {
         "goals05": {
           "l5": 80,
-          "l10": 57,
-          "season": 57
+          "l10": 50,
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -24154,18 +24183,18 @@
         },
         "shots15": {
           "l5": 40,
-          "l10": 29,
-          "season": 29
+          "l10": 25,
+          "season": 25
         },
         "shots25": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "sot05": {
           "l5": 40,
-          "l10": 43,
-          "season": 43
+          "l10": 38,
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -24173,12 +24202,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l5": 0,
+          "l10": 13,
+          "season": 13
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -24296,13 +24340,14 @@
       "dataScope": "international",
       "searchText": "amirhossein hosseinzadeh iran forward g",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "CAFA Nations Cup, Group B",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 905472
     },
@@ -31854,23 +31899,23 @@
       "number": "23",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.6,
+      "minutesFactor": 0.58,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.8,
-        "sotShare": 0.03,
+        "shotsShare": 1,
+        "sotShare": 0.4,
         "cardWeight": 0.02,
         "foulWeight": 0.03
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.8,
-        "sot90": 0,
-        "passes90": 53,
+        "shots90": 1,
+        "sot90": 0.4,
+        "passes90": 43,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 54
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
@@ -31899,9 +31944,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -31915,6 +31960,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-06-10",
           "opponent": "North Korea",
@@ -31984,11 +32044,12 @@
       "dataScope": "international",
       "searchText": "aria yousefi iran midfielder g",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group G",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-06-10"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1170977
     },
@@ -40735,16 +40796,6 @@
         ],
         "lastMatch": "2026-03-30"
       },
-      "profile": {
-        "club": "Port Vale",
-        "marketValueEur": 535000,
-        "marketValueDisplay": "€535K",
-        "dateOfBirth": "2001-11-06",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 944481
     },
     {
@@ -41295,29 +41346,29 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.61,
+      "minutesFactor": 0.59,
       "xgShare": 0.08,
       "propProfile": {
         "shotsShare": 0.6,
-        "sotShare": 0.3,
+        "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 0.13,
+        "goals90": 0.12,
         "assists90": 0,
         "shots90": 0.6,
-        "sot90": 0.3,
+        "sot90": 0.2,
         "passes90": 16,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 55
+        "fouls90": 0.7,
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -41340,9 +41391,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 15
+          "season": 14
         },
         "cards05": {
           "l5": 0,
@@ -41352,10 +41403,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -41569,23 +41635,14 @@
       "dataScope": "international",
       "searchText": "benjamin old new zealand midfielder g",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "FIFA Series, New Zealand ",
           "OFC Men's Nations Cup Play Offs"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Saint-Étienne",
-        "marketValueEur": 1900000,
-        "marketValueDisplay": "€1.9M",
-        "dateOfBirth": "2002-08-13",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1122425
     },
@@ -48291,17 +48348,17 @@
       "number": "21",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.24,
+      "minutesFactor": 0.22,
       "xgShare": 0.01,
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 48,
+        "passes90": 44,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 22
+        "minutesAvg": 20
       },
       "hitRates": {
         "goals05": {
@@ -48346,6 +48403,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -48431,22 +48503,13 @@
       "dataScope": "international",
       "searchText": "callan elliot new zealand defender g",
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "FIFA Series, New Zealand "
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Auckland FC",
-        "marketValueEur": 405000,
-        "marketValueDisplay": "€405K",
-        "dateOfBirth": "1999-07-07",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 959750
     },
@@ -48459,23 +48522,23 @@
       "number": "20",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.54,
+      "minutesFactor": 0.57,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.8,
-        "sotShare": 0.3,
+        "shotsShare": 1.1,
+        "sotShare": 0.4,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 0.9
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.8,
-        "sot90": 0.3,
-        "passes90": 32,
+        "shots90": 1.1,
+        "sot90": 0.4,
+        "passes90": 26,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 49
+        "fouls90": 0.9,
+        "minutesAvg": 51
       },
       "hitRates": {
         "goals05": {
@@ -48494,9 +48557,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 13,
+          "season": 13
         },
         "shots25": {
           "l5": 0,
@@ -48505,8 +48568,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 25,
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -48514,12 +48577,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l5": 0,
+          "l10": 13,
+          "season": 13
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 68,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -48637,22 +48715,13 @@
       "dataScope": "international",
       "searchText": "callum mccowatt new zealand midfielder g",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "FIFA Series, New Zealand "
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Silkeborg IF",
-        "marketValueEur": 2700000,
-        "marketValueDisplay": "€2.7M",
-        "dateOfBirth": "1999-04-30",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 822753
     },
@@ -55354,29 +55423,29 @@
       "number": "9",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.67,
+      "minutesFactor": 0.71,
       "xgShare": 0.15,
       "propProfile": {
-        "shotsShare": 1.5,
-        "sotShare": 1.1,
+        "shotsShare": 1.9,
+        "sotShare": 1.2,
         "cardWeight": 0.02,
         "foulWeight": 0.4
       },
       "seasonRates": {
-        "goals90": 0.21,
-        "assists90": 0,
-        "shots90": 1.5,
-        "sot90": 1.1,
-        "passes90": 16,
+        "goals90": 0.18,
+        "assists90": 0.35,
+        "shots90": 1.9,
+        "sot90": 1.2,
+        "passes90": 13,
         "cards90": 0,
         "fouls90": 0.4,
-        "minutesAvg": 60
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -55384,24 +55453,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 13,
+          "season": 13
         },
         "shots15": {
           "l5": 60,
-          "l10": 43,
-          "season": 43
+          "l10": 50,
+          "season": 50
         },
         "shots25": {
-          "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l5": 40,
+          "l10": 25,
+          "season": 25
         },
         "sot05": {
           "l5": 60,
-          "l10": 43,
-          "season": 43
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -55415,6 +55484,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 2,
+          "shots": 4,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -55532,21 +55616,12 @@
       "dataScope": "international",
       "searchText": "chris wood new zealand forward g",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Nottingham Forest",
-        "marketValueEur": 6300000,
-        "marketValueDisplay": "€6.3M",
-        "dateOfBirth": "1991-12-07",
-        "age": 34,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 50480
     },
@@ -77831,18 +77906,24 @@
       "position": "Defender",
       "number": null,
       "likelyStarter": false,
-      "benchImpact": false,
-      "minutesFactor": 0.35,
+      "benchImpact": true,
+      "minutesFactor": 0.28,
       "xgShare": 0.01,
+      "propProfile": {
+        "shotsShare": 3.6,
+        "sotShare": 0.03,
+        "cardWeight": 3.6,
+        "foulWeight": 3.6
+      },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
+        "shots90": 3.6,
         "sot90": 0,
         "passes90": 0,
-        "cards90": 0,
-        "fouls90": 0,
-        "minutesAvg": 0
+        "cards90": 3.6,
+        "fouls90": 3.6,
+        "minutesAvg": 25
       },
       "hitRates": {
         "goals05": {
@@ -77876,9 +77957,9 @@
           "season": 0
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 100,
+          "l10": 100,
+          "season": 100
         },
         "fouls15": {
           "l5": 0,
@@ -77886,14 +77967,32 @@
           "season": 0
         }
       },
-      "gameLog": [],
+      "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 25,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        }
+      ],
       "dataSource": "sofascore",
       "dataScope": "international",
       "searchText": "ehsan hajsafi iran defender g",
       "importMeta": {
-        "appearances": 0,
-        "competitions": [],
-        "lastMatch": null
+        "appearances": 1,
+        "competitions": [
+          "FIFA World Cup, Group G"
+        ],
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1196902
     },
@@ -79007,34 +79106,34 @@
       "number": "11",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.8,
-      "xgShare": 0.08,
+      "minutesFactor": 0.82,
+      "xgShare": 0.11,
       "propProfile": {
-        "shotsShare": 1.1,
-        "sotShare": 0.5,
+        "shotsShare": 1.2,
+        "sotShare": 0.6,
         "cardWeight": 0.02,
         "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 0.11,
+        "goals90": 0.31,
         "assists90": 0,
-        "shots90": 1.1,
-        "sot90": 0.5,
-        "passes90": 23,
+        "shots90": 1.2,
+        "sot90": 0.6,
+        "passes90": 20,
         "cards90": 0,
         "fouls90": 0.7,
-        "minutesAvg": 72
+        "minutesAvg": 74
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 9
+          "l5": 40,
+          "l10": 20,
+          "season": 17
         },
         "goals15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "assists05": {
           "l5": 0,
@@ -79043,8 +79142,8 @@
         },
         "shots15": {
           "l5": 40,
-          "l10": 40,
-          "season": 36
+          "l10": 50,
+          "season": 42
         },
         "shots25": {
           "l5": 0,
@@ -79052,9 +79151,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 60,
-          "l10": 40,
-          "season": 36
+          "l5": 80,
+          "l10": 50,
+          "season": 42
         },
         "cards05": {
           "l5": 0,
@@ -79064,10 +79163,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 2,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -79249,23 +79363,14 @@
       "dataScope": "international",
       "searchText": "elijah just new zealand midfielder g",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "FIFA Series, New Zealand ",
           "OFC Men's Nations Cup Play Offs"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Motherwell",
-        "marketValueEur": 2700000,
-        "marketValueDisplay": "€2.7M",
-        "dateOfBirth": "2000-05-01",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 905267
     },
@@ -91216,29 +91321,29 @@
       "number": "5",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.91,
+      "minutesFactor": 0.92,
       "xgShare": 0.05,
       "propProfile": {
-        "shotsShare": 0.1,
+        "shotsShare": 0.2,
         "sotShare": 0.1,
         "cardWeight": 0.02,
         "foulWeight": 0.2
       },
       "seasonRates": {
-        "goals90": 0.18,
+        "goals90": 0.17,
         "assists90": 0,
-        "shots90": 0.1,
+        "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 33,
+        "passes90": 31,
         "cards90": 0,
         "fouls90": 0.2,
-        "minutesAvg": 82
+        "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 17
+          "season": 15
         },
         "goals15": {
           "l5": 0,
@@ -91277,6 +91382,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -91474,23 +91594,14 @@
       "dataScope": "international",
       "searchText": "finn surman new zealand defender g",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "FIFA Series, New Zealand ",
           "OFC Men's Nations Cup Play Offs"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Portland Timbers",
-        "marketValueEur": 1600000,
-        "marketValueDisplay": "€1.6M",
-        "dateOfBirth": "2003-09-23",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1167100
     },
@@ -93651,16 +93762,6 @@
           "FIFA Series, New Zealand "
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Auckland FC",
-        "marketValueEur": 630000,
-        "marketValueDisplay": "€630K",
-        "dateOfBirth": "1994-11-28",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 867714
     },
@@ -131223,8 +131324,8 @@
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "goals15": {
           "l5": 0,
@@ -131238,18 +131339,18 @@
         },
         "shots15": {
           "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "shots25": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "sot05": {
           "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "cards05": {
           "l5": 0,
@@ -131257,12 +131358,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l5": 0,
+          "l10": 11,
+          "season": 11
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -131396,23 +131512,14 @@
       "dataScope": "international",
       "searchText": "jesse randall new zealand midfielder g",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "FIFA Series, New Zealand ",
           "OFC Men's Nations Cup Play Offs"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Auckland FC",
-        "marketValueEur": 930000,
-        "marketValueDisplay": "€930K",
-        "dateOfBirth": "2002-08-19",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1002506
     },
@@ -135956,23 +136063,23 @@
       "number": "6",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.78,
+      "minutesFactor": 0.8,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.2,
+        "shotsShare": 0.1,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.6
+        "foulWeight": 1.5
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.16,
-        "shots90": 0.2,
+        "assists90": 0.14,
+        "shots90": 0.1,
         "sot90": 0,
-        "passes90": 57,
+        "passes90": 49,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 70
+        "fouls90": 1.5,
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
@@ -135987,8 +136094,8 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots15": {
           "l5": 0,
@@ -136011,12 +136118,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 60,
-          "l10": 50,
-          "season": 50
+          "l5": 40,
+          "l10": 44,
+          "season": 44
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -136150,22 +136272,13 @@
       "dataScope": "international",
       "searchText": "joe bell new zealand midfielder g",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "FIFA Series, New Zealand "
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Viking FK",
-        "marketValueEur": 3600000,
-        "marketValueDisplay": "€3.6M",
-        "dateOfBirth": "1999-04-27",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 822749
     },
@@ -164877,16 +164990,6 @@
         ],
         "lastMatch": "2026-06-06"
       },
-      "profile": {
-        "club": "Western Sydney Wanderers",
-        "marketValueEur": 305000,
-        "marketValueDisplay": "€305K",
-        "dateOfBirth": "1990-02-18",
-        "age": 36,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 31857
     },
     {
@@ -166877,16 +166980,6 @@
           "FIFA Series, New Zealand "
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Newcastle Jets",
-        "marketValueEur": 505000,
-        "marketValueDisplay": "€505K",
-        "dateOfBirth": "2002-07-24",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1414979
     },
@@ -172397,23 +172490,23 @@
       "number": "13",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.93,
+      "minutesFactor": 0.91,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.4,
-        "sotShare": 0.2,
+        "shotsShare": 0.6,
+        "sotShare": 0.4,
         "cardWeight": 0.02,
         "foulWeight": 0.2
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.4,
-        "sot90": 0.2,
-        "passes90": 18,
+        "shots90": 0.6,
+        "sot90": 0.4,
+        "passes90": 16,
         "cards90": 0,
         "fouls90": 0.2,
-        "minutesAvg": 84
+        "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
@@ -172433,8 +172526,8 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "shots25": {
           "l5": 0,
@@ -172442,9 +172535,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l5": 40,
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -172458,6 +172551,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 68,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -172543,22 +172651,13 @@
       "dataScope": "international",
       "searchText": "liberato cacace new zealand midfielder g",
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "OFC Men's Nations Cup Play Offs"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Wrexham",
-        "marketValueEur": 2300000,
-        "marketValueDisplay": "€2.3M",
-        "dateOfBirth": "2000-09-27",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 905264
     },
@@ -188066,7 +188165,7 @@
         "assists90": 0,
         "shots90": 0.7,
         "sot90": 0.1,
-        "passes90": 40,
+        "passes90": 36,
         "cards90": 0,
         "fouls90": 2.2,
         "minutesAvg": 87
@@ -188089,8 +188188,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -188099,8 +188198,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -188109,11 +188208,26 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 67,
-          "season": 67
+          "l10": 70,
+          "season": 70
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 92,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -188263,22 +188377,13 @@
       "dataScope": "international",
       "searchText": "marko stamenić new zealand midfielder g",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "FIFA Series, New Zealand "
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Swansea City",
-        "marketValueEur": 3100000,
-        "marketValueDisplay": "€3.1M",
-        "dateOfBirth": "2002-02-19",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1002620
     },
@@ -194882,16 +194987,6 @@
         ],
         "lastMatch": "2026-06-06"
       },
-      "profile": {
-        "club": "Peterborough United",
-        "marketValueEur": 440000,
-        "marketValueDisplay": "€440K",
-        "dateOfBirth": "2002-04-13",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1002607
     },
     {
@@ -195339,7 +195434,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 24,
+        "passes90": 22,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 89
@@ -195387,6 +195482,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -195582,23 +195693,14 @@
       "dataScope": "international",
       "searchText": "max crocombe new zealand goalkeeper g",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "FIFA Series, New Zealand ",
           "OFC Men's Nations Cup Play Offs"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Millwall",
-        "marketValueEur": 1000000,
-        "marketValueDisplay": "€1M",
-        "dateOfBirth": "1993-08-12",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 197904
     },
@@ -197537,29 +197639,29 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.67,
-      "xgShare": 0.12,
+      "minutesFactor": 0.64,
+      "xgShare": 0.11,
       "propProfile": {
         "shotsShare": 2.1,
-        "sotShare": 0.8,
+        "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 0.4
+        "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 0.38,
+        "goals90": 0.35,
         "assists90": 0,
         "shots90": 2.1,
-        "sot90": 0.8,
-        "passes90": 20,
+        "sot90": 0.7,
+        "passes90": 18,
         "cards90": 0,
-        "fouls90": 0.4,
-        "minutesAvg": 60
+        "fouls90": 0.7,
+        "minutesAvg": 58
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "goals15": {
           "l5": 0,
@@ -197573,18 +197675,18 @@
         },
         "shots15": {
           "l5": 40,
-          "l10": 38,
-          "season": 38
+          "l10": 33,
+          "season": 33
         },
         "shots25": {
           "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "sot05": {
           "l5": 40,
-          "l10": 38,
-          "season": 38
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -197592,12 +197694,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 11,
+          "season": 11
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2025-03-25",
           "opponent": "Uzbekistan",
@@ -197731,11 +197848,12 @@
       "dataScope": "international",
       "searchText": "mehdi ghayedi iran midfielder g",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group G",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-03-25"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 881182
     },
@@ -197748,54 +197866,54 @@
       "number": "9",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.99,
-      "xgShare": 0.2,
+      "minutesFactor": 0.98,
+      "xgShare": 0.19,
       "propProfile": {
         "shotsShare": 3.3,
-        "sotShare": 1.6,
+        "sotShare": 1.5,
         "cardWeight": 0.02,
         "foulWeight": 0.6
       },
       "seasonRates": {
-        "goals90": 0.51,
-        "assists90": 0.4,
+        "goals90": 0.46,
+        "assists90": 0.37,
         "shots90": 3.3,
-        "sot90": 1.6,
-        "passes90": 30,
+        "sot90": 1.5,
+        "passes90": 27,
         "cards90": 0,
         "fouls90": 0.6,
-        "minutesAvg": 89
+        "minutesAvg": 88
       },
       "hitRates": {
         "goals05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 40,
-          "season": 45
+          "season": 42
         },
         "goals15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "shots15": {
           "l5": 40,
           "l10": 60,
-          "season": 64
+          "season": 67
         },
         "shots25": {
-          "l5": 40,
-          "l10": 50,
-          "season": 55
+          "l5": 20,
+          "l10": 40,
+          "season": 50
         },
         "sot05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 70,
-          "season": 73
+          "season": 67
         },
         "cards05": {
           "l5": 0,
@@ -197805,10 +197923,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -197990,13 +198123,14 @@
       "dataScope": "international",
       "searchText": "mehdi taremi iran forward g",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "CAFA Nations Cup, Group B",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 812533
     },
@@ -200133,23 +200267,23 @@
       "number": "5",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.88,
+      "minutesFactor": 0.89,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.3,
         "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 0.7
+        "foulWeight": 0.6
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0.3,
-        "passes90": 45,
+        "passes90": 39,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 79
+        "fouls90": 0.6,
+        "minutesAvg": 80
       },
       "hitRates": {
         "goals05": {
@@ -200178,9 +200312,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 40,
-          "l10": 29,
-          "season": 29
+          "l5": 20,
+          "l10": 25,
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -200189,11 +200323,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -200311,21 +200460,12 @@
       "dataScope": "international",
       "searchText": "michael boxall new zealand defender g",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Minnesota United",
-        "marketValueEur": 155000,
-        "marketValueDisplay": "€155K",
-        "dateOfBirth": "1988-08-18",
-        "age": 37,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 38624
     },
@@ -201230,16 +201370,6 @@
         "appearances": 0,
         "competitions": [],
         "lastMatch": null
-      },
-      "profile": {
-        "club": "Auckland FC",
-        "marketValueEur": 380000,
-        "marketValueDisplay": "€380K",
-        "dateOfBirth": "1999-01-16",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 822737
     },
@@ -203612,23 +203742,23 @@
       "number": "5",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.92,
+      "minutesFactor": 0.93,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 1.1,
-        "sotShare": 0.5,
+        "shotsShare": 1,
+        "sotShare": 0.4,
         "cardWeight": 0.02,
-        "foulWeight": 1
+        "foulWeight": 0.9
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.12,
-        "shots90": 1.1,
-        "sot90": 0.5,
-        "passes90": 42,
+        "assists90": 0.11,
+        "shots90": 1,
+        "sot90": 0.4,
+        "passes90": 38,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 83
+        "fouls90": 0.9,
+        "minutesAvg": 84
       },
       "hitRates": {
         "goals05": {
@@ -203643,13 +203773,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
           "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l10": 30,
+          "season": 30
         },
         "shots25": {
           "l5": 0,
@@ -203657,9 +203787,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 60,
-          "l10": 44,
-          "season": 44
+          "l5": 40,
+          "l10": 40,
+          "season": 40
         },
         "cards05": {
           "l5": 0,
@@ -203668,11 +203798,26 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 33,
-          "season": 33
+          "l10": 30,
+          "season": 30
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-06-05",
           "opponent": "Qatar",
@@ -203822,11 +203967,12 @@
       "dataScope": "international",
       "searchText": "milad mohammadi iran defender g",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group G",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-06-05"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 812531
     },
@@ -208301,30 +208447,30 @@
       "position": "Midfielder",
       "number": "3",
       "likelyStarter": false,
-      "benchImpact": false,
-      "minutesFactor": 0.2,
-      "xgShare": 0.03,
+      "benchImpact": true,
+      "minutesFactor": 0.33,
+      "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 1,
+        "shotsShare": 1.5,
         "sotShare": 1,
         "cardWeight": 0.02,
-        "foulWeight": 4
+        "foulWeight": 2
       },
       "seasonRates": {
-        "goals90": 0,
+        "goals90": 0.5,
         "assists90": 0,
-        "shots90": 1,
+        "shots90": 1.5,
         "sot90": 1,
-        "passes90": 34,
+        "passes90": 17,
         "cards90": 0,
-        "fouls90": 4,
-        "minutesAvg": 18
+        "fouls90": 2,
+        "minutesAvg": 30
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -208337,9 +208483,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         },
         "shots25": {
           "l5": 0,
@@ -208347,9 +208493,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l5": 40,
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -208358,11 +208504,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -208448,12 +208609,13 @@
       "dataScope": "international",
       "searchText": "mohammad ghorbani iran midfielder g",
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1171024
     },
@@ -215310,16 +215472,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Auckland FC",
-        "marketValueEur": 410000,
-        "marketValueDisplay": "€410K",
-        "dateOfBirth": "1999-02-25",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 982371
     },
@@ -243184,25 +243336,31 @@
       "group": "G",
       "position": "Midfielder",
       "number": "23",
-      "likelyStarter": false,
-      "benchImpact": true,
-      "minutesFactor": 0.78,
-      "xgShare": 0.03,
+      "likelyStarter": true,
+      "benchImpact": false,
+      "minutesFactor": 0.89,
+      "xgShare": 0.14,
+      "propProfile": {
+        "shotsShare": 0.6,
+        "sotShare": 0.6,
+        "cardWeight": 0.02,
+        "foulWeight": 0.03
+      },
       "seasonRates": {
-        "goals90": 0,
-        "assists90": 0,
-        "shots90": 0,
-        "sot90": 0,
-        "passes90": 37,
+        "goals90": 0.56,
+        "assists90": 0.56,
+        "shots90": 0.6,
+        "sot90": 0.6,
+        "passes90": 16,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 70
+        "minutesAvg": 80
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -243210,9 +243368,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "shots15": {
           "l5": 0,
@@ -243225,9 +243383,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -243241,6 +243399,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -243262,11 +243435,12 @@
       "dataScope": "international",
       "searchText": "ramin rezaeian iran midfielder g",
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 786133
     },
@@ -256990,23 +257164,23 @@
       "number": "23",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.69,
+      "minutesFactor": 0.62,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.2,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 1
+        "foulWeight": 1.4
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0.2,
-        "passes90": 48,
+        "passes90": 45,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 62
+        "fouls90": 1.4,
+        "minutesAvg": 56
       },
       "hitRates": {
         "goals05": {
@@ -257035,9 +257209,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l5": 0,
+          "l10": 14,
+          "season": 14
         },
         "cards05": {
           "l5": 0,
@@ -257046,11 +257220,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 29,
+          "season": 29
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-03-30",
           "opponent": "Chile",
@@ -257152,22 +257341,13 @@
       "dataScope": "international",
       "searchText": "ryan thomas new zealand midfielder g",
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
+          "FIFA World Cup, Group G",
           "FIFA Series, New Zealand ",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-03-30"
-      },
-      "profile": {
-        "club": "PEC Zwolle",
-        "marketValueEur": 670000,
-        "marketValueDisplay": "€670K",
-        "dateOfBirth": "1994-12-20",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 333571
     },
@@ -257829,23 +258009,23 @@
       "number": "6",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.86,
+      "minutesFactor": 0.87,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 1.5,
+        "shotsShare": 1.6,
         "sotShare": 0.6,
         "cardWeight": 0.02,
-        "foulWeight": 1.4
+        "foulWeight": 1.5
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.5,
+        "shots90": 1.6,
         "sot90": 0.6,
-        "passes90": 54,
+        "passes90": 49,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 77
+        "fouls90": 1.5,
+        "minutesAvg": 78
       },
       "hitRates": {
         "goals05": {
@@ -257865,18 +258045,18 @@
         },
         "shots15": {
           "l5": 60,
-          "l10": 40,
-          "season": 40
+          "l10": 50,
+          "season": 45
         },
         "shots25": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "sot05": {
           "l5": 60,
-          "l10": 40,
-          "season": 40
+          "l10": 50,
+          "season": 45
         },
         "cards05": {
           "l5": 0,
@@ -257885,11 +258065,26 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 30,
-          "season": 30
+          "l10": 40,
+          "season": 36
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -258055,12 +258250,13 @@
       "dataScope": "international",
       "searchText": "saeid ezatolahi iran midfielder g",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 359334
     },
@@ -259498,23 +259694,23 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.8,
+      "minutesFactor": 0.79,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.8,
+        "shotsShare": 1,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 1
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.31,
-        "shots90": 0.8,
+        "assists90": 0.28,
+        "shots90": 1,
         "sot90": 0,
-        "passes90": 45,
+        "passes90": 41,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 72
+        "fouls90": 1,
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
@@ -259528,14 +259724,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 22,
+          "season": 22
         },
         "shots15": {
-          "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l5": 40,
+          "l10": 22,
+          "season": 22
         },
         "shots25": {
           "l5": 0,
@@ -259553,12 +259749,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 22,
+          "season": 22
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 65,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -259692,12 +259903,13 @@
       "dataScope": "international",
       "searchText": "saman ghoddos iran midfielder g",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 548050
     },
@@ -262462,23 +262674,23 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.94,
+      "minutesFactor": 0.96,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 1.5,
-        "sotShare": 0.2,
+        "shotsShare": 1.7,
+        "sotShare": 0.4,
         "cardWeight": 0.02,
-        "foulWeight": 1.8
+        "foulWeight": 1.7
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.15,
-        "shots90": 1.5,
-        "sot90": 0.2,
-        "passes90": 25,
+        "assists90": 0.13,
+        "shots90": 1.7,
+        "sot90": 0.4,
+        "passes90": 22,
         "cards90": 0,
-        "fouls90": 1.8,
-        "minutesAvg": 85
+        "fouls90": 1.7,
+        "minutesAvg": 86
       },
       "hitRates": {
         "goals05": {
@@ -262493,23 +262705,23 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots15": {
-          "l5": 40,
-          "l10": 43,
-          "season": 43
+          "l5": 60,
+          "l10": 50,
+          "season": 50
         },
         "shots25": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 13,
+          "season": 13
         },
         "sot05": {
-          "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l5": 40,
+          "l10": 25,
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -262518,11 +262730,26 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 43,
-          "season": 43
+          "l10": 38,
+          "season": 38
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 92,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -262640,21 +262867,12 @@
       "dataScope": "international",
       "searchText": "sarpreet singh new zealand midfielder g",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Wellington Phoenix",
-        "marketValueEur": 485000,
-        "marketValueDisplay": "€485K",
-        "dateOfBirth": "1999-02-20",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 822743
     },
@@ -266024,6 +266242,79 @@
       "sofascoreId": 993899
     },
     {
+      "id": "iran-shahriyar-moghanloo",
+      "name": "Shahriyar Moghanloo",
+      "team": "Iran",
+      "group": "G",
+      "position": "Center Right Forward",
+      "number": "20",
+      "likelyStarter": false,
+      "benchImpact": false,
+      "minutesFactor": 0.35,
+      "xgShare": 0.01,
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 0,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 0
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "gameLog": [],
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "searchText": "shahriyar moghanloo iran center right forward g",
+      "importMeta": {
+        "appearances": 0,
+        "competitions": [],
+        "lastMatch": null
+      }
+    },
+    {
       "id": "curacao-sherel-constancio-floranus",
       "name": "Sherel Constancio Floranus",
       "team": "Curaçao",
@@ -267048,16 +267339,16 @@
         "shotsShare": 0.2,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.7
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 73,
+        "passes90": 65,
         "cards90": 0,
-        "fouls90": 0.6,
+        "fouls90": 0.7,
         "minutesAvg": 86
       },
       "hitRates": {
@@ -267088,8 +267379,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -267097,12 +267388,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 40,
+          "l10": 20,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2025-10-10",
           "opponent": "Russia",
@@ -267252,12 +267558,13 @@
       "dataScope": "international",
       "searchText": "shoja khalilzadeh iran defender g",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-10"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 223340
     },
@@ -277229,23 +277536,23 @@
       "number": "2",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.72,
+      "minutesFactor": 0.73,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.6,
+        "shotsShare": 0.5,
         "sotShare": 0.1,
         "cardWeight": 0.02,
         "foulWeight": 1.1
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.14,
-        "shots90": 0.6,
+        "assists90": 0.12,
+        "shots90": 0.5,
         "sot90": 0.1,
-        "passes90": 29,
+        "passes90": 26,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 65
+        "minutesAvg": 66
       },
       "hitRates": {
         "goals05": {
@@ -277261,7 +277568,7 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
           "l5": 0,
@@ -277276,7 +277583,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "cards05": {
           "l5": 0,
@@ -277286,10 +277593,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -277455,23 +277777,14 @@
       "dataScope": "international",
       "searchText": "tim payne new zealand defender g",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "FIFA Series, New Zealand ",
           "OFC Men's Nations Cup Play Offs"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Wellington Phoenix",
-        "marketValueEur": 340000,
-        "marketValueDisplay": "€340K",
-        "dateOfBirth": "1994-01-10",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 155882
     },
@@ -280098,16 +280411,6 @@
         ],
         "lastMatch": "2024-09-08"
       },
-      "profile": {
-        "club": "Braintree Town",
-        "marketValueEur": 110000,
-        "marketValueDisplay": "€110K",
-        "dateOfBirth": "1990-03-31",
-        "age": 36,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 38111
     },
     {
@@ -282028,11 +282331,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "England",
@@ -282182,23 +282500,14 @@
       "dataScope": "international",
       "searchText": "tyler bindon new zealand defender g",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "FIFA Series, New Zealand ",
           "OFC Men's Nations Cup Play Offs"
         ],
-        "lastMatch": "2026-06-06"
-      },
-      "profile": {
-        "club": "Sheffield United",
-        "marketValueEur": 1500000,
-        "marketValueDisplay": "€1.5M",
-        "dateOfBirth": "2005-01-27",
-        "age": 21,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1514870
     },
