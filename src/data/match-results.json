@@ -656,7 +656,7 @@
         "away": [
           {
             "name": "Emam Ashour",
-            "minute": "19'",
+            "minute": "20'",
             "assist": "Mohamed Salah"
           }
         ]
@@ -699,7 +699,7 @@
           "away": 80
         }
       },
-      "syncedAt": "2026-06-15T23:11:23.502Z",
+      "syncedAt": "2026-06-16T01:46:18.606Z",
       "source": "espn"
     },
     "GS-H-1": {
@@ -749,6 +749,65 @@
         }
       },
       "syncedAt": "2026-06-15T21:19:29.705Z",
+      "source": "espn"
+    },
+    "GS-H-2": {
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Abdulelah Al-Amri",
+            "minute": "41'"
+          }
+        ],
+        "away": [
+          {
+            "name": "Maxi Araújo",
+            "minute": "80'"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 33.2,
+          "away": 66.8
+        },
+        "shots": {
+          "home": 7,
+          "away": 27
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 10
+        },
+        "corners": {
+          "home": 4,
+          "away": 14
+        },
+        "fouls": {
+          "home": 11,
+          "away": 6
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 9,
+          "away": 2
+        },
+        "passAccuracy": {
+          "home": 70,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-16T01:46:18.728Z",
       "source": "espn"
     }
   }
