@@ -13,25 +13,25 @@
       "requestCount": 58
     },
     "manualTeams": {
-      "Cape Verde": {
+      "France": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-16T20:21:53.397Z"
+        "importedAt": "2026-06-16T22:24:39.570Z"
       },
-      "Saudi Arabia": {
-        "playerCount": 30,
-        "dataSource": "sofascore",
-        "importedAt": "2026-06-16T20:21:53.397Z"
-      },
-      "Spain": {
+      "Iraq": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-16T20:21:53.397Z"
+        "importedAt": "2026-06-16T22:24:39.570Z"
       },
-      "Uruguay": {
+      "Norway": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-16T20:21:53.397Z"
+        "importedAt": "2026-06-16T22:24:39.570Z"
+      },
+      "Senegal": {
+        "playerCount": 26,
+        "dataSource": "sofascore",
+        "importedAt": "2026-06-16T22:24:39.570Z"
       }
     }
   },
@@ -1830,16 +1830,6 @@
           "FIFA World Cup, Qualification CAF, Group B"
         ],
         "lastMatch": "2026-05-31"
-      },
-      "profile": {
-        "club": "Maccabi Haifa",
-        "marketValueEur": 540000,
-        "marketValueDisplay": "€540K",
-        "dateOfBirth": "1992-06-04",
-        "age": 34,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 583896
     },
@@ -5576,44 +5566,44 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.72,
+      "minutesFactor": 0.74,
       "xgShare": 0.1,
       "propProfile": {
-        "shotsShare": 1.4,
+        "shotsShare": 1.3,
         "sotShare": 0.5,
         "cardWeight": 0.02,
-        "foulWeight": 1.5
+        "foulWeight": 1.4
       },
       "seasonRates": {
-        "goals90": 0.29,
-        "assists90": 0,
-        "shots90": 1.4,
+        "goals90": 0.27,
+        "assists90": 0.09,
+        "shots90": 1.3,
         "sot90": 0.5,
-        "passes90": 55,
+        "passes90": 50,
         "cards90": 0,
-        "fouls90": 1.5,
-        "minutesAvg": 65
+        "fouls90": 1.4,
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 20,
-          "season": 14
+          "l10": 10,
+          "season": 13
         },
         "goals15": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 7
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "shots15": {
           "l5": 20,
-          "l10": 30,
-          "season": 29
+          "l10": 20,
+          "season": 27
         },
         "shots25": {
           "l5": 20,
@@ -5622,8 +5612,8 @@
         },
         "sot05": {
           "l5": 40,
-          "l10": 40,
-          "season": 29
+          "l10": 30,
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -5633,10 +5623,25 @@
         "fouls15": {
           "l5": 40,
           "l10": 40,
-          "season": 36
+          "season": 33
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-08",
           "opponent": "Northern Ireland",
@@ -5866,8 +5871,9 @@
       "dataScope": "international",
       "searchText": "adrien rabiot france midfielder i",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA D",
           "UEFA Nations League, Finals",
@@ -5875,17 +5881,7 @@
           "Euro, Knockout stage",
           "Euro, Group D"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "AC Milan",
-        "marketValueEur": 17300000,
-        "marketValueDisplay": "€17.3M",
-        "dateOfBirth": "1995-04-03",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 250737
     },
@@ -6046,23 +6042,17 @@
       "number": "9",
       "likelyStarter": false,
       "benchImpact": false,
-      "minutesFactor": 0.17,
+      "minutesFactor": 0.13,
       "xgShare": 0.07,
-      "propProfile": {
-        "shotsShare": 0.05,
-        "sotShare": 0.03,
-        "cardWeight": 0.02,
-        "foulWeight": 3
-      },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 27,
+        "passes90": 22,
         "cards90": 0,
-        "fouls90": 3,
-        "minutesAvg": 15
+        "fouls90": 2.4,
+        "minutesAvg": 12
       },
       "hitRates": {
         "goals05": {
@@ -6108,6 +6098,21 @@
       },
       "gameLog": [
         {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
           "competition": "Int. Friendly Games",
@@ -6144,21 +6149,12 @@
       "dataScope": "international",
       "searchText": "ahmadou bamba dieng senegal forward i",
       "importMeta": {
-        "appearances": 2,
+        "appearances": 3,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Lorient",
-        "marketValueEur": 15500000,
-        "marketValueDisplay": "€15.5M",
-        "dateOfBirth": "2000-03-23",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1102503
     },
@@ -29461,16 +29457,6 @@
         ],
         "lastMatch": "2026-06-09"
       },
-      "profile": {
-        "club": "Nice",
-        "marketValueEur": 5800000,
-        "marketValueDisplay": "€5.8M",
-        "dateOfBirth": "2004-05-26",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1120615
     },
     {
@@ -33539,16 +33525,6 @@
         ],
         "lastMatch": "2026-05-31"
       },
-      "profile": {
-        "club": "Como",
-        "marketValueEur": 31000000,
-        "marketValueDisplay": "€31M",
-        "dateOfBirth": "2005-09-07",
-        "age": 20,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1493689
     },
     {
@@ -34332,23 +34308,23 @@
       "number": "8",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.86,
+      "minutesFactor": 0.87,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 1.4,
+        "shotsShare": 1.2,
         "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 1.4
+        "foulWeight": 1.2
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.19,
-        "shots90": 1.4,
+        "assists90": 0.18,
+        "shots90": 1.2,
         "sot90": 0.3,
-        "passes90": 71,
+        "passes90": 65,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 77
+        "fouls90": 1.2,
+        "minutesAvg": 78
       },
       "hitRates": {
         "goals05": {
@@ -34362,14 +34338,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 33
+          "season": 31
         },
         "shots25": {
           "l5": 0,
@@ -34378,8 +34354,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 20,
-          "season": 25
+          "l10": 10,
+          "season": 23
         },
         "cards05": {
           "l5": 0,
@@ -34389,10 +34365,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 25
+          "season": 23
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Northern Ireland",
@@ -34590,8 +34581,9 @@
       "dataScope": "international",
       "searchText": "aurélien tchouaméni france midfielder i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA D",
           "UEFA Nations League, Finals",
@@ -34599,17 +34591,7 @@
           "Euro, Knockout stage",
           "Euro, Group D"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Real Madrid",
-        "marketValueEur": 78000000,
-        "marketValueDisplay": "€78M",
-        "dateOfBirth": "2000-01-27",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 859025
     },
@@ -39138,16 +39120,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-05-31"
-      },
-      "profile": {
-        "club": "FC Bayern München",
-        "marketValueEur": 280000,
-        "marketValueDisplay": "€280K",
-        "dateOfBirth": "2007-12-31",
-        "age": 18,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 2427970
     },
@@ -43709,31 +43681,31 @@
       "group": "I",
       "position": "Forward",
       "number": "25",
-      "likelyStarter": true,
-      "benchImpact": false,
-      "minutesFactor": 0.46,
-      "xgShare": 0.19,
+      "likelyStarter": false,
+      "benchImpact": true,
+      "minutesFactor": 0.43,
+      "xgShare": 0.11,
       "propProfile": {
-        "shotsShare": 2.9,
-        "sotShare": 1,
+        "shotsShare": 3,
+        "sotShare": 1.2,
         "cardWeight": 0.02,
         "foulWeight": 1.2
       },
       "seasonRates": {
-        "goals90": 0.44,
-        "assists90": 0.15,
-        "shots90": 2.9,
-        "sot90": 1,
-        "passes90": 37,
+        "goals90": 0.58,
+        "assists90": 0.14,
+        "shots90": 3,
+        "sot90": 1.2,
+        "passes90": 36,
         "cards90": 0,
         "fouls90": 1.2,
-        "minutesAvg": 41
+        "minutesAvg": 39
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 10,
-          "season": 20
+          "l10": 20,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -43743,12 +43715,12 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 30,
-          "season": 47
+          "season": 44
         },
         "shots25": {
           "l5": 0,
@@ -43757,8 +43729,8 @@
         },
         "sot05": {
           "l5": 40,
-          "l10": 20,
-          "season": 40
+          "l10": 30,
+          "season": 44
         },
         "cards05": {
           "l5": 0,
@@ -43768,10 +43740,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 10,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Northern Ireland",
@@ -44017,25 +44004,16 @@
       "dataScope": "international",
       "searchText": "bradley barcola france forward i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA D",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 2",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Paris Saint-Germain",
-        "marketValueEur": 68000000,
-        "marketValueDisplay": "€68M",
-        "dateOfBirth": "2002-09-02",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 996952
     },
@@ -46975,16 +46953,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-03-29"
-      },
-      "profile": {
-        "club": "Stade Rennais",
-        "marketValueEur": 7400000,
-        "marketValueDisplay": "€7.4M",
-        "dateOfBirth": "1994-04-25",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 164055
     },
@@ -55011,16 +54979,6 @@
           "FIFA World Cup, Qualification CAF, Group B"
         ],
         "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Samsunspor",
-        "marketValueEur": 5400000,
-        "marketValueDisplay": "€5.4M",
-        "dateOfBirth": "1996-01-23",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 868268
     },
@@ -66101,10 +66059,10 @@
       "number": "4",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.9,
+      "minutesFactor": 0.91,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.5,
+        "shotsShare": 0.4,
         "sotShare": 0.03,
         "cardWeight": 0.02,
         "foulWeight": 0.6
@@ -66112,12 +66070,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.5,
+        "shots90": 0.4,
         "sot90": 0,
-        "passes90": 72,
+        "passes90": 67,
         "cards90": 0,
         "fouls90": 0.6,
-        "minutesAvg": 81
+        "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
@@ -66162,6 +66120,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-08",
           "opponent": "Northern Ireland",
@@ -66391,8 +66364,9 @@
       "dataScope": "international",
       "searchText": "dayot upamecano france defender i",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA D",
           "UEFA Nations League, Finals",
@@ -66400,17 +66374,7 @@
           "Euro, Knockout stage",
           "Euro, Group D"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "FC Bayern München",
-        "marketValueEur": 65000000,
-        "marketValueDisplay": "€65M",
-        "dateOfBirth": "1998-10-27",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 798583
     },
@@ -69526,34 +69490,34 @@
       "number": "24",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.51,
-      "xgShare": 0.22,
+      "minutesFactor": 0.58,
+      "xgShare": 0.19,
       "propProfile": {
-        "shotsShare": 3.9,
-        "sotShare": 2.6,
+        "shotsShare": 3.5,
+        "sotShare": 2.2,
         "cardWeight": 0.02,
-        "foulWeight": 1.3
+        "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 0.65,
+        "goals90": 0.49,
         "assists90": 0,
-        "shots90": 3.9,
-        "sot90": 2.6,
-        "passes90": 47,
+        "shots90": 3.5,
+        "sot90": 2.2,
+        "passes90": 36,
         "cards90": 0,
-        "fouls90": 1.3,
-        "minutesAvg": 46
+        "fouls90": 1,
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "goals15": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "assists05": {
           "l5": 0,
@@ -69562,18 +69526,18 @@
         },
         "shots15": {
           "l5": 60,
-          "l10": 67,
-          "season": 67
+          "l10": 71,
+          "season": 71
         },
         "shots25": {
           "l5": 40,
-          "l10": 50,
-          "season": 50
+          "l10": 43,
+          "season": 43
         },
         "sot05": {
           "l5": 80,
-          "l10": 83,
-          "season": 83
+          "l10": 86,
+          "season": 86
         },
         "cards05": {
           "l5": 0,
@@ -69582,11 +69546,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 87,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Northern Ireland",
@@ -69688,23 +69667,14 @@
       "dataScope": "international",
       "searchText": "désiré doué france forward i",
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA D",
           "UEFA Nations League, Finals"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Paris Saint-Germain",
-        "marketValueEur": 124000000,
-        "marketValueDisplay": "€124M",
-        "dateOfBirth": "2005-06-03",
-        "age": 21,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1154605
     },
@@ -76914,7 +76884,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 32,
+        "passes90": 30,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -76962,6 +76932,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 5
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -77195,24 +77181,15 @@
       "dataScope": "international",
       "searchText": "edouard mendy senegal goalkeeper i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Al-Ahli",
-        "marketValueEur": 4400000,
-        "marketValueDisplay": "€4.4M",
-        "dateOfBirth": "1992-03-01",
-        "age": 34,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 845074
     },
@@ -78005,23 +77982,23 @@
       "number": "2",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.8,
-      "xgShare": 0.04,
+      "minutesFactor": 0.81,
+      "xgShare": 0.03,
       "propProfile": {
         "shotsShare": 0.8,
         "sotShare": 0.4,
         "cardWeight": 0.02,
-        "foulWeight": 2.2
+        "foulWeight": 2.1
       },
       "seasonRates": {
-        "goals90": 0.1,
-        "assists90": 0.1,
+        "goals90": 0.09,
+        "assists90": 0.09,
         "shots90": 0.8,
         "sot90": 0.4,
-        "passes90": 43,
+        "passes90": 39,
         "cards90": 0,
-        "fouls90": 2.2,
-        "minutesAvg": 72
+        "fouls90": 2.1,
+        "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
@@ -78052,7 +78029,7 @@
         "sot05": {
           "l5": 20,
           "l10": 30,
-          "season": 25
+          "season": 23
         },
         "cards05": {
           "l5": 0,
@@ -78061,11 +78038,26 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 50,
-          "season": 58
+          "l10": 40,
+          "season": 54
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -78263,24 +78255,15 @@
       "dataScope": "international",
       "searchText": "el hadji malick diouf senegal defender i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "West Ham United",
-        "marketValueEur": 29000000,
-        "marketValueDisplay": "€29M",
-        "dateOfBirth": "2004-12-28",
-        "age": 21,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1471764
     },
@@ -105605,23 +105588,23 @@
       "number": "7",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.58,
+      "minutesFactor": 0.53,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 1,
+        "shotsShare": 0.9,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 2.9
+        "foulWeight": 3.2
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0.19,
-        "shots90": 1,
+        "shots90": 0.9,
         "sot90": 0.2,
-        "passes90": 36,
+        "passes90": 35,
         "cards90": 0,
-        "fouls90": 2.9,
-        "minutesAvg": 52
+        "fouls90": 3.2,
+        "minutesAvg": 48
       },
       "hitRates": {
         "goals05": {
@@ -105636,13 +105619,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -105651,8 +105634,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -105660,12 +105643,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 44,
-          "season": 44
+          "l5": 40,
+          "l10": 50,
+          "season": 50
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -105815,24 +105813,15 @@
       "dataScope": "international",
       "searchText": "habib diarra senegal midfielder i",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Sunderland",
-        "marketValueEur": 34000000,
-        "marketValueDisplay": "€34M",
-        "dateOfBirth": "2004-01-03",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1128532
     },
@@ -114314,29 +114303,29 @@
       "number": "27",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.36,
-      "xgShare": 0.12,
+      "minutesFactor": 0.33,
+      "xgShare": 0.14,
       "propProfile": {
-        "shotsShare": 2.2,
-        "sotShare": 1.3,
+        "shotsShare": 2.4,
+        "sotShare": 1.5,
         "cardWeight": 0.02,
-        "foulWeight": 1.6
+        "foulWeight": 1.5
       },
       "seasonRates": {
-        "goals90": 0.63,
-        "assists90": 0.95,
-        "shots90": 2.2,
-        "sot90": 1.3,
-        "passes90": 43,
+        "goals90": 0.9,
+        "assists90": 0.9,
+        "shots90": 2.4,
+        "sot90": 1.5,
+        "passes90": 41,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 32
+        "fouls90": 1.5,
+        "minutesAvg": 30
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l5": 40,
+          "l10": 30,
+          "season": 30
         },
         "goals15": {
           "l5": 0,
@@ -114345,13 +114334,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "shots15": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -114359,9 +114348,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 40,
-          "l10": 44,
-          "season": 44
+          "l5": 60,
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -114375,6 +114364,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 15,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -114524,23 +114528,14 @@
       "dataScope": "international",
       "searchText": "ibrahim mbaye senegal forward i",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Paris Saint-Germain",
-        "marketValueEur": 29000000,
-        "marketValueDisplay": "€29M",
-        "dateOfBirth": "2008-01-24",
-        "age": 18,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1590918
     },
@@ -115395,16 +115390,6 @@
         ],
         "lastMatch": "2026-06-04"
       },
-      "profile": {
-        "club": "Liverpool FC",
-        "marketValueEur": 46000000,
-        "marketValueDisplay": "€46M",
-        "dateOfBirth": "1999-05-25",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 826215
     },
     {
@@ -115419,7 +115404,7 @@
       "minutesFactor": 0.87,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.5,
+        "shotsShare": 0.4,
         "sotShare": 0.1,
         "cardWeight": 0.02,
         "foulWeight": 1.1
@@ -115427,9 +115412,9 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.5,
+        "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 74,
+        "passes90": 68,
         "cards90": 0,
         "fouls90": 1.1,
         "minutesAvg": 78
@@ -115463,7 +115448,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "cards05": {
           "l5": 0,
@@ -115471,12 +115456,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 40,
-          "season": 31
+          "l5": 20,
+          "l10": 30,
+          "season": 29
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 88,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -115690,24 +115690,15 @@
       "dataScope": "international",
       "searchText": "idrissa gana gueye senegal midfielder i",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Everton",
-        "marketValueEur": 970000,
-        "marketValueDisplay": "€970K",
-        "dateOfBirth": "1989-09-26",
-        "age": 36,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 106337
     },
@@ -116324,7 +116315,7 @@
       "number": "13",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.83,
+      "minutesFactor": 0.78,
       "xgShare": 0.09,
       "propProfile": {
         "shotsShare": 1.3,
@@ -116334,19 +116325,19 @@
       },
       "seasonRates": {
         "goals90": 0.2,
-        "assists90": 0.2,
+        "assists90": 0.3,
         "shots90": 1.3,
         "sot90": 0.7,
-        "passes90": 33,
+        "passes90": 32,
         "cards90": 0,
         "fouls90": 0.7,
-        "minutesAvg": 75
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "goals15": {
           "l5": 0,
@@ -116354,14 +116345,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
+          "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 15
         },
         "shots15": {
           "l5": 20,
           "l10": 30,
-          "season": 33
+          "season": 31
         },
         "shots25": {
           "l5": 0,
@@ -116370,8 +116361,8 @@
         },
         "sot05": {
           "l5": 40,
-          "l10": 50,
-          "season": 50
+          "l10": 40,
+          "season": 46
         },
         "cards05": {
           "l5": 0,
@@ -116385,6 +116376,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -116582,24 +116588,15 @@
       "dataScope": "international",
       "searchText": "iliman ndiaye senegal midfielder i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Everton",
-        "marketValueEur": 49000000,
-        "marketValueDisplay": "€49M",
-        "dateOfBirth": "2000-03-06",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 914309
     },
@@ -119458,16 +119455,6 @@
         ],
         "lastMatch": "2026-06-09"
       },
-      "profile": {
-        "club": "Galatasaray",
-        "marketValueEur": 8700000,
-        "marketValueDisplay": "€8.7M",
-        "dateOfBirth": "1999-08-17",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 897291
     },
     {
@@ -119822,54 +119809,54 @@
       "number": "18",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.71,
-      "xgShare": 0.19,
+      "minutesFactor": 0.72,
+      "xgShare": 0.18,
       "propProfile": {
-        "shotsShare": 2.8,
-        "sotShare": 1.7,
+        "shotsShare": 2.9,
+        "sotShare": 1.5,
         "cardWeight": 0.02,
         "foulWeight": 0.6
       },
       "seasonRates": {
-        "goals90": 0.47,
-        "assists90": 0.31,
-        "shots90": 2.8,
-        "sot90": 1.7,
-        "passes90": 30,
+        "goals90": 0.42,
+        "assists90": 0.28,
+        "shots90": 2.9,
+        "sot90": 1.5,
+        "passes90": 26,
         "cards90": 0,
         "fouls90": 0.6,
-        "minutesAvg": 64
+        "minutesAvg": 65
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "goals15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "assists05": {
           "l5": 0,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "shots15": {
           "l5": 60,
-          "l10": 67,
-          "season": 67
+          "l10": 70,
+          "season": 70
         },
         "shots25": {
           "l5": 40,
-          "l10": 44,
-          "season": 44
+          "l10": 50,
+          "season": 50
         },
         "sot05": {
           "l5": 60,
-          "l10": 78,
-          "season": 78
+          "l10": 70,
+          "season": 70
         },
         "cards05": {
           "l5": 0,
@@ -119878,11 +119865,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -120032,24 +120034,15 @@
       "dataScope": "international",
       "searchText": "ismaïla sarr senegal forward i",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Crystal Palace",
-        "marketValueEur": 33000000,
-        "marketValueDisplay": "€33M",
-        "dateOfBirth": "1998-02-25",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 845286
     },
@@ -128466,16 +128459,6 @@
           "World Cup Qual. UEFA D"
         ],
         "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Crystal Palace",
-        "marketValueEur": 33000000,
-        "marketValueDisplay": "€33M",
-        "dateOfBirth": "1997-06-28",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 848276
     },
@@ -149788,7 +149771,7 @@
       "number": "5",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.87,
+      "minutesFactor": 0.88,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.5,
@@ -149801,10 +149784,10 @@
         "assists90": 0,
         "shots90": 0.5,
         "sot90": 0.1,
-        "passes90": 65,
+        "passes90": 60,
         "cards90": 0,
         "fouls90": 0.9,
-        "minutesAvg": 78
+        "minutesAvg": 79
       },
       "hitRates": {
         "goals05": {
@@ -149824,7 +149807,7 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 20,
+          "l10": 10,
           "season": 13
         },
         "shots25": {
@@ -149835,7 +149818,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "cards05": {
           "l5": 0,
@@ -149845,10 +149828,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 20
+          "season": 19
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-08",
           "opponent": "Northern Ireland",
@@ -150094,25 +150092,16 @@
       "dataScope": "international",
       "searchText": "jules koundé france defender i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA D",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 2",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "FC Barcelona",
-        "marketValueEur": 69000000,
-        "marketValueDisplay": "€69M",
-        "dateOfBirth": "1998-11-12",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 827212
     },
@@ -154785,23 +154774,23 @@
       "number": "3",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.82,
-      "xgShare": 0.04,
+      "minutesFactor": 0.83,
+      "xgShare": 0.03,
       "propProfile": {
         "shotsShare": 0.6,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.7
+        "foulWeight": 1.6
       },
       "seasonRates": {
-        "goals90": 0.1,
-        "assists90": 0.1,
+        "goals90": 0.09,
+        "assists90": 0.09,
         "shots90": 0.6,
         "sot90": 0.1,
-        "passes90": 63,
+        "passes90": 57,
         "cards90": 0,
-        "fouls90": 1.7,
-        "minutesAvg": 74
+        "fouls90": 1.6,
+        "minutesAvg": 75
       },
       "hitRates": {
         "goals05": {
@@ -154840,12 +154829,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 50
+          "season": 46
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -155043,24 +155047,15 @@
       "dataScope": "international",
       "searchText": "kalidou koulibaly senegal defender i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Al-Hilal",
-        "marketValueEur": 4800000,
-        "marketValueDisplay": "€4.8M",
-        "dateOfBirth": "1991-06-20",
-        "age": 34,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 126071
     },
@@ -165001,7 +164996,7 @@
       "number": "15",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.99,
+      "minutesFactor": 1,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.2,
@@ -165011,13 +165006,13 @@
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.15,
+        "assists90": 0.14,
         "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 55,
+        "passes90": 51,
         "cards90": 0,
         "fouls90": 0.9,
-        "minutesAvg": 89
+        "minutesAvg": 90
       },
       "hitRates": {
         "goals05": {
@@ -165033,7 +165028,7 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 15
+          "season": 14
         },
         "shots15": {
           "l5": 0,
@@ -165048,7 +165043,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "cards05": {
           "l5": 0,
@@ -165057,11 +165052,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 30,
-          "season": 23
+          "l10": 20,
+          "season": 21
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -165275,24 +165285,15 @@
       "dataScope": "international",
       "searchText": "krépin diatta senegal midfielder i",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "AS Monaco",
-        "marketValueEur": 5800000,
-        "marketValueDisplay": "€5.8M",
-        "dateOfBirth": "1999-02-25",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 873534
     },
@@ -166523,54 +166524,54 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.83,
-      "xgShare": 0.22,
+      "minutesFactor": 0.84,
+      "xgShare": 0.23,
       "propProfile": {
-        "shotsShare": 5.7,
-        "sotShare": 2.2,
+        "shotsShare": 5.6,
+        "sotShare": 2.4,
         "cardWeight": 0.02,
-        "foulWeight": 0.2
+        "foulWeight": 0.4
       },
       "seasonRates": {
-        "goals90": 0.64,
-        "assists90": 0.48,
-        "shots90": 5.7,
-        "sot90": 2.2,
-        "passes90": 41,
+        "goals90": 0.74,
+        "assists90": 0.44,
+        "shots90": 5.6,
+        "sot90": 2.4,
+        "passes90": 38,
         "cards90": 0,
-        "fouls90": 0.2,
-        "minutesAvg": 75
+        "fouls90": 0.4,
+        "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
           "l10": 70,
-          "season": 47
+          "season": 50
         },
         "goals15": {
           "l5": 20,
-          "l10": 10,
-          "season": 7
+          "l10": 20,
+          "season": 13
         },
         "assists05": {
-          "l5": 20,
-          "l10": 50,
-          "season": 40
+          "l5": 0,
+          "l10": 40,
+          "season": 38
         },
         "shots15": {
           "l5": 60,
           "l10": 80,
-          "season": 87
+          "season": 88
         },
         "shots25": {
           "l5": 60,
           "l10": 80,
-          "season": 80
+          "season": 81
         },
         "sot05": {
           "l5": 60,
           "l10": 80,
-          "season": 80
+          "season": 81
         },
         "cards05": {
           "l5": 0,
@@ -166579,11 +166580,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 10,
-          "season": 7
+          "l10": 20,
+          "season": 13
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 2,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 4,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-08",
           "opponent": "Northern Ireland",
@@ -166829,25 +166845,16 @@
       "dataScope": "international",
       "searchText": "kylian mbappé france forward i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA D",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 2",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Real Madrid",
-        "marketValueEur": 212000000,
-        "marketValueDisplay": "€212M",
-        "dateOfBirth": "1998-12-20",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 826643
     },
@@ -167318,23 +167325,23 @@
       "number": "8",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.48,
+      "minutesFactor": 0.5,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 1.9,
-        "sotShare": 0.9,
+        "shotsShare": 1.7,
+        "sotShare": 0.8,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 1.2
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.9,
-        "sot90": 0.9,
-        "passes90": 56,
+        "shots90": 1.7,
+        "sot90": 0.8,
+        "passes90": 49,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 43
+        "fouls90": 1.2,
+        "minutesAvg": 45
       },
       "hitRates": {
         "goals05": {
@@ -167353,9 +167360,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "shots25": {
           "l5": 20,
@@ -167363,9 +167370,9 @@
           "season": 8
         },
         "sot05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 42
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -167373,12 +167380,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 8
+          "l5": 40,
+          "l10": 20,
+          "season": 15
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -167576,24 +167598,15 @@
       "dataScope": "international",
       "searchText": "lamine camara senegal midfielder i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "AS Monaco",
-        "marketValueEur": 41000000,
-        "marketValueDisplay": "€41M",
-        "dateOfBirth": "2004-01-01",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1389846
     },
@@ -175448,16 +175461,6 @@
         ],
         "lastMatch": "2026-06-08"
       },
-      "profile": {
-        "club": "Aston Villa",
-        "marketValueEur": 7400000,
-        "marketValueDisplay": "€7.4M",
-        "dateOfBirth": "1993-07-20",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 96538
     },
     {
@@ -175622,16 +175625,6 @@
           "UEFA Nations League, Finals"
         ],
         "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Paris Saint-Germain",
-        "marketValueEur": 18600000,
-        "marketValueDisplay": "€18.6M",
-        "dateOfBirth": "1996-02-14",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 352370
     },
@@ -180463,16 +180456,6 @@
         ],
         "lastMatch": "2026-06-08"
       },
-      "profile": {
-        "club": "AS Monaco",
-        "marketValueEur": 49000000,
-        "marketValueDisplay": "€49M",
-        "dateOfBirth": "2002-02-25",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1130939
     },
     {
@@ -182460,16 +182443,6 @@
         ],
         "lastMatch": "2026-06-08"
       },
-      "profile": {
-        "club": "Chelsea",
-        "marketValueEur": 36000000,
-        "marketValueDisplay": "€36M",
-        "dateOfBirth": "2003-05-19",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 996958
     },
     {
@@ -182650,16 +182623,6 @@
           "Africa Cup of Nations, Group D"
         ],
         "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Chelsea",
-        "marketValueEur": 27000000,
-        "marketValueDisplay": "€27M",
-        "dateOfBirth": "2005-08-29",
-        "age": 20,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1154657
     },
@@ -183038,16 +183001,6 @@
           "UEFA Nations League, League A, Gr. 2"
         ],
         "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "AS Roma",
-        "marketValueEur": 47000000,
-        "marketValueDisplay": "€47M",
-        "dateOfBirth": "2001-05-17",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 974087
     },
@@ -186488,16 +186441,6 @@
           "Euro, Knockout stage"
         ],
         "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Inter",
-        "marketValueEur": 52000000,
-        "marketValueDisplay": "€52M",
-        "dateOfBirth": "1997-08-06",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 791702
     },
@@ -195849,16 +195792,6 @@
         ],
         "lastMatch": "2026-06-08"
       },
-      "profile": {
-        "club": "Crystal Palace",
-        "marketValueEur": 43000000,
-        "marketValueDisplay": "€43M",
-        "dateOfBirth": "2000-04-06",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 879674
     },
     {
@@ -200814,54 +200747,54 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.67,
-      "xgShare": 0.15,
+      "minutesFactor": 0.69,
+      "xgShare": 0.14,
       "propProfile": {
-        "shotsShare": 2.8,
-        "sotShare": 1.1,
+        "shotsShare": 2.7,
+        "sotShare": 1.2,
         "cardWeight": 0.02,
         "foulWeight": 0.4
       },
       "seasonRates": {
-        "goals90": 0.6,
-        "assists90": 0.1,
-        "shots90": 2.8,
-        "sot90": 1.1,
-        "passes90": 58,
+        "goals90": 0.55,
+        "assists90": 0.18,
+        "shots90": 2.7,
+        "sot90": 1.2,
+        "passes90": 53,
         "cards90": 0,
         "fouls90": 0.4,
-        "minutesAvg": 60
+        "minutesAvg": 62
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 40,
-          "season": 27
+          "l5": 20,
+          "l10": 30,
+          "season": 25
         },
         "goals15": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "assists05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 7
+          "l5": 40,
+          "l10": 20,
+          "season": 13
         },
         "shots15": {
           "l5": 40,
-          "l10": 50,
-          "season": 47
+          "l10": 60,
+          "season": 50
         },
         "shots25": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 33
+          "season": 31
         },
         "sot05": {
           "l5": 60,
           "l10": 60,
-          "season": 40
+          "season": 44
         },
         "cards05": {
           "l5": 0,
@@ -200875,6 +200808,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Northern Ireland",
@@ -201120,24 +201068,15 @@
       "dataScope": "international",
       "searchText": "michael olise france midfielder i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA D",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 2"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "FC Bayern München",
-        "marketValueEur": 144000000,
-        "marketValueDisplay": "€144M",
-        "dateOfBirth": "2001-12-12",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 978838
     },
@@ -202614,7 +202553,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 28,
+        "passes90": 26,
         "cards90": 0,
         "fouls90": 0.1,
         "minutesAvg": 90
@@ -202662,6 +202601,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
         {
           "date": "2026-06-08",
           "opponent": "Northern Ireland",
@@ -202952,24 +202907,15 @@
       "dataScope": "international",
       "searchText": "mike maignan france goalkeeper i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA D",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 2"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "AC Milan",
-        "marketValueEur": 22000000,
-        "marketValueDisplay": "€22M",
-        "dateOfBirth": "1995-07-03",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 191210
     },
@@ -212528,16 +212474,6 @@
         ],
         "lastMatch": "2026-05-31"
       },
-      "profile": {
-        "club": "Le Havre",
-        "marketValueEur": 950000,
-        "marketValueDisplay": "€950K",
-        "dateOfBirth": "1993-06-22",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 580226
     },
     {
@@ -213319,16 +213255,16 @@
         "shotsShare": 0.1,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1
+        "foulWeight": 0.9
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.1,
         "sot90": 0,
-        "passes90": 74,
+        "passes90": 67,
         "cards90": 0,
-        "fouls90": 1,
+        "fouls90": 0.9,
         "minutesAvg": 82
       },
       "hitRates": {
@@ -213370,10 +213306,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 23
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -213571,24 +213522,15 @@
       "dataScope": "international",
       "searchText": "moussa niakhaté senegal defender i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Olympique Lyonnais",
-        "marketValueEur": 14600000,
-        "marketValueDisplay": "€14.6M",
-        "dateOfBirth": "1996-03-08",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 758168
     },
@@ -214516,16 +214458,6 @@
           "Euro, Group D"
         ],
         "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Fenerbahçe",
-        "marketValueEur": 3900000,
-        "marketValueDisplay": "€3.9M",
-        "dateOfBirth": "1991-03-29",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 234148
     },
@@ -221258,54 +221190,54 @@
       "number": "11",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.66,
-      "xgShare": 0.24,
+      "minutesFactor": 0.68,
+      "xgShare": 0.23,
       "propProfile": {
-        "shotsShare": 3.4,
-        "sotShare": 1.7,
+        "shotsShare": 3.2,
+        "sotShare": 1.5,
         "cardWeight": 0.02,
         "foulWeight": 2
       },
       "seasonRates": {
-        "goals90": 0.82,
-        "assists90": 0.35,
-        "shots90": 3.4,
-        "sot90": 1.7,
-        "passes90": 23,
+        "goals90": 0.74,
+        "assists90": 0.32,
+        "shots90": 3.2,
+        "sot90": 1.5,
+        "passes90": 21,
         "cards90": 0,
         "fouls90": 2,
-        "minutesAvg": 59
+        "minutesAvg": 61
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 30,
-          "season": 38
+          "season": 36
         },
         "goals15": {
           "l5": 0,
           "l10": 20,
-          "season": 15
+          "season": 14
         },
         "assists05": {
-          "l5": 20,
-          "l10": 20,
-          "season": 23
+          "l5": 0,
+          "l10": 10,
+          "season": 21
         },
         "shots15": {
           "l5": 20,
           "l10": 40,
-          "season": 46
+          "season": 43
         },
         "shots25": {
           "l5": 20,
           "l10": 40,
-          "season": 46
+          "season": 43
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 46
+          "season": 43
         },
         "cards05": {
           "l5": 0,
@@ -221314,11 +221246,26 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 40,
-          "season": 46
+          "l10": 50,
+          "season": 50
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -221532,24 +221479,15 @@
       "dataScope": "international",
       "searchText": "nicolas jackson senegal forward i",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "FC Bayern München",
-        "marketValueEur": 39000000,
-        "marketValueDisplay": "€39M",
-        "dateOfBirth": "2001-06-20",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1085381
     },
@@ -233021,29 +232959,29 @@
       "number": "11",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.77,
+      "minutesFactor": 0.78,
       "xgShare": 0.14,
       "propProfile": {
-        "shotsShare": 2.7,
-        "sotShare": 1.1,
+        "shotsShare": 2.6,
+        "sotShare": 1,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.12,
-        "assists90": 0.12,
-        "shots90": 2.7,
-        "sot90": 1.1,
-        "passes90": 40,
+        "goals90": 0.11,
+        "assists90": 0.11,
+        "shots90": 2.6,
+        "sot90": 1,
+        "passes90": 36,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 69
+        "fouls90": 0.5,
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "goals15": {
           "l5": 0,
@@ -233053,22 +232991,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "shots15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 55
+          "season": 50
         },
         "shots25": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 36
+          "season": 33
         },
         "sot05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 55
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -233077,11 +233015,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 10,
-          "season": 9
+          "l10": 0,
+          "season": 8
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Northern Ireland",
@@ -233263,8 +233216,9 @@
       "dataScope": "international",
       "searchText": "ousmane dembélé france forward i",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA D",
           "UEFA Nations League, Finals",
@@ -233272,17 +233226,7 @@
           "Euro, Knockout stage",
           "Euro, Group D"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Paris Saint-Germain",
-        "marketValueEur": 97000000,
-        "marketValueDisplay": "€97M",
-        "dateOfBirth": "1997-05-15",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 818244
     },
@@ -233963,32 +233907,32 @@
       "number": "21",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.8,
-      "xgShare": 0.11,
+      "minutesFactor": 0.81,
+      "xgShare": 0.1,
       "propProfile": {
-        "shotsShare": 2.8,
+        "shotsShare": 2.6,
         "sotShare": 0.8,
         "cardWeight": 0.02,
-        "foulWeight": 2.1
+        "foulWeight": 2
       },
       "seasonRates": {
-        "goals90": 0.31,
+        "goals90": 0.28,
         "assists90": 0,
-        "shots90": 2.8,
+        "shots90": 2.6,
         "sot90": 0.8,
-        "passes90": 51,
+        "passes90": 47,
         "cards90": 0,
-        "fouls90": 2.1,
-        "minutesAvg": 72
+        "fouls90": 2,
+        "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 17
+          "season": 15
         },
         "goals15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 8
         },
@@ -233998,19 +233942,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 80,
-          "l10": 80,
-          "season": 83
+          "l5": 60,
+          "l10": 70,
+          "season": 77
         },
         "shots25": {
-          "l5": 60,
-          "l10": 30,
-          "season": 33
-        },
-        "sot05": {
           "l5": 40,
           "l10": 30,
-          "season": 33
+          "season": 31
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 30,
+          "season": 31
         },
         "cards05": {
           "l5": 0,
@@ -234018,12 +233962,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 60,
-          "l10": 60,
-          "season": 50
+          "l5": 40,
+          "l10": 50,
+          "season": 46
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-05-31",
           "opponent": "USA",
@@ -234221,24 +234180,15 @@
       "dataScope": "international",
       "searchText": "pape gueye senegal midfielder i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-05-31"
-      },
-      "profile": {
-        "club": "Villarreal",
-        "marketValueEur": 39000000,
-        "marketValueDisplay": "€39M",
-        "dateOfBirth": "1999-01-24",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 879694
     },
@@ -234468,16 +234418,6 @@
           "FIFA World Cup, Qualification CAF, Group B"
         ],
         "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Tottenham Hotspur",
-        "marketValueEur": 30000000,
-        "marketValueDisplay": "€30M",
-        "dateOfBirth": "2002-09-14",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1002711
     },
@@ -234862,7 +234802,7 @@
       "number": "6",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.3,
+      "minutesFactor": 0.28,
       "xgShare": 0.03,
       "propProfile": {
         "shotsShare": 0.6,
@@ -234878,7 +234818,7 @@
         "passes90": 76,
         "cards90": 0,
         "fouls90": 2.1,
-        "minutesAvg": 27
+        "minutesAvg": 25
       },
       "hitRates": {
         "goals05": {
@@ -234899,7 +234839,7 @@
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "shots25": {
           "l5": 0,
@@ -234909,7 +234849,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "cards05": {
           "l5": 0,
@@ -234919,10 +234859,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 2,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -235104,24 +235059,15 @@
       "dataScope": "international",
       "searchText": "pathé ismaël ciss senegal midfielder i",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Rayo Vallecano",
-        "marketValueEur": 1800000,
-        "marketValueDisplay": "€1.8M",
-        "dateOfBirth": "1994-03-16",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 913679
     },
@@ -245778,7 +245724,7 @@
       "number": "25",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.6,
+      "minutesFactor": 0.52,
       "xgShare": 0.13,
       "propProfile": {
         "shotsShare": 2.9,
@@ -245787,20 +245733,20 @@
         "foulWeight": 0.2
       },
       "seasonRates": {
-        "goals90": 0.48,
+        "goals90": 0.47,
         "assists90": 0.24,
         "shots90": 2.9,
         "sot90": 1,
         "passes90": 81,
         "cards90": 0,
         "fouls90": 0.2,
-        "minutesAvg": 54
+        "minutesAvg": 47
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 29,
-          "season": 29
+          "l10": 25,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -245809,23 +245755,23 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots15": {
-          "l5": 60,
-          "l10": 57,
-          "season": 57
+          "l5": 40,
+          "l10": 50,
+          "season": 50
         },
         "shots25": {
-          "l5": 40,
-          "l10": 29,
-          "season": 29
+          "l5": 20,
+          "l10": 25,
+          "season": 25
         },
         "sot05": {
           "l5": 20,
-          "l10": 43,
-          "season": 43
+          "l10": 38,
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -245839,6 +245785,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 3,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Northern Ireland",
@@ -245956,23 +245917,14 @@
       "dataScope": "international",
       "searchText": "rayan cherki france midfielder i",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA D",
           "UEFA Nations League, Finals"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Manchester City",
-        "marketValueEur": 71000000,
-        "marketValueDisplay": "€71M",
-        "dateOfBirth": "2003-08-17",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 979128
     },
@@ -251021,16 +250973,6 @@
         "appearances": 0,
         "competitions": [],
         "lastMatch": null
-      },
-      "profile": {
-        "club": "RC Lens",
-        "marketValueEur": 26000000,
-        "marketValueDisplay": "€26M",
-        "dateOfBirth": "2004-12-02",
-        "age": 21,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1387161
     },
@@ -257689,54 +257631,54 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.88,
-      "xgShare": 0.18,
+      "minutesFactor": 0.89,
+      "xgShare": 0.17,
       "propProfile": {
-        "shotsShare": 2.9,
-        "sotShare": 1.8,
+        "shotsShare": 2.8,
+        "sotShare": 1.7,
         "cardWeight": 0.02,
         "foulWeight": 1.1
       },
       "seasonRates": {
-        "goals90": 0.81,
-        "assists90": 0.24,
-        "shots90": 2.9,
-        "sot90": 1.8,
-        "passes90": 33,
+        "goals90": 0.75,
+        "assists90": 0.23,
+        "shots90": 2.8,
+        "sot90": 1.7,
+        "passes90": 31,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 79
+        "minutesAvg": 80
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
           "l10": 40,
-          "season": 43
+          "season": 40
         },
         "goals15": {
           "l5": 20,
           "l10": 20,
-          "season": 21
+          "season": 20
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 14
+          "season": 13
         },
         "shots15": {
           "l5": 40,
-          "l10": 60,
-          "season": 64
+          "l10": 50,
+          "season": 60
         },
         "shots25": {
           "l5": 20,
           "l10": 30,
-          "season": 36
+          "season": 33
         },
         "sot05": {
-          "l5": 60,
-          "l10": 60,
-          "season": 64
+          "l5": 80,
+          "l10": 70,
+          "season": 67
         },
         "cards05": {
           "l5": 0,
@@ -257745,11 +257687,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 10,
-          "season": 21
+          "l10": 0,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -257979,24 +257936,15 @@
       "dataScope": "international",
       "searchText": "sadio mané senegal midfielder i",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-09"
-      },
-      "profile": {
-        "club": "Al-Nassr",
-        "marketValueEur": 6600000,
-        "marketValueDisplay": "€6.6M",
-        "dateOfBirth": "1992-04-10",
-        "age": 34,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 217704
     },
@@ -275661,23 +275609,23 @@
       "number": "22",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.93,
+      "minutesFactor": 0.94,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.9,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.5
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.16,
+        "assists90": 0.15,
         "shots90": 0.9,
         "sot90": 0.1,
-        "passes90": 63,
+        "passes90": 59,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 84
+        "fouls90": 0.5,
+        "minutesAvg": 85
       },
       "hitRates": {
         "goals05": {
@@ -275691,24 +275639,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 15
+          "season": 14
         },
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 15
+          "season": 14
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "sot05": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "cards05": {
           "l5": 0,
@@ -275718,10 +275666,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Northern Ireland",
@@ -275935,8 +275898,9 @@
       "dataScope": "international",
       "searchText": "theo hernández france defender i",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA D",
           "UEFA Nations League, Finals",
@@ -275944,17 +275908,7 @@
           "Euro, Knockout stage",
           "Euro, Group D"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Al-Hilal",
-        "marketValueEur": 30000000,
-        "marketValueDisplay": "€30M",
-        "dateOfBirth": "1997-10-06",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 788027
     },
@@ -287750,16 +287704,6 @@
         ],
         "lastMatch": "2026-06-04"
       },
-      "profile": {
-        "club": "Paris Saint-Germain",
-        "marketValueEur": 78000000,
-        "marketValueDisplay": "€78M",
-        "dateOfBirth": "2006-03-08",
-        "age": 20,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1142672
     },
     {
@@ -289029,7 +288973,7 @@
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0,
-        "passes90": 71,
+        "passes90": 65,
         "cards90": 0,
         "fouls90": 1,
         "minutesAvg": 87
@@ -289073,10 +289017,25 @@
         "fouls15": {
           "l5": 40,
           "l10": 20,
-          "season": 23
+          "season": 21
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Northern Ireland",
@@ -289290,8 +289249,9 @@
       "dataScope": "international",
       "searchText": "william saliba france defender i",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA D",
           "UEFA Nations League, Finals",
@@ -289299,17 +289259,7 @@
           "Euro, Knockout stage",
           "Euro, Group D"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Arsenal",
-        "marketValueEur": 85000000,
-        "marketValueDisplay": "€85M",
-        "dateOfBirth": "2001-03-24",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 941168
     },
@@ -293642,16 +293592,6 @@
         "appearances": 0,
         "competitions": [],
         "lastMatch": null
-      },
-      "profile": {
-        "club": "Nice",
-        "marketValueEur": 6600000,
-        "marketValueDisplay": "€6.6M",
-        "dateOfBirth": "1999-11-16",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 845183
     },

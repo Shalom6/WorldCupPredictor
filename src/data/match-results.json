@@ -879,6 +879,76 @@
       },
       "syncedAt": "2026-06-16T07:07:45.026Z",
       "source": "espn"
+    },
+    "GS-I-1": {
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Kylian Mbappé",
+            "minute": "66'",
+            "assist": "Michael Olise"
+          },
+          {
+            "name": "Bradley Barcola",
+            "minute": "82'",
+            "assist": "Adrien Rabiot"
+          },
+          {
+            "name": "Kylian Mbappé",
+            "minute": "90'+6'"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ibrahim Mbaye",
+            "minute": "90'+5'",
+            "assist": "Iliman Ndiaye"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 53.7,
+          "away": 46.3
+        },
+        "shots": {
+          "home": 11,
+          "away": 6
+        },
+        "shotsOnTarget": {
+          "home": 8,
+          "away": 2
+        },
+        "corners": {
+          "home": 6,
+          "away": 4
+        },
+        "fouls": {
+          "home": 5,
+          "away": 9
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 2,
+          "away": 5
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-16T22:24:35.143Z",
+      "source": "espn"
     }
   }
 }
