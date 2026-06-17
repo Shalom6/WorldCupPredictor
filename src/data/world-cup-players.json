@@ -16,22 +16,22 @@
       "France": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-16T23:52:28.247Z"
+        "importedAt": "2026-06-17T02:08:22.407Z"
       },
       "Iraq": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-16T23:52:28.247Z"
+        "importedAt": "2026-06-17T02:08:22.407Z"
       },
       "Norway": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-16T23:52:28.247Z"
+        "importedAt": "2026-06-17T02:08:22.407Z"
       },
       "Senegal": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-16T23:52:28.247Z"
+        "importedAt": "2026-06-17T02:08:22.407Z"
       }
     }
   },
@@ -6666,17 +6666,17 @@
       "number": "12",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.93,
+      "minutesFactor": 0.86,
       "xgShare": 0.02,
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 31,
+        "passes90": 30,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 84
+        "minutesAvg": 77
       },
       "hitRates": {
         "goals05": {
@@ -6721,6 +6721,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -6878,25 +6893,16 @@
       "dataScope": "international",
       "searchText": "ahmed basil iraq goalkeeper i",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "Arab Cup, Knockout Stage",
           "Arab Cup, Group D",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Al-Shorta",
-        "marketValueEur": 470000,
-        "marketValueDisplay": "€470K",
-        "dateOfBirth": "1996-08-19",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 888896
     },
@@ -7585,16 +7591,6 @@
         ],
         "lastMatch": "2025-12-12"
       },
-      "profile": {
-        "club": "Al Karma SC",
-        "marketValueEur": 415000,
-        "marketValueDisplay": "€415K",
-        "dateOfBirth": "2001-09-24",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1381227
     },
     {
@@ -7828,16 +7824,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Nashville SC",
-        "marketValueEur": 3600000,
-        "marketValueDisplay": "€3.6M",
-        "dateOfBirth": "2003-07-12",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1101887
     },
@@ -8420,16 +8406,6 @@
         ],
         "lastMatch": "2026-04-01"
       },
-      "profile": {
-        "club": "Sarpsborg 08",
-        "marketValueEur": 1200000,
-        "marketValueDisplay": "€1.2M",
-        "dateOfBirth": "2002-12-20",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 981574
     },
     {
@@ -8991,29 +8967,29 @@
       "number": "6",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.73,
+      "minutesFactor": 0.76,
       "xgShare": 0.04,
       "propProfile": {
         "shotsShare": 1,
-        "sotShare": 0.3,
+        "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "foulWeight": 0.8
       },
       "seasonRates": {
-        "goals90": 0.12,
-        "assists90": 0.12,
+        "goals90": 0.11,
+        "assists90": 0.11,
         "shots90": 1,
-        "sot90": 0.3,
-        "passes90": 46,
+        "sot90": 0.2,
+        "passes90": 41,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 66
+        "fouls90": 0.8,
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 9
+          "season": 8
         },
         "goals15": {
           "l5": 0,
@@ -9023,22 +8999,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "shots15": {
           "l5": 20,
-          "l10": 20,
-          "season": 18
+          "l10": 10,
+          "season": 17
         },
         "shots25": {
           "l5": 20,
-          "l10": 20,
-          "season": 18
+          "l10": 10,
+          "season": 17
         },
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 18
+          "season": 17
         },
         "cards05": {
           "l5": 0,
@@ -9047,11 +9023,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 10,
-          "season": 9
+          "l10": 0,
+          "season": 8
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -9233,8 +9224,9 @@
       "dataScope": "international",
       "searchText": "akam hashem iraq defender i",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "Arab Cup, Knockout Stage",
@@ -9243,17 +9235,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Al-Zawraa",
-        "marketValueEur": 620000,
-        "marketValueDisplay": "€620K",
-        "dateOfBirth": "1998-08-16",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1631451
     },
@@ -15108,53 +15090,53 @@
       "likelyStarter": true,
       "benchImpact": false,
       "minutesFactor": 0.79,
-      "xgShare": 0.2,
+      "xgShare": 0.19,
       "propProfile": {
         "shotsShare": 3.2,
-        "sotShare": 1.2,
+        "sotShare": 1.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.5
+        "foulWeight": 1.7
       },
       "seasonRates": {
-        "goals90": 0.51,
-        "assists90": 0.26,
+        "goals90": 0.48,
+        "assists90": 0.24,
         "shots90": 3.2,
-        "sot90": 1.2,
-        "passes90": 26,
+        "sot90": 1.1,
+        "passes90": 25,
         "cards90": 0,
-        "fouls90": 1.5,
+        "fouls90": 1.7,
         "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 33
+          "season": 31
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "shots15": {
           "l5": 80,
           "l10": 80,
-          "season": 87
+          "season": 88
         },
         "shots25": {
           "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "sot05": {
           "l5": 40,
           "l10": 40,
-          "season": 53
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -15162,12 +15144,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 33
+          "l5": 40,
+          "l10": 30,
+          "season": 38
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -15413,23 +15410,14 @@
       "dataScope": "international",
       "searchText": "alexander sørloth norway forward i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Atlético Madrid",
-        "marketValueEur": 21000000,
-        "marketValueDisplay": "€21M",
-        "dateOfBirth": "1995-12-05",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 309078
     },
@@ -17742,29 +17730,29 @@
       "number": "9",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.51,
-      "xgShare": 0.15,
+      "minutesFactor": 0.53,
+      "xgShare": 0.13,
       "propProfile": {
-        "shotsShare": 1.5,
-        "sotShare": 1.5,
+        "shotsShare": 2.2,
+        "sotShare": 1.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 0.98,
+        "goals90": 0.74,
         "assists90": 0,
-        "shots90": 1.5,
-        "sot90": 1.5,
-        "passes90": 15,
+        "shots90": 2.2,
+        "sot90": 1.1,
+        "passes90": 12,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 46
+        "fouls90": 0.7,
+        "minutesAvg": 48
       },
       "hitRates": {
         "goals05": {
-          "l5": 50,
-          "l10": 50,
-          "season": 50
+          "l5": 40,
+          "l10": 40,
+          "season": 40
         },
         "goals15": {
           "l5": 0,
@@ -17777,19 +17765,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 40,
+          "l10": 40,
+          "season": 40
         },
         "shots25": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "sot05": {
-          "l5": 50,
-          "l10": 50,
-          "season": 50
+          "l5": 40,
+          "l10": 40,
+          "season": 40
         },
         "cards05": {
           "l5": 0,
@@ -17803,6 +17791,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -17872,24 +17875,15 @@
       "dataScope": "international",
       "searchText": "ali al-hamadi iraq forward i",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "World Cup Qualification, AFC, Round 5",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Luton Town",
-        "marketValueEur": 1500000,
-        "marketValueDisplay": "€1.5M",
-        "dateOfBirth": "2002-03-01",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1010010
     },
@@ -18053,19 +18047,19 @@
       "minutesFactor": 0.68,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 1,
+        "shotsShare": 0.9,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.7
+        "foulWeight": 0.6
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.1,
-        "shots90": 1,
+        "assists90": 0.09,
+        "shots90": 0.9,
         "sot90": 0.2,
-        "passes90": 33,
+        "passes90": 31,
         "cards90": 0,
-        "fouls90": 0.7,
+        "fouls90": 0.6,
         "minutesAvg": 61
       },
       "hitRates": {
@@ -18080,24 +18074,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "shots25": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "cards05": {
           "l5": 0,
@@ -18111,6 +18105,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -18356,8 +18365,9 @@
       "dataScope": "international",
       "searchText": "ali jasim iraq midfielder i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "Arab Cup, Knockout Stage",
@@ -18367,17 +18377,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Al-Najma SC",
-        "marketValueEur": 570000,
-        "marketValueDisplay": "€570K",
-        "dateOfBirth": "2004-01-20",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1066729
     },
@@ -19463,16 +19463,6 @@
           "Gulf Cup, Group B"
         ],
         "lastMatch": "2025-03-25"
-      },
-      "profile": {
-        "club": "Al Talaba",
-        "marketValueEur": 120000,
-        "marketValueDisplay": "€120K",
-        "dateOfBirth": "1996-01-19",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 834492
     },
@@ -23471,23 +23461,23 @@
       "number": "16",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.81,
-      "xgShare": 0.08,
+      "minutesFactor": 0.82,
+      "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 1.1,
+        "shotsShare": 1,
         "sotShare": 0.5,
         "cardWeight": 0.02,
         "foulWeight": 1.2
       },
       "seasonRates": {
-        "goals90": 0.1,
-        "assists90": 0.21,
-        "shots90": 1.1,
+        "goals90": 0.09,
+        "assists90": 0.28,
+        "shots90": 1,
         "sot90": 0.5,
-        "passes90": 32,
+        "passes90": 29,
         "cards90": 0,
         "fouls90": 1.2,
-        "minutesAvg": 73
+        "minutesAvg": 74
       },
       "hitRates": {
         "goals05": {
@@ -23501,14 +23491,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 40,
-          "l10": 20,
-          "season": 17
+          "l5": 60,
+          "l10": 30,
+          "season": 23
         },
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "shots25": {
           "l5": 0,
@@ -23518,7 +23508,7 @@
         "sot05": {
           "l5": 40,
           "l10": 40,
-          "season": 42
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -23526,12 +23516,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 40,
-          "season": 33
+          "season": 31
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -23729,8 +23734,9 @@
       "dataScope": "international",
       "searchText": "amir al-ammari iraq midfielder i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "World Cup Qualification, AFC, Round 5",
@@ -23738,17 +23744,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Cracovia",
-        "marketValueEur": 655000,
-        "marketValueDisplay": "€655K",
-        "dateOfBirth": "1997-07-26",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 915325
     },
@@ -24785,25 +24781,25 @@
       "group": "I",
       "position": "Midfielder",
       "number": "11",
-      "likelyStarter": true,
-      "benchImpact": false,
-      "minutesFactor": 0.44,
-      "xgShare": 0.09,
+      "likelyStarter": false,
+      "benchImpact": true,
+      "minutesFactor": 0.42,
+      "xgShare": 0.05,
       "propProfile": {
-        "shotsShare": 3.4,
-        "sotShare": 0.8,
+        "shotsShare": 3.3,
+        "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 0.19,
-        "assists90": 0.38,
-        "shots90": 3.4,
-        "sot90": 0.8,
-        "passes90": 38,
+        "goals90": 0.18,
+        "assists90": 0.37,
+        "shots90": 3.3,
+        "sot90": 0.7,
+        "passes90": 37,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 40
+        "fouls90": 0.7,
+        "minutesAvg": 38
       },
       "hitRates": {
         "goals05": {
@@ -24819,22 +24815,22 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 17
+          "season": 15
         },
         "shots15": {
           "l5": 40,
           "l10": 40,
-          "season": 42
+          "season": 38
         },
         "shots25": {
           "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 23
         },
         "sot05": {
           "l5": 20,
-          "l10": 30,
-          "season": 33
+          "l10": 20,
+          "season": 31
         },
         "cards05": {
           "l5": 0,
@@ -24848,6 +24844,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -25045,22 +25056,13 @@
       "dataScope": "international",
       "searchText": "andreas schjelderup norway midfielder i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Benfica",
-        "marketValueEur": 31000000,
-        "marketValueDisplay": "€31M",
-        "dateOfBirth": "2004-06-01",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1100952
     },
@@ -29954,51 +29956,51 @@
       "minutesFactor": 0.76,
       "xgShare": 0.21,
       "propProfile": {
-        "shotsShare": 4,
-        "sotShare": 1.4,
+        "shotsShare": 3.7,
+        "sotShare": 1.3,
         "cardWeight": 0.02,
         "foulWeight": 0.3
       },
       "seasonRates": {
-        "goals90": 0.62,
-        "assists90": 0.35,
-        "shots90": 4,
-        "sot90": 1.4,
-        "passes90": 29,
+        "goals90": 0.58,
+        "assists90": 0.33,
+        "shots90": 3.7,
+        "sot90": 1.3,
+        "passes90": 27,
         "cards90": 0,
         "fouls90": 0.3,
         "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 40
+          "season": 38
         },
         "goals15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "shots15": {
-          "l5": 40,
-          "l10": 70,
-          "season": 73
+          "l5": 20,
+          "l10": 60,
+          "season": 69
         },
         "shots25": {
-          "l5": 40,
-          "l10": 60,
-          "season": 60
+          "l5": 20,
+          "l10": 50,
+          "season": 56
         },
         "sot05": {
-          "l5": 60,
-          "l10": 50,
-          "season": 60
+          "l5": 40,
+          "l10": 40,
+          "season": 56
         },
         "cards05": {
           "l5": 0,
@@ -30008,10 +30010,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -30257,23 +30274,14 @@
       "dataScope": "international",
       "searchText": "antonio nusa norway forward i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "RB Leipzig",
-        "marketValueEur": 31000000,
-        "marketValueDisplay": "€31M",
-        "dateOfBirth": "2005-04-17",
-        "age": 21,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1121923
     },
@@ -36331,29 +36339,29 @@
       "number": "18",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.86,
-      "xgShare": 0.16,
+      "minutesFactor": 0.87,
+      "xgShare": 0.17,
       "propProfile": {
-        "shotsShare": 2,
+        "shotsShare": 2.1,
         "sotShare": 0.9,
         "cardWeight": 0.02,
-        "foulWeight": 1.2
+        "foulWeight": 1.3
       },
       "seasonRates": {
-        "goals90": 0.29,
-        "assists90": 0.1,
-        "shots90": 2,
+        "goals90": 0.36,
+        "assists90": 0.09,
+        "shots90": 2.1,
         "sot90": 0.9,
-        "passes90": 15,
+        "passes90": 13,
         "cards90": 0,
-        "fouls90": 1.2,
-        "minutesAvg": 77
+        "fouls90": 1.3,
+        "minutesAvg": 78
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 20,
-          "season": 25
+          "l5": 40,
+          "l10": 30,
+          "season": 31
         },
         "goals15": {
           "l5": 0,
@@ -36366,19 +36374,19 @@
           "season": 8
         },
         "shots15": {
-          "l5": 0,
+          "l5": 20,
           "l10": 40,
-          "season": 42
+          "season": 46
         },
         "shots25": {
-          "l5": 0,
+          "l5": 20,
           "l10": 30,
-          "season": 33
+          "season": 38
         },
         "sot05": {
-          "l5": 40,
+          "l5": 60,
           "l10": 50,
-          "season": 58
+          "season": 62
         },
         "cards05": {
           "l5": 0,
@@ -36386,12 +36394,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 31
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -36589,8 +36612,9 @@
       "dataScope": "international",
       "searchText": "aymen hussein iraq forward i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "Arab Cup, Group D",
@@ -36598,17 +36622,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Al Karma SC",
-        "marketValueEur": 465000,
-        "marketValueDisplay": "€465K",
-        "dateOfBirth": "1996-03-22",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 812999
     },
@@ -64253,26 +64267,26 @@
       "minutesFactor": 0.84,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 0.5,
+        "shotsShare": 0.4,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.3
+        "foulWeight": 1.4
       },
       "seasonRates": {
-        "goals90": 0.08,
-        "assists90": 0.24,
-        "shots90": 0.5,
+        "goals90": 0.07,
+        "assists90": 0.3,
+        "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 52,
+        "passes90": 49,
         "cards90": 0,
-        "fouls90": 1.3,
+        "fouls90": 1.4,
         "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -64280,24 +64294,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 20
+          "l5": 40,
+          "l10": 40,
+          "season": 25
         },
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "sot05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "cards05": {
           "l5": 0,
@@ -64307,10 +64321,25 @@
         "fouls15": {
           "l5": 40,
           "l10": 50,
-          "season": 40
+          "season": 44
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -64556,23 +64585,14 @@
       "dataScope": "international",
       "searchText": "david møller wolfe norway defender i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Wolverhampton",
-        "marketValueEur": 9200000,
-        "marketValueDisplay": "€9.2M",
-        "dateOfBirth": "2002-04-23",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1031283
     },
@@ -77689,16 +77709,6 @@
         ],
         "lastMatch": "2026-06-07"
       },
-      "profile": {
-        "club": "Watford",
-        "marketValueEur": 1600000,
-        "marketValueDisplay": "€1.6M",
-        "dateOfBirth": "1997-07-30",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 798176
     },
     {
@@ -84018,28 +84028,28 @@
         "shotsShare": 5,
         "sotShare": 3.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "foulWeight": 0.6
       },
       "seasonRates": {
-        "goals90": 1.67,
-        "assists90": 0.22,
+        "goals90": 1.69,
+        "assists90": 0.2,
         "shots90": 5,
         "sot90": 3.1,
-        "passes90": 14,
+        "passes90": 13,
         "cards90": 0,
-        "fouls90": 0.5,
+        "fouls90": 0.6,
         "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
           "l5": 60,
           "l10": 80,
-          "season": 80
+          "season": 81
         },
         "goals15": {
           "l5": 60,
-          "l10": 40,
-          "season": 40
+          "l10": 50,
+          "season": 44
         },
         "assists05": {
           "l5": 0,
@@ -84049,17 +84059,17 @@
         "shots15": {
           "l5": 60,
           "l10": 60,
-          "season": 73
+          "season": 75
         },
         "shots25": {
           "l5": 40,
           "l10": 50,
-          "season": 60
+          "season": 63
         },
         "sot05": {
           "l5": 60,
           "l10": 80,
-          "season": 80
+          "season": 81
         },
         "cards05": {
           "l5": 0,
@@ -84067,12 +84077,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 13
+          "l5": 40,
+          "l10": 30,
+          "season": 19
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 2,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 4,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -84318,23 +84343,14 @@
       "dataScope": "international",
       "searchText": "erling haaland norway forward i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Manchester City",
-        "marketValueEur": 218000000,
-        "marketValueDisplay": "€218M",
-        "dateOfBirth": "2000-07-21",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 839956
     },
@@ -88259,16 +88275,6 @@
           "Arab Cup, Group D"
         ],
         "lastMatch": "2025-12-09"
-      },
-      "profile": {
-        "club": "Al Talaba",
-        "marketValueEur": 440000,
-        "marketValueDisplay": "€440K",
-        "dateOfBirth": "1994-10-21",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 884092
     },
@@ -94777,16 +94783,6 @@
         ],
         "lastMatch": "2026-06-04"
       },
-      "profile": {
-        "club": "Persib Bandung",
-        "marketValueEur": 350000,
-        "marketValueDisplay": "€350K",
-        "dateOfBirth": "1993-07-14",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 851676
     },
     {
@@ -95320,16 +95316,6 @@
         ],
         "lastMatch": "2026-06-07"
       },
-      "profile": {
-        "club": "Bodø/Glimt",
-        "marketValueEur": 3700000,
-        "marketValueDisplay": "€3.7M",
-        "dateOfBirth": "1998-08-21",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 795154
     },
     {
@@ -95341,17 +95327,17 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.76,
+      "minutesFactor": 0.77,
       "xgShare": 0.06,
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 50,
+        "passes90": 32,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 68
+        "minutesAvg": 69
       },
       "hitRates": {
         "goals05": {
@@ -95397,6 +95383,21 @@
       },
       "gameLog": [
         {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-07",
           "opponent": "Morocco",
           "competition": "Int. Friendly Games",
@@ -95433,21 +95434,12 @@
       "dataScope": "international",
       "searchText": "fredrik aursnes norway midfielder i",
       "importMeta": {
-        "appearances": 2,
+        "appearances": 3,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Benfica",
-        "marketValueEur": 14000000,
-        "marketValueDisplay": "€14M",
-        "dateOfBirth": "1995-12-10",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 228364
     },
@@ -109886,16 +109878,6 @@
         ],
         "lastMatch": "2026-03-31"
       },
-      "profile": {
-        "club": "Viking FK",
-        "marketValueEur": 6400000,
-        "marketValueDisplay": "€6.4M",
-        "dateOfBirth": "2003-05-08",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1022374
     },
     {
@@ -112332,10 +112314,10 @@
       "number": "3",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.86,
+      "minutesFactor": 0.84,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.4,
+        "shotsShare": 0.5,
         "sotShare": 0.1,
         "cardWeight": 0.02,
         "foulWeight": 1.2
@@ -112343,12 +112325,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.4,
+        "shots90": 0.5,
         "sot90": 0.1,
-        "passes90": 24,
+        "passes90": 22,
         "cards90": 0,
         "fouls90": 1.2,
-        "minutesAvg": 77
+        "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
@@ -112368,8 +112350,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -112378,8 +112360,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -112388,11 +112370,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -112542,25 +112539,16 @@
       "dataScope": "international",
       "searchText": "hussein ali iraq defender i",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "World Cup Qualification, AFC, Round 5",
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Pogoń Szczecin",
-        "marketValueEur": 275000,
-        "marketValueDisplay": "€275K",
-        "dateOfBirth": "2002-03-01",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 962056
     },
@@ -113727,21 +113715,21 @@
       "likelyStarter": true,
       "benchImpact": false,
       "minutesFactor": 0.84,
-      "xgShare": 0.08,
+      "xgShare": 0.07,
       "propProfile": {
         "shotsShare": 1.4,
         "sotShare": 0.4,
         "cardWeight": 0.02,
-        "foulWeight": 1.6
+        "foulWeight": 1.5
       },
       "seasonRates": {
-        "goals90": 0.1,
-        "assists90": 0.1,
+        "goals90": 0.09,
+        "assists90": 0.09,
         "shots90": 1.4,
         "sot90": 0.4,
-        "passes90": 32,
+        "passes90": 29,
         "cards90": 0,
-        "fouls90": 1.6,
+        "fouls90": 1.5,
         "minutesAvg": 76
       },
       "hitRates": {
@@ -113762,8 +113750,8 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 30,
-          "season": 33
+          "l10": 20,
+          "season": 31
         },
         "shots25": {
           "l5": 20,
@@ -113773,7 +113761,7 @@
         "sot05": {
           "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 23
         },
         "cards05": {
           "l5": 0,
@@ -113781,12 +113769,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 80,
+          "l5": 60,
           "l10": 50,
-          "season": 50
+          "season": 46
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -113984,25 +113987,16 @@
       "dataScope": "international",
       "searchText": "ibrahim bayesh iraq midfielder i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Al-Dhafra",
-        "marketValueEur": 820000,
-        "marketValueDisplay": "€820K",
-        "dateOfBirth": "2000-05-01",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 920815
     },
@@ -123651,7 +123645,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 27,
+        "passes90": 24,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 86
@@ -123699,6 +123693,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -123894,25 +123904,16 @@
       "dataScope": "international",
       "searchText": "jalal hassan iraq goalkeeper i",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 5",
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Al-Zawraa",
-        "marketValueEur": 325000,
-        "marketValueDisplay": "€325K",
-        "dateOfBirth": "1991-05-18",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 196454
     },
@@ -129921,16 +129922,6 @@
           "UEFA Nations League, League B, Gr. 3"
         ],
         "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "Bodø/Glimt",
-        "marketValueEur": 12500000,
-        "marketValueDisplay": "€12.5M",
-        "dateOfBirth": "1999-10-12",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 838805
     },
@@ -143721,16 +143712,6 @@
         ],
         "lastMatch": "2026-06-07"
       },
-      "profile": {
-        "club": "Crystal Palace",
-        "marketValueEur": 46000000,
-        "marketValueDisplay": "€46M",
-        "dateOfBirth": "2000-02-06",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 876599
     },
     {
@@ -150725,29 +150706,29 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.94,
+      "minutesFactor": 0.96,
       "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 0.9,
+        "shotsShare": 0.8,
         "sotShare": 0.1,
         "cardWeight": 0.02,
         "foulWeight": 1.5
       },
       "seasonRates": {
         "goals90": 0.07,
-        "assists90": 0.42,
-        "shots90": 0.9,
+        "assists90": 0.39,
+        "shots90": 0.8,
         "sot90": 0.1,
-        "passes90": 51,
+        "passes90": 48,
         "cards90": 0,
         "fouls90": 1.5,
-        "minutesAvg": 85
+        "minutesAvg": 86
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -150757,12 +150738,12 @@
         "assists05": {
           "l5": 20,
           "l10": 30,
-          "season": 27
+          "season": 25
         },
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "shots25": {
           "l5": 0,
@@ -150782,10 +150763,25 @@
         "fouls15": {
           "l5": 60,
           "l10": 70,
-          "season": 53
+          "season": 56
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -151031,23 +151027,14 @@
       "dataScope": "international",
       "searchText": "julian ryerson norway midfielder i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Borussia Dortmund",
-        "marketValueEur": 24000000,
-        "marketValueDisplay": "€24M",
-        "dateOfBirth": "1997-11-17",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 800951
     },
@@ -161117,16 +161104,6 @@
         ],
         "lastMatch": "2026-06-04"
       },
-      "profile": {
-        "club": "AGF",
-        "marketValueEur": 910000,
-        "marketValueDisplay": "€910K",
-        "dateOfBirth": "2000-10-10",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 936451
     },
     {
@@ -165306,23 +165283,23 @@
       "number": "18",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.4,
+      "minutesFactor": 0.38,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 1.3,
+        "shotsShare": 1.7,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.8
+        "foulWeight": 1.7
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.3,
+        "shots90": 1.7,
         "sot90": 0,
-        "passes90": 48,
+        "passes90": 46,
         "cards90": 0,
-        "fouls90": 1.8,
-        "minutesAvg": 36
+        "fouls90": 1.7,
+        "minutesAvg": 34
       },
       "hitRates": {
         "goals05": {
@@ -165341,9 +165318,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         },
         "shots25": {
           "l5": 0,
@@ -165367,6 +165344,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -165532,23 +165524,14 @@
       "dataScope": "international",
       "searchText": "kristian thorstvedt norway midfielder i",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Sassuolo",
-        "marketValueEur": 10300000,
-        "marketValueDisplay": "€10.3M",
-        "dateOfBirth": "1999-03-13",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 924973
     },
@@ -165838,23 +165821,23 @@
         "shotsShare": 0.4,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.7
       },
       "seasonRates": {
         "goals90": 0.07,
         "assists90": 0,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 63,
+        "passes90": 58,
         "cards90": 0,
-        "fouls90": 0.8,
+        "fouls90": 0.7,
         "minutesAvg": 85
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -165889,10 +165872,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -166138,23 +166136,14 @@
       "dataScope": "international",
       "searchText": "kristoffer ajer norway defender i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Brentford",
-        "marketValueEur": 19500000,
-        "marketValueDisplay": "€19.5M",
-        "dateOfBirth": "1998-04-17",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 576384
     },
@@ -170420,31 +170409,31 @@
       "group": "I",
       "position": "Defender",
       "number": "4",
-      "likelyStarter": true,
-      "benchImpact": false,
-      "minutesFactor": 0.53,
+      "likelyStarter": false,
+      "benchImpact": true,
+      "minutesFactor": 0.51,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.4,
-        "sotShare": 0.3,
+        "shotsShare": 0.6,
+        "sotShare": 0.4,
         "cardWeight": 0.02,
         "foulWeight": 0.9
       },
       "seasonRates": {
-        "goals90": 0,
+        "goals90": 0.12,
         "assists90": 0,
-        "shots90": 0.4,
-        "sot90": 0.3,
-        "passes90": 89,
+        "shots90": 0.6,
+        "sot90": 0.4,
+        "passes90": 87,
         "cards90": 0,
         "fouls90": 0.9,
-        "minutesAvg": 48
+        "minutesAvg": 46
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -170457,9 +170446,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -170467,9 +170456,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 13
+          "l5": 20,
+          "l10": 10,
+          "season": 19
         },
         "cards05": {
           "l5": 0,
@@ -170479,10 +170468,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 17,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -170728,23 +170732,14 @@
       "dataScope": "international",
       "searchText": "leo østigård norway defender i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Stade Rennais",
-        "marketValueEur": 14300000,
-        "marketValueDisplay": "€14.3M",
-        "dateOfBirth": "1999-11-28",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 879746
     },
@@ -182698,16 +182693,6 @@
         "competitions": [],
         "lastMatch": null
       },
-      "profile": {
-        "club": "Al-Shorta",
-        "marketValueEur": null,
-        "marketValueDisplay": null,
-        "dateOfBirth": "1996-11-15",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1176558
     },
     {
@@ -185883,16 +185868,6 @@
         ],
         "lastMatch": "2026-06-01"
       },
-      "profile": {
-        "club": "Torino",
-        "marketValueEur": 3300000,
-        "marketValueDisplay": "€3.3M",
-        "dateOfBirth": "2000-07-16",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 934409
     },
     {
@@ -187870,23 +187845,23 @@
       "number": "21",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.58,
+      "minutesFactor": 0.56,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 1.1,
+        "shotsShare": 1,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.7
+        "foulWeight": 0.6
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.22,
-        "shots90": 1.1,
+        "assists90": 0.2,
+        "shots90": 1,
         "sot90": 0.2,
-        "passes90": 19,
+        "passes90": 17,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 52
+        "fouls90": 0.6,
+        "minutesAvg": 50
       },
       "hitRates": {
         "goals05": {
@@ -187901,13 +187876,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots25": {
           "l5": 0,
@@ -187916,8 +187891,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
           "l5": 0,
@@ -187926,11 +187901,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -188064,25 +188054,16 @@
       "dataScope": "international",
       "searchText": "marko farji iraq midfielder i",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "World Cup Qualification, AFC, Round 5",
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Venezia",
-        "marketValueEur": 1900000,
-        "marketValueDisplay": "€1.9M",
-        "dateOfBirth": "2004-03-16",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1026519
     },
@@ -189588,17 +189569,17 @@
       "minutesFactor": 0.92,
       "xgShare": 0.09,
       "propProfile": {
-        "shotsShare": 2.7,
+        "shotsShare": 2.5,
         "sotShare": 0.4,
         "cardWeight": 0.02,
         "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.2,
-        "assists90": 0.79,
-        "shots90": 2.7,
+        "goals90": 0.18,
+        "assists90": 0.82,
+        "shots90": 2.5,
         "sot90": 0.4,
-        "passes90": 74,
+        "passes90": 68,
         "cards90": 0,
         "fouls90": 0.5,
         "minutesAvg": 83
@@ -189607,7 +189588,7 @@
         "goals05": {
           "l5": 40,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -189617,22 +189598,22 @@
         "assists05": {
           "l5": 40,
           "l10": 50,
-          "season": 45
+          "season": 50
         },
         "shots15": {
           "l5": 40,
           "l10": 50,
-          "season": 55
+          "season": 50
         },
         "shots25": {
           "l5": 40,
           "l10": 50,
-          "season": 55
+          "season": 50
         },
         "sot05": {
           "l5": 40,
-          "l10": 30,
-          "season": 27
+          "l10": 20,
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -189642,10 +189623,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 18
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -189827,23 +189823,14 @@
       "dataScope": "international",
       "searchText": "martin ødegaard norway midfielder i",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Arsenal",
-        "marketValueEur": 71000000,
-        "marketValueDisplay": "€71M",
-        "dateOfBirth": "1998-12-17",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 547410
     },
@@ -198493,28 +198480,28 @@
       "likelyStarter": true,
       "benchImpact": false,
       "minutesFactor": 0.97,
-      "xgShare": 0.04,
+      "xgShare": 0.03,
       "propProfile": {
         "shotsShare": 0.3,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.5
+        "foulWeight": 1.3
       },
       "seasonRates": {
-        "goals90": 0.1,
+        "goals90": 0.09,
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 27,
+        "passes90": 25,
         "cards90": 0,
-        "fouls90": 1.5,
+        "fouls90": 1.3,
         "minutesAvg": 87
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "goals15": {
           "l5": 0,
@@ -198539,7 +198526,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "cards05": {
           "l5": 0,
@@ -198548,11 +198535,26 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l10": 30,
+          "season": 36
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -198718,25 +198720,16 @@
       "dataScope": "international",
       "searchText": "merchas doski iraq defender i",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "World Cup Qualification, AFC, Round 5",
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "FC Viktoria Plzeň",
-        "marketValueEur": 1100000,
-        "marketValueDisplay": "€1.1M",
-        "dateOfBirth": "1999-12-07",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1381224
     },
@@ -209433,29 +209426,29 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.6,
+      "minutesFactor": 0.57,
       "xgShare": 0.19,
       "propProfile": {
-        "shotsShare": 3.6,
+        "shotsShare": 3.5,
         "sotShare": 1.1,
         "cardWeight": 0.02,
         "foulWeight": 1.3
       },
       "seasonRates": {
-        "goals90": 0.48,
+        "goals90": 0.47,
         "assists90": 0,
-        "shots90": 3.6,
+        "shots90": 3.5,
         "sot90": 1.1,
-        "passes90": 9,
+        "passes90": 8,
         "cards90": 0,
         "fouls90": 1.3,
-        "minutesAvg": 54
+        "minutesAvg": 51
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 29
+          "season": 27
         },
         "goals15": {
           "l5": 0,
@@ -209468,19 +209461,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 57
+          "season": 53
         },
         "shots25": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 36
+          "season": 33
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 43
+          "season": 40
         },
         "cards05": {
           "l5": 0,
@@ -209490,10 +209483,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 14
+          "season": 13
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-04-01",
           "opponent": "Bolivia",
@@ -209723,8 +209731,9 @@
       "dataScope": "international",
       "searchText": "mohanad ali iraq forward i",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group I",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "Arab Cup, Knockout Stage",
           "Arab Cup, Group D",
@@ -209733,17 +209742,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-04-01"
-      },
-      "profile": {
-        "club": "Dibba Al-Fujairah",
-        "marketValueEur": 1300000,
-        "marketValueDisplay": "€1.3M",
-        "dateOfBirth": "2000-06-20",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 951859
     },
@@ -212329,16 +212328,6 @@
         ],
         "lastMatch": "2026-06-01"
       },
-      "profile": {
-        "club": "Cremonese",
-        "marketValueEur": 3100000,
-        "marketValueDisplay": "€3.1M",
-        "dateOfBirth": "1996-05-05",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 280991
     },
     {
@@ -213982,23 +213971,23 @@
       "number": "15",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.61,
+      "minutesFactor": 0.57,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.2,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 1
+        "foulWeight": 1.4
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0.2,
-        "passes90": 42,
+        "passes90": 41,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 55
+        "fouls90": 1.4,
+        "minutesAvg": 51
       },
       "hitRates": {
         "goals05": {
@@ -214028,8 +214017,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
           "l5": 0,
@@ -214037,12 +214026,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 11,
+          "season": 11
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -214176,25 +214180,16 @@
       "dataScope": "international",
       "searchText": "mustafa saadoon iraq defender i",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Arab Cup, Knockout Stage",
           "Arab Cup, Group D",
           "World Cup Qualification, AFC, Round 5",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Al-Shorta",
-        "marketValueEur": 270000,
-        "marketValueDisplay": "€270K",
-        "dateOfBirth": "2001-05-25",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1500435
     },
@@ -230247,7 +230242,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 26,
+        "passes90": 24,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 86
@@ -230295,6 +230290,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -230585,23 +230595,14 @@
       "dataScope": "international",
       "searchText": "ørjan nyland norway goalkeeper i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Sevilla",
-        "marketValueEur": 930000,
-        "marketValueDisplay": "€930K",
-        "dateOfBirth": "1990-09-10",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 22209
     },
@@ -231547,7 +231548,7 @@
       "number": "22",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.61,
+      "minutesFactor": 0.58,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.6,
@@ -231557,13 +231558,13 @@
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.24,
+        "assists90": 0.23,
         "shots90": 0.6,
         "sot90": 0.1,
-        "passes90": 45,
+        "passes90": 44,
         "cards90": 0,
         "fouls90": 0.1,
-        "minutesAvg": 55
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
@@ -231577,9 +231578,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 14
+          "season": 13
         },
         "shots15": {
           "l5": 0,
@@ -231608,6 +231609,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -231837,22 +231853,13 @@
       "dataScope": "international",
       "searchText": "oscar bobb norway midfielder i",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Fulham",
-        "marketValueEur": 29000000,
-        "marketValueDisplay": "€29M",
-        "dateOfBirth": "2003-07-12",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1065216
     },
@@ -235212,23 +235219,23 @@
       "number": "6",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.47,
+      "minutesFactor": 0.44,
       "xgShare": 0.03,
       "propProfile": {
         "shotsShare": 0.6,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "foulWeight": 0.8
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.6,
         "sot90": 0.1,
-        "passes90": 52,
+        "passes90": 51,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 42
+        "fouls90": 0.8,
+        "minutesAvg": 40
       },
       "hitRates": {
         "goals05": {
@@ -235249,7 +235256,7 @@
         "shots15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -235259,7 +235266,7 @@
         "sot05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "cards05": {
           "l5": 0,
@@ -235269,10 +235276,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -235518,23 +235540,14 @@
       "dataScope": "international",
       "searchText": "patrick berg norway midfielder i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Bodø/Glimt",
-        "marketValueEur": 7500000,
-        "marketValueDisplay": "€7.5M",
-        "dateOfBirth": "1997-11-24",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 355174
     },
@@ -246296,16 +246309,6 @@
           "Gulf Cup, Group B"
         ],
         "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Port FC",
-        "marketValueEur": 96000,
-        "marketValueDisplay": "€96K",
-        "dateOfBirth": "1992-04-12",
-        "age": 34,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 362504
     },
@@ -261321,7 +261324,7 @@
       "number": "8",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.9,
+      "minutesFactor": 0.91,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.4,
@@ -261331,13 +261334,13 @@
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.3,
+        "assists90": 0.28,
         "shots90": 0.4,
         "sot90": 0,
-        "passes90": 87,
+        "passes90": 81,
         "cards90": 0,
         "fouls90": 0.9,
-        "minutesAvg": 81
+        "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
@@ -261353,7 +261356,7 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 27
+          "season": 25
         },
         "shots15": {
           "l5": 0,
@@ -261376,12 +261379,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 13
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -261627,23 +261645,14 @@
       "dataScope": "international",
       "searchText": "sander berge norway midfielder i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Fulham",
-        "marketValueEur": 26000000,
-        "marketValueDisplay": "€26M",
-        "dateOfBirth": "1998-02-14",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 793167
     },
@@ -261718,16 +261727,6 @@
         "appearances": 0,
         "competitions": [],
         "lastMatch": null
-      },
-      "profile": {
-        "club": "Hamburger SV",
-        "marketValueEur": 2700000,
-        "marketValueDisplay": "€2.7M",
-        "dateOfBirth": "2002-11-29",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1030355
     },
@@ -269608,16 +269607,6 @@
         ],
         "lastMatch": "2026-06-01"
       },
-      "profile": {
-        "club": "Derby County",
-        "marketValueEur": 3600000,
-        "marketValueDisplay": "€3.6M",
-        "dateOfBirth": "2001-02-02",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1026541
     },
     {
@@ -275216,16 +275205,6 @@
           "World Cup Qual. UEFA I"
         ],
         "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Rangers",
-        "marketValueEur": 2500000,
-        "marketValueDisplay": "€2.5M",
-        "dateOfBirth": "2002-05-02",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1065989
     },
@@ -281062,10 +281041,10 @@
       "number": "17",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.77,
+      "minutesFactor": 0.78,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.7,
+        "shotsShare": 0.6,
         "sotShare": 0.2,
         "cardWeight": 0.02,
         "foulWeight": 0.8
@@ -281073,12 +281052,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.7,
+        "shots90": 0.6,
         "sot90": 0.2,
-        "passes90": 68,
+        "passes90": 62,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 69
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
@@ -281099,7 +281078,7 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -281123,6 +281102,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-07",
           "opponent": "Morocco",
@@ -281368,23 +281362,14 @@
       "dataScope": "international",
       "searchText": "torbjørn heggem norway defender i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qual. UEFA I",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-07"
-      },
-      "profile": {
-        "club": "Bologna",
-        "marketValueEur": 12200000,
-        "marketValueDisplay": "€12.2M",
-        "dateOfBirth": "1999-01-12",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 933264
     },
@@ -295419,16 +295404,6 @@
         ],
         "lastMatch": "2026-06-04"
       },
-      "profile": {
-        "club": "AEK Larnaca",
-        "marketValueEur": 580000,
-        "marketValueDisplay": "€580K",
-        "dateOfBirth": "2003-08-21",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1106352
     },
     {
@@ -296944,16 +296919,6 @@
         ],
         "lastMatch": "2026-06-04"
       },
-      "profile": {
-        "club": "Al Talaba",
-        "marketValueEur": 380000,
-        "marketValueDisplay": "€380K",
-        "dateOfBirth": "2002-01-03",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1843356
     },
     {
@@ -296965,23 +296930,23 @@
       "number": "6",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.92,
+      "minutesFactor": 0.9,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.4,
+        "shotsShare": 0.6,
         "sotShare": 0.1,
-        "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "cardWeight": 0.09,
+        "foulWeight": 1.4
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.4,
+        "shots90": 0.6,
         "sot90": 0.1,
-        "passes90": 55,
-        "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 83
+        "passes90": 47,
+        "cards90": 0.09,
+        "fouls90": 1.4,
+        "minutesAvg": 81
       },
       "hitRates": {
         "goals05": {
@@ -297000,9 +296965,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "shots25": {
           "l5": 0,
@@ -297012,20 +296977,50 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 8
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "fouls15": {
           "l5": 40,
-          "l10": 30,
-          "season": 30
+          "l10": 40,
+          "season": 42
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 3
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -297191,8 +297186,9 @@
       "dataScope": "international",
       "searchText": "zaid tahseen iraq defender i",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "World Cup Qualification, AFC, Round 5",
@@ -297200,17 +297196,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Pakhtakor Tashkent",
-        "marketValueEur": 565000,
-        "marketValueDisplay": "€565K",
-        "dateOfBirth": "2001-01-28",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1150051
     },
@@ -298262,7 +298248,7 @@
       "number": "11",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.54,
+      "minutesFactor": 0.52,
       "xgShare": 0.05,
       "propProfile": {
         "shotsShare": 0.2,
@@ -298271,20 +298257,20 @@
         "foulWeight": 0.8
       },
       "seasonRates": {
-        "goals90": 0.2,
+        "goals90": 0.19,
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0.2,
-        "passes90": 51,
+        "passes90": 48,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 49
+        "minutesAvg": 47
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 0,
+          "l10": 10,
+          "season": 10
         },
         "goals15": {
           "l5": 0,
@@ -298307,9 +298293,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 0,
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -298318,11 +298304,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -298472,25 +298473,16 @@
       "dataScope": "international",
       "searchText": "zidane iqbal iraq midfielder i",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 5",
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-04"
-      },
-      "profile": {
-        "club": "Jong FC Utrecht",
-        "marketValueEur": 1000000,
-        "marketValueDisplay": "€1M",
-        "dateOfBirth": "2003-04-27",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-16"
       },
       "sofascoreId": 1014225
     },

@@ -911,8 +911,8 @@
       },
       "teamStats": {
         "possession": {
-          "home": 53.7,
-          "away": 46.3
+          "home": 53.4,
+          "away": 46.6
         },
         "shots": {
           "home": 11,
@@ -947,7 +947,77 @@
           "away": 90
         }
       },
-      "syncedAt": "2026-06-16T22:24:35.143Z",
+      "syncedAt": "2026-06-17T02:08:18.110Z",
+      "source": "espn"
+    },
+    "GS-I-2": {
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 4,
+      "scorers": {
+        "home": [
+          {
+            "name": "Aymen Hussein",
+            "minute": "39'",
+            "assist": "Amir Al-Ammari"
+          }
+        ],
+        "away": [
+          {
+            "name": "Erling Haaland",
+            "minute": "29'",
+            "assist": "David Møller Wolfe"
+          },
+          {
+            "name": "Erling Haaland",
+            "minute": "43'"
+          },
+          {
+            "name": "Leo Østigard",
+            "minute": "76'",
+            "assist": "Martin Ødegaard"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 38.7,
+          "away": 61.3
+        },
+        "shots": {
+          "home": 11,
+          "away": 13
+        },
+        "shotsOnTarget": {
+          "home": 1,
+          "away": 5
+        },
+        "corners": {
+          "home": 2,
+          "away": 5
+        },
+        "fouls": {
+          "home": 12,
+          "away": 13
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 2,
+          "away": 0
+        },
+        "passAccuracy": {
+          "home": 80,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-17T02:08:18.126Z",
       "source": "espn"
     }
   }
