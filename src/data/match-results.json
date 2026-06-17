@@ -1019,6 +1019,71 @@
       },
       "syncedAt": "2026-06-17T02:08:18.126Z",
       "source": "espn"
+    },
+    "GS-J-2": {
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Romano Schmid",
+            "minute": "21'",
+            "assist": "Xaver Schlager"
+          },
+          {
+            "name": "Marko Arnautovic",
+            "minute": "90'+12'"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ali Olwan",
+            "minute": "50'",
+            "assist": "Noor Al-Rawabdeh"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 63.3,
+          "away": 36.7
+        },
+        "shots": {
+          "home": 11,
+          "away": 11
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 4
+        },
+        "corners": {
+          "home": 4,
+          "away": 3
+        },
+        "fouls": {
+          "home": 12,
+          "away": 7
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 3,
+          "away": 1
+        },
+        "passAccuracy": {
+          "home": 80,
+          "away": 70
+        }
+      },
+      "syncedAt": "2026-06-17T07:25:17.396Z",
+      "source": "espn"
     }
   }
 }

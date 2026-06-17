@@ -3,9 +3,18 @@
   "team": "Austria",
   "group": "J",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-11T08:49:12.207Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-17T07:25:17.824Z",
+  "eventsProcessed": 16,
   "teamMatchResults": [
+    {
+      "date": "2026-06-17",
+      "opponent": "Jordan",
+      "competition": "FIFA World Cup, Group J",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
     {
       "date": "2026-06-01",
       "opponent": "Tunisia",
@@ -155,6 +164,22 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 3
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -370,7 +395,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 29,
+        "passes90": 27,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 86
@@ -418,24 +443,15 @@
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "Red Bull Salzburg",
-        "marketValueEur": 1900000,
-        "marketValueDisplay": "€1.9M",
-        "dateOfBirth": "1996-02-01",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -528,16 +544,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "FC Viktoria Plzeň",
-        "marketValueEur": 2100000,
-        "marketValueDisplay": "€2.1M",
-        "dateOfBirth": "2001-03-21",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -824,16 +830,6 @@
           "Euro, Group D"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Brøndby IF",
-        "marketValueEur": 2000000,
-        "marketValueDisplay": "€2M",
-        "dateOfBirth": "1997-01-02",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -923,16 +919,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Elche",
-        "marketValueEur": 8100000,
-        "marketValueDisplay": "€8.1M",
-        "dateOfBirth": "2001-03-19",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -947,6 +933,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -1078,10 +1079,10 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.19,
-        "shots90": 0.6,
+        "assists90": 0.17,
+        "shots90": 0.7,
         "sot90": 0,
-        "passes90": 86,
+        "passes90": 77,
         "cards90": 0,
         "fouls90": 0.2,
         "minutesAvg": 60
@@ -1099,8 +1100,8 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots15": {
           "l5": 0,
@@ -1129,23 +1130,14 @@
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "Real Madrid",
-        "marketValueEur": 3200000,
-        "marketValueDisplay": "€3.2M",
-        "dateOfBirth": "1992-06-24",
-        "age": 33,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -1160,6 +1152,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -1339,13 +1346,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.29,
+        "assists90": 0.27,
         "shots90": 0.3,
         "sot90": 0,
-        "passes90": 85,
+        "passes90": 81,
         "cards90": 0,
-        "fouls90": 1.3,
-        "minutesAvg": 57
+        "fouls90": 1.2,
+        "minutesAvg": 55
       },
       "hitRates": {
         "goals05": {
@@ -1359,9 +1366,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "shots15": {
           "l5": 0,
@@ -1386,29 +1393,20 @@
         "fouls15": {
           "l5": 60,
           "l10": 30,
-          "season": 27
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, League B, Gr. 3",
           "Euro, Knockout stage",
           "Euro, Group D"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "Tottenham Hotspur",
-        "marketValueEur": 19400000,
-        "marketValueDisplay": "€19.4M",
-        "dateOfBirth": "1998-09-19",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -1423,6 +1421,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -1665,13 +1678,13 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.15,
-        "assists90": 0.08,
+        "goals90": 0.14,
+        "assists90": 0.07,
         "shots90": 1,
-        "sot90": 0.5,
-        "passes90": 50,
+        "sot90": 0.4,
+        "passes90": 46,
         "cards90": 0,
-        "fouls90": 1.8,
+        "fouls90": 1.9,
         "minutesAvg": 80
       },
       "hitRates": {
@@ -1688,12 +1701,12 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "shots25": {
           "l5": 0,
@@ -1703,7 +1716,7 @@
         "sot05": {
           "l5": 0,
           "l10": 20,
-          "season": 40
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -1712,29 +1725,20 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 30,
-          "season": 33
+          "l10": 40,
+          "season": 38
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "FC Bayern München",
-        "marketValueEur": 31000000,
-        "marketValueDisplay": "€31M",
-        "dateOfBirth": "1997-05-27",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -1905,16 +1909,6 @@
           "World Cup Qual. UEFA H"
         ],
         "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "SV Werder Bremen",
-        "marketValueEur": 10600000,
-        "marketValueDisplay": "€10.6M",
-        "dateOfBirth": "1998-03-16",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2053,16 +2047,6 @@
           "UEFA Nations League, League B, Gr. 3"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Venezia",
-        "marketValueEur": 2900000,
-        "marketValueDisplay": "€2.9M",
-        "dateOfBirth": "1998-10-15",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -2077,6 +2061,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -2319,20 +2318,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.08,
+        "goals90": 0.07,
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 86,
+        "passes90": 80,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 79
+        "fouls90": 0.4,
+        "minutesAvg": 80
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -2357,7 +2356,7 @@
         "sot05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "cards05": {
           "l5": 0,
@@ -2371,24 +2370,15 @@
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "SC Freiburg",
-        "marketValueEur": 9600000,
-        "marketValueDisplay": "€9.6M",
-        "dateOfBirth": "1996-07-11",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -2403,6 +2393,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -2645,45 +2650,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.35,
-        "assists90": 0.35,
-        "shots90": 1.3,
+        "goals90": 0.32,
+        "assists90": 0.32,
+        "shots90": 1.4,
         "sot90": 0.5,
-        "passes90": 48,
+        "passes90": 44,
         "cards90": 0,
-        "fouls90": 1.9,
-        "minutesAvg": 69
+        "fouls90": 2,
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "assists05": {
           "l5": 20,
           "l10": 30,
-          "season": 27
+          "season": 25
         },
         "shots15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 27
+          "l5": 40,
+          "l10": 30,
+          "season": 31
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 27
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -2691,29 +2696,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 60,
           "l10": 50,
-          "season": 40
+          "season": 44
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "1. FSV Mainz 05",
-        "marketValueEur": 6200000,
-        "marketValueDisplay": "€6.2M",
-        "dateOfBirth": "1997-05-14",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -2835,16 +2831,6 @@
           "World Cup Qual. UEFA H"
         ],
         "lastMatch": "2025-11-18"
-      },
-      "profile": {
-        "club": "Wolfsberger AC",
-        "marketValueEur": 775000,
-        "marketValueDisplay": "€775K",
-        "dateOfBirth": "1994-02-07",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3130,16 +3116,6 @@
           "Euro, Group D"
         ],
         "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "TSG Hoffenheim",
-        "marketValueEur": 8700000,
-        "marketValueDisplay": "€8.7M",
-        "dateOfBirth": "2001-05-26",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3154,6 +3130,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -3204,20 +3195,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 1.05,
+        "goals90": 0.77,
         "assists90": 0,
-        "shots90": 2.1,
-        "sot90": 1.1,
-        "passes90": 30,
+        "shots90": 2.3,
+        "sot90": 1.5,
+        "passes90": 22,
         "cards90": 0,
-        "fouls90": 0,
+        "fouls90": 0.8,
         "minutesAvg": 29
       },
       "hitRates": {
         "goals05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -3240,9 +3231,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -3256,21 +3247,12 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "Borussia Dortmund",
-        "marketValueEur": 18100000,
-        "marketValueDisplay": "€18.1M",
-        "dateOfBirth": "2003-10-20",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -3291,16 +3273,6 @@
         "appearances": 0,
         "competitions": [],
         "lastMatch": null
-      },
-      "profile": {
-        "club": "FC Schalke 04",
-        "marketValueEur": 3300000,
-        "marketValueDisplay": "€3.3M",
-        "dateOfBirth": "1997-10-08",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3619,16 +3591,6 @@
           "Euro, Group D"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Sporting Braga",
-        "marketValueEur": 2600000,
-        "marketValueDisplay": "€2.6M",
-        "dateOfBirth": "1995-08-07",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -3643,6 +3605,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 0
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -3885,20 +3862,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.55,
-        "assists90": 0.48,
-        "shots90": 3,
-        "sot90": 1.7,
-        "passes90": 39,
-        "cards90": 0,
-        "fouls90": 0.6,
+        "goals90": 0.51,
+        "assists90": 0.45,
+        "shots90": 2.9,
+        "sot90": 1.6,
+        "passes90": 37,
+        "cards90": 0.06,
+        "fouls90": 0.5,
         "minutesAvg": 87
       },
       "hitRates": {
         "goals05": {
           "l5": 60,
           "l10": 50,
-          "season": 53
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -3907,53 +3884,44 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 30,
-          "season": 27
+          "l10": 20,
+          "season": 25
         },
         "shots15": {
-          "l5": 40,
-          "l10": 60,
-          "season": 73
+          "l5": 20,
+          "l10": 50,
+          "season": 69
         },
         "shots25": {
-          "l5": 40,
-          "l10": 50,
-          "season": 60
+          "l5": 20,
+          "l10": 40,
+          "season": 56
         },
         "sot05": {
-          "l5": 80,
-          "l10": 90,
-          "season": 87
+          "l5": 60,
+          "l10": 80,
+          "season": 81
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 20
+          "season": 19
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "Borussia Dortmund",
-        "marketValueEur": 6200000,
-        "marketValueDisplay": "€6.2M",
-        "dateOfBirth": "1994-03-17",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -3968,6 +3936,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -4214,7 +4197,7 @@
         "assists90": 0.07,
         "shots90": 0.4,
         "sot90": 0.2,
-        "passes90": 61,
+        "passes90": 57,
         "cards90": 0,
         "fouls90": 1.3,
         "minutesAvg": 85
@@ -4223,7 +4206,7 @@
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -4233,12 +4216,12 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -4246,9 +4229,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 30,
-          "season": 20
+          "season": 19
         },
         "cards05": {
           "l5": 0,
@@ -4257,29 +4240,20 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 40,
-          "season": 27
+          "l10": 30,
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "RB Leipzig",
-        "marketValueEur": 24000000,
-        "marketValueDisplay": "€24M",
-        "dateOfBirth": "2001-05-04",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -4294,6 +4268,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-31",
           "opponent": "South Korea",
@@ -4543,7 +4532,7 @@
         "passes90": 41,
         "cards90": 0,
         "fouls90": 1.7,
-        "minutesAvg": 49
+        "minutesAvg": 46
       },
       "hitRates": {
         "goals05": {
@@ -4564,17 +4553,17 @@
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 33
+          "season": 31
         },
         "shots25": {
           "l5": 20,
           "l10": 20,
-          "season": 27
+          "season": 25
         },
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 27
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -4582,30 +4571,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 27
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "VfL Wolfsburg",
-        "marketValueEur": 11100000,
-        "marketValueDisplay": "€11.1M",
-        "dateOfBirth": "2001-05-30",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -4620,6 +4600,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -4672,12 +4667,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.7,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 38,
+        "passes90": 31,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 45
+        "fouls90": 0.6,
+        "minutesAvg": 41
       },
       "hitRates": {
         "goals05": {
@@ -4722,21 +4717,12 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "PSV Eindhoven",
-        "marketValueEur": 18800000,
-        "marketValueDisplay": "€18.8M",
-        "dateOfBirth": "2005-12-22",
-        "age": 20,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -4751,6 +4737,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -4997,10 +4998,10 @@
         "assists90": 0.08,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 42,
+        "passes90": 39,
         "cards90": 0,
         "fouls90": 1.6,
-        "minutesAvg": 71
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
@@ -5016,12 +5017,12 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
-          "season": 7
+          "l10": 0,
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -5031,7 +5032,7 @@
         "sot05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "cards05": {
           "l5": 0,
@@ -5039,30 +5040,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 27
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "1. FSV Mainz 05",
-        "marketValueEur": 1600000,
-        "marketValueDisplay": "€1.6M",
-        "dateOfBirth": "1994-01-29",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -5077,6 +5069,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -5319,20 +5326,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.19,
-        "assists90": 0.19,
+        "goals90": 0.26,
+        "assists90": 0.17,
         "shots90": 1.1,
         "sot90": 0.7,
-        "passes90": 41,
+        "passes90": 38,
         "cards90": 0,
-        "fouls90": 1.9,
-        "minutesAvg": 63
+        "fouls90": 1.7,
+        "minutesAvg": 65
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 13
+          "l5": 20,
+          "l10": 20,
+          "season": 19
         },
         "goals15": {
           "l5": 0,
@@ -5352,12 +5359,12 @@
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "sot05": {
           "l5": 20,
-          "l10": 20,
-          "season": 40
+          "l10": 30,
+          "season": 44
         },
         "cards05": {
           "l5": 0,
@@ -5365,30 +5372,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 40,
-          "season": 40
+          "season": 38
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "SV Werder Bremen",
-        "marketValueEur": 16500000,
-        "marketValueDisplay": "€16.5M",
-        "dateOfBirth": "2000-01-27",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -5403,6 +5401,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -5534,12 +5547,12 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.21,
+        "assists90": 0.37,
         "shots90": 0.6,
         "sot90": 0,
-        "passes90": 55,
+        "passes90": 48,
         "cards90": 0,
-        "fouls90": 0.9,
+        "fouls90": 1.1,
         "minutesAvg": 53
       },
       "hitRates": {
@@ -5554,14 +5567,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l5": 40,
+          "l10": 22,
+          "season": 22
         },
         "shots15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots25": {
           "l5": 0,
@@ -5579,29 +5592,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l5": 20,
+          "l10": 22,
+          "season": 22
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "RB Leipzig",
-        "marketValueEur": 9500000,
-        "marketValueDisplay": "€9.5M",
-        "dateOfBirth": "1997-09-28",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -5616,6 +5620,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -5858,45 +5877,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 1.02,
-        "assists90": 0.31,
+        "goals90": 1.07,
+        "assists90": 0.29,
         "shots90": 2.9,
-        "sot90": 1.6,
-        "passes90": 26,
+        "sot90": 1.8,
+        "passes90": 25,
         "cards90": 0,
         "fouls90": 1.2,
-        "minutesAvg": 59
+        "minutesAvg": 58
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 30,
-          "season": 27
+          "l10": 40,
+          "season": 31
         },
         "goals15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 30,
-          "season": 27
+          "season": 25
         },
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "shots15": {
           "l5": 20,
-          "l10": 30,
-          "season": 47
+          "l10": 40,
+          "season": 50
         },
         "shots25": {
           "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "sot05": {
           "l5": 20,
-          "l10": 30,
-          "season": 47
+          "l10": 40,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -5906,28 +5925,19 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 20
+          "season": 19
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "FK Crvena zvezda",
-        "marketValueEur": 2600000,
-        "marketValueDisplay": "€2.6M",
-        "dateOfBirth": "1989-04-19",
-        "age": 37,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     },
     {
@@ -6244,16 +6254,6 @@
           "UEFA Nations League, League B, Gr. 3"
         ],
         "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "FC Augsburg",
-        "marketValueEur": 1600000,
-        "marketValueDisplay": "€1.6M",
-        "dateOfBirth": "1994-04-18",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       }
     },
     {
@@ -6268,6 +6268,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -6320,12 +6335,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 2.7,
+        "shots90": 3.2,
         "sot90": 0,
-        "passes90": 30,
+        "passes90": 18,
         "cards90": 0,
-        "fouls90": 1.3,
-        "minutesAvg": 22
+        "fouls90": 1.6,
+        "minutesAvg": 28
       },
       "hitRates": {
         "goals05": {
@@ -6344,9 +6359,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots25": {
           "l5": 0,
@@ -6370,21 +6385,12 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-01"
-      },
-      "profile": {
-        "club": "LASK",
-        "marketValueEur": 3700000,
-        "marketValueDisplay": "€3.7M",
-        "dateOfBirth": "1997-07-07",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-17"
       }
     }
   ],

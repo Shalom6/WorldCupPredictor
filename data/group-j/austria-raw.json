@@ -2,9 +2,10 @@
   "team": "Austria",
   "group": "J",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-11T08:49:12.207Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-17T07:25:17.824Z",
+  "eventsProcessed": 16,
   "eventDates": [
+    "2026-06-17",
     "2026-06-01",
     "2026-03-31",
     "2026-03-27",
@@ -19,16 +20,18 @@
     "2025-03-23",
     "2025-03-20",
     "2024-11-17",
-    "2024-11-14",
-    "2024-10-13",
-    "2024-10-10",
-    "2024-09-09",
-    "2024-09-06",
-    "2024-07-02",
-    "2024-06-25",
-    "2024-06-21"
+    "2024-11-14"
   ],
   "teamMatchResults": [
+    {
+      "date": "2026-06-17",
+      "opponent": "Jordan",
+      "competition": "FIFA World Cup, Group J",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "venue": "home"
+    },
     {
       "date": "2026-06-01",
       "opponent": "Tunisia",
@@ -332,6 +335,22 @@
       "number": "1",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 3
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -855,6 +874,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-01",
           "opponent": "Tunisia",
           "competition": "Int. Friendly Games",
@@ -1067,6 +1101,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-01",
           "opponent": "Tunisia",
           "competition": "Int. Friendly Games",
@@ -1252,6 +1301,21 @@
       "number": "20",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -1831,6 +1895,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-01",
           "opponent": "Tunisia",
           "competition": "Int. Friendly Games",
@@ -2080,6 +2159,21 @@
       "number": "5",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -2606,6 +2700,21 @@
       "number": "17",
       "likelyStarter": false,
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -3264,6 +3373,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-01",
           "opponent": "Tunisia",
           "competition": "Int. Friendly Games",
@@ -3656,6 +3780,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-01",
           "opponent": "Tunisia",
           "competition": "Int. Friendly Games",
@@ -3905,6 +4044,21 @@
       "number": "23",
       "likelyStarter": false,
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-31",
           "opponent": "South Korea",
@@ -4156,6 +4310,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-01",
           "opponent": "Tunisia",
           "competition": "Int. Friendly Games",
@@ -4213,6 +4382,21 @@
       "number": "16",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -4463,6 +4647,21 @@
       "number": "18",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -4739,6 +4938,21 @@
       "number": "4",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -5035,6 +5249,21 @@
       "number": "7",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
@@ -5635,6 +5864,21 @@
       "number": "14",
       "likelyStarter": false,
       "gameLog": [
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-01",
           "opponent": "Tunisia",
