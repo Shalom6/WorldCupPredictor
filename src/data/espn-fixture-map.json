@@ -1,6 +1,6 @@
 {
   "_note": "Auto-maintained by scripts/sync-live-results.mjs — maps fixture ids to ESPN event ids.",
-  "updatedAt": "2026-06-18T02:06:02.062Z",
+  "updatedAt": "2026-06-18T14:21:32.543Z",
   "mappings": {
     "GS-A-1": {
       "espnEventId": "760415",
@@ -133,6 +133,18 @@
       "homeTeam": "Ghana",
       "awayTeam": "Panama",
       "lastSeen": "2026-06-18T02:06:01.986Z"
+    },
+    "GS-A-3": {
+      "espnEventId": "760441",
+      "homeTeam": "Mexico",
+      "awayTeam": "South Korea",
+      "lastSeen": "2026-06-18T14:21:32.542Z"
+    },
+    "GS-B-3": {
+      "espnEventId": "760440",
+      "homeTeam": "Canada",
+      "awayTeam": "Qatar",
+      "lastSeen": "2026-06-18T14:21:32.543Z"
     }
   }
 }
