@@ -1225,6 +1225,61 @@
       },
       "syncedAt": "2026-06-17T23:51:45.118Z",
       "source": "espn"
+    },
+    "GS-L-2": {
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 0,
+      "scorers": {
+        "home": [
+          {
+            "name": "Caleb Yirenkyi",
+            "minute": "90'+5'",
+            "assist": "Brandon Thomas-Asante"
+          }
+        ],
+        "away": []
+      },
+      "teamStats": {
+        "possession": {
+          "home": 38.1,
+          "away": 61.9
+        },
+        "shots": {
+          "home": 8,
+          "away": 11
+        },
+        "shotsOnTarget": {
+          "home": 2,
+          "away": 4
+        },
+        "corners": {
+          "home": 2,
+          "away": 2
+        },
+        "fouls": {
+          "home": 9,
+          "away": 11
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 4,
+          "away": 2
+        },
+        "passAccuracy": {
+          "home": 80,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-18T02:06:02.062Z",
+      "source": "espn"
     }
   }
 }

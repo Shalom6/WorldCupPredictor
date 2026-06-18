@@ -15811,7 +15811,7 @@
       "position": "Goalkeeper",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.93,
+      "minutesFactor": 0.9,
       "xgShare": 0.02
     },
     {
@@ -15827,7 +15827,7 @@
       "position": "Goalkeeper",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.92,
+      "minutesFactor": 0.86,
       "xgShare": 0.02
     },
     {
@@ -15877,13 +15877,13 @@
       "position": "Defender",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.86,
+      "minutesFactor": 0.87,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.2,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.7
       }
     },
     {
@@ -15891,13 +15891,13 @@
       "position": "Defender",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.51,
+      "minutesFactor": 0.57,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.3,
-        "sotShare": 0.3,
+        "shotsShare": 0.2,
+        "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "foulWeight": 0.4
       }
     },
     {
@@ -15905,13 +15905,13 @@
       "position": "Defender",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.8,
+      "minutesFactor": 0.82,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.3,
-        "sotShare": 0.03,
+        "shotsShare": 0.4,
+        "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1
+        "foulWeight": 0.9
       }
     },
     {
@@ -15925,15 +15925,15 @@
     {
       "name": "Marvin Senaya",
       "position": "Defender",
-      "likelyStarter": false,
-      "benchImpact": true,
-      "minutesFactor": 0.53,
-      "xgShare": 0.01,
+      "likelyStarter": true,
+      "benchImpact": false,
+      "minutesFactor": 0.69,
+      "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 2.8,
+        "shotsShare": 1.5,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.9
+        "foulWeight": 1.5
       }
     },
     {
@@ -15949,13 +15949,13 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.58,
+      "minutesFactor": 0.56,
       "xgShare": 0.09,
       "propProfile": {
-        "shotsShare": 1.7,
+        "shotsShare": 1.8,
         "sotShare": 0.4,
         "cardWeight": 0.02,
-        "foulWeight": 2.9
+        "foulWeight": 2.7
       }
     },
     {
@@ -15963,13 +15963,13 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.87,
+      "minutesFactor": 0.88,
       "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 0.9,
+        "shotsShare": 1,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.9
       }
     },
     {
@@ -15977,12 +15977,12 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.81,
-      "xgShare": 0.08,
+      "minutesFactor": 0.82,
+      "xgShare": 0.1,
       "propProfile": {
-        "shotsShare": 0.3,
-        "sotShare": 0.1,
-        "cardWeight": 0.02,
+        "shotsShare": 0.5,
+        "sotShare": 0.2,
+        "cardWeight": 0.12,
         "foulWeight": 0.6
       }
     },
@@ -16005,13 +16005,13 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.66,
+      "minutesFactor": 0.68,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.05,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.4
+        "foulWeight": 1.2
       }
     },
     {
@@ -16033,7 +16033,7 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.82,
+      "minutesFactor": 0.74,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.2,
@@ -16072,24 +16072,24 @@
       "minutesFactor": 0.38,
       "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 2.6,
+        "shotsShare": 2.7,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 0.9
       }
     },
     {
       "name": "Ernest Nuamah",
       "position": "Forward",
-      "likelyStarter": true,
-      "benchImpact": false,
-      "minutesFactor": 0.57,
-      "xgShare": 0.16,
+      "likelyStarter": false,
+      "benchImpact": true,
+      "minutesFactor": 0.58,
+      "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 0.8,
-        "sotShare": 0.3,
+        "shotsShare": 0.7,
+        "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.7
       }
     },
     {
@@ -16097,13 +16097,13 @@
       "position": "Forward",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.84,
+      "minutesFactor": 0.86,
       "xgShare": 0.18,
       "propProfile": {
         "shotsShare": 0.6,
         "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 0.7
+        "foulWeight": 0.8
       }
     },
     {
@@ -16111,11 +16111,11 @@
       "position": "Forward",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.39,
+      "minutesFactor": 0.41,
       "xgShare": 0.09,
       "propProfile": {
-        "shotsShare": 1.7,
-        "sotShare": 0.9,
+        "shotsShare": 1.5,
+        "sotShare": 0.7,
         "cardWeight": 0.02,
         "foulWeight": 1.2
       }
@@ -16125,13 +16125,13 @@
       "position": "Forward",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.64,
+      "minutesFactor": 0.54,
       "xgShare": 0.12,
       "propProfile": {
         "shotsShare": 1.9,
         "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 1.3
+        "foulWeight": 1.9
       }
     }
   ],
@@ -16179,13 +16179,13 @@
       "position": "Defender",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.94,
+      "minutesFactor": 0.96,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 1.4,
-        "sotShare": 0.5,
+        "shotsShare": 1.3,
+        "sotShare": 0.4,
         "cardWeight": 0.02,
-        "foulWeight": 1.3
+        "foulWeight": 1.2
       }
     },
     {
@@ -16193,13 +16193,13 @@
       "position": "Defender",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.9,
+      "minutesFactor": 0.91,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.8,
+        "shotsShare": 0.7,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 1
+        "foulWeight": 1.1
       }
     },
     {
@@ -16207,12 +16207,12 @@
       "position": "Defender",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.8,
+      "minutesFactor": 0.82,
       "xgShare": 0.05,
       "propProfile": {
-        "shotsShare": 0.8,
+        "shotsShare": 0.9,
         "sotShare": 0.6,
-        "cardWeight": 0.02,
+        "cardWeight": 0.1,
         "foulWeight": 0.7
       }
     },
@@ -16271,13 +16271,13 @@
       "position": "Defender",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.69,
-      "xgShare": 0.06,
+      "minutesFactor": 0.73,
+      "xgShare": 0.05,
       "propProfile": {
-        "shotsShare": 0.7,
+        "shotsShare": 1,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.7
+        "foulWeight": 0.8
       }
     },
     {
@@ -16299,10 +16299,10 @@
       "position": "Defender",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.79,
+      "minutesFactor": 0.81,
       "xgShare": 0.04,
       "propProfile": {
-        "shotsShare": 0.4,
+        "shotsShare": 0.3,
         "sotShare": 0.1,
         "cardWeight": 0.02,
         "foulWeight": 0.9
@@ -16367,15 +16367,15 @@
     {
       "name": "Azarias Londoño",
       "position": "Midfielder",
-      "likelyStarter": true,
-      "benchImpact": false,
-      "minutesFactor": 0.52,
-      "xgShare": 0.06,
+      "likelyStarter": false,
+      "benchImpact": true,
+      "minutesFactor": 0.49,
+      "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 1.2,
-        "sotShare": 0.4,
+        "shotsShare": 1,
+        "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 3.1
+        "foulWeight": 2.8
       }
     },
     {
@@ -16383,13 +16383,13 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.81,
+      "minutesFactor": 0.82,
       "xgShare": 0.08,
       "propProfile": {
         "shotsShare": 1.3,
-        "sotShare": 0.7,
-        "cardWeight": 0.02,
-        "foulWeight": 1.5
+        "sotShare": 0.6,
+        "cardWeight": 0.08,
+        "foulWeight": 1.8
       }
     },
     {
@@ -16425,11 +16425,11 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.69,
-      "xgShare": 0.19,
+      "minutesFactor": 0.64,
+      "xgShare": 0.18,
       "propProfile": {
-        "shotsShare": 3.5,
-        "sotShare": 1.6,
+        "shotsShare": 3.7,
+        "sotShare": 1.8,
         "cardWeight": 0.02,
         "foulWeight": 0.7
       }
@@ -16439,10 +16439,10 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.73,
+      "minutesFactor": 0.74,
       "xgShare": 0.09,
       "propProfile": {
-        "shotsShare": 1.7,
+        "shotsShare": 1.6,
         "sotShare": 0.6,
         "cardWeight": 0.02,
         "foulWeight": 0.8
@@ -16481,41 +16481,41 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.68,
-      "xgShare": 0.09,
+      "minutesFactor": 0.72,
+      "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 1.8,
-        "sotShare": 1.1,
+        "shotsShare": 1.9,
+        "sotShare": 0.9,
         "cardWeight": 0.02,
-        "foulWeight": 2
+        "foulWeight": 1.7
       }
     },
     {
       "name": "Cecilio Waterman",
       "position": "Forward",
-      "likelyStarter": false,
-      "benchImpact": true,
-      "minutesFactor": 0.46,
-      "xgShare": 0.12,
+      "likelyStarter": true,
+      "benchImpact": false,
+      "minutesFactor": 0.48,
+      "xgShare": 0.21,
       "propProfile": {
-        "shotsShare": 3,
-        "sotShare": 1.3,
+        "shotsShare": 2.8,
+        "sotShare": 1.4,
         "cardWeight": 0.02,
-        "foulWeight": 1.5
+        "foulWeight": 1.4
       }
     },
     {
       "name": "José Fajardo",
       "position": "Forward",
-      "likelyStarter": true,
-      "benchImpact": false,
-      "minutesFactor": 0.56,
-      "xgShare": 0.16,
+      "likelyStarter": false,
+      "benchImpact": true,
+      "minutesFactor": 0.53,
+      "xgShare": 0.09,
       "propProfile": {
-        "shotsShare": 3,
+        "shotsShare": 2.9,
         "sotShare": 1.2,
         "cardWeight": 0.02,
-        "foulWeight": 1.8
+        "foulWeight": 1.7
       }
     },
     {
