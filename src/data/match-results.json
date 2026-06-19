@@ -1351,6 +1351,60 @@
       },
       "syncedAt": "2026-06-19T02:09:52.860Z",
       "source": "espn"
+    },
+    "GS-D-3": {
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 0,
+      "scorers": {
+        "home": [
+          {
+            "name": "Alex Freeman",
+            "minute": "43'"
+          }
+        ],
+        "away": []
+      },
+      "teamStats": {
+        "possession": {
+          "home": 62,
+          "away": 38
+        },
+        "shots": {
+          "home": 10,
+          "away": 5
+        },
+        "shotsOnTarget": {
+          "home": 2,
+          "away": 2
+        },
+        "corners": {
+          "home": 7,
+          "away": 4
+        },
+        "fouls": {
+          "home": 12,
+          "away": 16
+        },
+        "yellowCards": {
+          "home": 3,
+          "away": 4
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 2,
+          "away": 1
+        },
+        "passAccuracy": {
+          "home": 80,
+          "away": 70
+        }
+      },
+      "syncedAt": "2026-06-19T22:32:22.483Z",
+      "source": "espn"
     }
   }
 }
