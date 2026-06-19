@@ -3,8 +3,8 @@
   "team": "USA",
   "group": "D",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-19T20:14:11.365Z",
-  "eventsProcessed": 16,
+  "importedAt": "2026-06-19T21:34:22.075Z",
+  "eventsProcessed": 17,
   "teamMatchResults": [
     {
       "date": "2026-06-13",
@@ -13,6 +13,15 @@
       "result": "W",
       "goalsFor": 4,
       "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2026-06-19",
+      "opponent": "Australia",
+      "competition": "FIFA World Cup, Group D",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
       "venue": "home"
     },
     {
@@ -257,6 +266,22 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
+        {
           "date": "2026-06-13",
           "opponent": "Paraguay",
           "competition": "FIFA World Cup, Group D",
@@ -391,7 +416,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 22,
+        "passes90": 19,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 84
@@ -439,13 +464,13 @@
         }
       },
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -802,6 +827,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-13",
           "opponent": "Paraguay",
           "competition": "FIFA World Cup, Group D",
@@ -1058,20 +1098,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.16,
+        "goals90": 0.23,
         "assists90": 0.08,
-        "shots90": 0.7,
-        "sot90": 0.4,
-        "passes90": 41,
+        "shots90": 0.8,
+        "sot90": 0.5,
+        "passes90": 38,
         "cards90": 0,
         "fouls90": 0.2,
-        "minutesAvg": 69
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 6
+          "l5": 20,
+          "l10": 20,
+          "season": 12
         },
         "goals15": {
           "l5": 0,
@@ -1094,9 +1134,9 @@
           "season": 6
         },
         "sot05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -1110,14 +1150,14 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Knockout stage",
           "CONCACAF Gold Cup, Group D"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -1132,6 +1172,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Paraguay",
@@ -1229,20 +1284,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.23,
-        "assists90": 0.45,
-        "shots90": 0.9,
-        "sot90": 0.5,
-        "passes90": 39,
-        "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 66
+        "goals90": 0.19,
+        "assists90": 0.38,
+        "shots90": 0.8,
+        "sot90": 0.4,
+        "passes90": 32,
+        "cards90": 0.19,
+        "fouls90": 0.8,
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "goals15": {
           "l5": 0,
@@ -1250,9 +1305,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l5": 0,
+          "l10": 29,
+          "season": 29
         },
         "shots15": {
           "l5": 0,
@@ -1265,29 +1320,29 @@
           "season": 0
         },
         "sot05": {
-          "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l5": 20,
+          "l10": 29,
+          "season": 29
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 14,
+          "season": 14
         },
         "fouls15": {
           "l5": 0,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         }
       },
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -1302,6 +1357,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Germany",
@@ -1369,13 +1439,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.36,
+        "assists90": 0.34,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 53,
+        "passes90": 51,
         "cards90": 0,
         "fouls90": 1.4,
-        "minutesAvg": 63
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
@@ -1389,9 +1459,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots15": {
           "l5": 0,
@@ -1414,17 +1484,18 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group D",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-06"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -1439,6 +1510,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 3
+        },
         {
           "date": "2026-06-13",
           "opponent": "Paraguay",
@@ -1648,20 +1734,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.16,
+        "goals90": 0.15,
         "assists90": 0,
-        "shots90": 0.9,
+        "shots90": 0.8,
         "sot90": 0.4,
-        "passes90": 68,
-        "cards90": 0,
-        "fouls90": 1.2,
-        "minutesAvg": 84
+        "passes90": 63,
+        "cards90": 0.08,
+        "fouls90": 1.4,
+        "minutesAvg": 85
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 20,
-          "season": 15
+          "l10": 10,
+          "season": 14
         },
         "goals15": {
           "l5": 0,
@@ -1675,8 +1761,8 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 30,
-          "season": 23
+          "l10": 20,
+          "season": 21
         },
         "shots25": {
           "l5": 0,
@@ -1685,22 +1771,22 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 40,
-          "season": 31
+          "l10": 30,
+          "season": 29
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "fouls15": {
           "l5": 60,
-          "l10": 40,
-          "season": 38
+          "l10": 50,
+          "season": 43
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
@@ -1708,7 +1794,7 @@
           "CONCACAF Gold Cup, Group D",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -1723,6 +1809,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Germany",
@@ -1855,12 +1956,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.5,
+        "shots90": 0.4,
         "sot90": 0.2,
-        "passes90": 69,
+        "passes90": 67,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 50
+        "fouls90": 1.3,
+        "minutesAvg": 45
       },
       "hitRates": {
         "goals05": {
@@ -1890,8 +1991,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
           "l5": 0,
@@ -1900,17 +2001,18 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-06"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -2443,6 +2545,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-13",
           "opponent": "Paraguay",
           "competition": "FIFA World Cup, Group D",
@@ -2555,20 +2672,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.22,
-        "assists90": 0.22,
-        "shots90": 1.3,
-        "sot90": 0.5,
-        "passes90": 29,
+        "goals90": 0.19,
+        "assists90": 0.19,
+        "shots90": 1.7,
+        "sot90": 0.6,
+        "passes90": 24,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 58
+        "fouls90": 0.4,
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -2577,23 +2694,23 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots15": {
           "l5": 40,
-          "l10": 29,
-          "season": 29
+          "l10": 38,
+          "season": 38
         },
         "shots25": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 13,
+          "season": 13
         },
         "sot05": {
-          "l5": 20,
-          "l10": 29,
-          "season": 29
+          "l5": 40,
+          "l10": 38,
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -2607,12 +2724,12 @@
         }
       },
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -2627,6 +2744,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Paraguay",
@@ -2888,10 +3020,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 72,
+        "passes90": 67,
         "cards90": 0,
         "fouls90": 0.3,
-        "minutesAvg": 82
+        "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
@@ -2936,7 +3068,7 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
@@ -2944,7 +3076,7 @@
           "CONCACAF Gold Cup, Group D",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -3599,6 +3731,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-13",
           "opponent": "Paraguay",
           "competition": "FIFA World Cup, Group D",
@@ -3739,8 +3886,8 @@
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "goals15": {
           "l5": 0,
@@ -3749,13 +3896,13 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots25": {
           "l5": 0,
@@ -3764,8 +3911,8 @@
         },
         "sot05": {
           "l5": 40,
-          "l10": 38,
-          "season": 38
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -3774,18 +3921,18 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -3800,6 +3947,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Paraguay",
@@ -4009,45 +4171,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.27,
-        "assists90": 0.36,
-        "shots90": 1.5,
+        "goals90": 0.25,
+        "assists90": 0.33,
+        "shots90": 1.4,
         "sot90": 0.6,
-        "passes90": 31,
+        "passes90": 29,
         "cards90": 0,
-        "fouls90": 2.1,
-        "minutesAvg": 78
+        "fouls90": 1.9,
+        "minutesAvg": 79
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 15
+          "season": 14
         },
         "goals15": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "assists05": {
           "l5": 20,
           "l10": 30,
-          "season": 31
+          "season": 29
         },
         "shots15": {
           "l5": 40,
           "l10": 40,
-          "season": 46
+          "season": 43
         },
         "shots25": {
           "l5": 20,
           "l10": 20,
-          "season": 15
+          "season": 14
         },
         "sot05": {
           "l5": 40,
           "l10": 30,
-          "season": 38
+          "season": 36
         },
         "cards05": {
           "l5": 0,
@@ -4055,20 +4217,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 50,
-          "season": 46
+          "season": 43
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Knockout stage",
           "CONCACAF Gold Cup, Group D"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -4399,6 +4561,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-13",
           "opponent": "Paraguay",
           "competition": "FIFA World Cup, Group D",
@@ -4611,16 +4788,16 @@
         "assists90": 0.31,
         "shots90": 1.1,
         "sot90": 0.4,
-        "passes90": 41,
+        "passes90": 40,
         "cards90": 0,
-        "fouls90": 2.1,
-        "minutesAvg": 67
+        "fouls90": 2,
+        "minutesAvg": 63
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -4630,12 +4807,12 @@
         "assists05": {
           "l5": 0,
           "l10": 20,
-          "season": 23
+          "season": 21
         },
         "shots15": {
           "l5": 20,
-          "l10": 30,
-          "season": 31
+          "l10": 20,
+          "season": 29
         },
         "shots25": {
           "l5": 0,
@@ -4644,8 +4821,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 40,
-          "season": 31
+          "l10": 30,
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -4654,19 +4831,19 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 40,
-          "season": 38
+          "l10": 30,
+          "season": 36
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Knockout stage",
           "CONCACAF Gold Cup, Group D"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -4884,6 +5061,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-13",
           "opponent": "Paraguay",
           "competition": "FIFA World Cup, Group D",
@@ -5080,10 +5272,10 @@
         "assists90": 0,
         "shots90": 0.1,
         "sot90": 0,
-        "passes90": 56,
-        "cards90": 0.11,
+        "passes90": 50,
+        "cards90": 0.1,
         "fouls90": 1.4,
-        "minutesAvg": 68
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
@@ -5122,13 +5314,13 @@
           "season": 8
         },
         "fouls15": {
-          "l5": 80,
+          "l5": 60,
           "l10": 50,
-          "season": 42
+          "season": 38
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
@@ -5136,7 +5328,7 @@
           "CONCACAF Gold Cup, Group D",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -5151,6 +5343,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 96,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 4
+        },
         {
           "date": "2026-06-13",
           "opponent": "Paraguay",
@@ -5312,20 +5519,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.13,
-        "assists90": 0.13,
-        "shots90": 0.9,
+        "goals90": 0.12,
+        "assists90": 0.12,
+        "shots90": 1.1,
         "sot90": 0.5,
-        "passes90": 37,
+        "passes90": 32,
         "cards90": 0,
-        "fouls90": 1.2,
-        "minutesAvg": 68
+        "fouls90": 1.5,
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "goals15": {
           "l5": 0,
@@ -5334,13 +5541,13 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 0,
+          "season": 9
         },
         "shots15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 30,
+          "season": 27
         },
         "shots25": {
           "l5": 0,
@@ -5348,9 +5555,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -5358,19 +5565,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l5": 40,
+          "l10": 30,
+          "season": 27
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -5652,6 +5859,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 96,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-13",
           "opponent": "Paraguay",
           "competition": "FIFA World Cup, Group D",
@@ -5828,25 +6050,25 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.9,
+        "goals90": 0.77,
         "assists90": 0,
-        "shots90": 4.2,
-        "sot90": 2.4,
-        "passes90": 12,
-        "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 55
+        "shots90": 3.9,
+        "sot90": 2.1,
+        "passes90": 11,
+        "cards90": 0.13,
+        "fouls90": 0.6,
+        "minutesAvg": 58
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
-          "l10": 50,
-          "season": 45
+          "l10": 40,
+          "season": 42
         },
         "goals15": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "assists05": {
           "l5": 0,
@@ -5856,36 +6078,36 @@
         "shots15": {
           "l5": 80,
           "l10": 70,
-          "season": 73
+          "season": 75
         },
         "shots25": {
           "l5": 60,
-          "l10": 50,
-          "season": 55
+          "l10": 40,
+          "season": 50
         },
         "sot05": {
-          "l5": 60,
-          "l10": 60,
-          "season": 64
+          "l5": 40,
+          "l10": 50,
+          "season": 58
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -5895,11 +6117,26 @@
       "group": "D",
       "position": "Forward",
       "number": "19",
-      "likelyStarter": true,
+      "likelyStarter": false,
       "sofascoreId": 818391,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-11-19",
           "opponent": "Uruguay",
@@ -5994,13 +6231,13 @@
       "hitRates": {
         "goals05": {
           "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l10": 33,
+          "season": 33
         },
         "goals15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "assists05": {
           "l5": 0,
@@ -6009,18 +6246,18 @@
         },
         "shots15": {
           "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l10": 33,
+          "season": 33
         },
         "shots25": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "sot05": {
           "l5": 60,
-          "l10": 60,
-          "season": 60
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -6034,12 +6271,13 @@
         }
       },
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
+          "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group D"
         ],
-        "lastMatch": "2025-11-19"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -6054,6 +6292,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "Australia",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-13",
           "opponent": "Paraguay",
@@ -6151,20 +6404,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.47,
-        "assists90": 0.94,
-        "shots90": 3.3,
-        "sot90": 1.4,
-        "passes90": 20,
+        "goals90": 0.34,
+        "assists90": 0.68,
+        "shots90": 3.1,
+        "sot90": 1,
+        "passes90": 14,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 32
+        "fouls90": 1.4,
+        "minutesAvg": 38
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "goals15": {
           "l5": 0,
@@ -6173,23 +6426,23 @@
         },
         "assists05": {
           "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l10": 29,
+          "season": 29
         },
         "shots15": {
-          "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l5": 40,
+          "l10": 43,
+          "season": 43
         },
         "shots25": {
           "l5": 0,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "sot05": {
-          "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l5": 0,
+          "l10": 29,
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -6197,19 +6450,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 14,
+          "season": 14
         }
       },
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-19"
       }
     }
   ],

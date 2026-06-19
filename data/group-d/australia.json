@@ -3,8 +3,8 @@
   "team": "Australia",
   "group": "D",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-19T20:14:11.422Z",
-  "eventsProcessed": 16,
+  "importedAt": "2026-06-19T21:34:22.111Z",
+  "eventsProcessed": 17,
   "teamMatchResults": [
     {
       "date": "2026-06-14",
@@ -14,6 +14,15 @@
       "goalsFor": 2,
       "goalsAgainst": 0,
       "venue": "home"
+    },
+    {
+      "date": "2026-06-19",
+      "opponent": "USA",
+      "competition": "FIFA World Cup, Group D",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "venue": "away"
     },
     {
       "date": "2026-06-06",
@@ -449,6 +458,22 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 1
+        },
+        {
           "date": "2026-06-14",
           "opponent": "Türkiye",
           "competition": "FIFA World Cup, Group D",
@@ -508,7 +533,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 11,
+        "passes90": 8,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -556,12 +581,12 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -725,6 +750,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
         {
           "date": "2026-06-14",
           "opponent": "Türkiye",
@@ -938,16 +978,16 @@
         "assists90": 0,
         "shots90": 1.1,
         "sot90": 0.4,
-        "passes90": 51,
-        "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 85
+        "passes90": 47,
+        "cards90": 0.08,
+        "fouls90": 1.2,
+        "minutesAvg": 86
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -962,31 +1002,31 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 23
+          "season": 21
         },
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "sot05": {
           "l5": 20,
-          "l10": 30,
-          "season": 31
+          "l10": 20,
+          "season": 29
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 23
+          "l5": 40,
+          "l10": 30,
+          "season": 29
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
@@ -994,7 +1034,7 @@
           "World Cup Qualification, AFC, Round 3, Gr. C",
           "World Cup Qualification, AFC, Round 2, Group I"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -1342,6 +1382,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-14",
           "opponent": "Türkiye",
           "competition": "FIFA World Cup, Group D",
@@ -1602,10 +1657,10 @@
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 49,
+        "passes90": 47,
         "cards90": 0,
         "fouls90": 0.2,
-        "minutesAvg": 71
+        "minutesAvg": 69
       },
       "hitRates": {
         "goals05": {
@@ -1650,14 +1705,14 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "FIFA Series, Australia",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -1672,6 +1727,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 3
+        },
         {
           "date": "2026-06-14",
           "opponent": "Türkiye",
@@ -1835,11 +1905,11 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1,
+        "shots90": 0.9,
         "sot90": 0.3,
-        "passes90": 69,
-        "cards90": 0,
-        "fouls90": 0.6,
+        "passes90": 62,
+        "cards90": 0.09,
+        "fouls90": 0.8,
         "minutesAvg": 89
       },
       "hitRates": {
@@ -1860,39 +1930,39 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 30,
-          "season": 30
+          "l10": 20,
+          "season": 27
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 9
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Gr. C",
           "World Cup Qualification, AFC, Round 2, Group I"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -1907,6 +1977,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-14",
           "opponent": "Türkiye",
@@ -2136,10 +2221,10 @@
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0,
-        "passes90": 48,
+        "passes90": 46,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 61
+        "fouls90": 0.9,
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
@@ -2178,20 +2263,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 7
+          "l5": 20,
+          "l10": 20,
+          "season": 13
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "FIFA Series, Australia",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -2206,6 +2291,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
         {
           "date": "2026-06-14",
           "opponent": "Türkiye",
@@ -2447,20 +2547,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.33,
-        "assists90": 0.22,
-        "shots90": 1.1,
+        "goals90": 0.3,
+        "assists90": 0.2,
+        "shots90": 1,
         "sot90": 0.4,
-        "passes90": 26,
-        "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 55
+        "passes90": 23,
+        "cards90": 0.1,
+        "fouls90": 1.2,
+        "minutesAvg": 57
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 20
+          "season": 19
         },
         "goals15": {
           "l5": 0,
@@ -2475,7 +2575,7 @@
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "shots25": {
           "l5": 0,
@@ -2483,23 +2583,23 @@
           "season": 0
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 27
+          "season": 25
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 13
+          "l5": 20,
+          "l10": 20,
+          "season": 19
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
@@ -2507,7 +2607,7 @@
           "World Cup Qualification, AFC, Round 3, Gr. C",
           "World Cup Qualification, AFC, Round 2, Group I"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -2928,6 +3028,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-14",
           "opponent": "Türkiye",
           "competition": "FIFA World Cup, Group D",
@@ -3188,10 +3303,10 @@
         "assists90": 0,
         "shots90": 0.5,
         "sot90": 0.1,
-        "passes90": 38,
+        "passes90": 35,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 72
+        "fouls90": 0.9,
+        "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
@@ -3212,7 +3327,7 @@
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "shots25": {
           "l5": 20,
@@ -3231,19 +3346,19 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 30,
-          "season": 25
+          "l10": 20,
+          "season": 24
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "FIFA Series, Australia",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -3788,6 +3903,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-14",
           "opponent": "Türkiye",
           "competition": "FIFA World Cup, Group D",
@@ -4044,20 +4174,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.17,
-        "assists90": 0.17,
+        "goals90": 0.16,
+        "assists90": 0.16,
         "shots90": 1.2,
-        "sot90": 0.3,
-        "passes90": 26,
+        "sot90": 0.4,
+        "passes90": 25,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 68
+        "fouls90": 1.5,
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "goals15": {
           "l5": 0,
@@ -4066,23 +4196,23 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 20,
-          "season": 13
+          "l10": 10,
+          "season": 12
         },
         "shots15": {
           "l5": 0,
-          "l10": 20,
-          "season": 25
+          "l10": 10,
+          "season": 24
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 6
         },
         "sot05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 20,
-          "season": 25
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -4090,13 +4220,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 40,
-          "season": 31
+          "l5": 0,
+          "l10": 30,
+          "season": 29
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
@@ -4104,7 +4234,7 @@
           "World Cup Qualification, AFC, Round 3, Gr. C",
           "World Cup Qualification, AFC, Round 2, Group I"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -4119,6 +4249,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Switzerland",
@@ -4139,12 +4284,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
+        "shots90": 1.2,
         "sot90": 0,
-        "passes90": 22,
+        "passes90": 13,
         "cards90": 0,
-        "fouls90": 2,
-        "minutesAvg": 45
+        "fouls90": 1.2,
+        "minutesAvg": 37
       },
       "hitRates": {
         "goals05": {
@@ -4189,11 +4334,12 @@
         }
       },
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group D",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-06"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -4208,6 +4354,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Türkiye",
@@ -4453,10 +4614,10 @@
         "assists90": 0.09,
         "shots90": 0.8,
         "sot90": 0.4,
-        "passes90": 45,
+        "passes90": 44,
         "cards90": 0,
         "fouls90": 0.5,
-        "minutesAvg": 70
+        "minutesAvg": 66
       },
       "hitRates": {
         "goals05": {
@@ -4467,12 +4628,12 @@
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 0,
@@ -4482,12 +4643,12 @@
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "sot05": {
           "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "cards05": {
           "l5": 0,
@@ -4501,14 +4662,14 @@
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Gr. C",
           "World Cup Qualification, AFC, Round 2, Group I"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -4523,6 +4684,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Türkiye",
@@ -4624,10 +4800,10 @@
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0,
-        "passes90": 26,
-        "cards90": 0,
-        "fouls90": 1.3,
-        "minutesAvg": 67
+        "passes90": 21,
+        "cards90": 0.18,
+        "fouls90": 1.1,
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
@@ -4661,24 +4837,24 @@
           "season": 0
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 14,
+          "season": 14
         },
         "fouls15": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         }
       },
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "FIFA Series, Australia"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -4864,6 +5040,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-06",
           "opponent": "Switzerland",
           "competition": "Int. Friendly Games",
@@ -4915,12 +5106,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.1,
+        "shots90": 1.2,
         "sot90": 0,
-        "passes90": 28,
+        "passes90": 21,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 56
+        "fouls90": 1.2,
+        "minutesAvg": 58
       },
       "hitRates": {
         "goals05": {
@@ -4939,9 +5130,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots25": {
           "l5": 0,
@@ -4959,18 +5150,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 2, Group I"
         ],
-        "lastMatch": "2026-06-06"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -4985,6 +5177,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-14",
           "opponent": "Türkiye",
@@ -5114,20 +5321,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.87,
-        "assists90": 0.29,
-        "shots90": 1.5,
-        "sot90": 0.9,
-        "passes90": 25,
+        "goals90": 0.76,
+        "assists90": 0.25,
+        "shots90": 1.3,
+        "sot90": 0.8,
+        "passes90": 21,
         "cards90": 0,
         "fouls90": 1.5,
-        "minutesAvg": 39
+        "minutesAvg": 40
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 38,
-          "season": 38
+          "l5": 20,
+          "l10": 33,
+          "season": 33
         },
         "goals15": {
           "l5": 0,
@@ -5136,13 +5343,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots15": {
-          "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 22,
+          "season": 22
         },
         "shots25": {
           "l5": 0,
@@ -5150,9 +5357,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 40,
-          "l10": 38,
-          "season": 38
+          "l5": 20,
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -5161,19 +5368,19 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "FIFA Series, Australia",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -5188,6 +5395,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-14",
           "opponent": "Türkiye",
@@ -5302,13 +5524,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.27,
+        "assists90": 0.22,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 41,
+        "passes90": 34,
         "cards90": 0,
         "fouls90": 2.4,
-        "minutesAvg": 48
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
@@ -5323,8 +5545,8 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots15": {
           "l5": 0,
@@ -5348,18 +5570,18 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 29,
-          "season": 29
+          "l10": 38,
+          "season": 38
         }
       },
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "FIFA Series, Australia"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -5374,6 +5596,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-14",
           "opponent": "Türkiye",
@@ -5535,45 +5772,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.33,
-        "assists90": 0.17,
+        "goals90": 0.31,
+        "assists90": 0.15,
         "shots90": 1.8,
-        "sot90": 0.7,
-        "passes90": 12,
+        "sot90": 0.8,
+        "passes90": 11,
         "cards90": 0,
         "fouls90": 1.8,
-        "minutesAvg": 54
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 30
+          "season": 27
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "sot05": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 30,
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -5582,18 +5819,18 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 30,
-          "season": 30
+          "l10": 20,
+          "season": 27
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
@@ -5608,6 +5845,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-19",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-14",
           "opponent": "Türkiye",
@@ -5865,20 +6117,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.73,
-        "assists90": 0.12,
-        "shots90": 2.9,
-        "sot90": 1.5,
-        "passes90": 20,
+        "goals90": 0.69,
+        "assists90": 0.11,
+        "shots90": 2.8,
+        "sot90": 1.4,
+        "passes90": 19,
         "cards90": 0,
-        "fouls90": 2.3,
+        "fouls90": 2.4,
         "minutesAvg": 46
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
-          "l10": 40,
-          "season": 31
+          "l10": 30,
+          "season": 29
         },
         "goals15": {
           "l5": 20,
@@ -5891,19 +6143,19 @@
           "season": 6
         },
         "shots15": {
-          "l5": 60,
-          "l10": 50,
-          "season": 50
+          "l5": 40,
+          "l10": 40,
+          "season": 47
         },
         "shots25": {
-          "l5": 20,
-          "l10": 20,
-          "season": 13
+          "l5": 0,
+          "l10": 10,
+          "season": 12
         },
         "sot05": {
-          "l5": 80,
-          "l10": 70,
-          "season": 56
+          "l5": 60,
+          "l10": 60,
+          "season": 53
         },
         "cards05": {
           "l5": 0,
@@ -5911,13 +6163,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 60,
           "l10": 50,
-          "season": 31
+          "season": 35
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group D",
           "Int. Friendly Games",
@@ -5925,7 +6177,7 @@
           "World Cup Qualification, AFC, Round 3, Gr. C",
           "World Cup Qualification, AFC, Round 2, Group I"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-19"
       }
     },
     {
