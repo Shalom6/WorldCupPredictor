@@ -3,8 +3,8 @@
   "team": "Canada",
   "group": "B",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-18T23:22:05.937Z",
-  "eventsProcessed": 16,
+  "importedAt": "2026-06-19T02:09:53.649Z",
+  "eventsProcessed": 17,
   "teamMatchResults": [
     {
       "date": "2026-06-12",
@@ -13,6 +13,15 @@
       "result": "D",
       "goalsFor": 1,
       "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2026-06-18",
+      "opponent": "Qatar",
+      "competition": "FIFA World Cup, Group B",
+      "result": "W",
+      "goalsFor": 6,
+      "goalsAgainst": 0,
       "venue": "home"
     },
     {
@@ -468,6 +477,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
           "competition": "FIFA World Cup, Group B",
@@ -679,7 +703,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 15,
+        "passes90": 14,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 86
@@ -727,13 +751,13 @@
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -873,6 +897,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
@@ -1036,12 +1075,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.3,
-        "sot90": 0,
-        "passes90": 36,
-        "cards90": 0.15,
-        "fouls90": 2.1,
-        "minutesAvg": 62
+        "shots90": 0.4,
+        "sot90": 0.1,
+        "passes90": 31,
+        "cards90": 0.13,
+        "fouls90": 1.8,
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
@@ -1070,30 +1109,30 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 9
         },
         "cards05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "fouls15": {
           "l5": 20,
           "l10": 50,
-          "season": 50
+          "season": 45
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -1262,6 +1301,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
         {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
@@ -1523,10 +1577,10 @@
         "assists90": 0,
         "shots90": 0.8,
         "sot90": 0.2,
-        "passes90": 43,
-        "cards90": 0,
+        "passes90": 41,
+        "cards90": 0.08,
         "fouls90": 1.7,
-        "minutesAvg": 72
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
@@ -1547,7 +1601,7 @@
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "shots25": {
           "l5": 20,
@@ -1560,25 +1614,25 @@
           "season": 6
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
-          "l5": 20,
+          "l5": 40,
           "l10": 20,
-          "season": 25
+          "season": 29
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -1877,6 +1931,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
           "competition": "FIFA World Cup, Group B",
@@ -2038,12 +2107,12 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.12,
+        "assists90": 0.11,
         "shots90": 0.2,
         "sot90": 0,
-        "passes90": 41,
-        "cards90": 0.12,
-        "fouls90": 1.6,
+        "passes90": 37,
+        "cards90": 0.11,
+        "fouls90": 1.4,
         "minutesAvg": 75
       },
       "hitRates": {
@@ -2059,8 +2128,8 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 0,
+          "season": 9
         },
         "shots15": {
           "l5": 0,
@@ -2080,22 +2149,22 @@
         "cards05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 50,
-          "season": 50
+          "season": 45
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -2110,6 +2179,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-02",
           "opponent": "Uzbekistan",
@@ -2241,13 +2325,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.14,
+        "assists90": 0.13,
         "shots90": 0.5,
         "sot90": 0,
-        "passes90": 51,
+        "passes90": 48,
         "cards90": 0,
         "fouls90": 1,
-        "minutesAvg": 83
+        "minutesAvg": 78
       },
       "hitRates": {
         "goals05": {
@@ -2262,13 +2346,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots25": {
           "l5": 0,
@@ -2287,17 +2371,18 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-02"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -2312,6 +2397,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-05",
           "opponent": "Ireland",
@@ -2556,17 +2656,17 @@
       "seasonRates": {
         "goals90": 0.15,
         "assists90": 0.15,
-        "shots90": 0.4,
+        "shots90": 0.5,
         "sot90": 0.2,
         "passes90": 33,
         "cards90": 0,
         "fouls90": 1,
-        "minutesAvg": 80
+        "minutesAvg": 75
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 13
         },
         "goals15": {
@@ -2575,14 +2675,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 13
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
-          "season": 7
+          "l10": 0,
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -2591,8 +2691,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 19
         },
         "cards05": {
           "l5": 0,
@@ -2602,17 +2702,18 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-05"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -2627,6 +2728,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
@@ -2886,11 +3002,11 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0.07,
-        "shots90": 0.4,
+        "shots90": 0.5,
         "sot90": 0.1,
-        "passes90": 30,
+        "passes90": 28,
         "cards90": 0,
-        "fouls90": 2.1,
+        "fouls90": 2,
         "minutesAvg": 78
       },
       "hitRates": {
@@ -2910,7 +3026,7 @@
           "season": 6
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 6
         },
@@ -2930,20 +3046,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 60,
-          "season": 56
+          "l5": 20,
+          "l10": 50,
+          "season": 53
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -2958,6 +3074,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
@@ -3215,14 +3346,14 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.1,
-        "assists90": 0.38,
+        "goals90": 0.09,
+        "assists90": 0.36,
         "shots90": 1.4,
-        "sot90": 0.6,
-        "passes90": 31,
+        "sot90": 0.5,
+        "passes90": 29,
         "cards90": 0,
-        "fouls90": 1.2,
-        "minutesAvg": 59
+        "fouls90": 1.1,
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
@@ -3237,23 +3368,23 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 20,
-          "season": 25
+          "l10": 10,
+          "season": 24
         },
         "shots15": {
           "l5": 0,
-          "l10": 20,
-          "season": 25
+          "l10": 10,
+          "season": 24
         },
         "shots25": {
           "l5": 0,
-          "l10": 20,
-          "season": 19
+          "l10": 10,
+          "season": 18
         },
         "sot05": {
           "l5": 20,
-          "l10": 30,
-          "season": 25
+          "l10": 20,
+          "season": 24
         },
         "cards05": {
           "l5": 0,
@@ -3263,18 +3394,18 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 13
+          "season": 12
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -3289,6 +3420,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
@@ -3550,14 +3696,14 @@
         "assists90": 0,
         "shots90": 1.5,
         "sot90": 0.2,
-        "passes90": 43,
+        "passes90": 41,
         "cards90": 0,
         "fouls90": 1.5,
-        "minutesAvg": 70
+        "minutesAvg": 69
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 6
         },
@@ -3572,9 +3718,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 31
+          "season": 29
         },
         "shots25": {
           "l5": 20,
@@ -3582,9 +3728,9 @@
           "season": 6
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 19
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -3592,20 +3738,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 30,
-          "season": 31
+          "l5": 0,
+          "l10": 20,
+          "season": 29
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -3620,6 +3766,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
@@ -3861,14 +4022,14 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.37,
+        "goals90": 0.36,
         "assists90": 0,
-        "shots90": 1.2,
+        "shots90": 1.6,
         "sot90": 0.6,
         "passes90": 22,
         "cards90": 0,
         "fouls90": 1.5,
-        "minutesAvg": 48
+        "minutesAvg": 47
       },
       "hitRates": {
         "goals05": {
@@ -3879,7 +4040,7 @@
         "goals15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "assists05": {
           "l5": 0,
@@ -3887,19 +4048,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 20
+          "l5": 20,
+          "l10": 20,
+          "season": 25
         },
         "shots25": {
-          "l5": 0,
-          "l10": 0,
-          "season": 7
+          "l5": 20,
+          "l10": 10,
+          "season": 13
         },
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "cards05": {
           "l5": 0,
@@ -3907,20 +4068,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 19
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -4766,6 +4927,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 33,
+          "goals": 1,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-05",
           "opponent": "Ireland",
           "competition": "Int. Friendly Games",
@@ -4991,20 +5167,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.26,
-        "assists90": 0,
-        "shots90": 1.7,
-        "sot90": 0.5,
-        "passes90": 46,
+        "goals90": 0.37,
+        "assists90": 0.12,
+        "shots90": 2,
+        "sot90": 0.6,
+        "passes90": 44,
         "cards90": 0,
-        "fouls90": 2,
-        "minutesAvg": 49
+        "fouls90": 1.9,
+        "minutesAvg": 48
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
+          "l5": 20,
           "l10": 10,
-          "season": 14
+          "season": 20
         },
         "goals15": {
           "l5": 0,
@@ -5012,24 +5188,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "shots15": {
-          "l5": 40,
-          "l10": 40,
-          "season": 36
+          "l5": 60,
+          "l10": 50,
+          "season": 40
         },
         "shots25": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "sot05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 20,
-          "season": 29
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -5039,16 +5215,17 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 21
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B"
         ],
-        "lastMatch": "2026-06-05"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -5063,6 +5240,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
@@ -5306,12 +5498,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.3,
-        "sot90": 0.2,
-        "passes90": 46,
+        "shots90": 0.4,
+        "sot90": 0.1,
+        "passes90": 43,
         "cards90": 0,
-        "fouls90": 1.3,
-        "minutesAvg": 77
+        "fouls90": 1.2,
+        "minutesAvg": 78
       },
       "hitRates": {
         "goals05": {
@@ -5352,17 +5544,17 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 27
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -5377,6 +5569,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
@@ -5634,20 +5841,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.33,
+        "goals90": 0.31,
         "assists90": 0.08,
-        "shots90": 1.6,
+        "shots90": 1.8,
         "sot90": 0.9,
-        "passes90": 20,
+        "passes90": 19,
         "cards90": 0,
-        "fouls90": 1.6,
+        "fouls90": 1.5,
         "minutesAvg": 69
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 19
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -5662,17 +5869,17 @@
         "shots15": {
           "l5": 20,
           "l10": 40,
-          "season": 38
+          "season": 41
         },
         "shots25": {
-          "l5": 0,
-          "l10": 10,
-          "season": 19
+          "l5": 20,
+          "l10": 20,
+          "season": 24
         },
         "sot05": {
           "l5": 60,
           "l10": 60,
-          "season": 56
+          "season": 59
         },
         "cards05": {
           "l5": 0,
@@ -5680,20 +5887,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 40,
-          "season": 38
+          "season": 35
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -5708,6 +5915,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 6,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
@@ -5965,20 +6187,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.23,
-        "assists90": 0.12,
-        "shots90": 2.6,
-        "sot90": 0.9,
-        "passes90": 20,
+        "goals90": 0.31,
+        "assists90": 0.1,
+        "shots90": 2.9,
+        "sot90": 1,
+        "passes90": 18,
         "cards90": 0,
-        "fouls90": 1.5,
-        "minutesAvg": 48
+        "fouls90": 1.7,
+        "minutesAvg": 51
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 13
+          "l5": 40,
+          "l10": 20,
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -5991,19 +6213,19 @@
           "season": 6
         },
         "shots15": {
-          "l5": 60,
-          "l10": 30,
-          "season": 38
+          "l5": 80,
+          "l10": 40,
+          "season": 41
         },
         "shots25": {
-          "l5": 20,
-          "l10": 10,
-          "season": 25
+          "l5": 40,
+          "l10": 20,
+          "season": 29
         },
         "sot05": {
-          "l5": 40,
-          "l10": 30,
-          "season": 38
+          "l5": 60,
+          "l10": 40,
+          "season": 41
         },
         "cards05": {
           "l5": 0,
@@ -6011,20 +6233,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 31
+          "l5": 40,
+          "l10": 20,
+          "season": 35
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -6257,6 +6479,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 3,
+          "assists": 0,
+          "shots": 8,
+          "shotsOnTarget": 5,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
@@ -6514,45 +6751,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.51,
-        "assists90": 0.14,
-        "shots90": 2,
-        "sot90": 0.9,
-        "passes90": 27,
+        "goals90": 0.67,
+        "assists90": 0.13,
+        "shots90": 2.4,
+        "sot90": 1.2,
+        "passes90": 25,
         "cards90": 0,
         "fouls90": 0.3,
-        "minutesAvg": 78
+        "minutesAvg": 79
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 10,
-          "season": 31
+          "l10": 20,
+          "season": 35
         },
         "goals15": {
           "l5": 20,
-          "l10": 10,
-          "season": 13
+          "l10": 20,
+          "season": 18
         },
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 13
+          "season": 12
         },
         "shots15": {
           "l5": 60,
-          "l10": 40,
-          "season": 50
+          "l10": 50,
+          "season": 53
         },
         "shots25": {
           "l5": 60,
-          "l10": 30,
-          "season": 38
+          "l10": 40,
+          "season": 41
         },
         "sot05": {
           "l5": 40,
-          "l10": 20,
-          "season": 38
+          "l10": 30,
+          "season": 41
         },
         "cards05": {
           "l5": 0,
@@ -6566,14 +6803,14 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-18"
       }
     },
     {
@@ -6822,6 +7059,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
@@ -7080,19 +7332,19 @@
       ],
       "seasonRates": {
         "goals90": 0.2,
-        "assists90": 0.41,
+        "assists90": 0.4,
         "shots90": 3.6,
         "sot90": 0.9,
-        "passes90": 14,
+        "passes90": 13,
         "cards90": 0,
-        "fouls90": 1.5,
-        "minutesAvg": 55
+        "fouls90": 1.7,
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 13
+          "season": 12
         },
         "goals15": {
           "l5": 0,
@@ -7101,23 +7353,23 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 20,
-          "season": 19
+          "l10": 10,
+          "season": 18
         },
         "shots15": {
           "l5": 60,
-          "l10": 60,
-          "season": 63
+          "l10": 50,
+          "season": 59
         },
         "shots25": {
           "l5": 40,
           "l10": 30,
-          "season": 31
+          "season": 29
         },
         "sot05": {
           "l5": 60,
-          "l10": 50,
-          "season": 50
+          "l10": 40,
+          "season": 47
         },
         "cards05": {
           "l5": 0,
@@ -7126,19 +7378,19 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 50,
-          "season": 31
+          "l10": 60,
+          "season": 35
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "CONCACAF Gold Cup, Group B",
           "CONCACAF Nations League, Finals"
         ],
-        "lastMatch": "2026-06-12"
+        "lastMatch": "2026-06-18"
       }
     }
   ],

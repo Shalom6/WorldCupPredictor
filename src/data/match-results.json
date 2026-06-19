@@ -1280,6 +1280,77 @@
       },
       "syncedAt": "2026-06-18T02:06:02.062Z",
       "source": "espn"
+    },
+    "GS-B-3": {
+      "status": "finished",
+      "homeScore": 6,
+      "awayScore": 0,
+      "scorers": {
+        "home": [
+          {
+            "name": "Cyle Larin",
+            "minute": "16'"
+          },
+          {
+            "name": "Jonathan David",
+            "minute": "29'"
+          },
+          {
+            "name": "Jonathan David",
+            "minute": "45'+3'"
+          },
+          {
+            "name": "Nathan Saliba",
+            "minute": "64'"
+          },
+          {
+            "name": "Jonathan David",
+            "minute": "90'+2'",
+            "assist": "Nathan Saliba"
+          }
+        ],
+        "away": []
+      },
+      "teamStats": {
+        "possession": {
+          "home": 78.8,
+          "away": 21.2
+        },
+        "shots": {
+          "home": 33,
+          "away": 2
+        },
+        "shotsOnTarget": {
+          "home": 10,
+          "away": 0
+        },
+        "corners": {
+          "home": 19,
+          "away": 1
+        },
+        "fouls": {
+          "home": 9,
+          "away": 10
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 2
+        },
+        "saves": {
+          "home": 0,
+          "away": 4
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 60
+        }
+      },
+      "syncedAt": "2026-06-19T02:09:52.860Z",
+      "source": "espn"
     }
   }
 }
