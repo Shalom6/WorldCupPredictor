@@ -2,11 +2,11 @@
   "team": "Qatar",
   "group": "B",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-19T02:09:53.762Z",
+  "importedAt": "2026-06-19T07:23:09.138Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-13",
     "2026-06-18",
+    "2026-06-13",
     "2026-06-06",
     "2026-05-28",
     "2025-12-07",
@@ -25,15 +25,6 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-13",
-      "opponent": "Switzerland",
-      "competition": "FIFA World Cup, Group B",
-      "result": "D",
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "venue": "home"
-    },
-    {
       "date": "2026-06-18",
       "opponent": "Canada",
       "competition": "FIFA World Cup, Group B",
@@ -41,6 +32,15 @@
       "goalsFor": 0,
       "goalsAgainst": 6,
       "venue": "away"
+    },
+    {
+      "date": "2026-06-13",
+      "opponent": "Switzerland",
+      "competition": "FIFA World Cup, Group B",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "home"
     },
     {
       "date": "2026-06-06",
@@ -1010,36 +1010,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "Switzerland",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 30,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-13",
-          "opponent": "Switzerland",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -1068,6 +1038,36 @@
           "passes": 0,
           "cards": 1,
           "fouls": 3
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2025-11-17",
@@ -1407,21 +1407,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "Switzerland",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 60,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -1435,6 +1420,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-06",
@@ -1659,21 +1659,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "Switzerland",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -1687,6 +1672,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-06",
@@ -2119,21 +2119,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "Switzerland",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -2143,6 +2128,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -2556,21 +2556,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "Switzerland",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -2584,6 +2569,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-06",
@@ -3853,12 +3853,12 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "Switzerland",
+          "date": "2026-06-18",
+          "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
+          "result": "L",
+          "venue": "away",
+          "minutes": 59,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -3868,12 +3868,12 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-18",
-          "opponent": "Canada",
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
           "competition": "FIFA World Cup, Group B",
-          "result": "L",
-          "venue": "away",
-          "minutes": 59,
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -4371,21 +4371,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "Switzerland",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 79,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -4398,6 +4383,21 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 1,
+          "fouls": 1
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
           "fouls": 1
         },
         {
@@ -4555,21 +4555,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "Switzerland",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 88,
-          "goals": 0,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 2,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 3
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -4583,6 +4568,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 88,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
         },
         {
           "date": "2026-06-06",
@@ -5073,21 +5073,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "Switzerland",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 60,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -5101,6 +5086,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
         },
         {
           "date": "2026-06-06",
@@ -5462,21 +5462,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "Switzerland",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 11,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -5490,6 +5475,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2025-12-07",
@@ -6792,21 +6792,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "Switzerland",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 60,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -6820,6 +6805,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-06",
@@ -6975,22 +6975,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "Switzerland",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 1,
-          "saves": 5
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -7005,6 +6989,22 @@
           "cards": 0,
           "fouls": 0,
           "saves": 4
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "Switzerland",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1,
+          "saves": 5
         }
       ]
     }

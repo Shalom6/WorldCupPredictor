@@ -2,11 +2,11 @@
   "team": "Canada",
   "group": "B",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-19T02:09:53.649Z",
+  "importedAt": "2026-06-19T07:23:09.134Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-12",
     "2026-06-18",
+    "2026-06-12",
     "2026-06-05",
     "2026-06-02",
     "2026-04-01",
@@ -25,21 +25,21 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-12",
-      "opponent": "Bosnia and Herzegovina",
-      "competition": "FIFA World Cup, Group B",
-      "result": "D",
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "venue": "home"
-    },
-    {
       "date": "2026-06-18",
       "opponent": "Qatar",
       "competition": "FIFA World Cup, Group B",
       "result": "W",
       "goalsFor": 6,
       "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2026-06-12",
+      "opponent": "Bosnia and Herzegovina",
+      "competition": "FIFA World Cup, Group B",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "venue": "home"
     },
     {
@@ -642,6 +642,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-18",
+          "opponent": "Qatar",
+          "competition": "FIFA World Cup, Group B",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-12",
           "opponent": "Bosnia and Herzegovina",
           "competition": "FIFA World Cup, Group B",
@@ -656,21 +671,6 @@
           "cards": 0,
           "fouls": 0,
           "saves": 2
-        },
-        {
-          "date": "2026-06-18",
-          "opponent": "Qatar",
-          "competition": "FIFA World Cup, Group B",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2026-06-05",
@@ -924,21 +924,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Bosnia and Herzegovina",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Qatar",
           "competition": "FIFA World Cup, Group B",
@@ -952,6 +937,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
         },
         {
           "date": "2026-06-05",
@@ -1198,21 +1198,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Bosnia and Herzegovina",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Qatar",
           "competition": "FIFA World Cup, Group B",
@@ -1226,6 +1211,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-05",
@@ -1934,21 +1934,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Bosnia and Herzegovina",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Qatar",
           "competition": "FIFA World Cup, Group B",
@@ -1962,6 +1947,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
         },
         {
           "date": "2026-06-05",
@@ -2588,21 +2588,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Bosnia and Herzegovina",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Qatar",
           "competition": "FIFA World Cup, Group B",
@@ -2613,6 +2598,21 @@
           "assists": 0,
           "shots": 1,
           "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -2894,21 +2894,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Bosnia and Herzegovina",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 29,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Qatar",
           "competition": "FIFA World Cup, Group B",
@@ -2918,6 +2903,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -3174,21 +3174,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Bosnia and Herzegovina",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Qatar",
           "competition": "FIFA World Cup, Group B",
@@ -3202,6 +3187,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-05",
@@ -3454,21 +3454,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Bosnia and Herzegovina",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 29,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Qatar",
           "competition": "FIFA World Cup, Group B",
@@ -3478,6 +3463,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -4771,21 +4771,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Bosnia and Herzegovina",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 91,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Qatar",
           "competition": "FIFA World Cup, Group B",
@@ -4799,6 +4784,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 91,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-05",
@@ -5035,21 +5035,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Bosnia and Herzegovina",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 61,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Qatar",
           "competition": "FIFA World Cup, Group B",
@@ -5063,6 +5048,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-05",
@@ -5437,21 +5437,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Bosnia and Herzegovina",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 14,
-          "goals": 1,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Qatar",
           "competition": "FIFA World Cup, Group B",
@@ -5465,6 +5450,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 3
+        },
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 14,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-05",
@@ -6019,21 +6019,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Bosnia and Herzegovina",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 61,
-          "goals": 0,
-          "assists": 0,
-          "shots": 3,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Qatar",
           "competition": "FIFA World Cup, Group B",
@@ -6044,6 +6029,21 @@
           "assists": 0,
           "shots": 8,
           "shotsOnTarget": 5,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -6720,21 +6720,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-12",
-          "opponent": "Bosnia and Herzegovina",
-          "competition": "FIFA World Cup, Group B",
-          "result": "D",
-          "venue": "home",
-          "minutes": 76,
-          "goals": 0,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-18",
           "opponent": "Qatar",
           "competition": "FIFA World Cup, Group B",
@@ -6748,6 +6733,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-12",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "D",
+          "venue": "home",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-05",
