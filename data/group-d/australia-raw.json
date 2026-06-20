@@ -2,11 +2,11 @@
   "team": "Australia",
   "group": "D",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-20T06:01:02.496Z",
+  "importedAt": "2026-06-20T09:21:44.399Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-14",
     "2026-06-19",
+    "2026-06-14",
     "2026-06-06",
     "2026-05-31",
     "2026-03-31",
@@ -25,15 +25,6 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-14",
-      "opponent": "Türkiye",
-      "competition": "FIFA World Cup, Group D",
-      "result": "W",
-      "goalsFor": 2,
-      "goalsAgainst": 0,
-      "venue": "home"
-    },
-    {
       "date": "2026-06-19",
       "opponent": "USA",
       "competition": "FIFA World Cup, Group D",
@@ -41,6 +32,15 @@
       "goalsFor": 0,
       "goalsAgainst": 2,
       "venue": "away"
+    },
+    {
+      "date": "2026-06-14",
+      "opponent": "Türkiye",
+      "competition": "FIFA World Cup, Group D",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "venue": "home"
     },
     {
       "date": "2026-06-06",
@@ -689,22 +689,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
-          "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0,
-          "saves": 8
-        },
-        {
           "date": "2026-06-19",
           "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
@@ -719,6 +703,22 @@
           "cards": 0,
           "fouls": 0,
           "saves": 1
+        },
+        {
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 8
         },
         {
           "date": "2026-06-06",
@@ -855,21 +855,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
-          "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-19",
           "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
@@ -883,6 +868,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-06",
@@ -1352,12 +1352,12 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
+          "date": "2026-06-19",
+          "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -1367,12 +1367,12 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-19",
-          "opponent": "USA",
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
           "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 45,
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -1700,21 +1700,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
-          "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-19",
           "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
@@ -1728,6 +1713,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 3
+        },
+        {
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-06",
@@ -1910,21 +1910,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
-          "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 16,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-19",
           "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
@@ -1938,6 +1923,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-06",
@@ -2158,21 +2158,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
-          "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 84,
-          "goals": 0,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-19",
           "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
@@ -2186,6 +2171,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-06",
@@ -3112,21 +3112,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
-          "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-19",
           "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
@@ -3140,6 +3125,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-06",
@@ -3910,13 +3910,13 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
+          "date": "2026-06-19",
+          "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 1,
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
           "assists": 0,
           "shots": 1,
           "shotsOnTarget": 1,
@@ -3925,13 +3925,13 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-19",
-          "opponent": "USA",
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
           "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 45,
-          "goals": 0,
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
           "assists": 0,
           "shots": 1,
           "shotsOnTarget": 1,
@@ -4443,21 +4443,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
-          "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 6,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-19",
           "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
@@ -4471,6 +4456,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 6,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-06",
@@ -4707,21 +4707,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
-          "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 74,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-19",
           "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
@@ -4734,6 +4719,21 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 1,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
           "fouls": 0
         },
         {
@@ -5264,21 +5264,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
-          "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 29,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-19",
           "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
@@ -5292,6 +5277,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-05-31",
@@ -5554,21 +5554,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
-          "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 84,
-          "goals": 0,
-          "assists": 1,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-19",
           "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
@@ -5582,6 +5567,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 84,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-06",
@@ -6754,21 +6754,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
-          "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 74,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-19",
           "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
@@ -6782,6 +6767,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-06",
@@ -6938,21 +6938,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-14",
-          "opponent": "Türkiye",
-          "competition": "FIFA World Cup, Group D",
-          "result": "W",
-          "venue": "home",
-          "minutes": 61,
-          "goals": 1,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 2,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-19",
           "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
@@ -6966,6 +6951,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-14",
+          "opponent": "Türkiye",
+          "competition": "FIFA World Cup, Group D",
+          "result": "W",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-06",
