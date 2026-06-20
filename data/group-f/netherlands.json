@@ -3,8 +3,8 @@
   "team": "Netherlands",
   "group": "F",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-20T17:59:10.478Z",
-  "eventsProcessed": 16,
+  "importedAt": "2026-06-20T19:23:55.918Z",
+  "eventsProcessed": 17,
   "teamMatchResults": [
     {
       "date": "2026-06-14",
@@ -13,6 +13,15 @@
       "result": "D",
       "goalsFor": 2,
       "goalsAgainst": 2,
+      "venue": "home"
+    },
+    {
+      "date": "2026-06-20",
+      "opponent": "Sweden",
+      "competition": "FIFA World Cup, Group F",
+      "result": "W",
+      "goalsFor": 5,
+      "goalsAgainst": 1,
       "venue": "home"
     },
     {
@@ -164,6 +173,22 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 7
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -471,7 +496,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 29,
+        "passes90": 27,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 86
@@ -519,7 +544,7 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -527,7 +552,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -805,6 +830,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-14",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -1001,10 +1041,10 @@
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 77,
+        "passes90": 69,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 65
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
@@ -1045,11 +1085,11 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 17
+          "season": 15
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -1057,7 +1097,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -1652,6 +1692,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-14",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -1912,10 +1967,10 @@
         "assists90": 0.08,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 51,
+        "passes90": 47,
         "cards90": 0.08,
         "fouls90": 0.8,
-        "minutesAvg": 66
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
@@ -1960,7 +2015,7 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -1968,7 +2023,7 @@
           "UEFA Nations League, League A, Gr. 3",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -2252,6 +2307,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-14",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -2508,20 +2578,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.27,
+        "goals90": 0.25,
         "assists90": 0,
         "shots90": 0.9,
         "sot90": 0.3,
-        "passes90": 83,
+        "passes90": 77,
         "cards90": 0,
         "fouls90": 1,
         "minutesAvg": 84
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 25
+          "season": 24
         },
         "goals15": {
           "l5": 0,
@@ -2536,7 +2606,7 @@
         "shots15": {
           "l5": 0,
           "l10": 30,
-          "season": 25
+          "season": 24
         },
         "shots25": {
           "l5": 0,
@@ -2544,9 +2614,9 @@
           "season": 6
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 31
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -2556,11 +2626,11 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 24
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -2568,7 +2638,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -2583,6 +2653,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 2,
+          "assists": 1,
+          "shots": 5,
+          "shotsOnTarget": 4,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -2840,45 +2925,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.59,
-        "assists90": 0.3,
-        "shots90": 2.6,
-        "sot90": 1.3,
-        "passes90": 30,
+        "goals90": 0.69,
+        "assists90": 0.34,
+        "shots90": 2.8,
+        "sot90": 1.5,
+        "passes90": 28,
         "cards90": 0,
         "fouls90": 1,
-        "minutesAvg": 76
+        "minutesAvg": 77
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 40,
-          "season": 38
+          "l5": 40,
+          "l10": 50,
+          "season": 41
         },
         "goals15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 13
+          "l5": 40,
+          "l10": 30,
+          "season": 18
         },
         "assists05": {
-          "l5": 0,
+          "l5": 20,
           "l10": 30,
-          "season": 25
+          "season": 29
         },
         "shots15": {
           "l5": 80,
           "l10": 70,
-          "season": 69
+          "season": 71
         },
         "shots25": {
           "l5": 60,
           "l10": 60,
-          "season": 50
+          "season": 53
         },
         "sot05": {
           "l5": 80,
           "l10": 80,
-          "season": 69
+          "season": 71
         },
         "cards05": {
           "l5": 0,
@@ -2887,12 +2972,12 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 10,
-          "season": 19
+          "l10": 0,
+          "season": 18
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -2900,7 +2985,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -2915,6 +3000,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -2964,20 +3064,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.44,
-        "assists90": 0,
+        "goals90": 0.72,
+        "assists90": 0.36,
         "shots90": 2.2,
-        "sot90": 0.9,
-        "passes90": 15,
-        "cards90": 0.44,
-        "fouls90": 1.8,
-        "minutesAvg": 68
+        "sot90": 1.1,
+        "passes90": 12,
+        "cards90": 0.36,
+        "fouls90": 1.4,
+        "minutesAvg": 63
       },
       "hitRates": {
         "goals05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -2985,43 +3085,43 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots25": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "sot05": {
-          "l5": 67,
-          "l10": 67,
-          "season": 67
+          "l5": 75,
+          "l10": 75,
+          "season": 75
         },
         "cards05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "fouls15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -3036,6 +3136,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 2,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -3293,11 +3408,11 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.34,
-        "assists90": 0.34,
-        "shots90": 1.6,
-        "sot90": 0.7,
-        "passes90": 38,
+        "goals90": 0.32,
+        "assists90": 0.44,
+        "shots90": 1.5,
+        "sot90": 0.6,
+        "passes90": 36,
         "cards90": 0,
         "fouls90": 1.4,
         "minutesAvg": 83
@@ -3305,8 +3420,8 @@
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 20,
-          "season": 31
+          "l10": 10,
+          "season": 29
         },
         "goals15": {
           "l5": 0,
@@ -3314,24 +3429,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 40,
-          "season": 31
+          "l5": 40,
+          "l10": 50,
+          "season": 35
         },
         "shots15": {
-          "l5": 20,
-          "l10": 50,
-          "season": 50
+          "l5": 0,
+          "l10": 40,
+          "season": 47
         },
         "shots25": {
           "l5": 0,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "sot05": {
           "l5": 0,
-          "l10": 50,
-          "season": 50
+          "l10": 40,
+          "season": 47
         },
         "cards05": {
           "l5": 0,
@@ -3339,13 +3454,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 30,
-          "season": 44
+          "l5": 60,
+          "l10": 40,
+          "season": 47
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -3353,7 +3468,7 @@
           "UEFA Nations League, League A, Gr. 3",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -3368,6 +3483,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -3562,13 +3692,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.29,
+        "assists90": 0.27,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 83,
+        "passes90": 78,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 79
+        "fouls90": 1,
+        "minutesAvg": 77
       },
       "hitRates": {
         "goals05": {
@@ -3584,11 +3714,11 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 8
         },
         "shots25": {
@@ -3598,7 +3728,7 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 8
         },
         "cards05": {
@@ -3607,13 +3737,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 25
+          "season": 23
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -3621,7 +3751,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -3636,6 +3766,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Uzbekistan",
@@ -3672,12 +3817,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 3,
+        "shots90": 1.5,
         "sot90": 0,
-        "passes90": 21,
+        "passes90": 10,
         "cards90": 0,
-        "fouls90": 6,
-        "minutesAvg": 15
+        "fouls90": 3,
+        "minutesAvg": 20
       },
       "hitRates": {
         "goals05": {
@@ -3722,12 +3867,13 @@
         }
       },
       "importMeta": {
-        "appearances": 2,
+        "appearances": 3,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-08"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -4303,6 +4449,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-14",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -4560,13 +4721,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.23,
+        "assists90": 0.21,
         "shots90": 0.8,
         "sot90": 0.2,
-        "passes90": 65,
+        "passes90": 61,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 75
+        "fouls90": 1.1,
+        "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
@@ -4582,12 +4743,12 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "shots25": {
           "l5": 0,
@@ -4595,9 +4756,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 19
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -4605,20 +4766,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 25
+          "l5": 40,
+          "l10": 20,
+          "season": 29
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA G",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -4633,6 +4794,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -4746,20 +4922,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.33,
-        "assists90": 0.33,
-        "shots90": 2,
-        "sot90": 0.7,
-        "passes90": 42,
+        "goals90": 0.3,
+        "assists90": 0.3,
+        "shots90": 1.8,
+        "sot90": 0.6,
+        "passes90": 37,
         "cards90": 0,
-        "fouls90": 1.3,
-        "minutesAvg": 39
+        "fouls90": 1.2,
+        "minutesAvg": 38
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -4768,13 +4944,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots15": {
           "l5": 20,
-          "l10": 29,
-          "season": 29
+          "l10": 25,
+          "season": 25
         },
         "shots25": {
           "l5": 0,
@@ -4783,8 +4959,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 29,
-          "season": 29
+          "l10": 25,
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -4798,14 +4974,14 @@
         }
       },
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -4820,6 +4996,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -5077,20 +5268,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.39,
-        "assists90": 0.08,
-        "shots90": 2.6,
-        "sot90": 1.1,
-        "passes90": 41,
+        "goals90": 0.37,
+        "assists90": 0.07,
+        "shots90": 2.5,
+        "sot90": 1,
+        "passes90": 39,
         "cards90": 0,
         "fouls90": 0.7,
         "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 31
+          "season": 29
         },
         "goals15": {
           "l5": 0,
@@ -5098,24 +5289,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 6
         },
         "shots15": {
-          "l5": 80,
-          "l10": 70,
-          "season": 63
+          "l5": 60,
+          "l10": 60,
+          "season": 59
         },
         "shots25": {
-          "l5": 40,
-          "l10": 40,
-          "season": 31
+          "l5": 20,
+          "l10": 30,
+          "season": 29
         },
         "sot05": {
-          "l5": 80,
-          "l10": 70,
-          "season": 69
+          "l5": 60,
+          "l10": 60,
+          "season": 65
         },
         "cards05": {
           "l5": 0,
@@ -5129,7 +5320,7 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -5137,7 +5328,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -5152,6 +5343,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 72,
+          "goals": 2,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -5313,45 +5519,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.24,
-        "assists90": 0.24,
-        "shots90": 1.9,
-        "sot90": 0.2,
-        "passes90": 12,
+        "goals90": 0.61,
+        "assists90": 0.2,
+        "shots90": 2,
+        "sot90": 0.6,
+        "passes90": 10,
         "cards90": 0,
-        "fouls90": 1.7,
-        "minutesAvg": 37
+        "fouls90": 1.6,
+        "minutesAvg": 40
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         },
         "goals15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 9
         },
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "sot05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -5361,18 +5567,18 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 18
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "UEFA Nations League, League A, Gr. 3",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -5387,6 +5593,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -5644,20 +5865,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.42,
-        "assists90": 0.21,
-        "shots90": 3.1,
-        "sot90": 1.5,
-        "passes90": 20,
+        "goals90": 0.4,
+        "assists90": 0.2,
+        "shots90": 2.9,
+        "sot90": 1.4,
+        "passes90": 19,
         "cards90": 0,
         "fouls90": 0.5,
-        "minutesAvg": 54
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 20,
-          "season": 19
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -5667,22 +5888,22 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 13
+          "season": 12
         },
         "shots15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 60,
-          "season": 50
+          "season": 47
         },
         "shots25": {
           "l5": 20,
           "l10": 30,
-          "season": 25
+          "season": 24
         },
         "sot05": {
-          "l5": 60,
-          "l10": 70,
-          "season": 63
+          "l5": 40,
+          "l10": 60,
+          "season": 59
         },
         "cards05": {
           "l5": 0,
@@ -5691,19 +5912,19 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 6
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA G",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -5718,6 +5939,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -5943,45 +6179,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.8,
-        "assists90": 0.5,
-        "shots90": 3.5,
+        "goals90": 0.78,
+        "assists90": 0.59,
+        "shots90": 3.4,
         "sot90": 1.3,
-        "passes90": 32,
+        "passes90": 31,
         "cards90": 0.1,
         "fouls90": 1,
-        "minutesAvg": 64
+        "minutesAvg": 61
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 60,
-          "season": 43
+          "l5": 20,
+          "l10": 50,
+          "season": 40
         },
         "goals15": {
           "l5": 0,
           "l10": 20,
-          "season": 14
+          "season": 13
         },
         "assists05": {
           "l5": 20,
-          "l10": 30,
-          "season": 29
+          "l10": 40,
+          "season": 33
         },
         "shots15": {
           "l5": 40,
-          "l10": 70,
-          "season": 64
+          "l10": 60,
+          "season": 60
         },
         "shots25": {
           "l5": 0,
-          "l10": 40,
-          "season": 43
+          "l10": 30,
+          "season": 40
         },
         "sot05": {
-          "l5": 60,
-          "l10": 80,
-          "season": 71
+          "l5": 40,
+          "l10": 70,
+          "season": 67
         },
         "cards05": {
           "l5": 20,
@@ -5991,11 +6227,11 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 21
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -6003,7 +6239,7 @@
           "UEFA Nations League, Finals",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -6018,6 +6254,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-11-17",
           "opponent": "Lithuania",
@@ -6095,9 +6346,9 @@
       },
       "hitRates": {
         "goals05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "goals15": {
           "l5": 0,
@@ -6105,24 +6356,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots15": {
-          "l5": 50,
-          "l10": 50,
-          "season": 50
+          "l5": 40,
+          "l10": 40,
+          "season": 40
         },
         "shots25": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "sot05": {
-          "l5": 50,
-          "l10": 50,
-          "season": 50
+          "l5": 40,
+          "l10": 40,
+          "season": 40
         },
         "cards05": {
           "l5": 0,
@@ -6130,18 +6381,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group F",
           "World Cup Qual. UEFA G",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2025-11-17"
+        "lastMatch": "2026-06-20"
       }
     },
     {

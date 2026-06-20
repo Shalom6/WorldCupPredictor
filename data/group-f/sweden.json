@@ -3,9 +3,18 @@
   "team": "Sweden",
   "group": "F",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-11T08:41:50.210Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-20T19:23:55.429Z",
+  "eventsProcessed": 16,
   "teamMatchResults": [
+    {
+      "date": "2026-06-20",
+      "opponent": "Netherlands",
+      "competition": "FIFA World Cup, Group F",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 5,
+      "venue": "away"
+    },
     {
       "date": "2026-06-04",
       "opponent": "Greece",
@@ -268,6 +277,22 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
+        {
           "date": "2026-06-04",
           "opponent": "Greece",
           "competition": "Int. Friendly Games",
@@ -327,10 +352,10 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.33,
+        "assists90": 0.25,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 25,
+        "passes90": 19,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -347,9 +372,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots15": {
           "l5": 0,
@@ -378,12 +403,13 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -1024,6 +1050,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 93,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-04",
           "opponent": "Greece",
           "competition": "Int. Friendly Games",
@@ -1267,12 +1308,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.7,
-        "sot90": 0.2,
-        "passes90": 59,
-        "cards90": 0,
+        "shots90": 0.6,
+        "sot90": 0.1,
+        "passes90": 55,
+        "cards90": 0.07,
         "fouls90": 1.4,
-        "minutesAvg": 79
+        "minutesAvg": 80
       },
       "hitRates": {
         "goals05": {
@@ -1306,25 +1347,26 @@
           "season": 13
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 40,
-          "season": 40
+          "l5": 0,
+          "l10": 30,
+          "season": 38
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -1339,6 +1381,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -1485,20 +1542,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.15,
-        "assists90": 0.15,
-        "shots90": 0.6,
-        "sot90": 0.2,
-        "passes90": 63,
+        "goals90": 0.13,
+        "assists90": 0.13,
+        "shots90": 0.7,
+        "sot90": 0.3,
+        "passes90": 55,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 65
+        "fouls90": 1.3,
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "goals15": {
           "l5": 0,
@@ -1506,14 +1563,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 0,
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
@@ -1521,9 +1578,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 40,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -1532,18 +1589,19 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -1744,6 +1802,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -1988,12 +2061,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0.07,
-        "shots90": 0.4,
+        "shots90": 0.3,
         "sot90": 0,
-        "passes90": 72,
+        "passes90": 67,
         "cards90": 0,
         "fouls90": 1.4,
-        "minutesAvg": 81
+        "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
@@ -2009,7 +2082,7 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 0,
@@ -2034,18 +2107,19 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 27
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -2060,6 +2134,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-01",
           "opponent": "Norway",
@@ -2224,12 +2313,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.3,
+        "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 65,
+        "passes90": 57,
         "cards90": 0,
-        "fouls90": 1.8,
-        "minutesAvg": 65
+        "fouls90": 1.7,
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
@@ -2260,7 +2349,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "cards05": {
           "l5": 0,
@@ -2270,18 +2359,19 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 18
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-01"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -2296,6 +2386,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 34,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -2428,11 +2533,11 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 2,
-        "sot90": 0,
-        "passes90": 63,
+        "shots90": 2.1,
+        "sot90": 0.3,
+        "passes90": 56,
         "cards90": 0,
-        "fouls90": 1.3,
+        "fouls90": 1.2,
         "minutesAvg": 34
       },
       "hitRates": {
@@ -2462,9 +2567,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
           "l5": 0,
@@ -2478,13 +2583,14 @@
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -2784,6 +2890,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-04",
           "opponent": "Greece",
           "competition": "Int. Friendly Games",
@@ -2853,11 +2974,12 @@
         }
       },
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -2995,6 +3117,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 56,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -3193,9 +3330,9 @@
         "assists90": 0,
         "shots90": 0.7,
         "sot90": 0,
-        "passes90": 46,
+        "passes90": 42,
         "cards90": 0,
-        "fouls90": 2.2,
+        "fouls90": 2.3,
         "minutesAvg": 57
       },
       "hitRates": {
@@ -3217,7 +3354,7 @@
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "shots25": {
           "l5": 0,
@@ -3236,19 +3373,20 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 50,
-          "season": 50
+          "l10": 60,
+          "season": 54
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -3579,6 +3717,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 34,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-04",
           "opponent": "Greece",
           "competition": "Int. Friendly Games",
@@ -3726,11 +3879,11 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 2.5,
+        "shots90": 2.2,
         "sot90": 0.3,
-        "passes90": 43,
-        "cards90": 0,
-        "fouls90": 1.3,
+        "passes90": 39,
+        "cards90": 0.28,
+        "fouls90": 1.4,
         "minutesAvg": 32
       },
       "hitRates": {
@@ -3751,39 +3904,40 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "sot05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "fouls15": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -3987,6 +4141,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-04",
           "opponent": "Greece",
           "competition": "Int. Friendly Games",
@@ -4005,13 +4174,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 3.46,
+        "assists90": 2.43,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 55,
+        "passes90": 39,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 26
+        "minutesAvg": 19
       },
       "hitRates": {
         "goals05": {
@@ -4025,9 +4194,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 100,
-          "l10": 100,
-          "season": 100
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "shots15": {
           "l5": 0,
@@ -4056,11 +4225,12 @@
         }
       },
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -4075,6 +4245,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -4317,12 +4502,12 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.17,
-        "assists90": 0.17,
-        "shots90": 1.5,
-        "sot90": 0.5,
-        "passes90": 41,
-        "cards90": 0,
+        "goals90": 0.16,
+        "assists90": 0.16,
+        "shots90": 1.8,
+        "sot90": 0.6,
+        "passes90": 38,
+        "cards90": 0.08,
         "fouls90": 1.6,
         "minutesAvg": 72
       },
@@ -4343,40 +4528,41 @@
           "season": 13
         },
         "shots15": {
-          "l5": 0,
-          "l10": 30,
-          "season": 33
-        },
-        "shots25": {
-          "l5": 0,
-          "l10": 10,
-          "season": 13
-        },
-        "sot05": {
           "l5": 20,
           "l10": 30,
-          "season": 27
+          "season": 38
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 10,
+          "season": 19
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 30,
+          "season": 31
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
           "l5": 40,
           "l10": 40,
-          "season": 40
+          "season": 38
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -4391,6 +4577,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 55,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -4554,12 +4755,12 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.16,
-        "shots90": 1.1,
+        "assists90": 0.14,
+        "shots90": 1,
         "sot90": 0.6,
-        "passes90": 31,
+        "passes90": 28,
         "cards90": 0,
-        "fouls90": 1.4,
+        "fouls90": 1.3,
         "minutesAvg": 57
       },
       "hitRates": {
@@ -4576,12 +4777,12 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
           "l5": 40,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "shots25": {
           "l5": 0,
@@ -4591,7 +4792,7 @@
         "sot05": {
           "l5": 40,
           "l10": 30,
-          "season": 30
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -4601,16 +4802,17 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 18
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA B"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -4625,6 +4827,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -4851,20 +5068,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.68,
-        "assists90": 0.19,
-        "shots90": 4.7,
-        "sot90": 2,
-        "passes90": 34,
+        "goals90": 0.62,
+        "assists90": 0.26,
+        "shots90": 4.4,
+        "sot90": 1.9,
+        "passes90": 31,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 67
+        "fouls90": 0.7,
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 30,
-          "season": 43
+          "l10": 20,
+          "season": 40
         },
         "goals15": {
           "l5": 0,
@@ -4872,24 +5089,24 @@
           "season": 7
         },
         "assists05": {
-          "l5": 0,
+          "l5": 20,
           "l10": 20,
-          "season": 14
+          "season": 20
         },
         "shots15": {
           "l5": 40,
-          "l10": 70,
-          "season": 71
+          "l10": 60,
+          "season": 67
         },
         "shots25": {
           "l5": 20,
-          "l10": 60,
-          "season": 57
+          "l10": 50,
+          "season": 53
         },
         "sot05": {
-          "l5": 40,
+          "l5": 60,
           "l10": 70,
-          "season": 79
+          "season": 80
         },
         "cards05": {
           "l5": 0,
@@ -4897,19 +5114,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 21
+          "l5": 0,
+          "l10": 10,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -4924,6 +5142,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 35,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -5166,20 +5399,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.31,
+        "goals90": 0.4,
         "assists90": 0,
         "shots90": 1.8,
-        "sot90": 0.8,
-        "passes90": 33,
+        "sot90": 0.9,
+        "passes90": 32,
         "cards90": 0,
         "fouls90": 0.5,
-        "minutesAvg": 58
+        "minutesAvg": 56
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 30,
-          "season": 20
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -5194,7 +5427,7 @@
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 33
+          "season": 31
         },
         "shots25": {
           "l5": 0,
@@ -5202,9 +5435,9 @@
           "season": 13
         },
         "sot05": {
-          "l5": 40,
+          "l5": 60,
           "l10": 50,
-          "season": 40
+          "season": 44
         },
         "cards05": {
           "l5": 0,
@@ -5214,18 +5447,19 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -5240,6 +5474,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 56,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -5418,20 +5667,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.39,
-        "assists90": 0.26,
+        "goals90": 0.36,
+        "assists90": 0.24,
         "shots90": 2.1,
-        "sot90": 0.8,
-        "passes90": 29,
+        "sot90": 0.7,
+        "passes90": 27,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 63
+        "fouls90": 1.6,
+        "minutesAvg": 62
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 27
+          "l5": 0,
+          "l10": 20,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -5441,22 +5690,22 @@
         "assists05": {
           "l5": 40,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "shots15": {
-          "l5": 40,
-          "l10": 50,
-          "season": 45
+          "l5": 20,
+          "l10": 40,
+          "season": 42
         },
         "shots25": {
           "l5": 0,
-          "l10": 20,
-          "season": 18
+          "l10": 10,
+          "season": 17
         },
         "sot05": {
-          "l5": 20,
-          "l10": 40,
-          "season": 36
+          "l5": 0,
+          "l10": 30,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -5465,18 +5714,19 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 30,
-          "season": 27
+          "l10": 40,
+          "season": 33
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     },
     {
@@ -5661,6 +5911,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 3,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -5871,45 +6136,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 1.11,
-        "assists90": 0.4,
-        "shots90": 3.4,
-        "sot90": 2,
-        "passes90": 24,
+        "goals90": 1.03,
+        "assists90": 0.37,
+        "shots90": 3.5,
+        "sot90": 2.1,
+        "passes90": 22,
         "cards90": 0,
-        "fouls90": 1,
+        "fouls90": 1.1,
         "minutesAvg": 87
       },
       "hitRates": {
         "goals05": {
           "l5": 60,
-          "l10": 60,
-          "season": 62
+          "l10": 50,
+          "season": 57
         },
         "goals15": {
           "l5": 20,
           "l10": 20,
-          "season": 23
+          "season": 21
         },
         "assists05": {
           "l5": 0,
-          "l10": 30,
-          "season": 31
+          "l10": 20,
+          "season": 29
         },
         "shots15": {
           "l5": 80,
           "l10": 80,
-          "season": 85
+          "season": 86
         },
         "shots25": {
-          "l5": 20,
+          "l5": 40,
           "l10": 30,
-          "season": 46
+          "season": 50
         },
         "sot05": {
-          "l5": 80,
+          "l5": 100,
           "l10": 80,
-          "season": 85
+          "season": 86
         },
         "cards05": {
           "l5": 0,
@@ -5917,20 +6182,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 30,
-          "season": 23
+          "l5": 60,
+          "l10": 40,
+          "season": 29
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       }
     }
   ],

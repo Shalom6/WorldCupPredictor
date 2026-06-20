@@ -1405,6 +1405,87 @@
       },
       "syncedAt": "2026-06-20T01:37:37.272Z",
       "source": "espn"
+    },
+    "GS-F-3": {
+      "status": "finished",
+      "homeScore": 5,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Brian Brobbey",
+            "minute": "5'",
+            "assist": "Cody Gakpo"
+          },
+          {
+            "name": "Brian Brobbey",
+            "minute": "17'",
+            "assist": "Denzel Dumfries"
+          },
+          {
+            "name": "Cody Gakpo",
+            "minute": "47'",
+            "assist": "Denzel Dumfries"
+          },
+          {
+            "name": "Cody Gakpo",
+            "minute": "54'",
+            "assist": "Crysencio Summerville"
+          },
+          {
+            "name": "Crysencio Summerville",
+            "minute": "89'",
+            "assist": "Memphis Depay"
+          }
+        ],
+        "away": [
+          {
+            "name": "Anthony Elanga",
+            "minute": "59'",
+            "assist": "Alexander Isak"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 50.9,
+          "away": 49.1
+        },
+        "shots": {
+          "home": 10,
+          "away": 16
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 8
+        },
+        "corners": {
+          "home": 2,
+          "away": 5
+        },
+        "fouls": {
+          "home": 9,
+          "away": 12
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 3
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 7,
+          "away": 2
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-20T19:23:55.049Z",
+      "source": "espn"
     }
   }
 }

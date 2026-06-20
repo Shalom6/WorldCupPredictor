@@ -16,22 +16,22 @@
       "Croatia": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-20T17:59:15.362Z"
+        "importedAt": "2026-06-20T19:24:00.930Z"
       },
       "England": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-20T17:59:15.362Z"
+        "importedAt": "2026-06-20T19:24:00.930Z"
       },
       "Ghana": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-20T17:59:15.362Z"
+        "importedAt": "2026-06-20T19:24:00.930Z"
       },
       "Panama": {
         "playerCount": 31,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-20T17:59:15.362Z"
+        "importedAt": "2026-06-20T19:24:00.930Z"
       }
     }
   },
@@ -13462,19 +13462,19 @@
       "minutesFactor": 0.63,
       "xgShare": 0.12,
       "propProfile": {
-        "shotsShare": 1.1,
+        "shotsShare": 1,
         "sotShare": 0.6,
         "cardWeight": 0.02,
-        "foulWeight": 1.4
+        "foulWeight": 1.3
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.16,
-        "shots90": 1.1,
+        "assists90": 0.14,
+        "shots90": 1,
         "sot90": 0.6,
-        "passes90": 31,
+        "passes90": 28,
         "cards90": 0,
-        "fouls90": 1.4,
+        "fouls90": 1.3,
         "minutesAvg": 57
       },
       "hitRates": {
@@ -13491,12 +13491,12 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
           "l5": 40,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "shots25": {
           "l5": 0,
@@ -13506,7 +13506,7 @@
         "sot05": {
           "l5": 40,
           "l10": 30,
-          "season": 30
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -13516,10 +13516,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 18
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 55,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -13685,12 +13700,13 @@
       "dataScope": "international",
       "searchText": "alexander bernhardsson sweden forward f",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA B"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 980916
     },
@@ -14059,29 +14075,29 @@
       "number": "9",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.74,
-      "xgShare": 0.22,
+      "minutesFactor": 0.76,
+      "xgShare": 0.21,
       "propProfile": {
-        "shotsShare": 4.7,
-        "sotShare": 2,
+        "shotsShare": 4.4,
+        "sotShare": 1.9,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 0.68,
-        "assists90": 0.19,
-        "shots90": 4.7,
-        "sot90": 2,
-        "passes90": 34,
+        "goals90": 0.62,
+        "assists90": 0.26,
+        "shots90": 4.4,
+        "sot90": 1.9,
+        "passes90": 31,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 67
+        "fouls90": 0.7,
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 30,
-          "season": 43
+          "l10": 20,
+          "season": 40
         },
         "goals15": {
           "l5": 0,
@@ -14089,24 +14105,24 @@
           "season": 7
         },
         "assists05": {
-          "l5": 0,
+          "l5": 20,
           "l10": 20,
-          "season": 14
+          "season": 20
         },
         "shots15": {
           "l5": 40,
-          "l10": 70,
-          "season": 71
+          "l10": 60,
+          "season": 67
         },
         "shots25": {
           "l5": 20,
-          "l10": 60,
-          "season": 57
+          "l10": 50,
+          "season": 53
         },
         "sot05": {
-          "l5": 40,
+          "l5": 60,
           "l10": 70,
-          "season": 79
+          "season": 80
         },
         "cards05": {
           "l5": 0,
@@ -14114,12 +14130,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 21
+          "l5": 0,
+          "l10": 10,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -14349,13 +14380,14 @@
       "dataScope": "international",
       "searchText": "alexander isak sweden forward f",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 823941
     },
@@ -28609,29 +28641,29 @@
       "number": "11",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.64,
-      "xgShare": 0.17,
+      "minutesFactor": 0.62,
+      "xgShare": 0.18,
       "propProfile": {
         "shotsShare": 1.8,
-        "sotShare": 0.8,
+        "sotShare": 0.9,
         "cardWeight": 0.02,
         "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.31,
+        "goals90": 0.4,
         "assists90": 0,
         "shots90": 1.8,
-        "sot90": 0.8,
-        "passes90": 33,
+        "sot90": 0.9,
+        "passes90": 32,
         "cards90": 0,
         "fouls90": 0.5,
-        "minutesAvg": 58
+        "minutesAvg": 56
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 30,
-          "season": 20
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -28646,7 +28678,7 @@
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 33
+          "season": 31
         },
         "shots25": {
           "l5": 0,
@@ -28654,9 +28686,9 @@
           "season": 13
         },
         "sot05": {
-          "l5": 40,
+          "l5": 60,
           "l10": 50,
-          "season": 40
+          "season": 44
         },
         "cards05": {
           "l5": 0,
@@ -28666,10 +28698,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 35,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -28915,14 +28962,15 @@
       "dataScope": "international",
       "searchText": "anthony elanga sweden forward f",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 979232
     },
@@ -39690,7 +39738,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 29,
+        "passes90": 27,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 86
@@ -39738,6 +39786,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 7
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -40044,7 +40108,7 @@
       "dataScope": "international",
       "searchText": "bart verbruggen netherlands goalkeeper f",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -40052,7 +40116,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 994363
     },
@@ -41215,29 +41279,29 @@
       "number": "20",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.7,
-      "xgShare": 0.18,
+      "minutesFactor": 0.69,
+      "xgShare": 0.17,
       "propProfile": {
         "shotsShare": 2.1,
-        "sotShare": 0.8,
+        "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 1.4
+        "foulWeight": 1.6
       },
       "seasonRates": {
-        "goals90": 0.39,
-        "assists90": 0.26,
+        "goals90": 0.36,
+        "assists90": 0.24,
         "shots90": 2.1,
-        "sot90": 0.8,
-        "passes90": 29,
+        "sot90": 0.7,
+        "passes90": 27,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 63
+        "fouls90": 1.6,
+        "minutesAvg": 62
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 27
+          "l5": 0,
+          "l10": 20,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -41247,22 +41311,22 @@
         "assists05": {
           "l5": 40,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "shots15": {
-          "l5": 40,
-          "l10": 50,
-          "season": 45
+          "l5": 20,
+          "l10": 40,
+          "season": 42
         },
         "shots25": {
           "l5": 0,
-          "l10": 20,
-          "season": 18
+          "l10": 10,
+          "season": 17
         },
         "sot05": {
-          "l5": 20,
-          "l10": 40,
-          "season": 36
+          "l5": 0,
+          "l10": 30,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -41271,11 +41335,26 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 30,
-          "season": 27
+          "l10": 40,
+          "season": 33
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 56,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -41457,13 +41536,14 @@
       "dataScope": "international",
       "searchText": "benjamin nygren sweden forward f",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 918517
     },
@@ -42472,19 +42552,19 @@
       "minutesFactor": 0.38,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 2,
-        "sotShare": 0.03,
+        "shotsShare": 2.1,
+        "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 1.3
+        "foulWeight": 1.2
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 2,
-        "sot90": 0,
-        "passes90": 63,
+        "shots90": 2.1,
+        "sot90": 0.3,
+        "passes90": 56,
         "cards90": 0,
-        "fouls90": 1.3,
+        "fouls90": 1.2,
         "minutesAvg": 34
       },
       "hitRates": {
@@ -42514,9 +42594,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
           "l5": 0,
@@ -42530,6 +42610,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 34,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -42663,13 +42758,14 @@
       "dataScope": "international",
       "searchText": "besfort zeneli sweden midfielder f",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 1173223
     },
@@ -46178,54 +46274,54 @@
       "number": "19",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.41,
-      "xgShare": 0.16,
+      "minutesFactor": 0.44,
+      "xgShare": 0.21,
       "propProfile": {
-        "shotsShare": 1.9,
-        "sotShare": 0.2,
+        "shotsShare": 2,
+        "sotShare": 0.6,
         "cardWeight": 0.02,
-        "foulWeight": 1.7
+        "foulWeight": 1.6
       },
       "seasonRates": {
-        "goals90": 0.24,
-        "assists90": 0.24,
-        "shots90": 1.9,
-        "sot90": 0.2,
-        "passes90": 12,
+        "goals90": 0.61,
+        "assists90": 0.2,
+        "shots90": 2,
+        "sot90": 0.6,
+        "passes90": 10,
         "cards90": 0,
-        "fouls90": 1.7,
-        "minutesAvg": 37
+        "fouls90": 1.6,
+        "minutesAvg": 40
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         },
         "goals15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 9
         },
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "sot05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -46235,10 +46331,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 18
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 72,
+          "goals": 2,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -46403,14 +46514,14 @@
       "dataScope": "international",
       "searchText": "brian brobbey netherlands forward f",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "UEFA Nations League, League A, Gr. 3",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 910048
     },
@@ -56975,54 +57086,54 @@
       "number": "11",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.84,
-      "xgShare": 0.15,
+      "minutesFactor": 0.86,
+      "xgShare": 0.16,
       "propProfile": {
-        "shotsShare": 2.6,
-        "sotShare": 1.3,
+        "shotsShare": 2.8,
+        "sotShare": 1.5,
         "cardWeight": 0.02,
         "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 0.59,
-        "assists90": 0.3,
-        "shots90": 2.6,
-        "sot90": 1.3,
-        "passes90": 30,
+        "goals90": 0.69,
+        "assists90": 0.34,
+        "shots90": 2.8,
+        "sot90": 1.5,
+        "passes90": 28,
         "cards90": 0,
         "fouls90": 1,
-        "minutesAvg": 76
+        "minutesAvg": 77
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 40,
-          "season": 38
+          "l5": 40,
+          "l10": 50,
+          "season": 41
         },
         "goals15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 13
+          "l5": 40,
+          "l10": 30,
+          "season": 18
         },
         "assists05": {
-          "l5": 0,
+          "l5": 20,
           "l10": 30,
-          "season": 25
+          "season": 29
         },
         "shots15": {
           "l5": 80,
           "l10": 70,
-          "season": 69
+          "season": 71
         },
         "shots25": {
           "l5": 60,
           "l10": 60,
-          "season": 50
+          "season": 53
         },
         "sot05": {
           "l5": 80,
           "l10": 80,
-          "season": 69
+          "season": 71
         },
         "cards05": {
           "l5": 0,
@@ -57031,11 +57142,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 10,
-          "season": 19
+          "l10": 0,
+          "season": 18
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 2,
+          "assists": 1,
+          "shots": 5,
+          "shotsOnTarget": 4,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -57296,7 +57422,7 @@
       "dataScope": "international",
       "searchText": "cody gakpo netherlands midfielder f",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -57304,7 +57430,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 862967
     },
@@ -59303,29 +59429,29 @@
       "number": "24",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.76,
-      "xgShare": 0.13,
+      "minutesFactor": 0.7,
+      "xgShare": 0.17,
       "propProfile": {
         "shotsShare": 2.2,
-        "sotShare": 0.9,
-        "cardWeight": 0.44,
-        "foulWeight": 1.8
+        "sotShare": 1.1,
+        "cardWeight": 0.36,
+        "foulWeight": 1.4
       },
       "seasonRates": {
-        "goals90": 0.44,
-        "assists90": 0,
+        "goals90": 0.72,
+        "assists90": 0.36,
         "shots90": 2.2,
-        "sot90": 0.9,
-        "passes90": 15,
-        "cards90": 0.44,
-        "fouls90": 1.8,
-        "minutesAvg": 68
+        "sot90": 1.1,
+        "passes90": 12,
+        "cards90": 0.36,
+        "fouls90": 1.4,
+        "minutesAvg": 63
       },
       "hitRates": {
         "goals05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -59333,37 +59459,52 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots25": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "sot05": {
-          "l5": 67,
-          "l10": 67,
-          "season": 67
+          "l5": 75,
+          "l10": 75,
+          "season": 75
         },
         "cards05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "fouls15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -59416,12 +59557,12 @@
       "dataScope": "international",
       "searchText": "crysencio summerville netherlands midfielder f",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 917005
     },
@@ -68669,17 +68810,17 @@
       "minutesFactor": 0.92,
       "xgShare": 0.11,
       "propProfile": {
-        "shotsShare": 1.6,
-        "sotShare": 0.7,
+        "shotsShare": 1.5,
+        "sotShare": 0.6,
         "cardWeight": 0.02,
         "foulWeight": 1.4
       },
       "seasonRates": {
-        "goals90": 0.34,
-        "assists90": 0.34,
-        "shots90": 1.6,
-        "sot90": 0.7,
-        "passes90": 38,
+        "goals90": 0.32,
+        "assists90": 0.44,
+        "shots90": 1.5,
+        "sot90": 0.6,
+        "passes90": 36,
         "cards90": 0,
         "fouls90": 1.4,
         "minutesAvg": 83
@@ -68687,8 +68828,8 @@
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 20,
-          "season": 31
+          "l10": 10,
+          "season": 29
         },
         "goals15": {
           "l5": 0,
@@ -68696,24 +68837,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 40,
-          "season": 31
+          "l5": 40,
+          "l10": 50,
+          "season": 35
         },
         "shots15": {
-          "l5": 20,
-          "l10": 50,
-          "season": 50
+          "l5": 0,
+          "l10": 40,
+          "season": 47
         },
         "shots25": {
           "l5": 0,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "sot05": {
           "l5": 0,
-          "l10": 50,
-          "season": 50
+          "l10": 40,
+          "season": 47
         },
         "cards05": {
           "l5": 0,
@@ -68721,12 +68862,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 30,
-          "season": 44
+          "l5": 60,
+          "l10": 40,
+          "season": 47
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 2,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -68987,7 +69143,7 @@
       "dataScope": "international",
       "searchText": "denzel dumfries netherlands midfielder f",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -68995,7 +69151,7 @@
           "UEFA Nations League, League A, Gr. 3",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 759520
     },
@@ -73323,29 +73479,29 @@
       "number": "18",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.6,
+      "minutesFactor": 0.59,
       "xgShare": 0.18,
       "propProfile": {
-        "shotsShare": 3.1,
-        "sotShare": 1.5,
+        "shotsShare": 2.9,
+        "sotShare": 1.4,
         "cardWeight": 0.02,
         "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.42,
-        "assists90": 0.21,
-        "shots90": 3.1,
-        "sot90": 1.5,
-        "passes90": 20,
+        "goals90": 0.4,
+        "assists90": 0.2,
+        "shots90": 2.9,
+        "sot90": 1.4,
+        "passes90": 19,
         "cards90": 0,
         "fouls90": 0.5,
-        "minutesAvg": 54
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 20,
-          "season": 19
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -73355,22 +73511,22 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 13
+          "season": 12
         },
         "shots15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 60,
-          "season": 50
+          "season": 47
         },
         "shots25": {
           "l5": 20,
           "l10": 30,
-          "season": 25
+          "season": 24
         },
         "sot05": {
-          "l5": 60,
-          "l10": 70,
-          "season": 63
+          "l5": 40,
+          "l10": 60,
+          "season": 59
         },
         "cards05": {
           "l5": 0,
@@ -73379,11 +73535,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -73644,14 +73815,14 @@
       "dataScope": "international",
       "searchText": "donyell malen netherlands forward f",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA G",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 803039
     },
@@ -80339,6 +80510,21 @@
       },
       "gameLog": [
         {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-04",
           "opponent": "Greece",
           "competition": "Int. Friendly Games",
@@ -80359,11 +80545,12 @@
       "dataScope": "international",
       "searchText": "elliot stroud sweden midfielder f",
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 1383695
     },
@@ -95870,23 +96057,23 @@
       "number": "21",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.88,
+      "minutesFactor": 0.86,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.3,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 1
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.29,
+        "assists90": 0.27,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 83,
+        "passes90": 78,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 79
+        "fouls90": 1,
+        "minutesAvg": 77
       },
       "hitRates": {
         "goals05": {
@@ -95902,11 +96089,11 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 8
         },
         "shots25": {
@@ -95916,7 +96103,7 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 8
         },
         "cards05": {
@@ -95925,12 +96112,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 25
+          "season": 23
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -96127,7 +96329,7 @@
       "dataScope": "international",
       "searchText": "frenkie de jong netherlands midfielder f",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -96135,7 +96337,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 795222
     },
@@ -96328,23 +96530,23 @@
       "number": "5",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.88,
+      "minutesFactor": 0.89,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.7,
-        "sotShare": 0.2,
-        "cardWeight": 0.02,
+        "shotsShare": 0.6,
+        "sotShare": 0.1,
+        "cardWeight": 0.07,
         "foulWeight": 1.4
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.7,
-        "sot90": 0.2,
-        "passes90": 59,
-        "cards90": 0,
+        "shots90": 0.6,
+        "sot90": 0.1,
+        "passes90": 55,
+        "cards90": 0.07,
         "fouls90": 1.4,
-        "minutesAvg": 79
+        "minutesAvg": 80
       },
       "hitRates": {
         "goals05": {
@@ -96378,17 +96580,32 @@
           "season": 13
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 40,
-          "season": 40
+          "l5": 0,
+          "l10": 30,
+          "season": 38
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 93,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -96634,14 +96851,15 @@
       "dataScope": "international",
       "searchText": "gabriel gudmundsson sweden defender f",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 834308
     },
@@ -104570,29 +104788,29 @@
       "number": "8",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.72,
+      "minutesFactor": 0.74,
       "xgShare": 0.04,
       "propProfile": {
-        "shotsShare": 0.6,
-        "sotShare": 0.2,
+        "shotsShare": 0.7,
+        "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 1.4
+        "foulWeight": 1.3
       },
       "seasonRates": {
-        "goals90": 0.15,
-        "assists90": 0.15,
-        "shots90": 0.6,
-        "sot90": 0.2,
-        "passes90": 63,
+        "goals90": 0.13,
+        "assists90": 0.13,
+        "shots90": 0.7,
+        "sot90": 0.3,
+        "passes90": 55,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 65
+        "fouls90": 1.3,
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "goals15": {
           "l5": 0,
@@ -104600,14 +104818,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 0,
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
@@ -104615,9 +104833,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 40,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -104626,11 +104844,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -104780,13 +105013,14 @@
       "dataScope": "international",
       "searchText": "gustaf lagerbielke sweden defender f",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 965263
     },
@@ -105915,24 +106149,24 @@
       "position": "Midfielder",
       "number": "20",
       "likelyStarter": false,
-      "benchImpact": false,
-      "minutesFactor": 0.17,
+      "benchImpact": true,
+      "minutesFactor": 0.22,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 3,
+        "shotsShare": 1.5,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 6
+        "foulWeight": 3
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 3,
+        "shots90": 1.5,
         "sot90": 0,
-        "passes90": 21,
+        "passes90": 10,
         "cards90": 0,
-        "fouls90": 6,
-        "minutesAvg": 15
+        "fouls90": 3,
+        "minutesAvg": 20
       },
       "hitRates": {
         "goals05": {
@@ -105978,6 +106212,21 @@
       },
       "gameLog": [
         {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-08",
           "opponent": "Uzbekistan",
           "competition": "Int. Friendly Games",
@@ -106014,12 +106263,13 @@
       "dataScope": "international",
       "searchText": "guus til netherlands midfielder f",
       "importMeta": {
-        "appearances": 2,
+        "appearances": 3,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-08"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 845798
     },
@@ -117962,10 +118212,10 @@
       "number": "4",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.9,
+      "minutesFactor": 0.91,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.4,
+        "shotsShare": 0.3,
         "sotShare": 0.03,
         "cardWeight": 0.02,
         "foulWeight": 1.4
@@ -117973,12 +118223,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0.07,
-        "shots90": 0.4,
+        "shots90": 0.3,
         "sot90": 0,
-        "passes90": 72,
+        "passes90": 67,
         "cards90": 0,
         "fouls90": 1.4,
-        "minutesAvg": 81
+        "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
@@ -117994,7 +118244,7 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 0,
@@ -118019,10 +118269,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 27
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -118268,14 +118533,15 @@
       "dataScope": "international",
       "searchText": "isak hien sweden defender f",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 1157713
     },
@@ -126474,7 +126740,7 @@
       "number": "20",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.72,
+      "minutesFactor": 0.74,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.3,
@@ -126487,10 +126753,10 @@
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 77,
+        "passes90": 69,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 65
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
@@ -126531,10 +126797,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 17
+          "season": 15
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -126731,7 +127012,7 @@
       "dataScope": "international",
       "searchText": "jan paul van hecke netherlands defender f",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -126739,7 +127020,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 962012
     },
@@ -131579,16 +131860,16 @@
         "shotsShare": 0.7,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 2.2
+        "foulWeight": 2.3
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.7,
         "sot90": 0,
-        "passes90": 46,
+        "passes90": 42,
         "cards90": 0,
-        "fouls90": 2.2,
+        "fouls90": 2.3,
         "minutesAvg": 57
       },
       "hitRates": {
@@ -131610,7 +131891,7 @@
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "shots25": {
           "l5": 0,
@@ -131629,11 +131910,26 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 50,
-          "season": 50
+          "l10": 60,
+          "season": 54
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 56,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -131831,14 +132127,15 @@
       "dataScope": "international",
       "searchText": "jesper karlström sweden midfielder f",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 227894
     },
@@ -166820,10 +167117,10 @@
       "xgShare": 0.02,
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.33,
+        "assists90": 0.25,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 25,
+        "passes90": 19,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -166840,9 +167137,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots15": {
           "l5": 0,
@@ -166871,6 +167168,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -166933,12 +167246,13 @@
       "dataScope": "international",
       "searchText": "kristoffer nordfeldt sweden goalkeeper f",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 22596
     },
@@ -175686,19 +176000,19 @@
       "minutesFactor": 0.36,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 2.5,
+        "shotsShare": 2.2,
         "sotShare": 0.3,
-        "cardWeight": 0.02,
-        "foulWeight": 1.3
+        "cardWeight": 0.28,
+        "foulWeight": 1.4
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 2.5,
+        "shots90": 2.2,
         "sot90": 0.3,
-        "passes90": 43,
-        "cards90": 0,
-        "fouls90": 1.3,
+        "passes90": 39,
+        "cards90": 0.28,
+        "fouls90": 1.4,
         "minutesAvg": 32
       },
       "hitRates": {
@@ -175719,31 +176033,46 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "sot05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "fouls15": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 34,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -175893,14 +176222,15 @@
       "dataScope": "international",
       "searchText": "lucas bergvall sweden midfielder f",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 1391251
     },
@@ -199033,54 +199363,54 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.71,
+      "minutesFactor": 0.68,
       "xgShare": 0.24,
       "propProfile": {
-        "shotsShare": 3.5,
+        "shotsShare": 3.4,
         "sotShare": 1.3,
         "cardWeight": 0.1,
         "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 0.8,
-        "assists90": 0.5,
-        "shots90": 3.5,
+        "goals90": 0.78,
+        "assists90": 0.59,
+        "shots90": 3.4,
         "sot90": 1.3,
-        "passes90": 32,
+        "passes90": 31,
         "cards90": 0.1,
         "fouls90": 1,
-        "minutesAvg": 64
+        "minutesAvg": 61
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 60,
-          "season": 43
+          "l5": 20,
+          "l10": 50,
+          "season": 40
         },
         "goals15": {
           "l5": 0,
           "l10": 20,
-          "season": 14
+          "season": 13
         },
         "assists05": {
           "l5": 20,
-          "l10": 30,
-          "season": 29
+          "l10": 40,
+          "season": 33
         },
         "shots15": {
           "l5": 40,
-          "l10": 70,
-          "season": 64
+          "l10": 60,
+          "season": 60
         },
         "shots25": {
           "l5": 0,
-          "l10": 40,
-          "season": 43
+          "l10": 30,
+          "season": 40
         },
         "sot05": {
-          "l5": 60,
-          "l10": 80,
-          "season": 71
+          "l5": 40,
+          "l10": 70,
+          "season": 67
         },
         "cards05": {
           "l5": 20,
@@ -199090,10 +199420,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 21
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -199322,7 +199667,7 @@
       "dataScope": "international",
       "searchText": "memphis depay netherlands forward f",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -199330,7 +199675,7 @@
           "UEFA Nations League, Finals",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 138833
     },
@@ -202685,7 +203030,7 @@
       "number": "15",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.73,
+      "minutesFactor": 0.76,
       "xgShare": 0.03,
       "propProfile": {
         "shotsShare": 0.4,
@@ -202698,10 +203043,10 @@
         "assists90": 0.08,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 51,
+        "passes90": 47,
         "cards90": 0.08,
         "fouls90": 0.8,
-        "minutesAvg": 66
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
@@ -202746,6 +203091,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -203006,7 +203366,7 @@
       "dataScope": "international",
       "searchText": "micky van de ven netherlands defender f",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -203014,7 +203374,7 @@
           "UEFA Nations League, League A, Gr. 3",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 998247
     },
@@ -226592,9 +226952,9 @@
       },
       "hitRates": {
         "goals05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "goals15": {
           "l5": 0,
@@ -226602,24 +226962,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots15": {
-          "l5": 50,
-          "l10": 50,
-          "season": 50
+          "l5": 40,
+          "l10": 40,
+          "season": 40
         },
         "shots25": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "sot05": {
-          "l5": 50,
-          "l10": 50,
-          "season": 50
+          "l5": 40,
+          "l10": 40,
+          "season": 40
         },
         "cards05": {
           "l5": 0,
@@ -226627,12 +226987,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-11-17",
           "opponent": "Lithuania",
@@ -226702,12 +227077,13 @@
       "dataScope": "international",
       "searchText": "noa lang netherlands forward f",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group F",
           "World Cup Qual. UEFA G",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2025-11-17"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 875136
     },
@@ -257542,23 +257918,23 @@
       "number": "6",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.83,
+      "minutesFactor": 0.84,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.8,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 1
+        "foulWeight": 1.1
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.23,
+        "assists90": 0.21,
         "shots90": 0.8,
         "sot90": 0.2,
-        "passes90": 65,
+        "passes90": 61,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 75
+        "fouls90": 1.1,
+        "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
@@ -257574,12 +257950,12 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "shots25": {
           "l5": 0,
@@ -257587,9 +257963,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 19
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -257597,12 +257973,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 25
+          "l5": 40,
+          "l10": 20,
+          "season": 29
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -257863,14 +258254,14 @@
       "dataScope": "international",
       "searchText": "ryan gravenberch netherlands midfielder f",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA G",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 904897
     },
@@ -273152,18 +273543,18 @@
       "position": "Midfielder",
       "number": "26",
       "likelyStarter": false,
-      "benchImpact": true,
-      "minutesFactor": 0.29,
+      "benchImpact": false,
+      "minutesFactor": 0.21,
       "xgShare": 0.03,
       "seasonRates": {
         "goals90": 0,
-        "assists90": 3.46,
+        "assists90": 2.43,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 55,
+        "passes90": 39,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 26
+        "minutesAvg": 19
       },
       "hitRates": {
         "goals05": {
@@ -273177,9 +273568,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 100,
-          "l10": 100,
-          "season": 100
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "shots15": {
           "l5": 0,
@@ -273209,6 +273600,21 @@
       },
       "gameLog": [
         {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-04",
           "opponent": "Greece",
           "competition": "Int. Friendly Games",
@@ -273229,11 +273635,12 @@
       "dataScope": "international",
       "searchText": "taha abdi ali sweden midfielder f",
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 1022820
     },
@@ -275717,29 +276124,29 @@
       "number": "20",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.43,
+      "minutesFactor": 0.42,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 2,
-        "sotShare": 0.7,
+        "shotsShare": 1.8,
+        "sotShare": 0.6,
         "cardWeight": 0.02,
-        "foulWeight": 1.3
+        "foulWeight": 1.2
       },
       "seasonRates": {
-        "goals90": 0.33,
-        "assists90": 0.33,
-        "shots90": 2,
-        "sot90": 0.7,
-        "passes90": 42,
+        "goals90": 0.3,
+        "assists90": 0.3,
+        "shots90": 1.8,
+        "sot90": 0.6,
+        "passes90": 37,
         "cards90": 0,
-        "fouls90": 1.3,
-        "minutesAvg": 39
+        "fouls90": 1.2,
+        "minutesAvg": 38
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -275748,13 +276155,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots15": {
           "l5": 20,
-          "l10": 29,
-          "season": 29
+          "l10": 25,
+          "season": 25
         },
         "shots25": {
           "l5": 0,
@@ -275763,8 +276170,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 29,
-          "season": 29
+          "l10": 25,
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -275778,6 +276185,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -275894,14 +276316,14 @@
       "dataScope": "international",
       "searchText": "teun koopmeiners netherlands midfielder f",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 803033
     },
@@ -278379,26 +278801,26 @@
       "minutesFactor": 0.8,
       "xgShare": 0.12,
       "propProfile": {
-        "shotsShare": 2.6,
-        "sotShare": 1.1,
+        "shotsShare": 2.5,
+        "sotShare": 1,
         "cardWeight": 0.02,
         "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 0.39,
-        "assists90": 0.08,
-        "shots90": 2.6,
-        "sot90": 1.1,
-        "passes90": 41,
+        "goals90": 0.37,
+        "assists90": 0.07,
+        "shots90": 2.5,
+        "sot90": 1,
+        "passes90": 39,
         "cards90": 0,
         "fouls90": 0.7,
         "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 31
+          "season": 29
         },
         "goals15": {
           "l5": 0,
@@ -278406,24 +278828,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 6
         },
         "shots15": {
-          "l5": 80,
-          "l10": 70,
-          "season": 63
+          "l5": 60,
+          "l10": 60,
+          "season": 59
         },
         "shots25": {
-          "l5": 40,
-          "l10": 40,
-          "season": 31
+          "l5": 20,
+          "l10": 30,
+          "season": 29
         },
         "sot05": {
-          "l5": 80,
-          "l10": 70,
-          "season": 69
+          "l5": 60,
+          "l10": 60,
+          "season": 65
         },
         "cards05": {
           "l5": 0,
@@ -278437,6 +278859,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -278697,7 +279134,7 @@
       "dataScope": "international",
       "searchText": "tijjani reijnders netherlands midfielder f",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -278705,7 +279142,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 893549
     },
@@ -285614,23 +286051,23 @@
       "number": "3",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.72,
+      "minutesFactor": 0.74,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.3,
+        "shotsShare": 0.2,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.8
+        "foulWeight": 1.7
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.3,
+        "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 65,
+        "passes90": 57,
         "cards90": 0,
-        "fouls90": 1.8,
-        "minutesAvg": 65
+        "fouls90": 1.7,
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
@@ -285661,7 +286098,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "cards05": {
           "l5": 0,
@@ -285671,10 +286108,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 18
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-01",
           "opponent": "Norway",
@@ -285840,14 +286292,15 @@
       "dataScope": "international",
       "searchText": "victor lindelöf sweden defender f",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-01"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 143334
     },
@@ -285976,53 +286429,53 @@
       "likelyStarter": true,
       "benchImpact": false,
       "minutesFactor": 0.97,
-      "xgShare": 0.29,
+      "xgShare": 0.27,
       "propProfile": {
-        "shotsShare": 3.4,
-        "sotShare": 2,
+        "shotsShare": 3.5,
+        "sotShare": 2.1,
         "cardWeight": 0.02,
-        "foulWeight": 1
+        "foulWeight": 1.1
       },
       "seasonRates": {
-        "goals90": 1.11,
-        "assists90": 0.4,
-        "shots90": 3.4,
-        "sot90": 2,
-        "passes90": 24,
+        "goals90": 1.03,
+        "assists90": 0.37,
+        "shots90": 3.5,
+        "sot90": 2.1,
+        "passes90": 22,
         "cards90": 0,
-        "fouls90": 1,
+        "fouls90": 1.1,
         "minutesAvg": 87
       },
       "hitRates": {
         "goals05": {
           "l5": 60,
-          "l10": 60,
-          "season": 62
+          "l10": 50,
+          "season": 57
         },
         "goals15": {
           "l5": 20,
           "l10": 20,
-          "season": 23
+          "season": 21
         },
         "assists05": {
           "l5": 0,
-          "l10": 30,
-          "season": 31
+          "l10": 20,
+          "season": 29
         },
         "shots15": {
           "l5": 80,
           "l10": 80,
-          "season": 85
+          "season": 86
         },
         "shots25": {
-          "l5": 20,
+          "l5": 40,
           "l10": 30,
-          "season": 46
+          "season": 50
         },
         "sot05": {
-          "l5": 80,
+          "l5": 100,
           "l10": 80,
-          "season": 85
+          "season": 86
         },
         "cards05": {
           "l5": 0,
@@ -286030,12 +286483,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 30,
-          "season": 23
+          "l5": 60,
+          "l10": 40,
+          "season": 29
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 3,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -286249,14 +286717,15 @@
       "dataScope": "international",
       "searchText": "viktor gyökeres sweden forward f",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 804508
     },
@@ -286927,20 +287396,20 @@
         "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 0.27,
+        "goals90": 0.25,
         "assists90": 0,
         "shots90": 0.9,
         "sot90": 0.3,
-        "passes90": 83,
+        "passes90": 77,
         "cards90": 0,
         "fouls90": 1,
         "minutesAvg": 84
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 25
+          "season": 24
         },
         "goals15": {
           "l5": 0,
@@ -286955,7 +287424,7 @@
         "shots15": {
           "l5": 0,
           "l10": 30,
-          "season": 25
+          "season": 24
         },
         "shots25": {
           "l5": 0,
@@ -286963,9 +287432,9 @@
           "season": 6
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 31
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -286975,10 +287444,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 24
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Sweden",
+          "competition": "FIFA World Cup, Group F",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-14",
           "opponent": "Japan",
@@ -287239,7 +287723,7 @@
       "dataScope": "international",
       "searchText": "virgil van dijk netherlands defender f",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group F",
           "Int. Friendly Games",
@@ -287247,7 +287731,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 3"
         ],
-        "lastMatch": "2026-06-14"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 151545
     },
@@ -293350,20 +293834,20 @@
       "likelyStarter": true,
       "benchImpact": false,
       "minutesFactor": 0.8,
-      "xgShare": 0.09,
+      "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 1.5,
-        "sotShare": 0.5,
-        "cardWeight": 0.02,
+        "shotsShare": 1.8,
+        "sotShare": 0.6,
+        "cardWeight": 0.08,
         "foulWeight": 1.6
       },
       "seasonRates": {
-        "goals90": 0.17,
-        "assists90": 0.17,
-        "shots90": 1.5,
-        "sot90": 0.5,
-        "passes90": 41,
-        "cards90": 0,
+        "goals90": 0.16,
+        "assists90": 0.16,
+        "shots90": 1.8,
+        "sot90": 0.6,
+        "passes90": 38,
+        "cards90": 0.08,
         "fouls90": 1.6,
         "minutesAvg": 72
       },
@@ -293384,32 +293868,47 @@
           "season": 13
         },
         "shots15": {
-          "l5": 0,
-          "l10": 30,
-          "season": 33
-        },
-        "shots25": {
-          "l5": 0,
-          "l10": 10,
-          "season": 13
-        },
-        "sot05": {
           "l5": 20,
           "l10": 30,
-          "season": 27
+          "season": 38
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 10,
+          "season": 19
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 30,
+          "season": 31
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
           "l5": 40,
           "l10": 40,
-          "season": 40
+          "season": 38
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "Greece",
@@ -293655,14 +294154,15 @@
       "dataScope": "international",
       "searchText": "yasin ayari sweden midfielder f",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group F",
           "Int. Friendly Games",
           "World Cup Qual. UEFA Playoffs",
           "World Cup Qual. UEFA B",
           "UEFA Nations League, League C, Gr. 1"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-20"
       },
       "sofascoreId": 1036269
     },
