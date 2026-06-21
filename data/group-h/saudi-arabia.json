@@ -3,8 +3,8 @@
   "team": "Saudi Arabia",
   "group": "H",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-21T17:57:24.565Z",
-  "eventsProcessed": 16,
+  "importedAt": "2026-06-21T19:20:57.361Z",
+  "eventsProcessed": 17,
   "teamMatchResults": [
     {
       "date": "2026-06-15",
@@ -14,6 +14,15 @@
       "goalsFor": 1,
       "goalsAgainst": 1,
       "venue": "home"
+    },
+    {
+      "date": "2026-06-21",
+      "opponent": "Spain",
+      "competition": "FIFA World Cup, Group H",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "venue": "away"
     },
     {
       "date": "2026-06-09",
@@ -376,6 +385,22 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-21",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 5
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Uruguay",
           "competition": "FIFA World Cup, Group H",
@@ -454,7 +479,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 19,
+        "passes90": 15,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -502,12 +527,12 @@
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -849,6 +874,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-21",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "L",
+          "venue": "away",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Uruguay",
           "competition": "FIFA World Cup, Group H",
@@ -1057,12 +1097,12 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.11,
+        "goals90": 0.1,
         "assists90": 0,
-        "shots90": 0.5,
+        "shots90": 0.6,
         "sot90": 0.3,
-        "passes90": 53,
-        "cards90": 0.11,
+        "passes90": 50,
+        "cards90": 0.1,
         "fouls90": 0.7,
         "minutesAvg": 65
       },
@@ -1070,7 +1110,7 @@
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -1085,7 +1125,7 @@
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots25": {
           "l5": 0,
@@ -1095,21 +1135,21 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 15
+          "season": 14
         },
         "cards05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 15
+          "season": 14
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -1119,7 +1159,7 @@
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -1134,6 +1174,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Uruguay",
@@ -1203,10 +1258,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 57,
+        "passes90": 32,
         "cards90": 0,
-        "fouls90": 4,
-        "minutesAvg": 38
+        "fouls90": 2.2,
+        "minutesAvg": 51
       },
       "hitRates": {
         "goals05": {
@@ -1245,18 +1300,18 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -2185,6 +2240,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-21",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Uruguay",
           "competition": "FIFA World Cup, Group H",
@@ -2285,10 +2355,10 @@
         "assists90": 0,
         "shots90": 0.4,
         "sot90": 0.2,
-        "passes90": 39,
+        "passes90": 32,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 70
+        "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
@@ -2308,8 +2378,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "shots25": {
           "l5": 0,
@@ -2318,8 +2388,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "cards05": {
           "l5": 0,
@@ -2333,13 +2403,13 @@
         }
       },
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 4, Gr. B"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -2689,6 +2759,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-21",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Uruguay",
           "competition": "FIFA World Cup, Group H",
@@ -2885,10 +2970,10 @@
         "assists90": 0,
         "shots90": 0.6,
         "sot90": 0,
-        "passes90": 51,
+        "passes90": 48,
         "cards90": 0,
-        "fouls90": 1.5,
-        "minutesAvg": 77
+        "fouls90": 1.4,
+        "minutesAvg": 75
       },
       "hitRates": {
         "goals05": {
@@ -2907,7 +2992,7 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 8
         },
@@ -2928,12 +3013,12 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 20,
-          "season": 33
+          "l10": 10,
+          "season": 31
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -2941,7 +3026,7 @@
           "Arab Cup, Group B",
           "World Cup Qualification, AFC, Round 4, Gr. B"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -3331,6 +3416,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-21",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Uruguay",
           "competition": "FIFA World Cup, Group H",
@@ -3539,25 +3639,25 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.19,
+        "goals90": 0.18,
         "assists90": 0,
         "shots90": 1.1,
-        "sot90": 0.5,
-        "passes90": 53,
-        "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 75
+        "sot90": 0.4,
+        "passes90": 51,
+        "cards90": 0.09,
+        "fouls90": 1.2,
+        "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "assists05": {
           "l5": 0,
@@ -3567,31 +3667,31 @@
         "shots15": {
           "l5": 20,
           "l10": 30,
-          "season": 31
+          "season": 29
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "sot05": {
           "l5": 20,
           "l10": 30,
-          "season": 31
+          "season": 29
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 31
+          "season": 29
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -3600,7 +3700,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -3615,6 +3715,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "L",
+          "venue": "away",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Uruguay",
@@ -3698,12 +3813,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.5,
+        "shots90": 1.3,
         "sot90": 0,
-        "passes90": 32,
+        "passes90": 29,
         "cards90": 0,
-        "fouls90": 2.6,
-        "minutesAvg": 48
+        "fouls90": 2.3,
+        "minutesAvg": 45
       },
       "hitRates": {
         "goals05": {
@@ -3723,13 +3838,13 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "shots25": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "sot05": {
           "l5": 0,
@@ -3743,19 +3858,19 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 60,
-          "season": 60
+          "l10": 50,
+          "season": 50
         }
       },
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "Arab Cup, Knockout Stage",
           "Arab Cup, Group B"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -3770,6 +3885,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Uruguay",
@@ -4027,13 +4157,13 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.1,
-        "assists90": 0.1,
-        "shots90": 1.1,
+        "goals90": 0.09,
+        "assists90": 0.09,
+        "shots90": 1,
         "sot90": 0.5,
-        "passes90": 67,
+        "passes90": 64,
         "cards90": 0,
-        "fouls90": 1.3,
+        "fouls90": 1.2,
         "minutesAvg": 57
       },
       "hitRates": {
@@ -4055,17 +4185,17 @@
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "shots25": {
           "l5": 20,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 25
+          "season": 24
         },
         "cards05": {
           "l5": 0,
@@ -4075,11 +4205,11 @@
         "fouls15": {
           "l5": 40,
           "l10": 30,
-          "season": 19
+          "season": 18
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -4088,7 +4218,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -4103,6 +4233,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Uruguay",
@@ -4298,12 +4443,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.3,
-        "sot90": 0.2,
-        "passes90": 43,
+        "shots90": 1.1,
+        "sot90": 0.1,
+        "passes90": 37,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 47
+        "fouls90": 1.4,
+        "minutesAvg": 50
       },
       "hitRates": {
         "goals05": {
@@ -4344,11 +4489,11 @@
         "fouls15": {
           "l5": 40,
           "l10": 20,
-          "season": 17
+          "season": 15
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -4357,7 +4502,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -4372,6 +4517,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Uruguay",
@@ -4565,18 +4725,18 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.09,
-        "assists90": 0.44,
-        "shots90": 3,
-        "sot90": 1.2,
-        "passes90": 33,
-        "cards90": 0,
-        "fouls90": 0.4,
+        "goals90": 0.08,
+        "assists90": 0.41,
+        "shots90": 2.8,
+        "sot90": 1.1,
+        "passes90": 31,
+        "cards90": 0.08,
+        "fouls90": 0.3,
         "minutesAvg": 85
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 8
         },
@@ -4586,29 +4746,29 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 23
         },
         "shots15": {
-          "l5": 60,
-          "l10": 80,
-          "season": 83
-        },
-        "shots25": {
-          "l5": 40,
-          "l10": 60,
-          "season": 67
-        },
-        "sot05": {
           "l5": 40,
           "l10": 70,
-          "season": 75
+          "season": 77
+        },
+        "shots25": {
+          "l5": 20,
+          "l10": 60,
+          "season": 62
+        },
+        "sot05": {
+          "l5": 20,
+          "l10": 60,
+          "season": 69
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "fouls15": {
           "l5": 0,
@@ -4617,7 +4777,7 @@
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -4626,7 +4786,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -4641,6 +4801,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Uruguay",
@@ -4836,12 +5011,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1,
+        "shots90": 0.9,
         "sot90": 0.1,
-        "passes90": 32,
+        "passes90": 29,
         "cards90": 0,
-        "fouls90": 1.5,
-        "minutesAvg": 71
+        "fouls90": 1.3,
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
@@ -4880,13 +5055,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 25
+          "season": 23
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -4895,7 +5070,7 @@
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -5148,6 +5323,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-21",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Uruguay",
           "competition": "FIFA World Cup, Group H",
@@ -5324,20 +5514,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.97,
+        "goals90": 0.84,
         "assists90": 0,
-        "shots90": 3.6,
-        "sot90": 1,
-        "passes90": 35,
+        "shots90": 3.4,
+        "sot90": 1.1,
+        "passes90": 30,
         "cards90": 0,
         "fouls90": 0.3,
-        "minutesAvg": 28
+        "minutesAvg": 29
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 20,
-          "season": 27
+          "l10": 10,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -5351,18 +5541,18 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 20,
-          "season": 27
+          "l10": 10,
+          "season": 25
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
-          "season": 9
+          "l10": 0,
+          "season": 8
         },
         "sot05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 20,
-          "season": 27
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -5376,7 +5566,7 @@
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -5384,7 +5574,7 @@
           "Arab Cup, Group B",
           "World Cup Qualification, AFC, Round 4, Gr. B"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -5718,6 +5908,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-21",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "L",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-09",
           "opponent": "Senegal",
           "competition": "Int. Friendly Games",
@@ -5819,11 +6024,12 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-09"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -6314,7 +6520,7 @@
     },
     {
       "name": "Ali Al-Hassan",
-      "appearances": 5
+      "appearances": 6
     },
     {
       "name": "Faisal Al-Ghamdi",
@@ -6366,11 +6572,11 @@
     },
     {
       "name": "Feras Al-Brikan",
-      "appearances": 1
+      "appearances": 2
     },
     {
       "name": "Ala Al-Hajji",
-      "appearances": 1
+      "appearances": 2
     }
   ]
 }

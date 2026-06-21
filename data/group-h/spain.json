@@ -3,8 +3,8 @@
   "team": "Spain",
   "group": "H",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-21T17:57:24.527Z",
-  "eventsProcessed": 16,
+  "importedAt": "2026-06-21T19:20:57.309Z",
+  "eventsProcessed": 17,
   "teamMatchResults": [
     {
       "date": "2026-06-15",
@@ -12,6 +12,15 @@
       "competition": "FIFA World Cup, Group H",
       "result": "D",
       "goalsFor": 0,
+      "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2026-06-21",
+      "opponent": "Saudi Arabia",
+      "competition": "FIFA World Cup, Group H",
+      "result": "W",
+      "goalsFor": 4,
       "goalsAgainst": 0,
       "venue": "home"
     },
@@ -503,6 +512,22 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 1
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Cape Verde",
           "competition": "FIFA World Cup, Group H",
@@ -771,7 +796,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 23,
+        "passes90": 22,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 87
@@ -819,7 +844,7 @@
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -827,7 +852,7 @@
           "UEFA Nations League, Finals",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -842,6 +867,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-15",
           "opponent": "Cape Verde",
@@ -1099,11 +1139,11 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.07,
-        "assists90": 0,
-        "shots90": 0.8,
+        "goals90": 0.06,
+        "assists90": 0.06,
+        "shots90": 0.7,
         "sot90": 0.3,
-        "passes90": 87,
+        "passes90": 81,
         "cards90": 0,
         "fouls90": 0.3,
         "minutesAvg": 82
@@ -1120,14 +1160,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "shots15": {
-          "l5": 40,
-          "l10": 40,
-          "season": 31
+          "l5": 20,
+          "l10": 30,
+          "season": 29
         },
         "shots25": {
           "l5": 0,
@@ -1135,9 +1175,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 19
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -1151,7 +1191,7 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -1160,7 +1200,7 @@
           "Euro, Knockout stage",
           "Euro, Group B"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -1280,6 +1320,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-15",
           "opponent": "Cape Verde",
@@ -1537,11 +1592,11 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.07,
-        "assists90": 0.13,
-        "shots90": 0.3,
-        "sot90": 0.2,
-        "passes90": 57,
+        "goals90": 0.06,
+        "assists90": 0.12,
+        "shots90": 0.4,
+        "sot90": 0.3,
+        "passes90": 53,
         "cards90": 0,
         "fouls90": 1.2,
         "minutesAvg": 85
@@ -1560,12 +1615,12 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "shots25": {
           "l5": 0,
@@ -1573,9 +1628,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 20,
-          "season": 19
+          "l5": 40,
+          "l10": 30,
+          "season": 24
         },
         "cards05": {
           "l5": 0,
@@ -1585,11 +1640,11 @@
         "fouls15": {
           "l5": 20,
           "l10": 40,
-          "season": 31
+          "season": 35
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -1598,7 +1653,7 @@
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -1889,6 +1944,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Cape Verde",
           "competition": "FIFA World Cup, Group H",
@@ -2050,13 +2120,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.26,
-        "shots90": 0.3,
+        "assists90": 0.23,
+        "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 87,
+        "passes90": 77,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 69
+        "fouls90": 0.8,
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
@@ -2072,7 +2142,7 @@
         "assists05": {
           "l5": 40,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "shots15": {
           "l5": 0,
@@ -2087,7 +2157,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "cards05": {
           "l5": 0,
@@ -2101,7 +2171,7 @@
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -2109,7 +2179,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 4"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -2124,6 +2194,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -2335,13 +2420,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.18,
-        "shots90": 1.1,
-        "sot90": 0,
-        "passes90": 64,
+        "assists90": 0.17,
+        "shots90": 1.2,
+        "sot90": 0.1,
+        "passes90": 58,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 77
+        "fouls90": 1.3,
+        "minutesAvg": 78
       },
       "hitRates": {
         "goals05": {
@@ -2357,22 +2442,22 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 15
+          "season": 14
         },
         "shots15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 31
+          "l5": 40,
+          "l10": 30,
+          "season": 36
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 15
+          "season": 14
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "cards05": {
           "l5": 0,
@@ -2380,20 +2465,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 38
+          "season": 36
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 4"
         ],
-        "lastMatch": "2026-06-09"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -2646,6 +2732,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-09",
           "opponent": "Peru",
           "competition": "Int. Friendly Games",
@@ -2823,11 +2924,11 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.15,
+        "goals90": 0.14,
         "assists90": 0,
         "shots90": 3.2,
-        "sot90": 1.1,
-        "passes90": 51,
+        "sot90": 1,
+        "passes90": 46,
         "cards90": 0,
         "fouls90": 1.4,
         "minutesAvg": 54
@@ -2836,7 +2937,7 @@
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "goals15": {
           "l5": 0,
@@ -2850,18 +2951,18 @@
         },
         "shots15": {
           "l5": 80,
-          "l10": 60,
-          "season": 55
+          "l10": 70,
+          "season": 58
         },
         "shots25": {
           "l5": 20,
           "l10": 30,
-          "season": 27
+          "season": 25
         },
         "sot05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 45
+          "season": 42
         },
         "cards05": {
           "l5": 0,
@@ -2871,18 +2972,19 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 18
+          "season": 17
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Group B"
         ],
-        "lastMatch": "2026-06-09"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -2897,6 +2999,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-15",
           "opponent": "Cape Verde",
@@ -3138,20 +3255,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.35,
-        "assists90": 0.35,
-        "shots90": 3.3,
-        "sot90": 1.3,
-        "passes90": 45,
+        "goals90": 0.32,
+        "assists90": 0.43,
+        "shots90": 3.2,
+        "sot90": 1.2,
+        "passes90": 42,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 51
+        "fouls90": 0.9,
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "goals15": {
           "l5": 0,
@@ -3159,24 +3276,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 20,
-          "season": 20
+          "season": 25
         },
         "shots15": {
           "l5": 40,
           "l10": 50,
-          "season": 53
+          "season": 56
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "sot05": {
-          "l5": 60,
-          "l10": 50,
-          "season": 47
+          "l5": 40,
+          "l10": 40,
+          "season": 44
         },
         "cards05": {
           "l5": 0,
@@ -3186,11 +3303,11 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -3200,7 +3317,7 @@
           "Euro, Knockout stage",
           "Euro, Group B"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -3215,6 +3332,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Cape Verde",
@@ -3458,12 +3590,12 @@
       "seasonRates": {
         "goals90": 0.25,
         "assists90": 0.25,
-        "shots90": 2.6,
+        "shots90": 2.5,
         "sot90": 0.7,
-        "passes90": 64,
+        "passes90": 63,
         "cards90": 0,
         "fouls90": 0.4,
-        "minutesAvg": 72
+        "minutesAvg": 69
       },
       "hitRates": {
         "goals05": {
@@ -3474,27 +3606,27 @@
         "goals15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "shots15": {
           "l5": 40,
-          "l10": 40,
-          "season": 60
+          "l10": 30,
+          "season": 56
         },
         "shots25": {
           "l5": 40,
-          "l10": 30,
-          "season": 33
+          "l10": 20,
+          "season": 31
         },
         "sot05": {
           "l5": 40,
           "l10": 30,
-          "season": 40
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -3508,7 +3640,7 @@
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -3517,7 +3649,7 @@
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -3532,6 +3664,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Cape Verde",
@@ -3757,20 +3904,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.29,
-        "assists90": 0.57,
-        "shots90": 4.2,
-        "sot90": 1.4,
-        "passes90": 39,
+        "goals90": 0.36,
+        "assists90": 0.55,
+        "shots90": 4.5,
+        "sot90": 1.6,
+        "passes90": 37,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 68
+        "minutesAvg": 66
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 14
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "goals15": {
           "l5": 0,
@@ -3778,24 +3925,24 @@
           "season": 7
         },
         "assists05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 36
+          "season": 33
         },
         "shots15": {
           "l5": 60,
           "l10": 70,
-          "season": 71
+          "season": 73
         },
         "shots25": {
           "l5": 40,
           "l10": 50,
-          "season": 50
+          "season": 53
         },
         "sot05": {
           "l5": 40,
           "l10": 60,
-          "season": 64
+          "season": 67
         },
         "cards05": {
           "l5": 0,
@@ -3804,12 +3951,12 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 29
+          "l10": 10,
+          "season": 27
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -3819,7 +3966,7 @@
           "Euro, Knockout stage",
           "Euro, Group B"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -4152,6 +4299,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Cape Verde",
           "competition": "FIFA World Cup, Group H",
@@ -4408,25 +4570,25 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.87,
+        "goals90": 0.84,
         "assists90": 0,
         "shots90": 3.3,
         "sot90": 1.3,
-        "passes90": 45,
+        "passes90": 43,
         "cards90": 0,
-        "fouls90": 2.3,
-        "minutesAvg": 52
+        "fouls90": 2.2,
+        "minutesAvg": 50
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 40,
-          "season": 31
+          "l10": 30,
+          "season": 29
         },
         "goals15": {
           "l5": 0,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "assists05": {
           "l5": 0,
@@ -4434,19 +4596,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
-          "l10": 60,
-          "season": 44
+          "l5": 0,
+          "l10": 50,
+          "season": 41
         },
         "shots25": {
           "l5": 0,
-          "l10": 50,
-          "season": 31
+          "l10": 40,
+          "season": 29
         },
         "sot05": {
           "l5": 20,
-          "l10": 50,
-          "season": 38
+          "l10": 40,
+          "season": 35
         },
         "cards05": {
           "l5": 0,
@@ -4454,13 +4616,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 30,
-          "season": 25
+          "l5": 0,
+          "l10": 20,
+          "season": 24
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -4469,7 +4631,7 @@
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -4484,6 +4646,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Cape Verde",
@@ -4677,20 +4854,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.47,
-        "assists90": 0.35,
-        "shots90": 3.5,
-        "sot90": 1.9,
-        "passes90": 37,
+        "goals90": 0.46,
+        "assists90": 0.34,
+        "shots90": 3.4,
+        "sot90": 1.8,
+        "passes90": 36,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 64
+        "minutesAvg": 61
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 30,
-          "season": 33
+          "l5": 20,
+          "l10": 20,
+          "season": 31
         },
         "goals15": {
           "l5": 0,
@@ -4700,22 +4877,22 @@
         "assists05": {
           "l5": 40,
           "l10": 20,
-          "season": 25
+          "season": 23
         },
         "shots15": {
-          "l5": 80,
-          "l10": 70,
-          "season": 67
+          "l5": 60,
+          "l10": 60,
+          "season": 62
         },
         "shots25": {
-          "l5": 60,
-          "l10": 50,
-          "season": 50
+          "l5": 40,
+          "l10": 40,
+          "season": 46
         },
         "sot05": {
-          "l5": 80,
-          "l10": 80,
-          "season": 75
+          "l5": 60,
+          "l10": 70,
+          "season": 69
         },
         "cards05": {
           "l5": 0,
@@ -4724,12 +4901,12 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 17
+          "l10": 10,
+          "season": 15
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group H",
           "World Cup Qual. UEFA E",
@@ -4737,7 +4914,7 @@
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -4890,6 +5067,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Cape Verde",
@@ -5147,12 +5339,12 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.4,
-        "assists90": 0.1,
+        "goals90": 0.38,
+        "assists90": 0.09,
         "shots90": 2,
-        "sot90": 1,
-        "passes90": 72,
-        "cards90": 0.1,
+        "sot90": 0.9,
+        "passes90": 67,
+        "cards90": 0.09,
         "fouls90": 0.3,
         "minutesAvg": 56
       },
@@ -5160,7 +5352,7 @@
         "goals05": {
           "l5": 20,
           "l10": 30,
-          "season": 19
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -5169,23 +5361,23 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 6
         },
         "shots15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 44
+          "season": 41
         },
         "shots25": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "sot05": {
           "l5": 60,
-          "l10": 60,
-          "season": 44
+          "l10": 50,
+          "season": 41
         },
         "cards05": {
           "l5": 20,
@@ -5199,7 +5391,7 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -5207,7 +5399,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 4"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -5222,6 +5414,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Cape Verde",
@@ -5383,20 +5590,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.15,
+        "goals90": 0.13,
         "assists90": 0,
         "shots90": 1.2,
         "sot90": 0.3,
-        "passes90": 80,
+        "passes90": 70,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 60
+        "fouls90": 1.2,
+        "minutesAvg": 63
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 0,
+          "season": 9
         },
         "goals15": {
           "l5": 0,
@@ -5410,18 +5617,18 @@
         },
         "shots15": {
           "l5": 40,
-          "l10": 30,
-          "season": 30
+          "l10": 20,
+          "season": 27
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 0,
+          "season": 9
         },
         "sot05": {
           "l5": 0,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -5431,11 +5638,11 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 30
+          "season": 27
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -5443,7 +5650,7 @@
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -5628,6 +5835,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-15",
           "opponent": "Cape Verde",
@@ -5837,20 +6059,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.67,
-        "assists90": 0.54,
+        "goals90": 0.63,
+        "assists90": 0.5,
         "shots90": 4,
-        "sot90": 1.7,
-        "passes90": 25,
+        "sot90": 1.8,
+        "passes90": 24,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 52
+        "fouls90": 0.9,
+        "minutesAvg": 51
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 40,
-          "season": 38
+          "l10": 30,
+          "season": 36
         },
         "goals15": {
           "l5": 0,
@@ -5858,24 +6080,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 40,
-          "l10": 40,
-          "season": 31
+          "l5": 20,
+          "l10": 30,
+          "season": 29
         },
         "shots15": {
           "l5": 100,
-          "l10": 90,
-          "season": 77
+          "l10": 100,
+          "season": 79
         },
         "shots25": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 38
+          "season": 36
         },
         "sot05": {
           "l5": 80,
           "l10": 80,
-          "season": 69
+          "season": 71
         },
         "cards05": {
           "l5": 0,
@@ -5885,11 +6107,11 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -5898,7 +6120,7 @@
           "Euro, Knockout stage",
           "Euro, Group B"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -5913,6 +6135,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 2,
+          "assists": 1,
+          "shots": 5,
+          "shotsOnTarget": 3,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-15",
           "opponent": "Cape Verde",
@@ -6170,45 +6407,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.95,
-        "assists90": 0.52,
-        "shots90": 3.4,
-        "sot90": 1.8,
-        "passes90": 27,
+        "goals90": 1.08,
+        "assists90": 0.58,
+        "shots90": 3.6,
+        "sot90": 2,
+        "passes90": 26,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 65
+        "fouls90": 1.1,
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
           "l5": 80,
-          "l10": 70,
-          "season": 56
+          "l10": 80,
+          "season": 59
         },
         "goals15": {
           "l5": 40,
-          "l10": 20,
-          "season": 13
+          "l10": 30,
+          "season": 18
         },
         "assists05": {
           "l5": 20,
           "l10": 30,
-          "season": 19
+          "season": 24
         },
         "shots15": {
           "l5": 100,
-          "l10": 80,
-          "season": 63
+          "l10": 90,
+          "season": 65
         },
         "shots25": {
           "l5": 80,
-          "l10": 70,
-          "season": 50
+          "l10": 80,
+          "season": 53
         },
         "sot05": {
           "l5": 100,
-          "l10": 80,
-          "season": 69
+          "l10": 90,
+          "season": 71
         },
         "cards05": {
           "l5": 0,
@@ -6217,12 +6454,12 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 13
+          "l10": 10,
+          "season": 12
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -6231,7 +6468,7 @@
           "UEFA Nations League, League A, Gr. 4",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-21"
       }
     },
     {
@@ -6351,6 +6588,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-21",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-09",
           "opponent": "Peru",
@@ -6513,20 +6765,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.47,
+        "goals90": 0.42,
         "assists90": 0,
-        "shots90": 3.1,
-        "sot90": 0.9,
-        "passes90": 47,
+        "shots90": 2.7,
+        "sot90": 0.8,
+        "passes90": 42,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 38
+        "fouls90": 1.9,
+        "minutesAvg": 39
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -6539,19 +6791,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 50
+          "season": 45
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 40,
-          "season": 40
+          "season": 36
         },
         "cards05": {
           "l5": 0,
@@ -6559,19 +6811,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qual. UEFA E",
           "UEFA Nations League, League A, Gr. 4"
         ],
-        "lastMatch": "2026-06-09"
+        "lastMatch": "2026-06-21"
       }
     }
   ],

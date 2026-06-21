@@ -1486,6 +1486,71 @@
       },
       "syncedAt": "2026-06-21T02:27:53.287Z",
       "source": "espn"
+    },
+    "GS-H-3": {
+      "status": "finished",
+      "homeScore": 4,
+      "awayScore": 0,
+      "scorers": {
+        "home": [
+          {
+            "name": "Lamine Yamal",
+            "minute": "10'",
+            "assist": "Mikel Oyarzabal"
+          },
+          {
+            "name": "Mikel Oyarzabal",
+            "minute": "21'",
+            "assist": "Aymeric Laporte"
+          },
+          {
+            "name": "Mikel Oyarzabal",
+            "minute": "24'",
+            "assist": "Dani Olmo"
+          }
+        ],
+        "away": []
+      },
+      "teamStats": {
+        "possession": {
+          "home": 67.1,
+          "away": 32.9
+        },
+        "shots": {
+          "home": 22,
+          "away": 3
+        },
+        "shotsOnTarget": {
+          "home": 8,
+          "away": 1
+        },
+        "corners": {
+          "home": 6,
+          "away": 1
+        },
+        "fouls": {
+          "home": 10,
+          "away": 2
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 1,
+          "away": 5
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 80
+        }
+      },
+      "syncedAt": "2026-06-21T19:20:56.047Z",
+      "source": "espn"
     }
   }
 }
