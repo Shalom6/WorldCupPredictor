@@ -1600,6 +1600,65 @@
       },
       "syncedAt": "2026-06-22T01:44:12.351Z",
       "source": "espn"
+    },
+    "GS-J-3": {
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 0,
+      "scorers": {
+        "home": [
+          {
+            "name": "Lionel Messi",
+            "minute": "38'",
+            "assist": "Facundo Medina"
+          },
+          {
+            "name": "Lionel Messi",
+            "minute": "90'+5'"
+          }
+        ],
+        "away": []
+      },
+      "teamStats": {
+        "possession": {
+          "home": 53.6,
+          "away": 46.4
+        },
+        "shots": {
+          "home": 12,
+          "away": 6
+        },
+        "shotsOnTarget": {
+          "home": 5,
+          "away": 1
+        },
+        "corners": {
+          "home": 1,
+          "away": 3
+        },
+        "fouls": {
+          "home": 13,
+          "away": 13
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 1,
+          "away": 2
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-22T20:18:29.045Z",
+      "source": "espn"
     }
   }
 }
