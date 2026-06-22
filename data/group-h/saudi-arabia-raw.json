@@ -2,11 +2,11 @@
   "team": "Saudi Arabia",
   "group": "H",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-22T01:44:13.493Z",
+  "importedAt": "2026-06-22T07:04:35.490Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-15",
     "2026-06-21",
+    "2026-06-15",
     "2026-06-09",
     "2026-06-05",
     "2026-05-31",
@@ -25,15 +25,6 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-15",
-      "opponent": "Uruguay",
-      "competition": "FIFA World Cup, Group H",
-      "result": "D",
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "venue": "home"
-    },
-    {
       "date": "2026-06-21",
       "opponent": "Spain",
       "competition": "FIFA World Cup, Group H",
@@ -41,6 +32,15 @@
       "goalsFor": 0,
       "goalsAgainst": 4,
       "venue": "away"
+    },
+    {
+      "date": "2026-06-15",
+      "opponent": "Uruguay",
+      "competition": "FIFA World Cup, Group H",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "home"
     },
     {
       "date": "2026-06-09",
@@ -455,22 +455,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0,
-          "saves": 9
-        },
-        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -485,6 +469,22 @@
           "cards": 0,
           "fouls": 0,
           "saves": 5
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 9
         },
         {
           "date": "2026-06-09",
@@ -811,21 +811,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 1,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 2,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -839,6 +824,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
         },
         {
           "date": "2026-06-09",
@@ -1117,12 +1117,12 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
+          "date": "2026-06-21",
+          "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 0,
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -1132,12 +1132,12 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-21",
-          "opponent": "Spain",
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
           "competition": "FIFA World Cup, Group H",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
+          "result": "D",
+          "venue": "home",
+          "minutes": 0,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -1979,12 +1979,12 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
+          "date": "2026-06-21",
+          "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 93,
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -1994,12 +1994,12 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-21",
-          "opponent": "Spain",
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
           "competition": "FIFA World Cup, Group H",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
+          "result": "D",
+          "venue": "home",
+          "minutes": 93,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -2658,21 +2658,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -2682,6 +2667,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -2916,11 +2916,11 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
+          "date": "2026-06-21",
+          "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
+          "result": "L",
+          "venue": "away",
           "minutes": 90,
           "goals": 0,
           "assists": 0,
@@ -2931,11 +2931,11 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-21",
-          "opponent": "Spain",
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
           "competition": "FIFA World Cup, Group H",
-          "result": "L",
-          "venue": "away",
+          "result": "D",
+          "venue": "home",
           "minutes": 90,
           "goals": 0,
           "assists": 0,
@@ -3280,21 +3280,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -3308,6 +3293,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-09",
@@ -3512,21 +3512,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 81,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -3540,6 +3525,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 81,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-09",
@@ -3726,21 +3726,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 63,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -3754,6 +3739,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 63,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-09",
@@ -4048,21 +4048,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 27,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 3
-        },
-        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -4076,6 +4061,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 27,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
         },
         {
           "date": "2026-06-09",
@@ -4264,21 +4264,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -4292,6 +4277,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-09",
@@ -4522,21 +4522,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 93,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -4550,6 +4535,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 93,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-09",
@@ -4966,21 +4966,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 0,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -4991,6 +4976,21 @@
           "assists": 0,
           "shots": 1,
           "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -6374,21 +6374,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 93,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -6402,6 +6387,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 93,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         }
       ]
     },
@@ -6413,12 +6413,12 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
+          "date": "2026-06-21",
+          "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 0,
+          "result": "L",
+          "venue": "away",
+          "minutes": 30,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -6428,12 +6428,12 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-21",
-          "opponent": "Spain",
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
           "competition": "FIFA World Cup, Group H",
-          "result": "L",
-          "venue": "away",
-          "minutes": 30,
+          "result": "D",
+          "venue": "home",
+          "minutes": 0,
           "goals": 0,
           "assists": 0,
           "shots": 0,
