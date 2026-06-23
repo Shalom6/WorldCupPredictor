@@ -2,11 +2,11 @@
   "team": "Iraq",
   "group": "I",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-23T05:48:31.016Z",
+  "importedAt": "2026-06-23T08:49:03.211Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-16",
     "2026-06-22",
+    "2026-06-16",
     "2026-06-10",
     "2026-06-04",
     "2026-05-29",
@@ -25,15 +25,6 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-16",
-      "opponent": "Norway",
-      "competition": "FIFA World Cup, Group I",
-      "result": "L",
-      "goalsFor": 1,
-      "goalsAgainst": 4,
-      "venue": "home"
-    },
-    {
       "date": "2026-06-22",
       "opponent": "France",
       "competition": "FIFA World Cup, Group I",
@@ -41,6 +32,15 @@
       "goalsFor": 0,
       "goalsAgainst": 3,
       "venue": "away"
+    },
+    {
+      "date": "2026-06-16",
+      "opponent": "Norway",
+      "competition": "FIFA World Cup, Group I",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "venue": "home"
     },
     {
       "date": "2026-06-10",
@@ -346,21 +346,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Norway",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "home",
-          "minutes": 17,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "France",
           "competition": "FIFA World Cup, Group I",
@@ -390,6 +375,21 @@
           "cards": 0,
           "fouls": 0,
           "saves": 2
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-04",
@@ -995,21 +995,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Norway",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "France",
           "competition": "FIFA World Cup, Group I",
@@ -1019,6 +1004,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -1437,21 +1437,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Norway",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "home",
-          "minutes": 73,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-22",
           "opponent": "France",
           "competition": "FIFA World Cup, Group I",
@@ -1465,6 +1450,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-04",
@@ -1672,21 +1672,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Norway",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "France",
           "competition": "FIFA World Cup, Group I",
@@ -1700,6 +1685,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-04",
@@ -2432,6 +2432,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-22",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 60,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-16",
           "opponent": "Norway",
           "competition": "FIFA World Cup, Group I",
@@ -2460,21 +2475,6 @@
           "passes": 0,
           "cards": 1,
           "fouls": 3
-        },
-        {
-          "date": "2026-06-22",
-          "opponent": "France",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 60,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2026-06-04",
@@ -3143,21 +3143,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Norway",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 1,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-22",
           "opponent": "France",
           "competition": "FIFA World Cup, Group I",
@@ -3170,6 +3155,21 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 1,
+          "fouls": 1
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
           "fouls": 1
         },
         {
@@ -3677,21 +3677,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Norway",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "home",
-          "minutes": 78,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "France",
           "competition": "FIFA World Cup, Group I",
@@ -3705,6 +3690,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-04",
@@ -4099,12 +4099,12 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Norway",
+          "date": "2026-06-22",
+          "opponent": "France",
           "competition": "FIFA World Cup, Group I",
           "result": "L",
-          "venue": "home",
-          "minutes": 31,
+          "venue": "away",
+          "minutes": 21,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -4114,12 +4114,12 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-22",
-          "opponent": "France",
+          "date": "2026-06-16",
+          "opponent": "Norway",
           "competition": "FIFA World Cup, Group I",
           "result": "L",
-          "venue": "away",
-          "minutes": 21,
+          "venue": "home",
+          "minutes": 31,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -4878,21 +4878,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Norway",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "home",
-          "minutes": 31,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "France",
           "competition": "FIFA World Cup, Group I",
@@ -4906,6 +4891,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-04",
@@ -5062,21 +5062,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Norway",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "home",
-          "minutes": 59,
-          "goals": 0,
-          "assists": 0,
-          "shots": 3,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-22",
           "opponent": "France",
           "competition": "FIFA World Cup, Group I",
@@ -5090,6 +5075,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-04",
@@ -5340,21 +5340,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Norway",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 1,
-          "assists": 0,
-          "shots": 3,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-22",
           "opponent": "France",
           "competition": "FIFA World Cup, Group I",
@@ -5368,6 +5353,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Norway",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-04",

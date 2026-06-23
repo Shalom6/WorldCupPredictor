@@ -2,11 +2,11 @@
   "team": "France",
   "group": "I",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-23T05:48:30.982Z",
+  "importedAt": "2026-06-23T08:49:03.207Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-16",
     "2026-06-22",
+    "2026-06-16",
     "2026-06-08",
     "2026-06-04",
     "2026-03-29",
@@ -25,21 +25,21 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-16",
-      "opponent": "Senegal",
-      "competition": "FIFA World Cup, Group I",
-      "result": "W",
-      "goalsFor": 3,
-      "goalsAgainst": 1,
-      "venue": "home"
-    },
-    {
       "date": "2026-06-22",
       "opponent": "Iraq",
       "competition": "FIFA World Cup, Group I",
       "result": "W",
       "goalsFor": 3,
       "goalsAgainst": 0,
+      "venue": "home"
+    },
+    {
+      "date": "2026-06-16",
+      "opponent": "Senegal",
+      "competition": "FIFA World Cup, Group I",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 1,
       "venue": "home"
     },
     {
@@ -404,6 +404,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-22",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-16",
           "opponent": "Senegal",
           "competition": "FIFA World Cup, Group I",
@@ -418,21 +433,6 @@
           "cards": 0,
           "fouls": 0,
           "saves": 2
-        },
-        {
-          "date": "2026-06-22",
-          "opponent": "Iraq",
-          "competition": "FIFA World Cup, Group I",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2026-06-08",
@@ -791,8 +791,8 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Senegal",
+          "date": "2026-06-22",
+          "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
           "result": "W",
           "venue": "home",
@@ -806,8 +806,8 @@
           "fouls": 1
         },
         {
-          "date": "2026-06-22",
-          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "opponent": "Senegal",
           "competition": "FIFA World Cup, Group I",
           "result": "W",
           "venue": "home",
@@ -1257,21 +1257,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Senegal",
-          "competition": "FIFA World Cup, Group I",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -1285,6 +1270,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-08",
@@ -2420,21 +2420,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Senegal",
-          "competition": "FIFA World Cup, Group I",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -2444,6 +2429,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -2668,21 +2668,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Senegal",
-          "competition": "FIFA World Cup, Group I",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 1,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -2696,6 +2681,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-08",
@@ -3969,21 +3969,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Senegal",
-          "competition": "FIFA World Cup, Group I",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 1,
-          "shots": 2,
-          "shotsOnTarget": 2,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -3994,6 +3979,21 @@
           "assists": 2,
           "shots": 3,
           "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 2,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -4435,12 +4435,12 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Senegal",
+          "date": "2026-06-22",
+          "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
           "result": "W",
           "venue": "home",
-          "minutes": 3,
+          "minutes": 22,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -4450,12 +4450,12 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-22",
-          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "opponent": "Senegal",
           "competition": "FIFA World Cup, Group I",
           "result": "W",
           "venue": "home",
-          "minutes": 22,
+          "minutes": 3,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -4889,21 +4889,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Senegal",
-          "competition": "FIFA World Cup, Group I",
-          "result": "W",
-          "venue": "home",
-          "minutes": 10,
-          "goals": 1,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -4914,6 +4899,21 @@
           "assists": 0,
           "shots": 1,
           "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 10,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -5307,21 +5307,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Senegal",
-          "competition": "FIFA World Cup, Group I",
-          "result": "W",
-          "venue": "home",
-          "minutes": 87,
-          "goals": 0,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -5332,6 +5317,21 @@
           "assists": 0,
           "shots": 0,
           "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 87,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -5713,21 +5713,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Senegal",
-          "competition": "FIFA World Cup, Group I",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 2,
-          "assists": 0,
-          "shots": 4,
-          "shotsOnTarget": 4,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -5741,6 +5726,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 2,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 4,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-08",
@@ -6236,21 +6236,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "Senegal",
-          "competition": "FIFA World Cup, Group I",
-          "result": "W",
-          "venue": "home",
-          "minutes": 80,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -6261,6 +6246,21 @@
           "assists": 1,
           "shots": 4,
           "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
           "fouls": 0

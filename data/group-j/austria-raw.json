@@ -2,11 +2,11 @@
   "team": "Austria",
   "group": "J",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-23T05:48:31.052Z",
+  "importedAt": "2026-06-23T08:49:03.259Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-17",
     "2026-06-22",
+    "2026-06-17",
     "2026-06-01",
     "2026-03-31",
     "2026-03-27",
@@ -25,15 +25,6 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-17",
-      "opponent": "Jordan",
-      "competition": "FIFA World Cup, Group J",
-      "result": "W",
-      "goalsFor": 3,
-      "goalsAgainst": 1,
-      "venue": "home"
-    },
-    {
       "date": "2026-06-22",
       "opponent": "Argentina",
       "competition": "FIFA World Cup, Group J",
@@ -41,6 +32,15 @@
       "goalsFor": 0,
       "goalsAgainst": 2,
       "venue": "away"
+    },
+    {
+      "date": "2026-06-17",
+      "opponent": "Jordan",
+      "competition": "FIFA World Cup, Group J",
+      "result": "W",
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "venue": "home"
     },
     {
       "date": "2026-06-01",
@@ -346,22 +346,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Jordan",
-          "competition": "FIFA World Cup, Group J",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0,
-          "saves": 3
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -376,6 +360,22 @@
           "cards": 0,
           "fouls": 0,
           "saves": 2
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 3
         },
         {
           "date": "2026-06-01",
@@ -900,21 +900,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Jordan",
-          "competition": "FIFA World Cup, Group J",
-          "result": "W",
-          "venue": "home",
-          "minutes": 59,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -924,6 +909,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -1142,21 +1142,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Jordan",
-          "competition": "FIFA World Cup, Group J",
-          "result": "W",
-          "venue": "home",
-          "minutes": 31,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -1170,6 +1155,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-01",
@@ -1358,21 +1358,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Jordan",
-          "competition": "FIFA World Cup, Group J",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 3
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -1386,6 +1371,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
         },
         {
           "date": "2026-06-01",
@@ -2246,21 +2246,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Jordan",
-          "competition": "FIFA World Cup, Group J",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 3
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -2274,6 +2259,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
         },
         {
           "date": "2026-06-01",
@@ -2817,21 +2817,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Jordan",
-          "competition": "FIFA World Cup, Group J",
-          "result": "W",
-          "venue": "home",
-          "minutes": 31,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -2845,6 +2830,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-01",
@@ -3504,21 +3504,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Jordan",
-          "competition": "FIFA World Cup, Group J",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -3531,6 +3516,21 @@
           "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
           "fouls": 0
         },
         {
@@ -3926,21 +3926,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Jordan",
-          "competition": "FIFA World Cup, Group J",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -3954,6 +3939,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-01",
@@ -4206,21 +4206,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Jordan",
-          "competition": "FIFA World Cup, Group J",
-          "result": "W",
-          "venue": "home",
-          "minutes": 7,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -4234,6 +4219,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 3
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-03-31",
@@ -4486,21 +4486,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Jordan",
-          "competition": "FIFA World Cup, Group J",
-          "result": "W",
-          "venue": "home",
-          "minutes": 31,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -4514,6 +4499,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-01",
@@ -4839,21 +4839,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Jordan",
-          "competition": "FIFA World Cup, Group J",
-          "result": "W",
-          "venue": "home",
-          "minutes": 83,
-          "goals": 1,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -4867,6 +4852,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-01",
@@ -5145,21 +5145,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Jordan",
-          "competition": "FIFA World Cup, Group J",
-          "result": "W",
-          "venue": "home",
-          "minutes": 59,
-          "goals": 0,
-          "assists": 1,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -5173,6 +5158,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 3
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-01",
@@ -5471,21 +5471,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Jordan",
-          "competition": "FIFA World Cup, Group J",
-          "result": "W",
-          "venue": "home",
-          "minutes": 45,
-          "goals": 1,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 2,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -5496,6 +5481,21 @@
           "assists": 0,
           "shots": 0,
           "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Jordan",
+          "competition": "FIFA World Cup, Group J",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
           "passes": 0,
           "cards": 0,
           "fouls": 0
