@@ -16,22 +16,22 @@
       "Croatia": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-23T21:55:39.162Z"
+        "importedAt": "2026-06-23T22:57:34.910Z"
       },
       "England": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-23T21:55:39.162Z"
+        "importedAt": "2026-06-23T22:57:34.910Z"
       },
       "Ghana": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-23T21:55:39.162Z"
+        "importedAt": "2026-06-23T22:57:34.910Z"
       },
       "Panama": {
         "playerCount": 31,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-23T21:55:39.162Z"
+        "importedAt": "2026-06-23T22:57:34.910Z"
       }
     }
   },
@@ -2114,31 +2114,31 @@
       "group": "L",
       "position": "Midfielder",
       "number": "7",
-      "likelyStarter": true,
-      "benchImpact": false,
-      "minutesFactor": 0.56,
-      "xgShare": 0.09,
+      "likelyStarter": false,
+      "benchImpact": true,
+      "minutesFactor": 0.53,
+      "xgShare": 0.05,
       "propProfile": {
-        "shotsShare": 1.8,
-        "sotShare": 0.4,
+        "shotsShare": 1.7,
+        "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 2.7
+        "foulWeight": 2.6
       },
       "seasonRates": {
-        "goals90": 0.18,
+        "goals90": 0.17,
         "assists90": 0,
-        "shots90": 1.8,
-        "sot90": 0.4,
-        "passes90": 22,
+        "shots90": 1.7,
+        "sot90": 0.3,
+        "passes90": 21,
         "cards90": 0,
-        "fouls90": 2.7,
-        "minutesAvg": 50
+        "fouls90": 2.6,
+        "minutesAvg": 48
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "goals15": {
           "l5": 0,
@@ -2152,18 +2152,18 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 0,
+          "season": 9
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 0,
+          "season": 9
         },
         "sot05": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -2172,11 +2172,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 30,
-          "season": 30
+          "l10": 20,
+          "season": 27
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -2341,14 +2356,14 @@
       "dataScope": "international",
       "searchText": "abdul fatawu issahaku ghana midfielder l",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1103589
     },
@@ -29316,26 +29331,26 @@
       "minutesFactor": 0.66,
       "xgShare": 0.16,
       "propProfile": {
-        "shotsShare": 2.9,
+        "shotsShare": 2.8,
         "sotShare": 1.4,
         "cardWeight": 0.02,
         "foulWeight": 1.2
       },
       "seasonRates": {
-        "goals90": 0.29,
-        "assists90": 0.1,
-        "shots90": 2.9,
+        "goals90": 0.27,
+        "assists90": 0.09,
+        "shots90": 2.8,
         "sot90": 1.4,
-        "passes90": 34,
+        "passes90": 32,
         "cards90": 0,
         "fouls90": 1.2,
         "minutesAvg": 59
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 19
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -29348,19 +29363,19 @@
           "season": 6
         },
         "shots15": {
-          "l5": 80,
+          "l5": 60,
           "l10": 70,
-          "season": 63
+          "season": 59
         },
         "shots25": {
-          "l5": 20,
+          "l5": 0,
           "l10": 30,
-          "season": 25
+          "season": 24
         },
         "sot05": {
           "l5": 80,
-          "l10": 70,
-          "season": 63
+          "l10": 80,
+          "season": 65
         },
         "cards05": {
           "l5": 0,
@@ -29370,10 +29385,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 25
+          "season": 24
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 65,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -29634,14 +29664,14 @@
       "dataScope": "international",
       "searchText": "anthony gordon england forward l",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "World Cup Qual. UEFA K",
           "UEFA Nations League, League B, Gr. 2"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 914902
     },
@@ -29913,25 +29943,25 @@
       "minutesFactor": 0.88,
       "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 1,
+        "shotsShare": 0.9,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "foulWeight": 1.1
       },
       "seasonRates": {
         "goals90": 0.08,
         "assists90": 0,
-        "shots90": 1,
+        "shots90": 0.9,
         "sot90": 0.2,
-        "passes90": 11,
+        "passes90": 10,
         "cards90": 0,
-        "fouls90": 0.9,
+        "fouls90": 1.1,
         "minutesAvg": 79
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 7
         },
         "goals15": {
@@ -29947,17 +29977,17 @@
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 21
+          "season": 20
         },
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 14
+          "season": 13
         },
         "sot05": {
           "l5": 0,
           "l10": 0,
-          "season": 14
+          "season": 13
         },
         "cards05": {
           "l5": 0,
@@ -29965,12 +29995,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 20,
-          "season": 21
+          "l5": 60,
+          "l10": 30,
+          "season": 27
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -30199,14 +30244,14 @@
       "dataScope": "international",
       "searchText": "antoine semenyo ghana midfielder l",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 934354
     },
@@ -41375,7 +41420,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 10,
+        "passes90": 9,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 81
@@ -41423,6 +41468,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 3
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -41634,13 +41695,13 @@
       "dataScope": "international",
       "searchText": "benjamin asare ghana goalkeeper l",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1457083
     },
@@ -48372,29 +48433,29 @@
       "number": "7",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.7,
-      "xgShare": 0.16,
+      "minutesFactor": 0.67,
+      "xgShare": 0.15,
       "propProfile": {
-        "shotsShare": 2.6,
-        "sotShare": 0.7,
+        "shotsShare": 2.8,
+        "sotShare": 0.8,
         "cardWeight": 0.02,
         "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 0.24,
-        "assists90": 0.24,
-        "shots90": 2.6,
-        "sot90": 0.7,
-        "passes90": 37,
+        "goals90": 0.23,
+        "assists90": 0.23,
+        "shots90": 2.8,
+        "sot90": 0.8,
+        "passes90": 36,
         "cards90": 0,
         "fouls90": 0.7,
-        "minutesAvg": 63
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "goals15": {
           "l5": 0,
@@ -48402,24 +48463,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "shots15": {
           "l5": 60,
           "l10": 60,
-          "season": 50
+          "season": 54
         },
         "shots25": {
           "l5": 20,
-          "l10": 40,
-          "season": 33
+          "l10": 30,
+          "season": 31
         },
         "sot05": {
-          "l5": 40,
+          "l5": 60,
           "l10": 60,
-          "season": 50
+          "season": 54
         },
         "cards05": {
           "l5": 0,
@@ -48433,6 +48494,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 25,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -48629,7 +48705,7 @@
       "dataScope": "international",
       "searchText": "bukayo saka england forward l",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
@@ -48637,7 +48713,7 @@
           "UEFA Nations League, League B, Gr. 2",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 934235
     },
@@ -48815,29 +48891,29 @@
       "number": "2",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.82,
-      "xgShare": 0.1,
+      "minutesFactor": 0.84,
+      "xgShare": 0.09,
       "propProfile": {
-        "shotsShare": 0.5,
+        "shotsShare": 0.4,
         "sotShare": 0.2,
-        "cardWeight": 0.12,
-        "foulWeight": 0.6
+        "cardWeight": 0.11,
+        "foulWeight": 0.9
       },
       "seasonRates": {
-        "goals90": 0.24,
+        "goals90": 0.22,
         "assists90": 0,
-        "shots90": 0.5,
+        "shots90": 0.4,
         "sot90": 0.2,
-        "passes90": 19,
-        "cards90": 0.12,
-        "fouls90": 0.6,
-        "minutesAvg": 74
+        "passes90": 17,
+        "cards90": 0.11,
+        "fouls90": 0.9,
+        "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -48852,7 +48928,7 @@
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots25": {
           "l5": 0,
@@ -48862,20 +48938,35 @@
         "sot05": {
           "l5": 40,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "cards05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 9
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -49040,13 +49131,13 @@
       "dataScope": "international",
       "searchText": "caleb yirenkyi ghana midfielder l",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1986794
     },
@@ -67563,29 +67654,29 @@
       "number": "4",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.79,
-      "xgShare": 0.11,
+      "minutesFactor": 0.8,
+      "xgShare": 0.1,
       "propProfile": {
-        "shotsShare": 1.5,
-        "sotShare": 0.8,
-        "cardWeight": 0.02,
+        "shotsShare": 1.6,
+        "sotShare": 0.7,
+        "cardWeight": 0.07,
         "foulWeight": 0.6
       },
       "seasonRates": {
-        "goals90": 0.32,
-        "assists90": 0.48,
-        "shots90": 1.5,
-        "sot90": 0.8,
-        "passes90": 66,
-        "cards90": 0,
+        "goals90": 0.29,
+        "assists90": 0.44,
+        "shots90": 1.6,
+        "sot90": 0.7,
+        "passes90": 61,
+        "cards90": 0.07,
         "fouls90": 0.6,
-        "minutesAvg": 71
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 20,
-          "season": 25
+          "season": 24
         },
         "goals15": {
           "l5": 0,
@@ -67595,27 +67686,27 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 31
+          "season": 29
         },
         "shots15": {
-          "l5": 40,
-          "l10": 30,
-          "season": 25
+          "l5": 60,
+          "l10": 40,
+          "season": 29
         },
         "shots25": {
-          "l5": 0,
-          "l10": 10,
-          "season": 6
+          "l5": 20,
+          "l10": 20,
+          "season": 12
         },
         "sot05": {
           "l5": 60,
           "l10": 50,
-          "season": 44
+          "season": 41
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
           "l5": 0,
@@ -67624,6 +67715,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -67884,14 +67990,14 @@
       "dataScope": "international",
       "searchText": "declan rice england midfielder l",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "World Cup Qual. UEFA K",
           "UEFA Nations League, League B, Gr. 2"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 856714
     },
@@ -72265,23 +72371,23 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.56,
+      "minutesFactor": 0.58,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 1.5,
-        "sotShare": 0.3,
+        "shotsShare": 1.3,
+        "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 1
+        "foulWeight": 0.9
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.26,
-        "shots90": 1.5,
-        "sot90": 0.3,
-        "passes90": 58,
+        "assists90": 0.22,
+        "shots90": 1.3,
+        "sot90": 0.2,
+        "passes90": 49,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 50
+        "fouls90": 0.9,
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
@@ -72296,13 +72402,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots15": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots25": {
           "l5": 0,
@@ -72311,8 +72417,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "cards05": {
           "l5": 0,
@@ -72321,11 +72427,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -72442,13 +72563,13 @@
       "dataScope": "international",
       "searchText": "djed spence england defender l",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "World Cup Qual. UEFA K"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 945798
     },
@@ -76308,29 +76429,29 @@
       "number": "21",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.46,
+      "minutesFactor": 0.42,
       "xgShare": 0.09,
       "propProfile": {
-        "shotsShare": 4.9,
-        "sotShare": 2.2,
+        "shotsShare": 4.7,
+        "sotShare": 2.1,
         "cardWeight": 0.02,
         "foulWeight": 0.9
       },
       "seasonRates": {
-        "goals90": 0.67,
+        "goals90": 0.64,
         "assists90": 0,
-        "shots90": 4.9,
-        "sot90": 2.2,
-        "passes90": 46,
+        "shots90": 4.7,
+        "sot90": 2.1,
+        "passes90": 44,
         "cards90": 0,
         "fouls90": 0.9,
-        "minutesAvg": 41
+        "minutesAvg": 38
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
           "l10": 30,
-          "season": 30
+          "season": 27
         },
         "goals15": {
           "l5": 0,
@@ -76343,19 +76464,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 80,
-          "l10": 80,
-          "season": 80
+          "l5": 60,
+          "l10": 70,
+          "season": 73
         },
         "shots25": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "sot05": {
-          "l5": 80,
+          "l5": 60,
           "l10": 60,
-          "season": 60
+          "season": 55
         },
         "cards05": {
           "l5": 0,
@@ -76369,6 +76490,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-10",
           "opponent": "Costa Rica",
@@ -76534,13 +76670,14 @@
       "dataScope": "international",
       "searchText": "eberechi eze england midfielder l",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "World Cup Qual. UEFA K",
           "UEFA Nations League, League B, Gr. 2"
         ],
-        "lastMatch": "2026-06-10"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 864921
     },
@@ -80776,19 +80913,19 @@
       "minutesFactor": 0.82,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 1.6,
+        "shotsShare": 1.9,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.8
+        "foulWeight": 1.9
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.12,
-        "shots90": 1.6,
+        "assists90": 0.11,
+        "shots90": 1.9,
         "sot90": 0.1,
-        "passes90": 97,
+        "passes90": 88,
         "cards90": 0,
-        "fouls90": 1.8,
+        "fouls90": 1.9,
         "minutesAvg": 74
       },
       "hitRates": {
@@ -80805,22 +80942,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
-          "l5": 0,
-          "l10": 20,
-          "season": 20
+          "l5": 20,
+          "l10": 30,
+          "season": 27
         },
         "shots25": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         },
         "sot05": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 0,
+          "season": 9
         },
         "cards05": {
           "l5": 0,
@@ -80828,12 +80965,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 60,
           "l10": 50,
-          "season": 50
+          "season": 55
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -80998,13 +81150,13 @@
       "dataScope": "international",
       "searchText": "elliot anderson england midfielder l",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "World Cup Qual. UEFA K"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 994546
     },
@@ -87458,29 +87610,29 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.77,
+      "minutesFactor": 0.79,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 0.8,
-        "sotShare": 0.4,
+        "shotsShare": 0.7,
+        "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 0.4
+        "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.09,
-        "assists90": 0.09,
-        "shots90": 0.8,
-        "sot90": 0.4,
-        "passes90": 79,
+        "goals90": 0.08,
+        "assists90": 0.08,
+        "shots90": 0.7,
+        "sot90": 0.3,
+        "passes90": 73,
         "cards90": 0,
-        "fouls90": 0.4,
-        "minutesAvg": 69
+        "fouls90": 0.5,
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -87490,7 +87642,7 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 20,
@@ -87505,7 +87657,7 @@
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "cards05": {
           "l5": 0,
@@ -87513,12 +87665,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -87763,7 +87930,7 @@
       "dataScope": "international",
       "searchText": "ezri konsa england defender l",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
@@ -87771,7 +87938,7 @@
           "UEFA Nations League, League B, Gr. 2",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 827679
     },
@@ -99850,23 +100017,23 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.87,
+      "minutesFactor": 0.88,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.2,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.7
+        "foulWeight": 0.8
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0,
-        "passes90": 21,
+        "passes90": 19,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 78
+        "fouls90": 0.8,
+        "minutesAvg": 79
       },
       "hitRates": {
         "goals05": {
@@ -99905,12 +100072,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 20,
-          "season": 23
+          "l5": 60,
+          "l10": 30,
+          "season": 29
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -100123,14 +100305,14 @@
       "dataScope": "international",
       "searchText": "gideon mensah ghana defender l",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 844942
     },
@@ -109367,34 +109549,34 @@
       "number": "9",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.83,
-      "xgShare": 0.29,
+      "minutesFactor": 0.84,
+      "xgShare": 0.28,
       "propProfile": {
-        "shotsShare": 4.2,
-        "sotShare": 2.4,
+        "shotsShare": 4.1,
+        "sotShare": 2.3,
         "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "foulWeight": 0.6
       },
       "seasonRates": {
-        "goals90": 1.12,
+        "goals90": 1.05,
         "assists90": 0,
-        "shots90": 4.2,
-        "sot90": 2.4,
-        "passes90": 20,
+        "shots90": 4.1,
+        "sot90": 2.3,
+        "passes90": 19,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 75
+        "fouls90": 0.6,
+        "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
           "l5": 60,
-          "l10": 70,
-          "season": 69
+          "l10": 60,
+          "season": 65
         },
         "goals15": {
           "l5": 40,
           "l10": 30,
-          "season": 25
+          "season": 24
         },
         "assists05": {
           "l5": 0,
@@ -109402,17 +109584,17 @@
           "season": 0
         },
         "shots15": {
-          "l5": 80,
+          "l5": 100,
           "l10": 80,
-          "season": 75
+          "season": 76
         },
         "shots25": {
-          "l5": 80,
+          "l5": 100,
           "l10": 60,
-          "season": 56
+          "season": 59
         },
         "sot05": {
-          "l5": 80,
+          "l5": 100,
           "l10": 90,
           "season": 88
         },
@@ -109428,6 +109610,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -109688,14 +109885,14 @@
       "dataScope": "international",
       "searchText": "harry kane england forward l",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "World Cup Qual. UEFA K",
           "UEFA Nations League, League B, Gr. 2"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 108579
     },
@@ -118163,29 +118360,29 @@
       "number": "19",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.5,
+      "minutesFactor": 0.52,
       "xgShare": 0.09,
       "propProfile": {
-        "shotsShare": 1.6,
-        "sotShare": 0.5,
-        "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "shotsShare": 1.3,
+        "sotShare": 0.4,
+        "cardWeight": 0.19,
+        "foulWeight": 0.8
       },
       "seasonRates": {
-        "goals90": 0.22,
+        "goals90": 0.19,
         "assists90": 0,
-        "shots90": 1.6,
-        "sot90": 0.5,
-        "passes90": 8,
-        "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 45
+        "shots90": 1.3,
+        "sot90": 0.4,
+        "passes90": 7,
+        "cards90": 0.19,
+        "fouls90": 0.8,
+        "minutesAvg": 47
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 0,
+          "l10": 10,
+          "season": 10
         },
         "goals15": {
           "l5": 0,
@@ -118199,31 +118396,46 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 33,
-          "season": 33
+          "l10": 30,
+          "season": 30
         },
         "shots25": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "sot05": {
           "l5": 0,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
         {
           "date": "2026-06-02",
           "opponent": "Wales",
@@ -118373,13 +118585,14 @@
       "dataScope": "international",
       "searchText": "iñaki williams ghana midfielder l",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-02"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 783374
     },
@@ -132252,23 +132465,23 @@
       "number": "16",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.57,
+      "minutesFactor": 0.61,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.2,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.4
+        "foulWeight": 0.5
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0.2,
-        "passes90": 20,
+        "passes90": 16,
         "cards90": 0,
-        "fouls90": 0.4,
-        "minutesAvg": 51
+        "fouls90": 0.5,
+        "minutesAvg": 55
       },
       "hitRates": {
         "goals05": {
@@ -132298,8 +132511,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -132308,11 +132521,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -132461,13 +132689,13 @@
       "dataScope": "international",
       "searchText": "jerome opoku ghana defender l",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 920514
     },
@@ -141315,7 +141543,7 @@
       "number": "4",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.82,
+      "minutesFactor": 0.83,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.4,
@@ -141328,10 +141556,10 @@
         "assists90": 0,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 26,
+        "passes90": 23,
         "cards90": 0,
         "fouls90": 0.9,
-        "minutesAvg": 74
+        "minutesAvg": 75
       },
       "hitRates": {
         "goals05": {
@@ -141352,7 +141580,7 @@
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "shots25": {
           "l5": 0,
@@ -141362,7 +141590,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "cards05": {
           "l5": 0,
@@ -141372,10 +141600,25 @@
         "fouls15": {
           "l5": 40,
           "l10": 20,
-          "season": 18
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -141556,14 +141799,14 @@
       "dataScope": "international",
       "searchText": "jonas adjei adjetey ghana defender l",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1218056
     },
@@ -142566,29 +142809,29 @@
       "number": "9",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.86,
+      "minutesFactor": 0.84,
       "xgShare": 0.18,
       "propProfile": {
-        "shotsShare": 0.6,
+        "shotsShare": 0.5,
         "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 0.39,
-        "assists90": 0.55,
-        "shots90": 0.6,
+        "goals90": 0.37,
+        "assists90": 0.52,
+        "shots90": 0.5,
         "sot90": 0.3,
-        "passes90": 11,
+        "passes90": 10,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 77
+        "fouls90": 1,
+        "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 40,
-          "season": 33
+          "l10": 30,
+          "season": 31
         },
         "goals15": {
           "l5": 0,
@@ -142597,13 +142840,13 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 40,
-          "season": 27
+          "l10": 30,
+          "season": 25
         },
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -142613,7 +142856,7 @@
         "sot05": {
           "l5": 40,
           "l10": 20,
-          "season": 27
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -142621,12 +142864,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 20
+          "l5": 40,
+          "l10": 20,
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 4
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -142871,14 +143129,14 @@
       "dataScope": "international",
       "searchText": "jordan ayew ghana forward l",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 103045
     },
@@ -143467,7 +143725,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 24,
+        "passes90": 23,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 86
@@ -143515,6 +143773,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -143821,14 +144094,14 @@
       "dataScope": "international",
       "searchText": "jordan pickford england goalkeeper l",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "World Cup Qual. UEFA K",
           "UEFA Nations League, League B, Gr. 2"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 138530
     },
@@ -151060,19 +151333,19 @@
       "minutesFactor": 0.81,
       "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 2.9,
+        "shotsShare": 2.8,
         "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 1.2
       },
       "seasonRates": {
-        "goals90": 0.16,
-        "assists90": 0.33,
-        "shots90": 2.9,
+        "goals90": 0.15,
+        "assists90": 0.31,
+        "shots90": 2.8,
         "sot90": 0.7,
-        "passes90": 59,
+        "passes90": 56,
         "cards90": 0,
-        "fouls90": 1.1,
+        "fouls90": 1.2,
         "minutesAvg": 73
       },
       "hitRates": {
@@ -151088,23 +151361,23 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 19
         },
         "shots15": {
           "l5": 60,
-          "l10": 70,
-          "season": 67
+          "l10": 60,
+          "season": 63
         },
         "shots25": {
           "l5": 20,
-          "l10": 50,
-          "season": 47
+          "l10": 40,
+          "season": 44
         },
         "sot05": {
           "l5": 20,
           "l10": 30,
-          "season": 27
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -151112,12 +151385,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 30,
-          "season": 27
+          "l5": 40,
+          "l10": 40,
+          "season": 31
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -151362,7 +151650,7 @@
       "dataScope": "international",
       "searchText": "jude bellingham england midfielder l",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
@@ -151370,7 +151658,7 @@
           "UEFA Nations League, League B, Gr. 2",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 991011
     },
@@ -165504,7 +165792,7 @@
       "number": "15",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.7,
+      "minutesFactor": 0.57,
       "xgShare": 0.02,
       "seasonRates": {
         "goals90": 0,
@@ -165514,7 +165802,7 @@
         "passes90": 46,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 63
+        "minutesAvg": 51
       },
       "hitRates": {
         "goals05": {
@@ -165559,6 +165847,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 3,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-30",
           "opponent": "Germany",
@@ -165628,12 +165931,13 @@
       "dataScope": "international",
       "searchText": "kojo peprah oppong ghana defender l",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I"
         ],
-        "lastMatch": "2026-03-30"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1473092
     },
@@ -168062,23 +168366,23 @@
       "number": "8",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.74,
+      "minutesFactor": 0.78,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.2,
+        "shotsShare": 0.1,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 1
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.2,
+        "shots90": 0.1,
         "sot90": 0,
-        "passes90": 26,
+        "passes90": 23,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 67
+        "fouls90": 1,
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
@@ -168117,12 +168421,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 4
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -168271,13 +168590,13 @@
       "dataScope": "international",
       "searchText": "kwasi sibo ghana midfielder l",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 905639
     },
@@ -186199,29 +186518,29 @@
       "number": "6",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.78,
+      "minutesFactor": 0.8,
       "xgShare": 0.03,
       "propProfile": {
         "shotsShare": 0.9,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.9
       },
       "seasonRates": {
-        "goals90": 0.09,
-        "assists90": 0.34,
+        "goals90": 0.08,
+        "assists90": 0.31,
         "shots90": 0.9,
         "sot90": 0.2,
-        "passes90": 86,
+        "passes90": 79,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 70
+        "fouls90": 0.9,
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -186229,9 +186548,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 30,
-          "season": 20
+          "season": 19
         },
         "shots15": {
           "l5": 20,
@@ -186241,7 +186560,7 @@
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "sot05": {
           "l5": 0,
@@ -186255,11 +186574,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 10,
-          "season": 7
+          "l10": 20,
+          "season": 13
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -186504,7 +186838,7 @@
       "dataScope": "international",
       "searchText": "marc guéhi england defender l",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
@@ -186512,7 +186846,7 @@
           "UEFA Nations League, League B, Gr. 2",
           "Euro, Knockout stage"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 877994
     },
@@ -187961,29 +188295,29 @@
       "number": "11",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.48,
+      "minutesFactor": 0.44,
       "xgShare": 0.09,
       "propProfile": {
         "shotsShare": 2.4,
         "sotShare": 1.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 1.1
       },
       "seasonRates": {
         "goals90": 0.32,
         "assists90": 0.16,
         "shots90": 2.4,
         "sot90": 1.1,
-        "passes90": 44,
+        "passes90": 43,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 43
+        "fouls90": 1.1,
+        "minutesAvg": 40
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 20,
-          "season": 15
+          "l10": 10,
+          "season": 14
         },
         "goals15": {
           "l5": 0,
@@ -187993,22 +188327,22 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots15": {
           "l5": 20,
-          "l10": 30,
-          "season": 23
+          "l10": 20,
+          "season": 21
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "sot05": {
           "l5": 40,
-          "l10": 40,
-          "season": 31
+          "l10": 30,
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -188016,12 +188350,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 8
+          "l5": 20,
+          "l10": 10,
+          "season": 14
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -188234,13 +188583,13 @@
       "dataScope": "international",
       "searchText": "marcus rashford england forward l",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "World Cup Qual. UEFA K"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 814590
     },
@@ -192524,23 +192873,23 @@
       "number": "26",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.69,
+      "minutesFactor": 0.76,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 1.5,
+        "shotsShare": 1.3,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.5
+        "foulWeight": 1.7
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.5,
+        "shots90": 1.3,
         "sot90": 0,
-        "passes90": 11,
+        "passes90": 8,
         "cards90": 0,
-        "fouls90": 1.5,
-        "minutesAvg": 62
+        "fouls90": 1.7,
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
@@ -192559,9 +192908,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots25": {
           "l5": 0,
@@ -192579,12 +192928,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 87,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -192637,12 +193001,12 @@
       "dataScope": "international",
       "searchText": "marvin senaya ghana defender l",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1087805
     },
@@ -213945,23 +214309,23 @@
       "number": "19",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.52,
+      "minutesFactor": 0.5,
       "xgShare": 0.08,
       "propProfile": {
         "shotsShare": 2.5,
         "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 1.2
       },
       "seasonRates": {
         "goals90": 0.12,
         "assists90": 0.12,
         "shots90": 2.5,
         "sot90": 0.7,
-        "passes90": 34,
+        "passes90": 33,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 47
+        "fouls90": 1.2,
+        "minutesAvg": 45
       },
       "hitRates": {
         "goals05": {
@@ -213982,17 +214346,17 @@
         "shots15": {
           "l5": 60,
           "l10": 40,
-          "season": 31
+          "season": 29
         },
         "shots25": {
           "l5": 40,
           "l10": 30,
-          "season": 25
+          "season": 24
         },
         "sot05": {
           "l5": 40,
           "l10": 30,
-          "season": 25
+          "season": 24
         },
         "cards05": {
           "l5": 0,
@@ -214006,6 +214370,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -214266,14 +214645,14 @@
       "dataScope": "international",
       "searchText": "morgan rogers england midfielder l",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "World Cup Qual. UEFA K",
           "UEFA Nations League, League B, Gr. 2"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 948261
     },
@@ -222199,10 +222578,10 @@
       "number": "18",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.82,
+      "minutesFactor": 0.74,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 1.4,
+        "shotsShare": 1.7,
         "sotShare": 0.2,
         "cardWeight": 0.02,
         "foulWeight": 0.8
@@ -222210,12 +222589,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.4,
+        "shots90": 1.7,
         "sot90": 0.2,
-        "passes90": 48,
+        "passes90": 46,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 74
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
@@ -222234,9 +222613,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 40,
-          "l10": 50,
-          "season": 50
+          "l5": 60,
+          "l10": 57,
+          "season": 57
         },
         "shots25": {
           "l5": 0,
@@ -222245,8 +222624,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "cards05": {
           "l5": 0,
@@ -222260,6 +222639,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -222360,13 +222754,13 @@
       "dataScope": "international",
       "searchText": "nico o'reilly england defender l",
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "World Cup Qual. UEFA K"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1142703
     },
@@ -228857,23 +229251,23 @@
       "number": "23",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.62,
+      "minutesFactor": 0.64,
       "xgShare": 0.14,
       "propProfile": {
-        "shotsShare": 3.1,
-        "sotShare": 0.7,
+        "shotsShare": 3,
+        "sotShare": 0.6,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 0.13,
-        "assists90": 0.4,
-        "shots90": 3.1,
-        "sot90": 0.7,
-        "passes90": 35,
+        "goals90": 0.12,
+        "assists90": 0.36,
+        "shots90": 3,
+        "sot90": 0.6,
+        "passes90": 31,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 56
+        "fouls90": 0.7,
+        "minutesAvg": 58
       },
       "hitRates": {
         "goals05": {
@@ -228889,22 +229283,22 @@
         "assists05": {
           "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 23
         },
         "shots15": {
           "l5": 60,
-          "l10": 60,
-          "season": 67
+          "l10": 70,
+          "season": 69
         },
         "shots25": {
           "l5": 20,
           "l10": 30,
-          "season": 33
+          "season": 31
         },
         "sot05": {
           "l5": 40,
           "l10": 40,
-          "season": 33
+          "season": 31
         },
         "cards05": {
           "l5": 0,
@@ -228918,6 +229312,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -229114,14 +229523,14 @@
       "dataScope": "international",
       "searchText": "noni madueke england forward l",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "World Cup Qual. UEFA K",
           "UEFA Nations League, League B, Gr. 2"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 966547
     },
@@ -244251,23 +244660,23 @@
       "number": "23",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.54,
+      "minutesFactor": 0.61,
       "xgShare": 0.12,
       "propProfile": {
-        "shotsShare": 1.9,
-        "sotShare": 0.3,
+        "shotsShare": 1.6,
+        "sotShare": 0.5,
         "cardWeight": 0.02,
-        "foulWeight": 1.9
+        "foulWeight": 1.6
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.9,
-        "sot90": 0.3,
-        "passes90": 11,
+        "shots90": 1.6,
+        "sot90": 0.5,
+        "passes90": 8,
         "cards90": 0,
-        "fouls90": 1.9,
-        "minutesAvg": 49
+        "fouls90": 1.6,
+        "minutesAvg": 55
       },
       "hitRates": {
         "goals05": {
@@ -244286,9 +244695,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 40,
-          "l10": 50,
-          "season": 50
+          "l5": 20,
+          "l10": 43,
+          "season": 43
         },
         "shots25": {
           "l5": 0,
@@ -244296,9 +244705,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 17,
-          "season": 17
+          "l5": 20,
+          "l10": 29,
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -244307,11 +244716,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l10": 29,
+          "season": 29
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 95,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -244412,12 +244836,12 @@
       "dataScope": "international",
       "searchText": "prince kwabena adu ghana forward l",
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1472288
     },
@@ -245689,6 +246113,21 @@
       },
       "gameLog": [
         {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-02",
           "opponent": "Wales",
           "competition": "Int. Friendly Games",
@@ -245709,11 +246148,12 @@
       "dataScope": "international",
       "searchText": "rahman baba ghana defender l",
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group L",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-02"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 239632
     },
@@ -249450,29 +249890,29 @@
       "number": "3",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.74,
+      "minutesFactor": 0.78,
       "xgShare": 0.04,
       "propProfile": {
         "shotsShare": 0.7,
-        "sotShare": 0.2,
+        "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.6
+        "foulWeight": 1.4
       },
       "seasonRates": {
-        "goals90": 0.15,
-        "assists90": 0.15,
+        "goals90": 0.13,
+        "assists90": 0.13,
         "shots90": 0.7,
-        "sot90": 0.2,
-        "passes90": 77,
+        "sot90": 0.1,
+        "passes90": 67,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 67
+        "fouls90": 1.4,
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "goals15": {
           "l5": 0,
@@ -249481,8 +249921,8 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
           "l5": 0,
@@ -249496,8 +249936,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -249505,12 +249945,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l5": 0,
+          "l10": 20,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Croatia",
@@ -249659,13 +250114,13 @@
       "dataScope": "international",
       "searchText": "reece james england defender l",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "World Cup Qual. UEFA K"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 885908
     },
@@ -280363,8 +280818,8 @@
       "number": "5",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.92,
-      "xgShare": 0.11,
+      "minutesFactor": 0.93,
+      "xgShare": 0.1,
       "propProfile": {
         "shotsShare": 0.1,
         "sotShare": 0.03,
@@ -280372,30 +280827,30 @@
         "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 0.33,
-        "assists90": 0.11,
+        "goals90": 0.29,
+        "assists90": 0.1,
         "shots90": 0.1,
         "sot90": 0,
-        "passes90": 24,
+        "passes90": 22,
         "cards90": 0,
         "fouls90": 0.7,
-        "minutesAvg": 83
+        "minutesAvg": 84
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
           "l5": 0,
@@ -280420,10 +280875,25 @@
         "fouls15": {
           "l5": 40,
           "l10": 20,
-          "season": 20
+          "season": 18
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-02",
           "opponent": "Wales",
@@ -280589,13 +281059,14 @@
       "dataScope": "international",
       "searchText": "thomas partey ghana midfielder l",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-02"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 316148
     },

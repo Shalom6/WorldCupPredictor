@@ -1754,8 +1754,8 @@
       },
       "teamStats": {
         "possession": {
-          "home": 66,
-          "away": 34
+          "home": 65.9,
+          "away": 34.1
         },
         "shots": {
           "home": 17,
@@ -1790,7 +1790,56 @@
           "away": 80
         }
       },
-      "syncedAt": "2026-06-23T20:28:18.247Z",
+      "syncedAt": "2026-06-23T22:57:28.864Z",
+      "source": "espn"
+    },
+    "GS-L-3": {
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 0,
+      "scorers": {
+        "home": [],
+        "away": []
+      },
+      "teamStats": {
+        "possession": {
+          "home": 78.8,
+          "away": 21.2
+        },
+        "shots": {
+          "home": 19,
+          "away": 2
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 1
+        },
+        "corners": {
+          "home": 9,
+          "away": 2
+        },
+        "fouls": {
+          "home": 14,
+          "away": 24
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 0,
+          "away": 3
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 70
+        }
+      },
+      "syncedAt": "2026-06-23T22:57:28.879Z",
       "source": "espn"
     }
   }
