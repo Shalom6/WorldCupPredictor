@@ -1659,6 +1659,71 @@
       },
       "syncedAt": "2026-06-22T20:18:29.045Z",
       "source": "espn"
+    },
+    "GS-I-3": {
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 0,
+      "scorers": {
+        "home": [
+          {
+            "name": "Kylian Mbappé",
+            "minute": "14'",
+            "assist": "Michael Olise"
+          },
+          {
+            "name": "Kylian Mbappé",
+            "minute": "54'",
+            "assist": "Ousmane Dembélé"
+          },
+          {
+            "name": "Ousmane Dembélé",
+            "minute": "66'",
+            "assist": "Michael Olise"
+          }
+        ],
+        "away": []
+      },
+      "teamStats": {
+        "possession": {
+          "home": 55.6,
+          "away": 44.4
+        },
+        "shots": {
+          "home": 19,
+          "away": 4
+        },
+        "shotsOnTarget": {
+          "home": 5,
+          "away": 0
+        },
+        "corners": {
+          "home": 4,
+          "away": 2
+        },
+        "fouls": {
+          "home": 8,
+          "away": 4
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 0,
+          "away": 2
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-23T05:48:29.920Z",
+      "source": "espn"
     }
   }
 }
