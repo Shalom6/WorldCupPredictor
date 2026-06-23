@@ -1724,6 +1724,74 @@
       },
       "syncedAt": "2026-06-23T05:48:29.920Z",
       "source": "espn"
+    },
+    "GS-K-3": {
+      "status": "finished",
+      "homeScore": 5,
+      "awayScore": 0,
+      "scorers": {
+        "home": [
+          {
+            "name": "Cristiano Ronaldo",
+            "minute": "6'",
+            "assist": "João Cancelo"
+          },
+          {
+            "name": "Nuno Mendes",
+            "minute": "17'"
+          },
+          {
+            "name": "Cristiano Ronaldo",
+            "minute": "39'",
+            "assist": "Bruno Fernandes"
+          },
+          {
+            "name": "Rafael Leão",
+            "minute": "87'"
+          }
+        ],
+        "away": []
+      },
+      "teamStats": {
+        "possession": {
+          "home": 66,
+          "away": 34
+        },
+        "shots": {
+          "home": 17,
+          "away": 7
+        },
+        "shotsOnTarget": {
+          "home": 9,
+          "away": 2
+        },
+        "corners": {
+          "home": 3,
+          "away": 2
+        },
+        "fouls": {
+          "home": 14,
+          "away": 15
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 2,
+          "away": 4
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 80
+        }
+      },
+      "syncedAt": "2026-06-23T20:28:18.247Z",
+      "source": "espn"
     }
   }
 }

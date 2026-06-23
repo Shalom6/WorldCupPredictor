@@ -2,9 +2,10 @@
   "team": "Uzbekistan",
   "group": "K",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-11T08:51:04.128Z",
-  "eventsProcessed": 22,
+  "importedAt": "2026-06-23T20:28:18.839Z",
+  "eventsProcessed": 16,
   "eventDates": [
+    "2026-06-23",
     "2026-06-08",
     "2026-06-02",
     "2026-03-27",
@@ -19,16 +20,18 @@
     "2025-06-05",
     "2025-03-25",
     "2025-03-20",
-    "2025-01-27",
-    "2024-11-19",
-    "2024-11-14",
-    "2024-10-15",
-    "2024-10-10",
-    "2024-09-10",
-    "2024-09-05",
-    "2024-06-11"
+    "2025-01-27"
   ],
   "teamMatchResults": [
+    {
+      "date": "2026-06-23",
+      "opponent": "Portugal",
+      "competition": "FIFA World Cup, Group K",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 5,
+      "venue": "away"
+    },
     {
       "date": "2026-06-08",
       "opponent": "Netherlands",
@@ -321,6 +324,12 @@
       "name": "Botirali Ergashev",
       "position": "Goalkeeper",
       "number": null
+    },
+    {
+      "sofascoreId": null,
+      "name": "Khojiakbar Alijonov",
+      "position": "Substitute",
+      "number": "3"
     }
   ],
   "players": [
@@ -332,6 +341,22 @@
       "number": "12",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 4
+        },
         {
           "date": "2026-06-02",
           "opponent": "Canada",
@@ -647,6 +672,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-08",
           "opponent": "Netherlands",
           "competition": "Int. Friendly Games",
@@ -841,6 +881,21 @@
       "number": "20",
       "likelyStarter": false,
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 92,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 5
+        },
         {
           "date": "2026-03-27",
           "opponent": "Gabon",
@@ -1572,6 +1627,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-08",
           "opponent": "Netherlands",
           "competition": "Int. Friendly Games",
@@ -1773,6 +1843,21 @@
       "number": "13",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Netherlands",
@@ -2124,6 +2209,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-08",
           "opponent": "Netherlands",
           "competition": "Int. Friendly Games",
@@ -2325,6 +2425,21 @@
       "number": "18",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-02",
           "opponent": "Canada",
@@ -2537,6 +2652,21 @@
       "number": "6",
       "likelyStarter": false,
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Netherlands",
@@ -2913,6 +3043,21 @@
       "number": "10",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-02",
           "opponent": "Canada",
@@ -3412,6 +3557,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-02",
           "opponent": "Canada",
           "competition": "Int. Friendly Games",
@@ -3768,6 +3928,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 92,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-08",
           "opponent": "Netherlands",
           "competition": "Int. Friendly Games",
@@ -4002,6 +4177,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2025-10-13",
           "opponent": "Uruguay",
           "competition": "Int. Friendly Games",
@@ -4059,6 +4249,21 @@
       "number": "23",
       "likelyStarter": false,
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-02",
           "opponent": "Canada",
@@ -4185,6 +4390,21 @@
       "number": "14",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-08",
           "opponent": "Netherlands",
@@ -4420,6 +4640,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-08",
           "opponent": "Netherlands",
           "competition": "Int. Friendly Games",
@@ -4556,6 +4791,30 @@
           "cards": 0,
           "fouls": 0,
           "rating": 6.5
+        }
+      ]
+    },
+    {
+      "id": "uzbekistan-khojiakbar-alijonov",
+      "name": "Khojiakbar Alijonov",
+      "position": "Substitute",
+      "number": "3",
+      "likelyStarter": false,
+      "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         }
       ]
     }

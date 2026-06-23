@@ -13823,13 +13823,13 @@
       "position": "Defender",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.78,
+      "minutesFactor": 0.76,
       "xgShare": 0.05,
       "propProfile": {
         "shotsShare": 1.1,
         "sotShare": 0.4,
         "cardWeight": 0.02,
-        "foulWeight": 1.5
+        "foulWeight": 1.6
       }
     },
     {
@@ -13854,10 +13854,10 @@
       "minutesFactor": 0.48,
       "xgShare": 0.01,
       "propProfile": {
-        "shotsShare": 1.2,
+        "shotsShare": 1.1,
         "sotShare": 0.3,
-        "cardWeight": 0.13,
-        "foulWeight": 1.5
+        "cardWeight": 0.12,
+        "foulWeight": 1.4
       }
     },
     {
@@ -13865,13 +13865,13 @@
       "position": "Defender",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.86,
-      "xgShare": 0.02,
+      "minutesFactor": 0.87,
+      "xgShare": 0.03,
       "propProfile": {
         "shotsShare": 0.8,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 1
       }
     },
     {
@@ -13879,12 +13879,12 @@
       "position": "Defender",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.78,
-      "xgShare": 0.04,
+      "minutesFactor": 0.79,
+      "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 1,
+        "shotsShare": 0.9,
         "sotShare": 0.1,
-        "cardWeight": 0.02,
+        "cardWeight": 0.09,
         "foulWeight": 1.3
       }
     },
@@ -13921,7 +13921,7 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.74,
+      "minutesFactor": 0.71,
       "xgShare": 0.1,
       "propProfile": {
         "shotsShare": 0.8,
@@ -13949,13 +13949,13 @@
       "position": "Midfielder",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.36,
-      "xgShare": 0.06,
+      "minutesFactor": 0.34,
+      "xgShare": 0.05,
       "propProfile": {
-        "shotsShare": 1.4,
+        "shotsShare": 1.6,
         "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.5
       }
     },
     {
@@ -13977,13 +13977,13 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.71,
+      "minutesFactor": 0.72,
       "xgShare": 0.11,
       "propProfile": {
         "shotsShare": 1.1,
         "sotShare": 0.5,
         "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "foulWeight": 0.8
       }
     },
     {
@@ -13991,13 +13991,13 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.7,
+      "minutesFactor": 0.69,
       "xgShare": 0.09,
       "propProfile": {
         "shotsShare": 1.6,
         "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "foulWeight": 0.6
       }
     },
     {
@@ -14033,13 +14033,13 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.79,
+      "minutesFactor": 0.8,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 1.4,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.3
+        "foulWeight": 0.4
       }
     },
     {
@@ -14047,13 +14047,13 @@
       "position": "Forward",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.83,
-      "xgShare": 0.24,
+      "minutesFactor": 0.84,
+      "xgShare": 0.26,
       "propProfile": {
-        "shotsShare": 5.6,
-        "sotShare": 1.7,
+        "shotsShare": 5.7,
+        "sotShare": 2,
         "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "foulWeight": 0.6
       }
     },
     {
@@ -14064,10 +14064,10 @@
       "minutesFactor": 0.49,
       "xgShare": 0.12,
       "propProfile": {
-        "shotsShare": 3.1,
-        "sotShare": 1.2,
+        "shotsShare": 2.8,
+        "sotShare": 1.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.7
+        "foulWeight": 1.6
       }
     },
     {
@@ -14089,11 +14089,11 @@
       "position": "Forward",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.44,
-      "xgShare": 0.13,
+      "minutesFactor": 0.46,
+      "xgShare": 0.12,
       "propProfile": {
         "shotsShare": 4.8,
-        "sotShare": 2.3,
+        "sotShare": 2.2,
         "cardWeight": 0.02,
         "foulWeight": 1.4
       }
@@ -14101,15 +14101,15 @@
     {
       "name": "Rafael Leão",
       "position": "Forward",
-      "likelyStarter": true,
-      "benchImpact": false,
-      "minutesFactor": 0.57,
-      "xgShare": 0.14,
+      "likelyStarter": false,
+      "benchImpact": true,
+      "minutesFactor": 0.53,
+      "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 2.3,
-        "sotShare": 0.6,
+        "shotsShare": 2.4,
+        "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 1.3
+        "foulWeight": 1.4
       }
     }
   ],
@@ -14463,6 +14463,14 @@
   ],
   "Uzbekistan": [
     {
+      "name": "Khojiakbar Alijonov",
+      "position": "Substitute",
+      "likelyStarter": false,
+      "benchImpact": false,
+      "minutesFactor": 0.35,
+      "xgShare": 0.01
+    },
+    {
       "name": "Abduvokhid Nematov",
       "position": "Goalkeeper",
       "likelyStarter": true,
@@ -14497,7 +14505,7 @@
         "shotsShare": 0.3,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "foulWeight": 0.8
       }
     },
     {
@@ -14512,9 +14520,15 @@
       "name": "Bekhruz Karimov",
       "position": "Defender",
       "likelyStarter": false,
-      "benchImpact": false,
-      "minutesFactor": 0.16,
-      "xgShare": 0.01
+      "benchImpact": true,
+      "minutesFactor": 0.59,
+      "xgShare": 0.01,
+      "propProfile": {
+        "shotsShare": 0.05,
+        "sotShare": 0.03,
+        "cardWeight": 0.02,
+        "foulWeight": 4.3
+      }
     },
     {
       "name": "Farrukh Sayfiev",
@@ -14563,7 +14577,7 @@
       "position": "Defender",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.82,
+      "minutesFactor": 0.83,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.6,
@@ -14577,11 +14591,11 @@
       "position": "Defender",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.9,
+      "minutesFactor": 0.87,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.3,
-        "sotShare": 0.03,
+        "sotShare": 0.1,
         "cardWeight": 0.02,
         "foulWeight": 0.7
       }
@@ -14608,10 +14622,10 @@
       "minutesFactor": 0.8,
       "xgShare": 0.12,
       "propProfile": {
-        "shotsShare": 2.7,
-        "sotShare": 0.8,
+        "shotsShare": 2.6,
+        "sotShare": 0.9,
         "cardWeight": 0.02,
-        "foulWeight": 1.5
+        "foulWeight": 1.4
       }
     },
     {
@@ -14619,13 +14633,13 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.59,
+      "minutesFactor": 0.63,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.6,
+        "shotsShare": 0.5,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "foulWeight": 1.1
       }
     },
     {
@@ -14636,10 +14650,10 @@
       "minutesFactor": 0.5,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 1.6,
+        "shotsShare": 1.5,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.7
       }
     },
     {
@@ -14655,13 +14669,13 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.63,
+      "minutesFactor": 0.71,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.8,
+        "shotsShare": 0.9,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.6
+        "foulWeight": 1.4
       }
     },
     {
@@ -14705,12 +14719,12 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.97,
+      "minutesFactor": 0.93,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.6,
         "sotShare": 0.03,
-        "cardWeight": 0.02,
+        "cardWeight": 0.08,
         "foulWeight": 1.4
       }
     },
@@ -14733,7 +14747,7 @@
       "position": "Midfielder",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.89,
+      "minutesFactor": 0.9,
       "xgShare": 0.07,
       "propProfile": {
         "shotsShare": 1.5,
@@ -14755,13 +14769,13 @@
       "position": "Forward",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.92,
+      "minutesFactor": 0.93,
       "xgShare": 0.15,
       "propProfile": {
-        "shotsShare": 3.1,
-        "sotShare": 1.2,
+        "shotsShare": 2.9,
+        "sotShare": 1.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "foulWeight": 1
       }
     },
     {
@@ -14769,7 +14783,7 @@
       "position": "Forward",
       "likelyStarter": false,
       "benchImpact": false,
-      "minutesFactor": 0.09,
+      "minutesFactor": 0.11,
       "xgShare": 0.18
     }
   ],

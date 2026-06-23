@@ -3,8 +3,8 @@
   "team": "Portugal",
   "group": "K",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-23T18:24:32.442Z",
-  "eventsProcessed": 16,
+  "importedAt": "2026-06-23T20:28:20.537Z",
+  "eventsProcessed": 17,
   "teamMatchResults": [
     {
       "date": "2026-06-17",
@@ -13,6 +13,15 @@
       "result": "D",
       "goalsFor": 1,
       "goalsAgainst": 1,
+      "venue": "home"
+    },
+    {
+      "date": "2026-06-23",
+      "opponent": "Uzbekistan",
+      "competition": "FIFA World Cup, Group K",
+      "result": "W",
+      "goalsFor": 5,
+      "goalsAgainst": 0,
       "venue": "home"
     },
     {
@@ -164,6 +173,22 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -471,7 +496,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 22,
+        "passes90": 20,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -519,7 +544,7 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -528,7 +553,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -1464,6 +1489,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-17",
           "opponent": "DR Congo",
           "competition": "FIFA World Cup, Group K",
@@ -1689,19 +1729,19 @@
       ],
       "seasonRates": {
         "goals90": 0.18,
-        "assists90": 0.27,
+        "assists90": 0.35,
         "shots90": 1.1,
         "sot90": 0.4,
-        "passes90": 58,
+        "passes90": 55,
         "cards90": 0,
-        "fouls90": 1.5,
-        "minutesAvg": 70
+        "fouls90": 1.6,
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 20,
-          "season": 14
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -1709,14 +1749,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 21
+          "l5": 40,
+          "l10": 40,
+          "season": 27
         },
         "shots15": {
           "l5": 0,
           "l10": 20,
-          "season": 14
+          "season": 13
         },
         "shots25": {
           "l5": 0,
@@ -1726,7 +1766,7 @@
         "sot05": {
           "l5": 20,
           "l10": 30,
-          "season": 21
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -1734,13 +1774,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 30,
-          "season": 29
+          "l5": 60,
+          "l10": 40,
+          "season": 33
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -1748,7 +1788,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -1934,6 +1974,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -2192,12 +2247,12 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.26,
-        "shots90": 1.2,
+        "assists90": 0.25,
+        "shots90": 1.1,
         "sot90": 0.3,
-        "passes90": 46,
-        "cards90": 0.13,
-        "fouls90": 1.5,
+        "passes90": 44,
+        "cards90": 0.12,
+        "fouls90": 1.4,
         "minutesAvg": 43
       },
       "hitRates": {
@@ -2214,12 +2269,12 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 19
+          "season": 18
         },
         "shots25": {
           "l5": 0,
@@ -2229,7 +2284,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "cards05": {
           "l5": 20,
@@ -2243,7 +2298,7 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -2252,7 +2307,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -2267,6 +2322,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -2524,20 +2594,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0,
-        "assists90": 0.37,
+        "goals90": 0.07,
+        "assists90": 0.34,
         "shots90": 0.8,
         "sot90": 0.2,
-        "passes90": 54,
+        "passes90": 51,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 77
+        "fouls90": 1,
+        "minutesAvg": 78
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -2545,14 +2615,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 31
+          "season": 29
         },
         "shots15": {
           "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 24
         },
         "shots25": {
           "l5": 0,
@@ -2560,9 +2630,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 13
+          "l5": 20,
+          "l10": 10,
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -2570,13 +2640,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
+          "l5": 20,
           "l10": 10,
-          "season": 19
+          "season": 24
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -2584,7 +2654,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -2599,6 +2669,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -2808,20 +2893,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.1,
+        "goals90": 0.09,
         "assists90": 0,
-        "shots90": 1,
+        "shots90": 0.9,
         "sot90": 0.1,
-        "passes90": 61,
-        "cards90": 0,
+        "passes90": 56,
+        "cards90": 0.09,
         "fouls90": 1.3,
-        "minutesAvg": 70
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -2836,31 +2921,31 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 15
+          "season": 14
         },
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
-        },
-        "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 15
+          "season": 7
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 14
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -2868,7 +2953,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -2883,6 +2968,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-10",
           "opponent": "Nigeria",
@@ -3129,7 +3229,7 @@
         "assists90": 0.07,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 81,
+        "passes90": 76,
         "cards90": 0,
         "fouls90": 1.1,
         "minutesAvg": 86
@@ -3148,12 +3248,12 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -3163,7 +3263,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "cards05": {
           "l5": 0,
@@ -3173,19 +3273,20 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "World Cup Qual. UEFA F",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-10"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -3370,6 +3471,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -3631,16 +3747,16 @@
         "assists90": 0.08,
         "shots90": 0.8,
         "sot90": 0.3,
-        "passes90": 55,
+        "passes90": 54,
         "cards90": 0.08,
         "fouls90": 0.6,
-        "minutesAvg": 67
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 19
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -3655,7 +3771,7 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "shots25": {
           "l5": 0,
@@ -3665,7 +3781,7 @@
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 25
+          "season": 24
         },
         "cards05": {
           "l5": 20,
@@ -3675,11 +3791,11 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 13
+          "season": 12
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -3688,7 +3804,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -3703,6 +3819,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -3960,11 +4091,11 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.41,
-        "assists90": 0.2,
+        "goals90": 0.38,
+        "assists90": 0.25,
         "shots90": 2.6,
         "sot90": 1,
-        "passes90": 54,
+        "passes90": 50,
         "cards90": 0,
         "fouls90": 0.6,
         "minutesAvg": 83
@@ -3973,7 +4104,7 @@
         "goals05": {
           "l5": 20,
           "l10": 20,
-          "season": 25
+          "season": 24
         },
         "goals15": {
           "l5": 0,
@@ -3981,24 +4112,24 @@
           "season": 6
         },
         "assists05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 13
+          "l5": 40,
+          "l10": 20,
+          "season": 18
         },
         "shots15": {
           "l5": 80,
           "l10": 70,
-          "season": 63
+          "season": 65
         },
         "shots25": {
           "l5": 0,
-          "l10": 30,
-          "season": 38
+          "l10": 20,
+          "season": 35
         },
         "sot05": {
-          "l5": 60,
-          "l10": 60,
-          "season": 63
+          "l5": 80,
+          "l10": 70,
+          "season": 65
         },
         "cards05": {
           "l5": 0,
@@ -4012,7 +4143,7 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -4020,7 +4151,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -4035,6 +4166,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 27,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-10",
           "opponent": "Nigeria",
@@ -4197,20 +4343,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.28,
-        "assists90": 0.28,
-        "shots90": 1.4,
+        "goals90": 0.26,
+        "assists90": 0.26,
+        "shots90": 1.6,
         "sot90": 0.3,
-        "passes90": 47,
+        "passes90": 43,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 32
+        "fouls90": 0.5,
+        "minutesAvg": 31
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "goals15": {
           "l5": 0,
@@ -4218,14 +4364,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots25": {
           "l5": 0,
@@ -4235,7 +4381,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "cards05": {
           "l5": 0,
@@ -4249,14 +4395,15 @@
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "World Cup Qual. UEFA F",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-10"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -4376,6 +4523,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -4633,20 +4795,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.35,
+        "goals90": 0.33,
         "assists90": 0,
         "shots90": 1.1,
         "sot90": 0.5,
-        "passes90": 66,
+        "passes90": 62,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 64
+        "fouls90": 0.8,
+        "minutesAvg": 65
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "goals15": {
           "l5": 20,
@@ -4661,7 +4823,7 @@
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "shots25": {
           "l5": 20,
@@ -4671,7 +4833,7 @@
         "sot05": {
           "l5": 40,
           "l10": 40,
-          "season": 25
+          "season": 24
         },
         "cards05": {
           "l5": 0,
@@ -4685,7 +4847,7 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -4694,7 +4856,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -4709,6 +4871,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -4966,20 +5143,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.18,
-        "assists90": 0.18,
+        "goals90": 0.17,
+        "assists90": 0.17,
         "shots90": 1.6,
         "sot90": 0.7,
-        "passes90": 45,
+        "passes90": 43,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 63
+        "fouls90": 0.6,
+        "minutesAvg": 62
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "goals15": {
           "l5": 0,
@@ -4989,12 +5166,12 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 31
+          "season": 29
         },
         "shots25": {
           "l5": 0,
@@ -5002,9 +5179,9 @@
           "season": 6
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 38
+          "season": 35
         },
         "cards05": {
           "l5": 0,
@@ -5018,7 +5195,7 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -5027,7 +5204,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -5530,6 +5707,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-17",
           "opponent": "DR Congo",
           "competition": "FIFA World Cup, Group K",
@@ -5787,13 +5979,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.24,
+        "assists90": 0.22,
         "shots90": 1.4,
         "sot90": 0.2,
-        "passes90": 99,
+        "passes90": 92,
         "cards90": 0,
-        "fouls90": 0.3,
-        "minutesAvg": 71
+        "fouls90": 0.4,
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
@@ -5809,22 +6001,22 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 13
+          "season": 12
         },
         "shots15": {
           "l5": 0,
           "l10": 30,
-          "season": 31
+          "season": 29
         },
         "shots25": {
           "l5": 0,
           "l10": 20,
-          "season": 19
+          "season": 18
         },
         "sot05": {
           "l5": 0,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "cards05": {
           "l5": 0,
@@ -5832,13 +6024,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -5846,7 +6038,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -5861,6 +6053,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 2,
+          "assists": 0,
+          "shots": 7,
+          "shotsOnTarget": 5,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -6118,25 +6325,25 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.83,
-        "assists90": 0.08,
-        "shots90": 5.6,
-        "sot90": 1.7,
-        "passes90": 22,
+        "goals90": 0.91,
+        "assists90": 0.07,
+        "shots90": 5.7,
+        "sot90": 2,
+        "passes90": 21,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 75
+        "fouls90": 0.6,
+        "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 40,
-          "season": 50
+          "l10": 50,
+          "season": 53
         },
         "goals15": {
           "l5": 20,
-          "l10": 20,
-          "season": 19
+          "l10": 30,
+          "season": 24
         },
         "assists05": {
           "l5": 0,
@@ -6150,13 +6357,13 @@
         },
         "shots25": {
           "l5": 100,
-          "l10": 90,
+          "l10": 100,
           "season": 94
         },
         "sot05": {
           "l5": 60,
-          "l10": 70,
-          "season": 81
+          "l10": 80,
+          "season": 82
         },
         "cards05": {
           "l5": 0,
@@ -6170,7 +6377,7 @@
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -6179,7 +6386,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -6194,6 +6401,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -6387,20 +6609,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.69,
-        "assists90": 0.17,
-        "shots90": 3.1,
-        "sot90": 1.2,
-        "passes90": 44,
+        "goals90": 0.63,
+        "assists90": 0.16,
+        "shots90": 2.8,
+        "sot90": 1.1,
+        "passes90": 41,
         "cards90": 0,
-        "fouls90": 1.7,
+        "fouls90": 1.6,
         "minutesAvg": 44
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 30,
-          "season": 33
+          "season": 31
         },
         "goals15": {
           "l5": 0,
@@ -6415,17 +6637,17 @@
         "shots15": {
           "l5": 20,
           "l10": 30,
-          "season": 33
+          "season": 31
         },
         "shots25": {
           "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 23
         },
         "sot05": {
           "l5": 40,
           "l10": 40,
-          "season": 42
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -6435,11 +6657,11 @@
         "fouls15": {
           "l5": 40,
           "l10": 20,
-          "season": 17
+          "season": 15
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -6448,7 +6670,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -6715,6 +6937,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 63,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-10",
           "opponent": "Nigeria",
           "competition": "Int. Friendly Games",
@@ -6956,45 +7193,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.75,
-        "assists90": 0.15,
+        "goals90": 0.68,
+        "assists90": 0.14,
         "shots90": 4.8,
-        "sot90": 2.3,
-        "passes90": 45,
+        "sot90": 2.2,
+        "passes90": 41,
         "cards90": 0,
         "fouls90": 1.4,
-        "minutesAvg": 40
+        "minutesAvg": 41
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 30,
-          "season": 27
+          "l10": 20,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
-          "l5": 40,
+          "l5": 60,
           "l10": 70,
-          "season": 67
+          "season": 69
         },
         "shots25": {
-          "l5": 20,
-          "l10": 50,
-          "season": 47
-        },
-        "sot05": {
           "l5": 40,
           "l10": 50,
-          "season": 53
+          "season": 50
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 50,
+          "season": 56
         },
         "cards05": {
           "l5": 0,
@@ -7004,18 +7241,19 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "World Cup Qual. UEFA F",
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-10"
+        "lastMatch": "2026-06-23"
       }
     },
     {
@@ -7025,11 +7263,26 @@
       "group": "K",
       "position": "Forward",
       "number": "17",
-      "likelyStarter": true,
+      "likelyStarter": false,
       "sofascoreId": 851284,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 7,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -7271,20 +7524,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.12,
+        "goals90": 0.23,
         "assists90": 0.12,
-        "shots90": 2.3,
-        "sot90": 0.6,
+        "shots90": 2.4,
+        "sot90": 0.7,
         "passes90": 34,
         "cards90": 0,
-        "fouls90": 1.3,
-        "minutesAvg": 51
+        "fouls90": 1.4,
+        "minutesAvg": 48
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 7
+          "l5": 20,
+          "l10": 20,
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -7294,22 +7547,22 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 20,
           "l10": 30,
-          "season": 33
+          "season": 31
         },
         "shots25": {
           "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "sot05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 33
+          "l5": 40,
+          "l10": 40,
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -7318,12 +7571,12 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 20,
+          "l10": 10,
           "season": 13
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -7332,7 +7585,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       }
     }
   ],

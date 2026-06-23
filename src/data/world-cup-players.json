@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-06-08T22:07:35.112Z",
-  "playerCount": 1266,
+  "playerCount": 1267,
   "teamCount": 48,
   "dataSource": "mixed",
   "importNotes": {
@@ -16,22 +16,22 @@
       "Croatia": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-23T18:24:37.370Z"
+        "importedAt": "2026-06-23T20:28:24.343Z"
       },
       "England": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-23T18:24:37.370Z"
+        "importedAt": "2026-06-23T20:28:24.343Z"
       },
       "Ghana": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-23T18:24:37.370Z"
+        "importedAt": "2026-06-23T20:28:24.343Z"
       },
       "Panama": {
         "playerCount": 31,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-23T18:24:37.370Z"
+        "importedAt": "2026-06-23T20:28:24.343Z"
       }
     }
   },
@@ -605,26 +605,26 @@
       "minutesFactor": 0.8,
       "xgShare": 0.12,
       "propProfile": {
-        "shotsShare": 2.7,
-        "sotShare": 0.8,
+        "shotsShare": 2.6,
+        "sotShare": 0.9,
         "cardWeight": 0.02,
-        "foulWeight": 1.5
+        "foulWeight": 1.4
       },
       "seasonRates": {
-        "goals90": 0.42,
+        "goals90": 0.38,
         "assists90": 0.1,
-        "shots90": 2.7,
-        "sot90": 0.8,
-        "passes90": 27,
+        "shots90": 2.6,
+        "sot90": 0.9,
+        "passes90": 25,
         "cards90": 0,
-        "fouls90": 1.5,
+        "fouls90": 1.4,
         "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 30,
-          "season": 25
+          "season": 23
         },
         "goals15": {
           "l5": 0,
@@ -637,19 +637,19 @@
           "season": 8
         },
         "shots15": {
-          "l5": 40,
-          "l10": 70,
-          "season": 58
+          "l5": 20,
+          "l10": 60,
+          "season": 54
         },
         "shots25": {
-          "l5": 20,
+          "l5": 0,
           "l10": 50,
-          "season": 42
+          "season": 38
         },
         "sot05": {
           "l5": 40,
-          "l10": 50,
-          "season": 42
+          "l10": 60,
+          "season": 46
         },
         "cards05": {
           "l5": 0,
@@ -659,10 +659,25 @@
         "fouls15": {
           "l5": 60,
           "l10": 50,
-          "season": 42
+          "season": 38
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-08",
           "opponent": "Netherlands",
@@ -860,22 +875,13 @@
       "dataScope": "international",
       "searchText": "abbosbek fayzullaev uzbekistan midfielder k",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Başakşehir FK",
-        "marketValueEur": 6500000,
-        "marketValueDisplay": "€6.5M",
-        "dateOfBirth": "2003-10-03",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1118429
     },
@@ -1840,16 +1846,16 @@
         "shotsShare": 0.3,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "foulWeight": 0.8
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 42,
+        "passes90": 39,
         "cards90": 0,
-        "fouls90": 0.9,
+        "fouls90": 0.8,
         "minutesAvg": 90
       },
       "hitRates": {
@@ -1881,7 +1887,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "cards05": {
           "l5": 0,
@@ -1889,12 +1895,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 27
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Netherlands",
@@ -2076,22 +2097,13 @@
       "dataScope": "international",
       "searchText": "abdukodir khusanov uzbekistan defender k",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Manchester City",
-        "marketValueEur": 47000000,
-        "marketValueDisplay": "€47M",
-        "dateOfBirth": "2004-02-29",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1194333
     },
@@ -3135,23 +3147,23 @@
       "number": "18",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.59,
+      "minutesFactor": 0.63,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.6,
+        "shotsShare": 0.5,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "foulWeight": 1.1
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.6,
+        "shots90": 0.5,
         "sot90": 0.2,
-        "passes90": 48,
+        "passes90": 40,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 53
+        "fouls90": 1.1,
+        "minutesAvg": 57
       },
       "hitRates": {
         "goals05": {
@@ -3171,8 +3183,8 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots25": {
           "l5": 0,
@@ -3181,8 +3193,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
           "l5": 0,
@@ -3190,12 +3202,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l5": 40,
+          "l10": 22,
+          "season": 22
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-02",
           "opponent": "Canada",
@@ -3329,22 +3356,13 @@
       "dataScope": "international",
       "searchText": "abdulla abdullaev uzbekistan midfielder k",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-02"
-      },
-      "profile": {
-        "club": "Dibba Al-Fujairah",
-        "marketValueEur": 580000,
-        "marketValueDisplay": "€580K",
-        "dateOfBirth": "1997-09-01",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 954524
     },
@@ -4143,7 +4161,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 35,
+        "passes90": 27,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -4191,6 +4209,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 4
+        },
         {
           "date": "2026-06-02",
           "opponent": "Canada",
@@ -4253,21 +4287,12 @@
       "dataScope": "international",
       "searchText": "abduvokhid nematov uzbekistan goalkeeper k",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-02"
-      },
-      "profile": {
-        "club": "Nasaf Qarshi",
-        "marketValueEur": 1400000,
-        "marketValueDisplay": "€1.4M",
-        "dateOfBirth": "2001-03-20",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1000465
     },
@@ -9366,26 +9391,26 @@
       "minutesFactor": 0.5,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 1.6,
+        "shotsShare": 1.5,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.7
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.6,
+        "shots90": 1.5,
         "sot90": 0.2,
-        "passes90": 44,
+        "passes90": 40,
         "cards90": 0,
-        "fouls90": 0.8,
+        "fouls90": 0.7,
         "minutesAvg": 45
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "goals15": {
           "l5": 0,
@@ -9398,19 +9423,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 18
+          "l5": 0,
+          "l10": 10,
+          "season": 17
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
-          "season": 9
+          "l10": 0,
+          "season": 8
         },
         "sot05": {
           "l5": 0,
-          "l10": 10,
-          "season": 9
+          "l10": 0,
+          "season": 8
         },
         "cards05": {
           "l5": 0,
@@ -9419,11 +9444,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 10,
-          "season": 9
+          "l10": 0,
+          "season": 8
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Netherlands",
@@ -9605,24 +9645,15 @@
       "dataScope": "international",
       "searchText": "akmal mozgovoy uzbekistan midfielder k",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "FIFA Series, Uzbekistan ",
           "CAFA Nations Cup, Group A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Pakhtakor Tashkent",
-        "marketValueEur": 1500000,
-        "marketValueDisplay": "€1.5M",
-        "dateOfBirth": "2000-04-02",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 926479
     },
@@ -35295,16 +35326,6 @@
         "competitions": [],
         "lastMatch": null
       },
-      "profile": {
-        "club": "FC OKMK",
-        "marketValueEur": 515000,
-        "marketValueDisplay": "€515K",
-        "dateOfBirth": "2000-03-27",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 978392
     },
     {
@@ -39153,16 +39174,6 @@
         ],
         "lastMatch": "2026-06-02"
       },
-      "profile": {
-        "club": "Dinamo Samarqand",
-        "marketValueEur": 525000,
-        "marketValueDisplay": "€525K",
-        "dateOfBirth": "1997-10-30",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 871965
     },
     {
@@ -39174,23 +39185,23 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.63,
+      "minutesFactor": 0.71,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.8,
+        "shotsShare": 0.9,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.6
+        "foulWeight": 1.4
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.39,
-        "shots90": 0.8,
+        "assists90": 0.28,
+        "shots90": 0.9,
         "sot90": 0,
-        "passes90": 34,
+        "passes90": 24,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 57
+        "fouls90": 1.4,
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
@@ -39204,14 +39215,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
@@ -39229,12 +39240,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-02",
           "opponent": "Canada",
@@ -39304,22 +39330,13 @@
       "dataScope": "international",
       "searchText": "azizjon ganiev uzbekistan midfielder k",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "FIFA Series, Uzbekistan "
         ],
-        "lastMatch": "2026-06-02"
-      },
-      "profile": {
-        "club": "Al Bataeh",
-        "marketValueEur": 1900000,
-        "marketValueDisplay": "€1.9M",
-        "dateOfBirth": "1998-02-22",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 793857
     },
@@ -40665,18 +40682,24 @@
       "position": "Defender",
       "number": "20",
       "likelyStarter": false,
-      "benchImpact": false,
-      "minutesFactor": 0.16,
+      "benchImpact": true,
+      "minutesFactor": 0.59,
       "xgShare": 0.01,
+      "propProfile": {
+        "shotsShare": 0.05,
+        "sotShare": 0.03,
+        "cardWeight": 0.02,
+        "foulWeight": 4.3
+      },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 13,
+        "passes90": 2,
         "cards90": 0,
-        "fouls90": 0,
-        "minutesAvg": 14
+        "fouls90": 4.3,
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
@@ -40715,12 +40738,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 92,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 5
+        },
         {
           "date": "2026-03-27",
           "opponent": "Gabon",
@@ -40742,21 +40780,12 @@
       "dataScope": "international",
       "searchText": "bekhruz karimov uzbekistan defender k",
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group K",
           "FIFA Series, Uzbekistan "
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Surkhon Termez",
-        "marketValueEur": 370000,
-        "marketValueDisplay": "€370K",
-        "dateOfBirth": "2007-08-07",
-        "age": 18,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1597255
     },
@@ -42551,7 +42580,7 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.74,
+      "minutesFactor": 0.71,
       "xgShare": 0.1,
       "propProfile": {
         "shotsShare": 0.8,
@@ -42564,16 +42593,16 @@
         "assists90": 0.08,
         "shots90": 0.8,
         "sot90": 0.3,
-        "passes90": 55,
+        "passes90": 54,
         "cards90": 0.08,
         "fouls90": 0.6,
-        "minutesAvg": 67
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 19
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -42588,7 +42617,7 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "shots25": {
           "l5": 0,
@@ -42598,7 +42627,7 @@
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 25
+          "season": 24
         },
         "cards05": {
           "l5": 20,
@@ -42608,10 +42637,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 13
+          "season": 12
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -42872,7 +42916,7 @@
       "dataScope": "international",
       "searchText": "bernardo silva portugal midfielder k",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -42881,7 +42925,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 331209
     },
@@ -44021,16 +44065,6 @@
         "appearances": 0,
         "competitions": [],
         "lastMatch": null
-      },
-      "profile": {
-        "club": "Neftchi Fergana",
-        "marketValueEur": 515000,
-        "marketValueDisplay": "€515K",
-        "dateOfBirth": "1995-06-23",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 796361
     },
@@ -47635,11 +47669,11 @@
         "foulWeight": 0.6
       },
       "seasonRates": {
-        "goals90": 0.41,
-        "assists90": 0.2,
+        "goals90": 0.38,
+        "assists90": 0.25,
         "shots90": 2.6,
         "sot90": 1,
-        "passes90": 54,
+        "passes90": 50,
         "cards90": 0,
         "fouls90": 0.6,
         "minutesAvg": 83
@@ -47648,7 +47682,7 @@
         "goals05": {
           "l5": 20,
           "l10": 20,
-          "season": 25
+          "season": 24
         },
         "goals15": {
           "l5": 0,
@@ -47656,24 +47690,24 @@
           "season": 6
         },
         "assists05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 13
+          "l5": 40,
+          "l10": 20,
+          "season": 18
         },
         "shots15": {
           "l5": 80,
           "l10": 70,
-          "season": 63
+          "season": 65
         },
         "shots25": {
           "l5": 0,
-          "l10": 30,
-          "season": 38
+          "l10": 20,
+          "season": 35
         },
         "sot05": {
-          "l5": 60,
-          "l10": 60,
-          "season": 63
+          "l5": 80,
+          "l10": 70,
+          "season": 65
         },
         "cards05": {
           "l5": 0,
@@ -47687,6 +47721,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -47947,7 +47996,7 @@
       "dataScope": "international",
       "searchText": "bruno fernandes portugal midfielder k",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -47955,7 +48004,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 288205
     },
@@ -59482,34 +59531,34 @@
       "number": "7",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.83,
-      "xgShare": 0.24,
+      "minutesFactor": 0.84,
+      "xgShare": 0.26,
       "propProfile": {
-        "shotsShare": 5.6,
-        "sotShare": 1.7,
+        "shotsShare": 5.7,
+        "sotShare": 2,
         "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "foulWeight": 0.6
       },
       "seasonRates": {
-        "goals90": 0.83,
-        "assists90": 0.08,
-        "shots90": 5.6,
-        "sot90": 1.7,
-        "passes90": 22,
+        "goals90": 0.91,
+        "assists90": 0.07,
+        "shots90": 5.7,
+        "sot90": 2,
+        "passes90": 21,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 75
+        "fouls90": 0.6,
+        "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 40,
-          "season": 50
+          "l10": 50,
+          "season": 53
         },
         "goals15": {
           "l5": 20,
-          "l10": 20,
-          "season": 19
+          "l10": 30,
+          "season": 24
         },
         "assists05": {
           "l5": 0,
@@ -59523,13 +59572,13 @@
         },
         "shots25": {
           "l5": 100,
-          "l10": 90,
+          "l10": 100,
           "season": 94
         },
         "sot05": {
           "l5": 60,
-          "l10": 70,
-          "season": 81
+          "l10": 80,
+          "season": 82
         },
         "cards05": {
           "l5": 0,
@@ -59543,6 +59592,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 2,
+          "assists": 0,
+          "shots": 7,
+          "shotsOnTarget": 5,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -59803,7 +59867,7 @@
       "dataScope": "international",
       "searchText": "cristiano ronaldo portugal forward k",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -59812,7 +59876,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 750
     },
@@ -71482,7 +71546,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 22,
+        "passes90": 20,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -71530,6 +71594,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -71836,7 +71916,7 @@
       "dataScope": "international",
       "searchText": "diogo costa portugal goalkeeper k",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -71845,7 +71925,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 843115
     },
@@ -74427,16 +74507,6 @@
           "FIFA Series, Uzbekistan "
         ],
         "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Pakhtakor Tashkent",
-        "marketValueEur": 935000,
-        "marketValueDisplay": "€935K",
-        "dateOfBirth": "1996-07-24",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 358880
     },
@@ -79346,29 +79416,29 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.92,
+      "minutesFactor": 0.93,
       "xgShare": 0.15,
       "propProfile": {
-        "shotsShare": 3.1,
-        "sotShare": 1.2,
+        "shotsShare": 2.9,
+        "sotShare": 1.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 0.23,
-        "assists90": 0.08,
-        "shots90": 3.1,
-        "sot90": 1.2,
-        "passes90": 30,
+        "goals90": 0.21,
+        "assists90": 0.07,
+        "shots90": 2.9,
+        "sot90": 1.1,
+        "passes90": 28,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 83
+        "fouls90": 1,
+        "minutesAvg": 84
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 20,
-          "season": 21
+          "season": 20
         },
         "goals15": {
           "l5": 0,
@@ -79381,19 +79451,19 @@
           "season": 7
         },
         "shots15": {
-          "l5": 80,
+          "l5": 60,
           "l10": 60,
-          "season": 64
+          "season": 60
         },
         "shots25": {
           "l5": 40,
           "l10": 40,
-          "season": 43
+          "season": 40
         },
         "sot05": {
-          "l5": 80,
+          "l5": 60,
           "l10": 60,
-          "season": 57
+          "season": 53
         },
         "cards05": {
           "l5": 0,
@@ -79401,12 +79471,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 40,
-          "season": 29
+          "l5": 40,
+          "l10": 50,
+          "season": 33
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-08",
           "opponent": "Netherlands",
@@ -79636,23 +79721,14 @@
       "dataScope": "international",
       "searchText": "eldor shomurodov uzbekistan forward k",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "FIFA Series, Uzbekistan ",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Başakşehir FK",
-        "marketValueEur": 7400000,
-        "marketValueDisplay": "€7.4M",
-        "dateOfBirth": "1995-06-29",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 791355
     },
@@ -90032,16 +90108,6 @@
         ],
         "lastMatch": "2026-06-08"
       },
-      "profile": {
-        "club": "Neftchi Fergana",
-        "marketValueEur": 210000,
-        "marketValueDisplay": "€210K",
-        "dateOfBirth": "1991-01-17",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 792386
     },
     {
@@ -94886,26 +94952,26 @@
       "minutesFactor": 0.49,
       "xgShare": 0.12,
       "propProfile": {
-        "shotsShare": 3.1,
-        "sotShare": 1.2,
+        "shotsShare": 2.8,
+        "sotShare": 1.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.7
+        "foulWeight": 1.6
       },
       "seasonRates": {
-        "goals90": 0.69,
-        "assists90": 0.17,
-        "shots90": 3.1,
-        "sot90": 1.2,
-        "passes90": 44,
+        "goals90": 0.63,
+        "assists90": 0.16,
+        "shots90": 2.8,
+        "sot90": 1.1,
+        "passes90": 41,
         "cards90": 0,
-        "fouls90": 1.7,
+        "fouls90": 1.6,
         "minutesAvg": 44
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 30,
-          "season": 33
+          "season": 31
         },
         "goals15": {
           "l5": 0,
@@ -94920,17 +94986,17 @@
         "shots15": {
           "l5": 20,
           "l10": 30,
-          "season": 33
+          "season": 31
         },
         "shots25": {
           "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 23
         },
         "sot05": {
           "l5": 40,
           "l10": 40,
-          "season": 42
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -94940,10 +95006,25 @@
         "fouls15": {
           "l5": 40,
           "l10": 20,
-          "season": 17
+          "season": 15
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -95140,7 +95221,7 @@
       "dataScope": "international",
       "searchText": "francisco conceição portugal forward k",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -95149,7 +95230,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 979222
     },
@@ -95162,29 +95243,29 @@
       "number": "9",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.36,
-      "xgShare": 0.06,
+      "minutesFactor": 0.34,
+      "xgShare": 0.05,
       "propProfile": {
-        "shotsShare": 1.4,
+        "shotsShare": 1.6,
         "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.28,
-        "assists90": 0.28,
-        "shots90": 1.4,
+        "goals90": 0.26,
+        "assists90": 0.26,
+        "shots90": 1.6,
         "sot90": 0.3,
-        "passes90": 47,
+        "passes90": 43,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 32
+        "fouls90": 0.5,
+        "minutesAvg": 31
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "goals15": {
           "l5": 0,
@@ -95192,14 +95273,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots25": {
           "l5": 0,
@@ -95209,7 +95290,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "cards05": {
           "l5": 0,
@@ -95223,6 +95304,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 27,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-10",
           "opponent": "Nigeria",
@@ -95388,14 +95484,15 @@
       "dataScope": "international",
       "searchText": "francisco trincão portugal midfielder k",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "World Cup Qual. UEFA F",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-10"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 830431
     },
@@ -117237,28 +117334,28 @@
       "number": "21",
       "likelyStarter": false,
       "benchImpact": false,
-      "minutesFactor": 0.09,
+      "minutesFactor": 0.11,
       "xgShare": 0.18,
       "seasonRates": {
-        "goals90": 4.29,
+        "goals90": 3.05,
         "assists90": 0,
-        "shots90": 6.4,
-        "sot90": 6.4,
-        "passes90": 15,
+        "shots90": 4.6,
+        "sot90": 4.6,
+        "passes90": 11,
         "cards90": 0,
-        "fouls90": 4.3,
-        "minutesAvg": 8
+        "fouls90": 3.1,
+        "minutesAvg": 10
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 57,
-          "season": 57
+          "l5": 20,
+          "l10": 50,
+          "season": 50
         },
         "goals15": {
           "l5": 0,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "assists05": {
           "l5": 0,
@@ -117277,8 +117374,8 @@
         },
         "sot05": {
           "l5": 40,
-          "l10": 43,
-          "season": 43
+          "l10": 38,
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -117292,6 +117389,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Netherlands",
@@ -117409,24 +117521,15 @@
       "dataScope": "international",
       "searchText": "igor sergeev uzbekistan forward k",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "FIFA Series, Uzbekistan ",
           "CAFA Nations Cup, Group A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Persepolis FC",
-        "marketValueEur": 1300000,
-        "marketValueDisplay": "€1.3M",
-        "dateOfBirth": "1993-04-30",
-        "age": 33,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 333625
     },
@@ -124973,16 +125076,6 @@
         ],
         "lastMatch": "2026-06-08"
       },
-      "profile": {
-        "club": "Dinamo Samarqand",
-        "marketValueEur": 550000,
-        "marketValueDisplay": "€550K",
-        "dateOfBirth": "2004-01-18",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1403414
     },
     {
@@ -125497,16 +125590,6 @@
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
         "lastMatch": "2025-06-10"
-      },
-      "profile": {
-        "club": "Esteghlal FC",
-        "marketValueEur": 1000000,
-        "marketValueDisplay": "€1M",
-        "dateOfBirth": "1993-09-01",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 333611
     },
@@ -127025,16 +127108,6 @@
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
         "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Neftchi Fergana",
-        "marketValueEur": 1100000,
-        "marketValueDisplay": "€1.1M",
-        "dateOfBirth": "1993-10-16",
-        "age": 32,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 785512
     },
@@ -135853,29 +135926,29 @@
       "number": "20",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.78,
+      "minutesFactor": 0.76,
       "xgShare": 0.05,
       "propProfile": {
         "shotsShare": 1.1,
         "sotShare": 0.4,
         "cardWeight": 0.02,
-        "foulWeight": 1.5
+        "foulWeight": 1.6
       },
       "seasonRates": {
         "goals90": 0.18,
-        "assists90": 0.27,
+        "assists90": 0.35,
         "shots90": 1.1,
         "sot90": 0.4,
-        "passes90": 58,
+        "passes90": 55,
         "cards90": 0,
-        "fouls90": 1.5,
-        "minutesAvg": 70
+        "fouls90": 1.6,
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 20,
-          "season": 14
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -135883,14 +135956,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 21
+          "l5": 40,
+          "l10": 40,
+          "season": 27
         },
         "shots15": {
           "l5": 0,
           "l10": 20,
-          "season": 14
+          "season": 13
         },
         "shots25": {
           "l5": 0,
@@ -135900,7 +135973,7 @@
         "sot05": {
           "l5": 20,
           "l10": 30,
-          "season": 21
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -135908,12 +135981,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 30,
-          "season": 29
+          "l5": 60,
+          "l10": 40,
+          "season": 33
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -136142,7 +136230,7 @@
       "dataScope": "international",
       "searchText": "joão cancelo portugal defender k",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -136150,7 +136238,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 138892
     },
@@ -136163,54 +136251,54 @@
       "number": "11",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.44,
-      "xgShare": 0.13,
+      "minutesFactor": 0.46,
+      "xgShare": 0.12,
       "propProfile": {
         "shotsShare": 4.8,
-        "sotShare": 2.3,
+        "sotShare": 2.2,
         "cardWeight": 0.02,
         "foulWeight": 1.4
       },
       "seasonRates": {
-        "goals90": 0.75,
-        "assists90": 0.15,
+        "goals90": 0.68,
+        "assists90": 0.14,
         "shots90": 4.8,
-        "sot90": 2.3,
-        "passes90": 45,
+        "sot90": 2.2,
+        "passes90": 41,
         "cards90": 0,
         "fouls90": 1.4,
-        "minutesAvg": 40
+        "minutesAvg": 41
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 30,
-          "season": 27
+          "l10": 20,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
-          "l5": 40,
+          "l5": 60,
           "l10": 70,
-          "season": 67
+          "season": 69
         },
         "shots25": {
-          "l5": 20,
-          "l10": 50,
-          "season": 47
-        },
-        "sot05": {
           "l5": 40,
           "l10": 50,
-          "season": 53
+          "season": 50
+        },
+        "sot05": {
+          "l5": 60,
+          "l10": 50,
+          "season": 56
         },
         "cards05": {
           "l5": 0,
@@ -136220,10 +136308,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 63,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-10",
           "opponent": "Nigeria",
@@ -136469,14 +136572,15 @@
       "dataScope": "international",
       "searchText": "joão félix portugal forward k",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "World Cup Qual. UEFA F",
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-10"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 851671
     },
@@ -136489,29 +136593,29 @@
       "number": "15",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.71,
+      "minutesFactor": 0.72,
       "xgShare": 0.11,
       "propProfile": {
         "shotsShare": 1.1,
         "sotShare": 0.5,
         "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "foulWeight": 0.8
       },
       "seasonRates": {
-        "goals90": 0.35,
+        "goals90": 0.33,
         "assists90": 0,
         "shots90": 1.1,
         "sot90": 0.5,
-        "passes90": 66,
+        "passes90": 62,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 64
+        "fouls90": 0.8,
+        "minutesAvg": 65
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "goals15": {
           "l5": 20,
@@ -136526,7 +136630,7 @@
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "shots25": {
           "l5": 20,
@@ -136536,7 +136640,7 @@
         "sot05": {
           "l5": 40,
           "l10": 40,
-          "season": 25
+          "season": 24
         },
         "cards05": {
           "l5": 0,
@@ -136550,6 +136654,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -136810,7 +136929,7 @@
       "dataScope": "international",
       "searchText": "joão neves portugal midfielder k",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -136819,7 +136938,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1190933
     },
@@ -162976,6 +163095,79 @@
       "sofascoreId": 1606568
     },
     {
+      "id": "uzbekistan-khojiakbar-alijonov",
+      "name": "Khojiakbar Alijonov",
+      "team": "Uzbekistan",
+      "group": "K",
+      "position": "Substitute",
+      "number": "3",
+      "likelyStarter": false,
+      "benchImpact": false,
+      "minutesFactor": 0.35,
+      "xgShare": 0.01,
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 0,
+        "cards90": 0,
+        "fouls90": 0,
+        "minutesAvg": 0
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
+      "gameLog": [],
+      "dataSource": "sofascore",
+      "dataScope": "international",
+      "searchText": "khojiakbar alijonov uzbekistan substitute k",
+      "importMeta": {
+        "appearances": 0,
+        "competitions": [],
+        "lastMatch": null
+      }
+    },
+    {
       "id": "uzbekistan-khozhiakbar-alizhonov",
       "name": "Khozhiakbar Alizhonov",
       "team": "Uzbekistan",
@@ -163265,16 +163457,6 @@
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
         "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Pakhtakor Tashkent",
-        "marketValueEur": 1400000,
-        "marketValueDisplay": "€1.4M",
-        "dateOfBirth": "1997-04-19",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 888187
     },
@@ -220415,19 +220597,19 @@
       "minutesFactor": 0.48,
       "xgShare": 0.01,
       "propProfile": {
-        "shotsShare": 1.2,
+        "shotsShare": 1.1,
         "sotShare": 0.3,
-        "cardWeight": 0.13,
-        "foulWeight": 1.5
+        "cardWeight": 0.12,
+        "foulWeight": 1.4
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.26,
-        "shots90": 1.2,
+        "assists90": 0.25,
+        "shots90": 1.1,
         "sot90": 0.3,
-        "passes90": 46,
-        "cards90": 0.13,
-        "fouls90": 1.5,
+        "passes90": 44,
+        "cards90": 0.12,
+        "fouls90": 1.4,
         "minutesAvg": 43
       },
       "hitRates": {
@@ -220444,12 +220626,12 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 19
+          "season": 18
         },
         "shots25": {
           "l5": 0,
@@ -220459,7 +220641,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "cards05": {
           "l5": 20,
@@ -220473,6 +220655,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -220733,7 +220930,7 @@
       "dataScope": "international",
       "searchText": "nélson semedo portugal defender k",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -220742,7 +220939,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 252821
     },
@@ -229562,29 +229759,29 @@
       "number": "19",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.86,
-      "xgShare": 0.02,
+      "minutesFactor": 0.87,
+      "xgShare": 0.03,
       "propProfile": {
         "shotsShare": 0.8,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 0,
-        "assists90": 0.37,
+        "goals90": 0.07,
+        "assists90": 0.34,
         "shots90": 0.8,
         "sot90": 0.2,
-        "passes90": 54,
+        "passes90": 51,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 77
+        "fouls90": 1,
+        "minutesAvg": 78
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -229592,14 +229789,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 31
+          "season": 29
         },
         "shots15": {
           "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 24
         },
         "shots25": {
           "l5": 0,
@@ -229607,9 +229804,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 13
+          "l5": 20,
+          "l10": 10,
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -229617,12 +229814,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
+          "l5": 20,
           "l10": 10,
-          "season": 19
+          "season": 24
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -229883,7 +230095,7 @@
       "dataScope": "international",
       "searchText": "nuno mendes portugal defender k",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -229891,7 +230103,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 989768
     },
@@ -230280,12 +230492,12 @@
       "number": "9",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.97,
+      "minutesFactor": 0.93,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.6,
         "sotShare": 0.03,
-        "cardWeight": 0.02,
+        "cardWeight": 0.08,
         "foulWeight": 1.4
       },
       "seasonRates": {
@@ -230293,10 +230505,10 @@
         "assists90": 0.08,
         "shots90": 0.6,
         "sot90": 0,
-        "passes90": 55,
-        "cards90": 0,
+        "passes90": 53,
+        "cards90": 0.08,
         "fouls90": 1.4,
-        "minutesAvg": 87
+        "minutesAvg": 84
       },
       "hitRates": {
         "goals05": {
@@ -230312,12 +230524,12 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots25": {
           "l5": 0,
@@ -230330,17 +230542,32 @@
           "season": 0
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "fouls15": {
           "l5": 20,
-          "l10": 30,
-          "season": 38
+          "l10": 20,
+          "season": 36
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-02",
           "opponent": "Canada",
@@ -230554,23 +230781,14 @@
       "dataScope": "international",
       "searchText": "odiljon khamrobekov uzbekistan midfielder k",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "FIFA Series, Uzbekistan ",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-02"
-      },
-      "profile": {
-        "club": "Tractor FC",
-        "marketValueEur": 930000,
-        "marketValueDisplay": "€930K",
-        "dateOfBirth": "1996-02-13",
-        "age": 30,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 823992
     },
@@ -234590,16 +234808,6 @@
         ],
         "lastMatch": "2026-06-08"
       },
-      "profile": {
-        "club": "Persepolis FC",
-        "marketValueEur": 2100000,
-        "marketValueDisplay": "€2.1M",
-        "dateOfBirth": "2000-12-19",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 985882
     },
     {
@@ -234921,7 +235129,7 @@
       "number": "7",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.89,
+      "minutesFactor": 0.9,
       "xgShare": 0.07,
       "propProfile": {
         "shotsShare": 1.5,
@@ -234930,20 +235138,20 @@
         "foulWeight": 1.7
       },
       "seasonRates": {
-        "goals90": 0.09,
-        "assists90": 0.17,
+        "goals90": 0.08,
+        "assists90": 0.16,
         "shots90": 1.5,
         "sot90": 0.4,
-        "passes90": 53,
+        "passes90": 49,
         "cards90": 0,
         "fouls90": 1.7,
-        "minutesAvg": 80
+        "minutesAvg": 81
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 14
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -234953,22 +235161,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 14
+          "season": 13
         },
         "shots15": {
-          "l5": 40,
-          "l10": 30,
-          "season": 36
+          "l5": 60,
+          "l10": 40,
+          "season": 40
         },
         "shots25": {
           "l5": 20,
           "l10": 20,
-          "season": 14
+          "season": 13
         },
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 29
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -234978,10 +235186,25 @@
         "fouls15": {
           "l5": 80,
           "l10": 50,
-          "season": 50
+          "season": 47
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 92,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-08",
           "opponent": "Netherlands",
@@ -235211,24 +235434,15 @@
       "dataScope": "international",
       "searchText": "otabek shukurov uzbekistan midfielder k",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "FIFA Series, Uzbekistan ",
           "CAFA Nations Cup, Group A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Baniyas",
-        "marketValueEur": 1400000,
-        "marketValueDisplay": "€1.4M",
-        "dateOfBirth": "1996-06-22",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 358890
     },
@@ -240852,29 +241066,29 @@
       "number": "25",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.7,
+      "minutesFactor": 0.69,
       "xgShare": 0.09,
       "propProfile": {
         "shotsShare": 1.6,
         "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "foulWeight": 0.6
       },
       "seasonRates": {
-        "goals90": 0.18,
-        "assists90": 0.18,
+        "goals90": 0.17,
+        "assists90": 0.17,
         "shots90": 1.6,
         "sot90": 0.7,
-        "passes90": 45,
+        "passes90": 43,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 63
+        "fouls90": 0.6,
+        "minutesAvg": 62
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "goals15": {
           "l5": 0,
@@ -240884,12 +241098,12 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 31
+          "season": 29
         },
         "shots25": {
           "l5": 0,
@@ -240897,9 +241111,9 @@
           "season": 6
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 38
+          "season": 35
         },
         "cards05": {
           "l5": 0,
@@ -240913,6 +241127,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -241173,7 +241402,7 @@
       "dataScope": "international",
       "searchText": "pedro neto portugal midfielder k",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -241182,7 +241411,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 879349
     },
@@ -244788,31 +245017,31 @@
       "group": "K",
       "position": "Forward",
       "number": "17",
-      "likelyStarter": true,
-      "benchImpact": false,
-      "minutesFactor": 0.57,
-      "xgShare": 0.14,
+      "likelyStarter": false,
+      "benchImpact": true,
+      "minutesFactor": 0.53,
+      "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 2.3,
-        "sotShare": 0.6,
+        "shotsShare": 2.4,
+        "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 1.3
+        "foulWeight": 1.4
       },
       "seasonRates": {
-        "goals90": 0.12,
+        "goals90": 0.23,
         "assists90": 0.12,
-        "shots90": 2.3,
-        "sot90": 0.6,
+        "shots90": 2.4,
+        "sot90": 0.7,
         "passes90": 34,
         "cards90": 0,
-        "fouls90": 1.3,
-        "minutesAvg": 51
+        "fouls90": 1.4,
+        "minutesAvg": 48
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 7
+          "l5": 20,
+          "l10": 20,
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -244822,22 +245051,22 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 20,
           "l10": 30,
-          "season": 33
+          "season": 31
         },
         "shots25": {
           "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "sot05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 33
+          "l5": 40,
+          "l10": 40,
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -244846,11 +245075,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 20,
+          "l10": 10,
           "season": 13
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 7,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -245095,7 +245339,7 @@
       "dataScope": "international",
       "searchText": "rafael leão portugal forward k",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -245104,7 +245348,7 @@
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 851284
     },
@@ -249956,29 +250200,29 @@
       "number": "13",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.78,
-      "xgShare": 0.04,
+      "minutesFactor": 0.79,
+      "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 1,
+        "shotsShare": 0.9,
         "sotShare": 0.1,
-        "cardWeight": 0.02,
+        "cardWeight": 0.09,
         "foulWeight": 1.3
       },
       "seasonRates": {
-        "goals90": 0.1,
+        "goals90": 0.09,
         "assists90": 0,
-        "shots90": 1,
+        "shots90": 0.9,
         "sot90": 0.1,
-        "passes90": 61,
-        "cards90": 0,
+        "passes90": 56,
+        "cards90": 0.09,
         "fouls90": 1.3,
-        "minutesAvg": 70
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -249993,30 +250237,45 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 15
+          "season": 14
         },
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
-        },
-        "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 15
+          "season": 7
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 10,
+          "season": 14
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -250229,7 +250488,7 @@
       "dataScope": "international",
       "searchText": "renato veiga portugal defender k",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -250237,7 +250496,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1087359
     },
@@ -257239,7 +257498,7 @@
         "assists90": 0.07,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 81,
+        "passes90": 76,
         "cards90": 0,
         "fouls90": 1.1,
         "minutesAvg": 86
@@ -257258,12 +257517,12 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -257273,7 +257532,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "cards05": {
           "l5": 0,
@@ -257283,10 +257542,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-10",
           "opponent": "Nigeria",
@@ -257532,15 +257806,16 @@
       "dataScope": "international",
       "searchText": "rúben dias portugal defender k",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "World Cup Qual. UEFA F",
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 1",
           "Euro, Group F"
         ],
-        "lastMatch": "2026-06-10"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 318941
     },
@@ -258663,7 +258938,7 @@
       "number": "5",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.82,
+      "minutesFactor": 0.83,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.6,
@@ -258676,10 +258951,10 @@
         "assists90": 0,
         "shots90": 0.6,
         "sot90": 0.1,
-        "passes90": 46,
+        "passes90": 42,
         "cards90": 0,
         "fouls90": 1.4,
-        "minutesAvg": 74
+        "minutesAvg": 75
       },
       "hitRates": {
         "goals05": {
@@ -258719,11 +258994,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 25
+          "l10": 10,
+          "season": 23
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-08",
           "opponent": "Netherlands",
@@ -258921,23 +259211,14 @@
       "dataScope": "international",
       "searchText": "rustam ashurmatov uzbekistan defender k",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "FIFA Series, Uzbekistan ",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Esteghlal FC",
-        "marketValueEur": 710000,
-        "marketValueDisplay": "€710K",
-        "dateOfBirth": "1996-07-07",
-        "age": 29,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 358822
     },
@@ -269695,6 +269976,21 @@
       },
       "gameLog": [
         {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-02",
           "opponent": "Canada",
           "competition": "Int. Friendly Games",
@@ -269715,21 +270011,12 @@
       "dataScope": "international",
       "searchText": "sherzod esanov uzbekistan midfielder k",
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-02"
-      },
-      "profile": {
-        "club": "FC Buxoro",
-        "marketValueEur": 495000,
-        "marketValueDisplay": "€495K",
-        "dateOfBirth": "2003-02-01",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1403410
     },
@@ -269742,23 +270029,23 @@
       "number": "13",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.9,
+      "minutesFactor": 0.87,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.3,
-        "sotShare": 0.03,
+        "sotShare": 0.1,
         "cardWeight": 0.02,
         "foulWeight": 0.7
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.17,
+        "assists90": 0.16,
         "shots90": 0.3,
-        "sot90": 0,
-        "passes90": 37,
+        "sot90": 0.1,
+        "passes90": 35,
         "cards90": 0,
         "fouls90": 0.7,
-        "minutesAvg": 81
+        "minutesAvg": 78
       },
       "hitRates": {
         "goals05": {
@@ -269774,7 +270061,7 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 15
+          "season": 14
         },
         "shots15": {
           "l5": 0,
@@ -269787,9 +270074,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "cards05": {
           "l5": 0,
@@ -269798,11 +270085,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 15
+          "l10": 10,
+          "season": 14
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Portugal",
+          "competition": "FIFA World Cup, Group K",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-08",
           "opponent": "Netherlands",
@@ -270016,23 +270318,14 @@
       "dataScope": "international",
       "searchText": "sherzod nasrullaev uzbekistan defender k",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group K",
           "Int. Friendly Games",
           "FIFA Series, Uzbekistan ",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Pakhtakor Tashkent",
-        "marketValueEur": 1200000,
-        "marketValueDisplay": "€1.2M",
-        "dateOfBirth": "1998-07-23",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 1014276
     },
@@ -286595,16 +286888,6 @@
         ],
         "lastMatch": "2026-03-27"
       },
-      "profile": {
-        "club": "Nasaf Qarshi",
-        "marketValueEur": 440000,
-        "marketValueDisplay": "€440K",
-        "dateOfBirth": "1992-11-30",
-        "age": 33,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 893000
     },
     {
@@ -287271,16 +287554,6 @@
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
         "lastMatch": "2026-06-08"
-      },
-      "profile": {
-        "club": "Navbahor Namangan",
-        "marketValueEur": 540000,
-        "marketValueDisplay": "€540K",
-        "dateOfBirth": "1991-01-04",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 791592
     },
@@ -289282,23 +289555,23 @@
       "number": "23",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.79,
+      "minutesFactor": 0.8,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 1.4,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.3
+        "foulWeight": 0.4
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.24,
+        "assists90": 0.22,
         "shots90": 1.4,
         "sot90": 0.2,
-        "passes90": 99,
+        "passes90": 92,
         "cards90": 0,
-        "fouls90": 0.3,
-        "minutesAvg": 71
+        "fouls90": 0.4,
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
@@ -289314,22 +289587,22 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 13
+          "season": 12
         },
         "shots15": {
           "l5": 0,
           "l10": 30,
-          "season": 31
+          "season": 29
         },
         "shots25": {
           "l5": 0,
           "l10": 20,
-          "season": 19
+          "season": 18
         },
         "sot05": {
           "l5": 0,
           "l10": 20,
-          "season": 13
+          "season": 12
         },
         "cards05": {
           "l5": 0,
@@ -289337,12 +289610,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-23",
+          "opponent": "Uzbekistan",
+          "competition": "FIFA World Cup, Group K",
+          "result": "W",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-17",
           "opponent": "DR Congo",
@@ -289603,7 +289891,7 @@
       "dataScope": "international",
       "searchText": "vitinha portugal midfielder k",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group K",
           "Int. Friendly Games",
@@ -289611,7 +289899,7 @@
           "UEFA Nations League, Finals",
           "UEFA Nations League, League A, Gr. 1"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-23"
       },
       "sofascoreId": 902029
     },
