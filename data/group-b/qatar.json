@@ -3,8 +3,8 @@
   "team": "Qatar",
   "group": "B",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-24T19:19:12.499Z",
-  "eventsProcessed": 17,
+  "importedAt": "2026-06-24T20:59:44.814Z",
+  "eventsProcessed": 18,
   "teamMatchResults": [
     {
       "date": "2026-06-18",
@@ -23,6 +23,15 @@
       "goalsFor": 1,
       "goalsAgainst": 1,
       "venue": "home"
+    },
+    {
+      "date": "2026-06-24",
+      "opponent": "Bosnia and Herzegovina",
+      "competition": "FIFA World Cup, Group B",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "venue": "away"
     },
     {
       "date": "2026-06-06",
@@ -1142,6 +1151,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-24",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -1317,20 +1341,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.1,
-        "assists90": 0.1,
-        "shots90": 0.9,
+        "goals90": 0.09,
+        "assists90": 0.09,
+        "shots90": 1,
         "sot90": 0.1,
-        "passes90": 51,
+        "passes90": 47,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 78
+        "minutesAvg": 79
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "goals15": {
           "l5": 0,
@@ -1339,13 +1363,13 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 10,
-          "season": 9
+          "l10": 0,
+          "season": 8
         },
         "shots15": {
           "l5": 0,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "shots25": {
           "l5": 0,
@@ -1353,9 +1377,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "cards05": {
           "l5": 0,
@@ -1365,18 +1389,18 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-18"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -1709,6 +1733,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-24",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -1806,12 +1845,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.4,
+        "shots90": 0.3,
         "sot90": 0,
-        "passes90": 33,
+        "passes90": 28,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 81
+        "fouls90": 0.5,
+        "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
@@ -1856,13 +1895,13 @@
         }
       },
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "Arab Cup, Group A"
         ],
-        "lastMatch": "2026-06-18"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -2195,6 +2234,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-24",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -2354,20 +2408,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.2,
+        "goals90": 0.18,
         "assists90": 0,
-        "shots90": 0.5,
-        "sot90": 0.3,
-        "passes90": 41,
+        "shots90": 0.7,
+        "sot90": 0.4,
+        "passes90": 37,
         "cards90": 0,
-        "fouls90": 1,
+        "fouls90": 0.9,
         "minutesAvg": 90
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -2380,19 +2434,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         },
         "shots25": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 9
         },
         "sot05": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 30,
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -2402,18 +2456,18 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 18
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-18"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -2428,6 +2482,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-18",
           "opponent": "Canada",
@@ -2607,12 +2676,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.7,
-        "sot90": 0.4,
-        "passes90": 32,
+        "shots90": 0.6,
+        "sot90": 0.3,
+        "passes90": 27,
         "cards90": 0,
-        "fouls90": 0.4,
-        "minutesAvg": 46
+        "fouls90": 0.6,
+        "minutesAvg": 49
       },
       "hitRates": {
         "goals05": {
@@ -2633,7 +2702,7 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "shots25": {
           "l5": 0,
@@ -2643,7 +2712,7 @@
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "cards05": {
           "l5": 0,
@@ -2651,13 +2720,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
@@ -2665,7 +2734,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "Gulf Cup, Group A"
         ],
-        "lastMatch": "2026-06-18"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -2680,6 +2749,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-12-04",
           "opponent": "Syria",
@@ -2827,13 +2911,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.18,
-        "shots90": 0.9,
+        "assists90": 0.17,
+        "shots90": 0.8,
         "sot90": 0.2,
-        "passes90": 46,
+        "passes90": 42,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 55
+        "fouls90": 1.2,
+        "minutesAvg": 54
       },
       "hitRates": {
         "goals05": {
@@ -2848,13 +2932,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
@@ -2863,8 +2947,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -2873,19 +2957,20 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Arab Cup, Group A",
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-12-04"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -2900,6 +2985,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 34,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-10-14",
           "opponent": "United Arab Emirates",
@@ -2998,20 +3098,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.23,
+        "goals90": 0.22,
         "assists90": 0,
         "shots90": 1.9,
         "sot90": 0.9,
-        "passes90": 25,
+        "passes90": 23,
         "cards90": 0,
-        "fouls90": 1.2,
-        "minutesAvg": 64
+        "fouls90": 1.3,
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l5": 0,
+          "l10": 14,
+          "season": 14
         },
         "goals15": {
           "l5": 0,
@@ -3024,19 +3124,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 40,
-          "l10": 50,
-          "season": 50
+          "l5": 20,
+          "l10": 43,
+          "season": 43
         },
         "shots25": {
           "l5": 0,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "sot05": {
-          "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l5": 0,
+          "l10": 29,
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -3044,18 +3144,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l5": 0,
+          "l10": 14,
+          "season": 14
         }
       },
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
+          "FIFA World Cup, Group B",
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2025-10-14"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -3387,6 +3488,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-24",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -3658,11 +3774,11 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.13,
-        "assists90": 0.39,
-        "shots90": 0.7,
+        "goals90": 0.12,
+        "assists90": 0.36,
+        "shots90": 0.8,
         "sot90": 0.3,
-        "passes90": 44,
+        "passes90": 41,
         "cards90": 0,
         "fouls90": 0.2,
         "minutesAvg": 82
@@ -3670,8 +3786,8 @@
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 10,
-          "season": 12
+          "l10": 0,
+          "season": 11
         },
         "goals15": {
           "l5": 0,
@@ -3681,12 +3797,12 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 18
+          "season": 17
         },
         "shots15": {
           "l5": 20,
-          "l10": 20,
-          "season": 18
+          "l10": 30,
+          "season": 22
         },
         "shots25": {
           "l5": 0,
@@ -3694,9 +3810,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 20,
-          "season": 24
+          "l5": 0,
+          "l10": 10,
+          "season": 22
         },
         "cards05": {
           "l5": 0,
@@ -3710,7 +3826,7 @@
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
@@ -3719,7 +3835,7 @@
           "World Cup Qualification, AFC, Round 3, Group A",
           "Gulf Cup, Group A"
         ],
-        "lastMatch": "2026-06-18"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -3734,6 +3850,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-05-28",
           "opponent": "Ireland",
@@ -3912,25 +4043,25 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.45,
+        "goals90": 0.44,
         "assists90": 0,
-        "shots90": 2.1,
-        "sot90": 0.8,
+        "shots90": 2.2,
+        "sot90": 0.9,
         "passes90": 23,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 73
+        "minutesAvg": 69
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 20,
-          "season": 27
+          "l10": 10,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
-          "l10": 10,
-          "season": 9
+          "l10": 0,
+          "season": 8
         },
         "assists05": {
           "l5": 0,
@@ -3938,19 +4069,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
-          "l10": 40,
-          "season": 45
+          "l5": 0,
+          "l10": 30,
+          "season": 42
         },
         "shots25": {
-          "l5": 20,
-          "l10": 40,
-          "season": 36
+          "l5": 0,
+          "l10": 30,
+          "season": 33
         },
         "sot05": {
           "l5": 20,
           "l10": 40,
-          "season": 45
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -3960,18 +4091,19 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "World Cup Qualification, AFC, Round 3, Group A",
           "Gulf Cup, Group A"
         ],
-        "lastMatch": "2026-05-28"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -4238,6 +4370,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-24",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-18",
           "opponent": "Canada",
           "competition": "FIFA World Cup, Group B",
@@ -4494,13 +4641,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.09,
-        "shots90": 1.5,
+        "assists90": 0.17,
+        "shots90": 1.4,
         "sot90": 0.6,
-        "passes90": 28,
+        "passes90": 26,
         "cards90": 0,
         "fouls90": 1,
-        "minutesAvg": 61
+        "minutesAvg": 62
       },
       "hitRates": {
         "goals05": {
@@ -4514,14 +4661,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 6
+          "l5": 20,
+          "l10": 20,
+          "season": 12
         },
         "shots15": {
           "l5": 20,
           "l10": 30,
-          "season": 25
+          "season": 24
         },
         "shots25": {
           "l5": 0,
@@ -4530,8 +4677,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 50,
-          "season": 38
+          "l10": 40,
+          "season": 35
         },
         "cards05": {
           "l5": 0,
@@ -4541,11 +4688,11 @@
         "fouls15": {
           "l5": 40,
           "l10": 20,
-          "season": 13
+          "season": 12
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
@@ -4553,7 +4700,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-18"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -4568,6 +4715,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 4
+        },
         {
           "date": "2026-06-18",
           "opponent": "Canada",
@@ -4761,13 +4923,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.23,
+        "assists90": 0.22,
         "shots90": 0.7,
         "sot90": 0.1,
-        "passes90": 35,
+        "passes90": 34,
         "cards90": 0.11,
-        "fouls90": 1.9,
-        "minutesAvg": 66
+        "fouls90": 2.3,
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
@@ -4783,7 +4945,7 @@
         "assists05": {
           "l5": 0,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "shots15": {
           "l5": 0,
@@ -4796,7 +4958,7 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 8
         },
@@ -4808,11 +4970,11 @@
         "fouls15": {
           "l5": 60,
           "l10": 60,
-          "season": 50
+          "season": 54
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
@@ -4820,7 +4982,7 @@
           "World Cup Qualification, AFC, Round 3, Group A",
           "Gulf Cup, Group A"
         ],
-        "lastMatch": "2026-06-18"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -4835,6 +4997,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 72,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Switzerland",
@@ -4968,10 +5145,10 @@
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0,
-        "passes90": 65,
+        "passes90": 57,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 58
+        "fouls90": 0.7,
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
@@ -5011,19 +5188,19 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 4, Gr. A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -5275,6 +5452,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-24",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 11,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-13",
           "opponent": "Switzerland",
           "competition": "FIFA World Cup, Group B",
@@ -5435,20 +5627,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.74,
+        "goals90": 0.72,
         "assists90": 0,
-        "shots90": 3.2,
+        "shots90": 3.1,
         "sot90": 1.2,
-        "passes90": 15,
+        "passes90": 14,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 36
+        "fouls90": 1.2,
+        "minutesAvg": 34
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 30
+          "l5": 0,
+          "l10": 20,
+          "season": 27
         },
         "goals15": {
           "l5": 0,
@@ -5461,19 +5653,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 60,
-          "l10": 40,
-          "season": 40
+          "l5": 40,
+          "l10": 30,
+          "season": 36
         },
         "shots25": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 18
         },
         "sot05": {
-          "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l5": 20,
+          "l10": 30,
+          "season": 36
         },
         "cards05": {
           "l5": 0,
@@ -5487,14 +5679,14 @@
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games",
           "Arab Cup, Group A",
           "World Cup Qualification, AFC, Round 3, Group A"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -5509,6 +5701,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Bosnia and Herzegovina",
+          "competition": "FIFA World Cup, Group B",
+          "result": "L",
+          "venue": "away",
+          "minutes": 56,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-13",
           "opponent": "Switzerland",
@@ -5574,20 +5781,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0,
+        "goals90": 1.07,
         "assists90": 0,
-        "shots90": 0,
-        "sot90": 0,
-        "passes90": 35,
+        "shots90": 1.1,
+        "sot90": 1.1,
+        "passes90": 12,
         "cards90": 0,
-        "fouls90": 0,
-        "minutesAvg": 7
+        "fouls90": 1.1,
+        "minutesAvg": 17
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "goals15": {
           "l5": 0,
@@ -5610,9 +5817,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -5626,12 +5833,12 @@
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
           "FIFA World Cup, Group B",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -6314,7 +6521,7 @@
     },
     {
       "name": "Ahmed Suhail",
-      "appearances": 10
+      "appearances": 11
     },
     {
       "name": "Al-Hashmi Al-Hussain",
@@ -6398,7 +6605,7 @@
     },
     {
       "name": "Mohamed Gouda",
-      "appearances": 9
+      "appearances": 10
     },
     {
       "name": "Mohammed Waad",
@@ -6438,7 +6645,7 @@
     },
     {
       "name": "Mahmoud Abunada",
-      "appearances": 2
+      "appearances": 3
     }
   ]
 }
