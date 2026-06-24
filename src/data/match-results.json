@@ -1841,6 +1841,72 @@
       },
       "syncedAt": "2026-06-24T05:52:02.339Z",
       "source": "espn"
+    },
+    "GS-B-6": {
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Kerim Alajbegovic",
+            "minute": "29'",
+            "assist": "Ivan Basic"
+          },
+          {
+            "name": "Ermin Mahmic",
+            "minute": "80'",
+            "assist": "Dennis Hadzikadunic"
+          }
+        ],
+        "away": [
+          {
+            "name": "Hassan Al-Haydos",
+            "minute": "42'",
+            "assist": "Edmílson Junior"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 54.5,
+          "away": 45.5
+        },
+        "shots": {
+          "home": 14,
+          "away": 9
+        },
+        "shotsOnTarget": {
+          "home": 5,
+          "away": 3
+        },
+        "corners": {
+          "home": 5,
+          "away": 5
+        },
+        "fouls": {
+          "home": 9,
+          "away": 14
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 2,
+          "away": 3
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-24T22:17:26.592Z",
+      "source": "espn"
     }
   }
 }
