@@ -16,22 +16,22 @@
       "Croatia": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-24T23:35:40.722Z"
+        "importedAt": "2026-06-25T01:34:14.843Z"
       },
       "England": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-24T23:35:40.722Z"
+        "importedAt": "2026-06-25T01:34:14.843Z"
       },
       "Ghana": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-24T23:35:40.722Z"
+        "importedAt": "2026-06-25T01:34:14.843Z"
       },
       "Panama": {
         "playerCount": 31,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-24T23:35:40.722Z"
+        "importedAt": "2026-06-25T01:34:14.843Z"
       }
     }
   },
@@ -4336,29 +4336,29 @@
       "number": "2",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.88,
-      "xgShare": 0.02,
+      "minutesFactor": 0.89,
+      "xgShare": 0.04,
       "propProfile": {
-        "shotsShare": 2.1,
-        "sotShare": 0.7,
+        "shotsShare": 2.4,
+        "sotShare": 0.9,
         "cardWeight": 0.02,
         "foulWeight": 1.1
       },
       "seasonRates": {
-        "goals90": 0,
-        "assists90": 0.8,
-        "shots90": 2.1,
-        "sot90": 0.7,
-        "passes90": 60,
+        "goals90": 0.1,
+        "assists90": 0.82,
+        "shots90": 2.4,
+        "sot90": 0.9,
+        "passes90": 54,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 79
+        "minutesAvg": 80
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 9
         },
         "goals15": {
           "l5": 0,
@@ -4366,24 +4366,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 40,
+          "l5": 60,
           "l10": 60,
-          "season": 60
+          "season": 64
         },
         "shots15": {
-          "l5": 20,
+          "l5": 40,
           "l10": 50,
-          "season": 50
+          "season": 55
         },
         "shots25": {
-          "l5": 20,
+          "l5": 40,
           "l10": 40,
-          "season": 40
+          "season": 45
         },
         "sot05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 50,
-          "season": 50
+          "season": 55
         },
         "cards05": {
           "l5": 0,
@@ -4391,12 +4391,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 30,
-          "season": 30
+          "season": 27
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 1,
+          "shots": 5,
+          "shotsOnTarget": 3,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -4561,7 +4576,7 @@
       "dataScope": "international",
       "searchText": "achraf hakimi morocco defender c",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -4569,7 +4584,7 @@
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 814594
     },
@@ -25072,23 +25087,23 @@
       "number": "26",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.67,
+      "minutesFactor": 0.69,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.2,
+        "shotsShare": 0.1,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.9
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.17,
-        "shots90": 0.2,
+        "assists90": 0.14,
+        "shots90": 0.1,
         "sot90": 0,
-        "passes90": 56,
+        "passes90": 48,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 60
+        "fouls90": 0.9,
+        "minutesAvg": 62
       },
       "hitRates": {
         "goals05": {
@@ -25103,8 +25118,8 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
           "l5": 0,
@@ -25128,11 +25143,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -25281,14 +25311,14 @@
       "dataScope": "international",
       "searchText": "anass salah-eddine morocco defender c",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group A"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 961684
     },
@@ -37874,54 +37904,54 @@
       "number": "20",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.54,
-      "xgShare": 0.23,
+      "minutesFactor": 0.57,
+      "xgShare": 0.22,
       "propProfile": {
-        "shotsShare": 3.5,
-        "sotShare": 1.4,
+        "shotsShare": 3.6,
+        "sotShare": 1.5,
         "cardWeight": 0.02,
-        "foulWeight": 2.8
+        "foulWeight": 2.7
       },
       "seasonRates": {
-        "goals90": 0.71,
-        "assists90": 0.14,
-        "shots90": 3.5,
-        "sot90": 1.4,
-        "passes90": 21,
+        "goals90": 0.64,
+        "assists90": 0.13,
+        "shots90": 3.6,
+        "sot90": 1.5,
+        "passes90": 19,
         "cards90": 0,
-        "fouls90": 2.8,
-        "minutesAvg": 49
+        "fouls90": 2.7,
+        "minutesAvg": 51
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 30,
-          "season": 31
+          "season": 29
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots15": {
           "l5": 60,
           "l10": 60,
-          "season": 62
+          "season": 64
         },
         "shots25": {
           "l5": 20,
-          "l10": 30,
-          "season": 38
+          "l10": 40,
+          "season": 43
         },
         "sot05": {
-          "l5": 20,
-          "l10": 40,
-          "season": 46
+          "l5": 40,
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -37931,10 +37961,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 38
+          "season": 36
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-07",
           "opponent": "Norway",
@@ -38148,14 +38193,15 @@
       "dataScope": "international",
       "searchText": "ayoub el kaabi morocco forward c",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-07"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 919793
     },
@@ -39487,29 +39533,29 @@
       "number": "8",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.71,
+      "minutesFactor": 0.67,
       "xgShare": 0.1,
       "propProfile": {
         "shotsShare": 2.3,
         "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.28,
-        "assists90": 0.28,
+        "goals90": 0.27,
+        "assists90": 0.27,
         "shots90": 2.3,
         "sot90": 0.7,
-        "passes90": 61,
+        "passes90": 59,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 64
+        "fouls90": 0.5,
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -39517,24 +39563,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
-          "l5": 40,
-          "l10": 60,
-          "season": 60
+          "l5": 20,
+          "l10": 50,
+          "season": 55
         },
         "shots25": {
-          "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l5": 20,
+          "l10": 30,
+          "season": 36
         },
         "sot05": {
           "l5": 0,
-          "l10": 30,
-          "season": 30
+          "l10": 20,
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -39544,10 +39590,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -39712,14 +39773,14 @@
       "dataScope": "international",
       "searchText": "azzedine ounahi morocco midfielder c",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 991421
     },
@@ -43336,29 +43397,29 @@
       "number": "23",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.5,
+      "minutesFactor": 0.53,
       "xgShare": 0.1,
       "propProfile": {
-        "shotsShare": 1.3,
-        "sotShare": 0.3,
+        "shotsShare": 1.4,
+        "sotShare": 0.5,
         "cardWeight": 0.02,
-        "foulWeight": 2.9
+        "foulWeight": 2.6
       },
       "seasonRates": {
-        "goals90": 0.29,
-        "assists90": 0.14,
-        "shots90": 1.3,
-        "sot90": 0.3,
-        "passes90": 53,
+        "goals90": 0.25,
+        "assists90": 0.13,
+        "shots90": 1.4,
+        "sot90": 0.5,
+        "passes90": 46,
         "cards90": 0,
-        "fouls90": 2.9,
-        "minutesAvg": 45
+        "fouls90": 2.6,
+        "minutesAvg": 48
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 20,
-          "season": 14
+          "l10": 10,
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -43371,9 +43432,9 @@
           "season": 7
         },
         "shots15": {
-          "l5": 20,
+          "l5": 40,
           "l10": 20,
-          "season": 21
+          "season": 27
         },
         "shots25": {
           "l5": 0,
@@ -43381,9 +43442,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 20,
-          "season": 14
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -43393,10 +43454,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 36
+          "season": 33
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -43625,7 +43701,7 @@
       "dataScope": "international",
       "searchText": "bilal el khannouss morocco midfielder c",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -43633,7 +43709,7 @@
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 1126569
     },
@@ -44973,19 +45049,19 @@
       "likelyStarter": true,
       "benchImpact": false,
       "minutesFactor": 0.76,
-      "xgShare": 0.14,
+      "xgShare": 0.13,
       "propProfile": {
-        "shotsShare": 2.8,
-        "sotShare": 1.5,
+        "shotsShare": 2.7,
+        "sotShare": 1.4,
         "cardWeight": 0.02,
         "foulWeight": 1.2
       },
       "seasonRates": {
-        "goals90": 0.53,
-        "assists90": 0.09,
-        "shots90": 2.8,
-        "sot90": 1.5,
-        "passes90": 32,
+        "goals90": 0.49,
+        "assists90": 0.08,
+        "shots90": 2.7,
+        "sot90": 1.4,
+        "passes90": 30,
         "cards90": 0,
         "fouls90": 1.2,
         "minutesAvg": 68
@@ -44993,8 +45069,8 @@
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 60,
-          "season": 40
+          "l10": 50,
+          "season": 38
         },
         "goals15": {
           "l5": 0,
@@ -45004,22 +45080,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
-          "l5": 60,
-          "l10": 70,
-          "season": 67
+          "l5": 40,
+          "l10": 60,
+          "season": 63
         },
         "shots25": {
           "l5": 40,
           "l10": 50,
-          "season": 40
+          "season": 38
         },
         "sot05": {
           "l5": 60,
-          "l10": 80,
-          "season": 73
+          "l10": 70,
+          "season": 69
         },
         "cards05": {
           "l5": 0,
@@ -45027,12 +45103,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 40,
-          "season": 27
+          "l5": 0,
+          "l10": 30,
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -45277,7 +45368,7 @@
       "dataScope": "international",
       "searchText": "brahim díaz morocco midfielder c",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -45285,7 +45376,7 @@
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 835485
     },
@@ -51140,23 +51231,23 @@
       "number": "2",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.88,
+      "minutesFactor": 0.83,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.5,
         "sotShare": 0.2,
         "cardWeight": 0.07,
-        "foulWeight": 2.2
+        "foulWeight": 2.1
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0.2,
         "shots90": 0.5,
         "sot90": 0.2,
-        "passes90": 40,
+        "passes90": 39,
         "cards90": 0.07,
-        "fouls90": 2.2,
-        "minutesAvg": 79
+        "fouls90": 2.1,
+        "minutesAvg": 75
       },
       "hitRates": {
         "goals05": {
@@ -51172,12 +51263,12 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 18
+          "season": 17
         },
         "shots15": {
           "l5": 0,
           "l10": 0,
-          "season": 18
+          "season": 17
         },
         "shots25": {
           "l5": 0,
@@ -51187,7 +51278,7 @@
         "sot05": {
           "l5": 0,
           "l10": 0,
-          "season": 18
+          "season": 17
         },
         "cards05": {
           "l5": 20,
@@ -51197,10 +51288,25 @@
         "fouls15": {
           "l5": 60,
           "l10": 40,
-          "season": 47
+          "season": 44
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -51476,7 +51582,7 @@
       "dataScope": "international",
       "searchText": "carlens arcus haiti defender c",
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -51485,7 +51591,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 794373
     },
@@ -54214,23 +54320,23 @@
       "number": "18",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.81,
+      "minutesFactor": 0.84,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.3,
-        "sotShare": 0.3,
+        "shotsShare": 0.5,
+        "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.5
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0,
-        "shots90": 0.3,
-        "sot90": 0.3,
-        "passes90": 37,
+        "assists90": 0.24,
+        "shots90": 0.5,
+        "sot90": 0.2,
+        "passes90": 28,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 73
+        "fouls90": 0.5,
+        "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
@@ -54244,9 +54350,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots15": {
           "l5": 0,
@@ -54259,9 +54365,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -54275,6 +54381,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -54343,12 +54464,12 @@
       "dataScope": "international",
       "searchText": "chadi riad morocco defender c",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 1064218
     },
@@ -64113,29 +64234,29 @@
       "number": "17",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.98,
+      "minutesFactor": 0.97,
       "xgShare": 0.09,
       "propProfile": {
-        "shotsShare": 1.3,
+        "shotsShare": 1.2,
         "sotShare": 0.3,
         "cardWeight": 0.06,
         "foulWeight": 1.8
       },
       "seasonRates": {
-        "goals90": 0.18,
-        "assists90": 0.12,
-        "shots90": 1.3,
+        "goals90": 0.17,
+        "assists90": 0.11,
+        "shots90": 1.2,
         "sot90": 0.3,
-        "passes90": 37,
+        "passes90": 35,
         "cards90": 0.06,
         "fouls90": 1.8,
-        "minutesAvg": 88
+        "minutesAvg": 87
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 18
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -64145,22 +64266,22 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 12
+          "season": 11
         },
         "shots15": {
           "l5": 40,
           "l10": 20,
-          "season": 29
+          "season": 28
         },
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 18
+          "season": 17
         },
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 24
+          "season": 22
         },
         "cards05": {
           "l5": 20,
@@ -64168,12 +64289,27 @@
           "season": 6
         },
         "fouls15": {
-          "l5": 60,
-          "l10": 70,
-          "season": 59
+          "l5": 40,
+          "l10": 60,
+          "season": 56
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -64449,7 +64585,7 @@
       "dataScope": "international",
       "searchText": "danley jean jacques haiti midfielder c",
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -64458,7 +64594,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 1173167
     },
@@ -73947,23 +74083,23 @@
       "number": "25",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.42,
+      "minutesFactor": 0.31,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 2.4,
-        "sotShare": 1.2,
+        "shotsShare": 2.1,
+        "sotShare": 1.1,
         "cardWeight": 0.02,
-        "foulWeight": 3.6
+        "foulWeight": 3.2
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 2.4,
-        "sot90": 1.2,
-        "passes90": 14,
+        "shots90": 2.1,
+        "sot90": 1.1,
+        "passes90": 13,
         "cards90": 0,
-        "fouls90": 3.6,
-        "minutesAvg": 38
+        "fouls90": 3.2,
+        "minutesAvg": 28
       },
       "hitRates": {
         "goals05": {
@@ -73992,9 +74128,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 50,
-          "l10": 50,
-          "season": 50
+          "l5": 33,
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -74002,12 +74138,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 50,
-          "l10": 50,
-          "season": 50
+          "l5": 33,
+          "l10": 33,
+          "season": 33
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -74044,12 +74195,12 @@
       "dataScope": "international",
       "searchText": "dominique simon haiti midfielder c",
       "importMeta": {
-        "appearances": 2,
+        "appearances": 3,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 1187376
     },
@@ -74990,67 +75141,82 @@
       "number": "9",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.62,
+      "minutesFactor": 0.6,
       "xgShare": 0.2,
       "propProfile": {
         "shotsShare": 3.9,
-        "sotShare": 1.5,
-        "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "sotShare": 1.6,
+        "cardWeight": 0.1,
+        "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 0.54,
-        "assists90": 0.11,
+        "goals90": 0.52,
+        "assists90": 0.1,
         "shots90": 3.9,
-        "sot90": 1.5,
-        "passes90": 22,
-        "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 56
+        "sot90": 1.6,
+        "passes90": 21,
+        "cards90": 0.1,
+        "fouls90": 1,
+        "minutesAvg": 54
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 40,
           "l10": 40,
-          "season": 60
+          "season": 56
         },
         "shots25": {
           "l5": 20,
           "l10": 20,
-          "season": 40
+          "season": 38
         },
         "sot05": {
-          "l5": 40,
-          "l10": 40,
-          "season": 60
+          "l5": 60,
+          "l10": 50,
+          "season": 63
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 0
+        },
         {
           "date": "2026-06-06",
           "opponent": "Peru",
@@ -75296,15 +75462,16 @@
       "dataScope": "international",
       "searchText": "duckens nazon haiti forward c",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C",
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-06"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 796023
     },
@@ -96413,29 +96580,29 @@
       "number": "20",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.8,
+      "minutesFactor": 0.76,
       "xgShare": 0.16,
       "propProfile": {
-        "shotsShare": 1.9,
+        "shotsShare": 1.8,
         "sotShare": 0.8,
         "cardWeight": 0.07,
         "foulWeight": 1.6
       },
       "seasonRates": {
-        "goals90": 0.3,
+        "goals90": 0.29,
         "assists90": 0.15,
-        "shots90": 1.9,
+        "shots90": 1.8,
         "sot90": 0.8,
         "passes90": 15,
         "cards90": 0.07,
         "fouls90": 1.6,
-        "minutesAvg": 72
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 24
+          "season": 22
         },
         "goals15": {
           "l5": 0,
@@ -96445,22 +96612,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 12
+          "season": 11
         },
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 41
+          "season": 39
         },
         "shots25": {
           "l5": 20,
           "l10": 20,
-          "season": 24
+          "season": 22
         },
         "sot05": {
           "l5": 20,
-          "l10": 30,
-          "season": 53
+          "l10": 20,
+          "season": 50
         },
         "cards05": {
           "l5": 20,
@@ -96470,10 +96637,25 @@
         "fouls15": {
           "l5": 40,
           "l10": 30,
-          "season": 29
+          "season": 28
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -96749,7 +96931,7 @@
       "dataScope": "international",
       "searchText": "frantzdy pierrot haiti forward c",
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -96758,7 +96940,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 943278
     },
@@ -99721,29 +99903,29 @@
       "number": "16",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.57,
-      "xgShare": 0.06,
+      "minutesFactor": 0.58,
+      "xgShare": 0.1,
       "propProfile": {
-        "shotsShare": 1.3,
-        "sotShare": 0.4,
+        "shotsShare": 1.2,
+        "sotShare": 0.6,
         "cardWeight": 0.02,
         "foulWeight": 0.9
       },
       "seasonRates": {
-        "goals90": 0,
+        "goals90": 0.29,
         "assists90": 0,
-        "shots90": 1.3,
-        "sot90": 0.4,
-        "passes90": 27,
+        "shots90": 1.2,
+        "sot90": 0.6,
+        "passes90": 18,
         "cards90": 0,
         "fouls90": 0.9,
-        "minutesAvg": 51
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -99756,19 +99938,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         },
         "shots25": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         },
         "sot05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 40,
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -99782,6 +99964,37 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 20,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 1
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -99851,12 +100064,12 @@
       "dataScope": "international",
       "searchText": "gessime yassine morocco midfielder c",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 6,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 1638338
     },
@@ -108833,7 +109046,7 @@
       "number": "5",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.93,
+      "minutesFactor": 0.94,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.05,
@@ -108846,10 +109059,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 43,
+        "passes90": 38,
         "cards90": 0,
         "fouls90": 0.7,
-        "minutesAvg": 84
+        "minutesAvg": 85
       },
       "hitRates": {
         "goals05": {
@@ -108889,11 +109102,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -109025,13 +109253,13 @@
       "dataScope": "international",
       "searchText": "hannes delcroix haiti defender c",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 826169
     },
@@ -120836,26 +121064,26 @@
       "minutesFactor": 0.73,
       "xgShare": 0.16,
       "propProfile": {
-        "shotsShare": 3.2,
-        "sotShare": 1.5,
+        "shotsShare": 3.4,
+        "sotShare": 1.4,
         "cardWeight": 0.02,
-        "foulWeight": 1.5
+        "foulWeight": 1.4
       },
       "seasonRates": {
-        "goals90": 0.64,
+        "goals90": 0.68,
         "assists90": 0,
-        "shots90": 3.2,
-        "sot90": 1.5,
-        "passes90": 32,
+        "shots90": 3.4,
+        "sot90": 1.4,
+        "passes90": 30,
         "cards90": 0,
-        "fouls90": 1.5,
+        "fouls90": 1.4,
         "minutesAvg": 66
       },
       "hitRates": {
         "goals05": {
           "l5": 60,
           "l10": 40,
-          "season": 33
+          "season": 38
         },
         "goals15": {
           "l5": 20,
@@ -120870,17 +121098,17 @@
         "shots15": {
           "l5": 60,
           "l10": 50,
-          "season": 53
+          "season": 56
         },
         "shots25": {
-          "l5": 40,
+          "l5": 60,
           "l10": 40,
-          "season": 47
+          "season": 50
         },
         "sot05": {
           "l5": 80,
           "l10": 60,
-          "season": 47
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -120890,10 +121118,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 27
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 70,
+          "goals": 1,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -121138,7 +121381,7 @@
       "dataScope": "international",
       "searchText": "ismael saibari morocco midfielder c",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -121146,7 +121389,7 @@
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 1063767
     },
@@ -130025,17 +130268,17 @@
       "minutesFactor": 0.89,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.4,
+        "shotsShare": 0.3,
         "sotShare": 0.03,
         "cardWeight": 0.02,
         "foulWeight": 0.8
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0,
-        "shots90": 0.4,
+        "assists90": 0.08,
+        "shots90": 0.3,
         "sot90": 0,
-        "passes90": 48,
+        "passes90": 45,
         "cards90": 0,
         "fouls90": 0.8,
         "minutesAvg": 80
@@ -130052,14 +130295,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "shots15": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "shots25": {
           "l5": 0,
@@ -130079,10 +130322,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 23
+          "season": 21
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -130295,7 +130553,7 @@
       "dataScope": "international",
       "searchText": "jean-kévin duverne haiti defender c",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -130304,7 +130562,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 845930
     },
@@ -130468,19 +130726,19 @@
       "minutesFactor": 0.96,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 1.6,
+        "shotsShare": 1.7,
         "sotShare": 0.3,
-        "cardWeight": 0.1,
-        "foulWeight": 2
+        "cardWeight": 0.09,
+        "foulWeight": 2.1
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.1,
-        "shots90": 1.6,
+        "assists90": 0.09,
+        "shots90": 1.7,
         "sot90": 0.3,
-        "passes90": 35,
-        "cards90": 0.1,
-        "fouls90": 2,
+        "passes90": 32,
+        "cards90": 0.09,
+        "fouls90": 2.1,
         "minutesAvg": 86
       },
       "hitRates": {
@@ -130497,35 +130755,50 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "shots15": {
           "l5": 60,
-          "l10": 50,
-          "season": 55
+          "l10": 60,
+          "season": 58
         },
         "shots25": {
-          "l5": 20,
-          "l10": 20,
-          "season": 18
+          "l5": 40,
+          "l10": 30,
+          "season": 25
         },
         "sot05": {
           "l5": 0,
           "l10": 30,
-          "season": 27
+          "season": 25
         },
         "cards05": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "fouls15": {
           "l5": 40,
-          "l10": 60,
-          "season": 64
+          "l10": 70,
+          "season": 67
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -130705,13 +130978,13 @@
       "dataScope": "international",
       "searchText": "jean-ricner bellegarde haiti midfielder c",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 845273
     },
@@ -141485,13 +141758,19 @@
       "benchImpact": false,
       "minutesFactor": 1,
       "xgShare": 0.02,
+      "propProfile": {
+        "shotsShare": 0.05,
+        "sotShare": 0.03,
+        "cardWeight": 0.06,
+        "foulWeight": 0.03
+      },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 28,
-        "cards90": 0,
+        "passes90": 26,
+        "cards90": 0.06,
         "fouls90": 0,
         "minutesAvg": 90
       },
@@ -141527,9 +141806,9 @@
           "season": 0
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
           "l5": 0,
@@ -141538,6 +141817,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 0,
+          "saves": 8
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -141841,7 +142136,7 @@
       "dataScope": "international",
       "searchText": "johny placide haiti goalkeeper c",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -141850,7 +142145,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 37224
     },
@@ -149826,23 +150121,23 @@
       "number": "21",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.73,
+      "minutesFactor": 0.77,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 1.4,
+        "shotsShare": 1.2,
         "sotShare": 0.03,
-        "cardWeight": 0.02,
-        "foulWeight": 2.9
+        "cardWeight": 0.15,
+        "foulWeight": 2.8
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.17,
-        "shots90": 1.4,
+        "assists90": 0.15,
+        "shots90": 1.2,
         "sot90": 0,
-        "passes90": 25,
-        "cards90": 0,
-        "fouls90": 2.9,
-        "minutesAvg": 66
+        "passes90": 22,
+        "cards90": 0.15,
+        "fouls90": 2.8,
+        "minutesAvg": 69
       },
       "hitRates": {
         "goals05": {
@@ -149856,14 +150151,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l5": 0,
+          "l10": 11,
+          "season": 11
         },
         "shots15": {
           "l5": 20,
-          "l10": 38,
-          "season": 38
+          "l10": 33,
+          "season": 33
         },
         "shots25": {
           "l5": 0,
@@ -149876,17 +150171,32 @@
           "season": 0
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 11,
+          "season": 11
         },
         "fouls15": {
           "l5": 40,
-          "l10": 50,
-          "season": 50
+          "l10": 56,
+          "season": 56
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -150018,13 +150328,13 @@
       "dataScope": "international",
       "searchText": "josué casimir haiti midfielder c",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "World Cup Qual. CONCACAF Group C"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 1035986
     },
@@ -172806,23 +173116,23 @@
       "number": "16",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.23,
+      "minutesFactor": 0.41,
       "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 0.05,
+        "shotsShare": 1.2,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 2.9
+        "foulWeight": 3.7
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
+        "shots90": 1.2,
         "sot90": 0,
-        "passes90": 3,
+        "passes90": 1,
         "cards90": 0,
-        "fouls90": 2.9,
-        "minutesAvg": 21
+        "fouls90": 3.7,
+        "minutesAvg": 37
       },
       "hitRates": {
         "goals05": {
@@ -172841,9 +173151,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots25": {
           "l5": 0,
@@ -172861,12 +173171,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 4
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -172918,12 +173243,12 @@
       "dataScope": "international",
       "searchText": "lenny joseph haiti forward c",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 1010126
     },
@@ -176579,29 +176904,29 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.53,
+      "minutesFactor": 0.52,
       "xgShare": 0.2,
       "propProfile": {
-        "shotsShare": 2.5,
-        "sotShare": 1.6,
+        "shotsShare": 2.6,
+        "sotShare": 1.5,
         "cardWeight": 0.02,
         "foulWeight": 2
       },
       "seasonRates": {
-        "goals90": 0.55,
+        "goals90": 0.54,
         "assists90": 0.11,
-        "shots90": 2.5,
-        "sot90": 1.6,
-        "passes90": 16,
+        "shots90": 2.6,
+        "sot90": 1.5,
+        "passes90": 15,
         "cards90": 0,
         "fouls90": 2,
-        "minutesAvg": 48
+        "minutesAvg": 47
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 20,
-          "season": 29
+          "season": 28
         },
         "goals15": {
           "l5": 0,
@@ -176616,17 +176941,17 @@
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 35
+          "season": 33
         },
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 12
+          "season": 11
         },
         "sot05": {
           "l5": 20,
           "l10": 50,
-          "season": 65
+          "season": 61
         },
         "cards05": {
           "l5": 0,
@@ -176635,11 +176960,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 30,
-          "season": 29
+          "l10": 20,
+          "season": 28
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -176915,7 +177255,7 @@
       "dataScope": "international",
       "searchText": "louicius don deedson haiti forward c",
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -176924,7 +177264,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 991451
     },
@@ -192101,23 +192441,23 @@
       "number": "4",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.83,
+      "minutesFactor": 0.84,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.3,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.9
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.16,
+        "assists90": 0.15,
         "shots90": 0.3,
         "sot90": 0,
-        "passes90": 28,
+        "passes90": 26,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 75
+        "fouls90": 0.9,
+        "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
@@ -192137,8 +192477,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
-          "season": 7
+          "l10": 0,
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -192156,12 +192496,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 60,
-          "l10": 30,
-          "season": 20
+          "l5": 80,
+          "l10": 40,
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -192405,7 +192760,7 @@
       "dataScope": "international",
       "searchText": "martin expérience haiti defender c",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -192414,7 +192769,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 1110369
     },
@@ -221000,19 +221355,19 @@
       "minutesFactor": 0.98,
       "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 1.4,
+        "shotsShare": 1.3,
         "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 1.6
+        "foulWeight": 1.5
       },
       "seasonRates": {
-        "goals90": 0.14,
+        "goals90": 0.13,
         "assists90": 0,
-        "shots90": 1.4,
+        "shots90": 1.3,
         "sot90": 0.3,
-        "passes90": 52,
+        "passes90": 49,
         "cards90": 0,
-        "fouls90": 1.6,
+        "fouls90": 1.5,
         "minutesAvg": 88
       },
       "hitRates": {
@@ -221034,17 +221389,17 @@
         "shots15": {
           "l5": 40,
           "l10": 30,
-          "season": 27
+          "season": 25
         },
         "shots25": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "sot05": {
-          "l5": 40,
-          "l10": 20,
-          "season": 20
+          "l5": 60,
+          "l10": 30,
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -221052,12 +221407,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 80,
+          "l5": 60,
           "l10": 50,
-          "season": 47
+          "season": 44
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -221302,7 +221672,7 @@
       "dataScope": "international",
       "searchText": "neil el aynaoui morocco midfielder c",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -221310,7 +221680,7 @@
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 1128530
     },
@@ -230162,7 +230532,7 @@
       "number": "3",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.84,
+      "minutesFactor": 0.78,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.2,
@@ -230175,10 +230545,10 @@
         "assists90": 0.32,
         "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 50,
+        "passes90": 49,
         "cards90": 0,
         "fouls90": 1.6,
-        "minutesAvg": 76
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
@@ -230193,8 +230563,8 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 20,
-          "season": 27
+          "l10": 10,
+          "season": 25
         },
         "shots15": {
           "l5": 0,
@@ -230209,7 +230579,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "cards05": {
           "l5": 0,
@@ -230217,12 +230587,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 50,
-          "season": 55
+          "l5": 20,
+          "l10": 40,
+          "season": 50
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -230403,14 +230788,14 @@
       "dataScope": "international",
       "searchText": "noussair mazraoui morocco defender c",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group A"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 847030
     },
@@ -250153,25 +250538,25 @@
       "group": "C",
       "position": "Defender",
       "number": "25",
-      "likelyStarter": false,
-      "benchImpact": true,
-      "minutesFactor": 0.59,
-      "xgShare": 0.01,
+      "likelyStarter": true,
+      "benchImpact": false,
+      "minutesFactor": 0.7,
+      "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.6,
+        "shotsShare": 0.4,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.7
+        "foulWeight": 1.4
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.6,
+        "shots90": 0.4,
         "sot90": 0,
-        "passes90": 82,
+        "passes90": 53,
         "cards90": 0,
-        "fouls90": 1.7,
-        "minutesAvg": 53
+        "fouls90": 1.4,
+        "minutesAvg": 63
       },
       "hitRates": {
         "goals05": {
@@ -250210,12 +250595,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-07",
           "opponent": "Norway",
@@ -250269,11 +250669,12 @@
       "dataScope": "international",
       "searchText": "redouane halhal morocco defender c",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-07"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 1143667
     },
@@ -251366,16 +251767,16 @@
         "shotsShare": 0.4,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "foulWeight": 1
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 44,
+        "passes90": 41,
         "cards90": 0,
-        "fouls90": 0.9,
+        "fouls90": 1,
         "minutesAvg": 88
       },
       "hitRates": {
@@ -251416,11 +251817,26 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 20,
-          "season": 24
+          "l10": 30,
+          "season": 28
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -251696,7 +252112,7 @@
       "dataScope": "international",
       "searchText": "ricardo adé haiti defender c",
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -251705,7 +252121,7 @@
           "World Cup Qualification, CONCACAF 2nd round, Group C",
           "CONCACAF Nations League, League B, Group C"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 839638
     },
@@ -259009,17 +259425,17 @@
       "minutesFactor": 0.69,
       "xgShare": 0.09,
       "propProfile": {
-        "shotsShare": 1.9,
-        "sotShare": 0.8,
+        "shotsShare": 1.8,
+        "sotShare": 0.7,
         "cardWeight": 0.02,
         "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 0.19,
-        "assists90": 0.1,
-        "shots90": 1.9,
-        "sot90": 0.8,
-        "passes90": 19,
+        "goals90": 0.18,
+        "assists90": 0.09,
+        "shots90": 1.8,
+        "sot90": 0.7,
+        "passes90": 17,
         "cards90": 0,
         "fouls90": 0.7,
         "minutesAvg": 62
@@ -259038,22 +259454,22 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
           "l5": 40,
-          "l10": 50,
-          "season": 47
+          "l10": 40,
+          "season": 44
         },
         "shots25": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 19
         },
         "sot05": {
           "l5": 40,
-          "l10": 50,
-          "season": 40
+          "l10": 40,
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -259063,10 +259479,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 20
+          "season": 19
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -259310,7 +259741,7 @@
       "dataScope": "international",
       "searchText": "ruben providence haiti midfielder c",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -259318,7 +259749,7 @@
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, CONCACAF 2nd round, Group C"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 954066
     },
@@ -264475,17 +264906,17 @@
       "number": "28",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.41,
+      "minutesFactor": 0.36,
       "xgShare": 0.03,
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 73,
+        "passes90": 70,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 37
+        "minutesAvg": 32
       },
       "hitRates": {
         "goals05": {
@@ -264530,6 +264961,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -264614,12 +265060,12 @@
       "dataScope": "international",
       "searchText": "samir el mourabet morocco midfielder c",
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 1605921
     },
@@ -273127,23 +273573,23 @@
       "number": "4",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.79,
+      "minutesFactor": 0.81,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.3,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.7
+        "foulWeight": 1.6
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0,
-        "passes90": 71,
+        "passes90": 62,
         "cards90": 0,
-        "fouls90": 1.7,
-        "minutesAvg": 71
+        "fouls90": 1.6,
+        "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
@@ -273182,12 +273628,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 44,
-          "season": 44
+          "l5": 20,
+          "l10": 40,
+          "season": 40
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-07",
           "opponent": "Norway",
@@ -273337,14 +273798,15 @@
       "dataScope": "international",
       "searchText": "sofyan amrabat morocco midfielder c",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-07"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 359272
     },
@@ -274118,29 +274580,29 @@
       "number": "9",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.36,
-      "xgShare": 0.12,
+      "minutesFactor": 0.33,
+      "xgShare": 0.14,
       "propProfile": {
-        "shotsShare": 1.9,
-        "sotShare": 1.3,
+        "shotsShare": 2.4,
+        "sotShare": 1.5,
         "cardWeight": 0.02,
-        "foulWeight": 3.2
+        "foulWeight": 3.6
       },
       "seasonRates": {
-        "goals90": 0.63,
-        "assists90": 0,
-        "shots90": 1.9,
-        "sot90": 1.3,
-        "passes90": 18,
+        "goals90": 0.89,
+        "assists90": 0.3,
+        "shots90": 2.4,
+        "sot90": 1.5,
+        "passes90": 17,
         "cards90": 0,
-        "fouls90": 3.2,
-        "minutesAvg": 32
+        "fouls90": 3.6,
+        "minutesAvg": 30
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l5": 40,
+          "l10": 30,
+          "season": 30
         },
         "goals15": {
           "l5": 0,
@@ -274148,24 +274610,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
-          "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "sot05": {
-          "l5": 40,
-          "l10": 44,
-          "season": 44
+          "l5": 60,
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -274174,11 +274636,26 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 44,
-          "season": 44
+          "l10": 50,
+          "season": 50
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 20,
+          "goals": 1,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -274327,14 +274804,14 @@
       "dataScope": "international",
       "searchText": "soufiane rahimi morocco forward c",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group A"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 953995
     },
@@ -294345,29 +294822,29 @@
       "number": "18",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.7,
-      "xgShare": 0.21,
+      "minutesFactor": 0.71,
+      "xgShare": 0.22,
       "propProfile": {
-        "shotsShare": 3.1,
+        "shotsShare": 2.8,
         "sotShare": 0.9,
         "cardWeight": 0.02,
-        "foulWeight": 2.3
+        "foulWeight": 1.9
       },
       "seasonRates": {
-        "goals90": 0.57,
+        "goals90": 0.7,
         "assists90": 0,
-        "shots90": 3.1,
+        "shots90": 2.8,
         "sot90": 0.9,
-        "passes90": 10,
+        "passes90": 8,
         "cards90": 0,
-        "fouls90": 2.3,
-        "minutesAvg": 63
+        "fouls90": 1.9,
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l5": 60,
+          "l10": 50,
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -294380,19 +294857,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 100,
-          "l10": 100,
-          "season": 100
+          "l5": 80,
+          "l10": 83,
+          "season": 83
         },
         "shots25": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "sot05": {
-          "l5": 60,
-          "l10": 60,
-          "season": 60
+          "l5": 80,
+          "l10": 67,
+          "season": 67
         },
         "cards05": {
           "l5": 0,
@@ -294400,12 +294877,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l5": 20,
+          "l10": 33,
+          "season": 33
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Morocco",
+          "competition": "FIFA World Cup, Group C",
+          "result": "L",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-20",
           "opponent": "Brazil",
@@ -294489,12 +294981,12 @@
       "dataScope": "international",
       "searchText": "wilson isidor haiti forward c",
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-20"
+        "lastMatch": "2026-06-24"
       },
       "sofascoreId": 877980
     },

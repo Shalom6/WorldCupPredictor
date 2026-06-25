@@ -3,8 +3,8 @@
   "team": "Morocco",
   "group": "C",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-24T23:35:34.793Z",
-  "eventsProcessed": 16,
+  "importedAt": "2026-06-25T01:34:09.273Z",
+  "eventsProcessed": 17,
   "teamMatchResults": [
     {
       "date": "2026-06-13",
@@ -14,6 +14,15 @@
       "goalsFor": 1,
       "goalsAgainst": 1,
       "venue": "away"
+    },
+    {
+      "date": "2026-06-24",
+      "opponent": "Haiti",
+      "competition": "FIFA World Cup, Group C",
+      "result": "W",
+      "goalsFor": 4,
+      "goalsAgainst": 2,
+      "venue": "home"
     },
     {
       "date": "2026-06-07",
@@ -619,6 +628,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 1,
+          "shots": 5,
+          "shotsOnTarget": 3,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-13",
           "opponent": "Brazil",
           "competition": "FIFA World Cup, Group C",
@@ -779,20 +803,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0,
-        "assists90": 0.8,
-        "shots90": 2.1,
-        "sot90": 0.7,
-        "passes90": 60,
+        "goals90": 0.1,
+        "assists90": 0.82,
+        "shots90": 2.4,
+        "sot90": 0.9,
+        "passes90": 54,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 79
+        "minutesAvg": 80
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 9
         },
         "goals15": {
           "l5": 0,
@@ -800,24 +824,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 40,
+          "l5": 60,
           "l10": 60,
-          "season": 60
+          "season": 64
         },
         "shots15": {
-          "l5": 20,
+          "l5": 40,
           "l10": 50,
-          "season": 50
+          "season": 55
         },
         "shots25": {
-          "l5": 20,
+          "l5": 40,
           "l10": 40,
-          "season": 40
+          "season": 45
         },
         "sot05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 50,
-          "season": 50
+          "season": 55
         },
         "cards05": {
           "l5": 0,
@@ -825,13 +849,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 30,
-          "season": 30
+          "season": 27
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -839,7 +863,7 @@
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -854,6 +878,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -1000,13 +1039,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.17,
-        "shots90": 0.2,
+        "assists90": 0.14,
+        "shots90": 0.1,
         "sot90": 0,
-        "passes90": 56,
+        "passes90": 48,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 60
+        "fouls90": 0.9,
+        "minutesAvg": 62
       },
       "hitRates": {
         "goals05": {
@@ -1021,8 +1060,8 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
           "l5": 0,
@@ -1046,19 +1085,19 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group A"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -1073,6 +1112,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -1139,13 +1193,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0,
-        "shots90": 0.3,
-        "sot90": 0.3,
-        "passes90": 37,
+        "assists90": 0.24,
+        "shots90": 0.5,
+        "sot90": 0.2,
+        "passes90": 28,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 73
+        "fouls90": 0.5,
+        "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
@@ -1159,9 +1213,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots15": {
           "l5": 0,
@@ -1174,9 +1228,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -1190,12 +1244,12 @@
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -1551,6 +1605,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-13",
           "opponent": "Brazil",
           "competition": "FIFA World Cup, Group C",
@@ -1731,10 +1800,10 @@
         "assists90": 0.32,
         "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 50,
+        "passes90": 49,
         "cards90": 0,
         "fouls90": 1.6,
-        "minutesAvg": 76
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
@@ -1749,8 +1818,8 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 20,
-          "season": 27
+          "l10": 10,
+          "season": 25
         },
         "shots15": {
           "l5": 0,
@@ -1765,7 +1834,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "cards05": {
           "l5": 0,
@@ -1773,20 +1842,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 50,
-          "season": 55
+          "l5": 20,
+          "l10": 40,
+          "season": 50
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group A"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -1796,11 +1865,26 @@
       "group": "C",
       "position": "Defender",
       "number": "25",
-      "likelyStarter": false,
+      "likelyStarter": true,
       "sofascoreId": 1143667,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-07",
           "opponent": "Norway",
@@ -1853,12 +1937,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.6,
+        "shots90": 0.4,
         "sot90": 0,
-        "passes90": 82,
+        "passes90": 53,
         "cards90": 0,
-        "fouls90": 1.7,
-        "minutesAvg": 53
+        "fouls90": 1.4,
+        "minutesAvg": 63
       },
       "hitRates": {
         "goals05": {
@@ -1897,17 +1981,18 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-07"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -2409,6 +2494,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-13",
           "opponent": "Brazil",
           "competition": "FIFA World Cup, Group C",
@@ -2569,20 +2669,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.28,
-        "assists90": 0.28,
+        "goals90": 0.27,
+        "assists90": 0.27,
         "shots90": 2.3,
         "sot90": 0.7,
-        "passes90": 61,
+        "passes90": 59,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 64
+        "fouls90": 0.5,
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -2590,24 +2690,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
-          "l5": 40,
-          "l10": 60,
-          "season": 60
+          "l5": 20,
+          "l10": 50,
+          "season": 55
         },
         "shots25": {
-          "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l5": 20,
+          "l10": 30,
+          "season": 36
         },
         "sot05": {
           "l5": 0,
-          "l10": 30,
-          "season": 30
+          "l10": 20,
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -2617,18 +2717,18 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -2643,6 +2743,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -2868,20 +2983,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.29,
-        "assists90": 0.14,
-        "shots90": 1.3,
-        "sot90": 0.3,
-        "passes90": 53,
+        "goals90": 0.25,
+        "assists90": 0.13,
+        "shots90": 1.4,
+        "sot90": 0.5,
+        "passes90": 46,
         "cards90": 0,
-        "fouls90": 2.9,
-        "minutesAvg": 45
+        "fouls90": 2.6,
+        "minutesAvg": 48
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 20,
-          "season": 14
+          "l10": 10,
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -2894,9 +3009,9 @@
           "season": 7
         },
         "shots15": {
-          "l5": 20,
+          "l5": 40,
           "l10": 20,
-          "season": 21
+          "season": 27
         },
         "shots25": {
           "l5": 0,
@@ -2904,9 +3019,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 20,
-          "season": 14
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -2916,11 +3031,11 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 36
+          "season": 33
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -2928,7 +3043,7 @@
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -2943,6 +3058,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -3184,11 +3314,11 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.53,
-        "assists90": 0.09,
-        "shots90": 2.8,
-        "sot90": 1.5,
-        "passes90": 32,
+        "goals90": 0.49,
+        "assists90": 0.08,
+        "shots90": 2.7,
+        "sot90": 1.4,
+        "passes90": 30,
         "cards90": 0,
         "fouls90": 1.2,
         "minutesAvg": 68
@@ -3196,8 +3326,8 @@
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 60,
-          "season": 40
+          "l10": 50,
+          "season": 38
         },
         "goals15": {
           "l5": 0,
@@ -3207,22 +3337,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots15": {
-          "l5": 60,
-          "l10": 70,
-          "season": 67
+          "l5": 40,
+          "l10": 60,
+          "season": 63
         },
         "shots25": {
           "l5": 40,
           "l10": 50,
-          "season": 40
+          "season": 38
         },
         "sot05": {
           "l5": 60,
-          "l10": 80,
-          "season": 73
+          "l10": 70,
+          "season": 69
         },
         "cards05": {
           "l5": 0,
@@ -3230,13 +3360,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 40,
-          "season": 27
+          "l5": 0,
+          "l10": 30,
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -3244,7 +3374,7 @@
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -3431,6 +3561,37 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 20,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 1
+        },
+        {
           "date": "2026-06-13",
           "opponent": "Brazil",
           "competition": "FIFA World Cup, Group C",
@@ -3496,20 +3657,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0,
+        "goals90": 0.29,
         "assists90": 0,
-        "shots90": 1.3,
-        "sot90": 0.4,
-        "passes90": 27,
+        "shots90": 1.2,
+        "sot90": 0.6,
+        "passes90": 18,
         "cards90": 0,
         "fouls90": 0.9,
-        "minutesAvg": 51
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -3522,19 +3683,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         },
         "shots25": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         },
         "sot05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 40,
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -3548,12 +3709,12 @@
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 6,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -3568,6 +3729,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 70,
+          "goals": 1,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -3809,20 +3985,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.64,
+        "goals90": 0.68,
         "assists90": 0,
-        "shots90": 3.2,
-        "sot90": 1.5,
-        "passes90": 32,
+        "shots90": 3.4,
+        "sot90": 1.4,
+        "passes90": 30,
         "cards90": 0,
-        "fouls90": 1.5,
+        "fouls90": 1.4,
         "minutesAvg": 66
       },
       "hitRates": {
         "goals05": {
           "l5": 60,
           "l10": 40,
-          "season": 33
+          "season": 38
         },
         "goals15": {
           "l5": 20,
@@ -3837,17 +4013,17 @@
         "shots15": {
           "l5": 60,
           "l10": 50,
-          "season": 53
+          "season": 56
         },
         "shots25": {
-          "l5": 40,
+          "l5": 60,
           "l10": 40,
-          "season": 47
+          "season": 50
         },
         "sot05": {
           "l5": 80,
           "l10": 60,
-          "season": 47
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -3857,11 +4033,11 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 27
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -3869,7 +4045,7 @@
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -3884,6 +4060,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -4125,13 +4316,13 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.14,
+        "goals90": 0.13,
         "assists90": 0,
-        "shots90": 1.4,
+        "shots90": 1.3,
         "sot90": 0.3,
-        "passes90": 52,
+        "passes90": 49,
         "cards90": 0,
-        "fouls90": 1.6,
+        "fouls90": 1.5,
         "minutesAvg": 88
       },
       "hitRates": {
@@ -4153,17 +4344,17 @@
         "shots15": {
           "l5": 40,
           "l10": 30,
-          "season": 27
+          "season": 25
         },
         "shots25": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 19
         },
         "sot05": {
-          "l5": 40,
-          "l10": 20,
-          "season": 20
+          "l5": 60,
+          "l10": 30,
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -4171,13 +4362,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 80,
+          "l5": 60,
           "l10": 50,
-          "season": 47
+          "season": 44
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
@@ -4185,7 +4376,7 @@
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -4200,6 +4391,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -4285,10 +4491,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 73,
+        "passes90": 70,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 37
+        "minutesAvg": 32
       },
       "hitRates": {
         "goals05": {
@@ -4333,12 +4539,12 @@
         }
       },
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -4353,6 +4559,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-07",
           "opponent": "Norway",
@@ -4503,10 +4724,10 @@
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0,
-        "passes90": 71,
+        "passes90": 62,
         "cards90": 0,
-        "fouls90": 1.7,
-        "minutesAvg": 71
+        "fouls90": 1.6,
+        "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
@@ -4545,20 +4766,21 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 44,
-          "season": 44
+          "l5": 20,
+          "l10": 40,
+          "season": 40
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-07"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -4573,6 +4795,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-07",
           "opponent": "Norway",
@@ -4783,45 +5020,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.71,
-        "assists90": 0.14,
-        "shots90": 3.5,
-        "sot90": 1.4,
-        "passes90": 21,
+        "goals90": 0.64,
+        "assists90": 0.13,
+        "shots90": 3.6,
+        "sot90": 1.5,
+        "passes90": 19,
         "cards90": 0,
-        "fouls90": 2.8,
-        "minutesAvg": 49
+        "fouls90": 2.7,
+        "minutesAvg": 51
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 30,
-          "season": 31
+          "season": 29
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots15": {
           "l5": 60,
           "l10": 60,
-          "season": 62
+          "season": 64
         },
         "shots25": {
           "l5": 20,
-          "l10": 30,
-          "season": 38
+          "l10": 40,
+          "season": 43
         },
         "sot05": {
-          "l5": 20,
-          "l10": 40,
-          "season": 46
+          "l5": 40,
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -4831,18 +5068,19 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 38
+          "season": 36
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group A",
           "FIFA World Cup, Qualification CAF, Group E"
         ],
-        "lastMatch": "2026-06-07"
+        "lastMatch": "2026-06-24"
       }
     },
     {
@@ -4978,6 +5216,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-24",
+          "opponent": "Haiti",
+          "competition": "FIFA World Cup, Group C",
+          "result": "W",
+          "venue": "home",
+          "minutes": 20,
+          "goals": 1,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-13",
           "opponent": "Brazil",
@@ -5123,20 +5376,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.63,
-        "assists90": 0,
-        "shots90": 1.9,
-        "sot90": 1.3,
-        "passes90": 18,
+        "goals90": 0.89,
+        "assists90": 0.3,
+        "shots90": 2.4,
+        "sot90": 1.5,
+        "passes90": 17,
         "cards90": 0,
-        "fouls90": 3.2,
-        "minutesAvg": 32
+        "fouls90": 3.6,
+        "minutesAvg": 30
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l5": 40,
+          "l10": 30,
+          "season": 30
         },
         "goals15": {
           "l5": 0,
@@ -5144,24 +5397,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
-          "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "sot05": {
-          "l5": 40,
-          "l10": 44,
-          "season": 44
+          "l5": 60,
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -5170,19 +5423,19 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 44,
-          "season": 44
+          "l10": 50,
+          "season": 50
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group C",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group A"
         ],
-        "lastMatch": "2026-06-13"
+        "lastMatch": "2026-06-24"
       }
     }
   ],
