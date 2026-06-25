@@ -2,11 +2,11 @@
   "team": "South Africa",
   "group": "A",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-25T05:46:50.182Z",
+  "importedAt": "2026-06-25T08:39:25.748Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-11",
     "2026-06-25",
+    "2026-06-11",
     "2026-06-06",
     "2026-05-29",
     "2026-03-31",
@@ -25,15 +25,6 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-11",
-      "opponent": "Mexico",
-      "competition": "FIFA World Cup, Group A",
-      "result": "L",
-      "goalsFor": 0,
-      "goalsAgainst": 2,
-      "venue": "away"
-    },
-    {
       "date": "2026-06-25",
       "opponent": "South Korea",
       "competition": "FIFA World Cup, Group A",
@@ -41,6 +32,15 @@
       "goalsFor": 1,
       "goalsAgainst": 0,
       "venue": "home"
+    },
+    {
+      "date": "2026-06-11",
+      "opponent": "Mexico",
+      "competition": "FIFA World Cup, Group A",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "venue": "away"
     },
     {
       "date": "2026-06-06",
@@ -423,11 +423,11 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Mexico",
+          "date": "2026-06-25",
+          "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
+          "result": "W",
+          "venue": "home",
           "minutes": 90,
           "goals": 0,
           "assists": 0,
@@ -439,11 +439,11 @@
           "saves": 2
         },
         {
-          "date": "2026-06-25",
-          "opponent": "South Korea",
+          "date": "2026-06-11",
+          "opponent": "Mexico",
           "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
+          "result": "L",
+          "venue": "away",
           "minutes": 90,
           "goals": 0,
           "assists": 0,
@@ -827,21 +827,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Mexico",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 77,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
@@ -855,6 +840,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-03-31",
@@ -1147,11 +1147,11 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Mexico",
+          "date": "2026-06-25",
+          "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
+          "result": "W",
+          "venue": "home",
           "minutes": 90,
           "goals": 0,
           "assists": 0,
@@ -1162,11 +1162,11 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-25",
-          "opponent": "South Korea",
+          "date": "2026-06-11",
+          "opponent": "Mexico",
           "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
+          "result": "L",
+          "venue": "away",
           "minutes": 90,
           "goals": 0,
           "assists": 0,
@@ -1309,21 +1309,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Mexico",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
@@ -1337,6 +1322,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-03-31",
@@ -1699,21 +1699,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Mexico",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
@@ -1727,6 +1712,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-03-31",
@@ -2822,12 +2822,12 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Mexico",
+          "date": "2026-06-25",
+          "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 61,
+          "result": "W",
+          "venue": "home",
+          "minutes": 10,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -2837,12 +2837,12 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-25",
-          "opponent": "South Korea",
+          "date": "2026-06-11",
+          "opponent": "Mexico",
           "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 10,
+          "result": "L",
+          "venue": "away",
+          "minutes": 61,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -3506,21 +3506,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Mexico",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 13,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
@@ -3534,6 +3519,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-05-29",
@@ -3901,21 +3901,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Mexico",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 49,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 3
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
@@ -3929,6 +3914,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 49,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 3
         },
         {
           "date": "2026-05-29",
@@ -4498,21 +4498,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Mexico",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 34,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
@@ -4526,6 +4511,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 34,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-05-29",
@@ -5059,21 +5059,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Mexico",
-          "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 14,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
@@ -5087,6 +5072,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Mexico",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-03-31",
@@ -5227,12 +5227,12 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Mexico",
+          "date": "2026-06-25",
+          "opponent": "South Korea",
           "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 76,
+          "result": "W",
+          "venue": "home",
+          "minutes": 15,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -5242,12 +5242,12 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-25",
-          "opponent": "South Korea",
+          "date": "2026-06-11",
+          "opponent": "Mexico",
           "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 15,
+          "result": "L",
+          "venue": "away",
+          "minutes": 76,
           "goals": 0,
           "assists": 0,
           "shots": 0,

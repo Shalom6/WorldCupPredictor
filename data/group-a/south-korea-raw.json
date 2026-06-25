@@ -2,11 +2,11 @@
   "team": "South Korea",
   "group": "A",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-25T05:46:50.299Z",
+  "importedAt": "2026-06-25T08:39:25.757Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-11",
     "2026-06-25",
+    "2026-06-11",
     "2026-06-04",
     "2026-05-31",
     "2026-03-31",
@@ -25,15 +25,6 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-11",
-      "opponent": "Czechia",
-      "competition": "FIFA World Cup, Group A",
-      "result": "W",
-      "goalsFor": 2,
-      "goalsAgainst": 1,
-      "venue": "home"
-    },
-    {
       "date": "2026-06-25",
       "opponent": "South Africa",
       "competition": "FIFA World Cup, Group A",
@@ -41,6 +32,15 @@
       "goalsFor": 0,
       "goalsAgainst": 1,
       "venue": "away"
+    },
+    {
+      "date": "2026-06-11",
+      "opponent": "Czechia",
+      "competition": "FIFA World Cup, Group A",
+      "result": "W",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "venue": "home"
     },
     {
       "date": "2026-06-04",
@@ -622,11 +622,11 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
+          "result": "L",
+          "venue": "away",
           "minutes": 90,
           "goals": 0,
           "assists": 0,
@@ -638,11 +638,11 @@
           "saves": 3
         },
         {
-          "date": "2026-06-25",
-          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
+          "result": "W",
+          "venue": "home",
           "minutes": 90,
           "goals": 0,
           "assists": 0,
@@ -907,21 +907,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
@@ -934,6 +919,21 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
+          "fouls": 1
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Czechia",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
           "fouls": 1
         },
         {
@@ -979,21 +979,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 3
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
@@ -1007,6 +992,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Czechia",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
         },
         {
           "date": "2026-06-04",
@@ -1331,21 +1331,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
@@ -1359,6 +1344,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Czechia",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-04",
@@ -2357,21 +2357,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
@@ -2385,6 +2370,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Czechia",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-04",
@@ -3141,21 +3141,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 84,
-          "goals": 1,
-          "assists": 1,
-          "shots": 3,
-          "shotsOnTarget": 2,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
@@ -3166,6 +3151,21 @@
           "assists": 0,
           "shots": 0,
           "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Czechia",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 84,
+          "goals": 1,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 2,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -3996,21 +3996,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 6,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
@@ -4020,6 +4005,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Czechia",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 6,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -4260,21 +4260,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 6,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
@@ -4285,6 +4270,21 @@
           "assists": 0,
           "shots": 1,
           "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Czechia",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 6,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -4714,21 +4714,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 1,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
@@ -4739,6 +4724,21 @@
           "assists": 0,
           "shots": 1,
           "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Czechia",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -5036,21 +5036,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 69,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
@@ -5064,6 +5049,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Czechia",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 69,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-04",
@@ -5432,12 +5432,12 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
+          "date": "2026-06-25",
+          "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 84,
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -5447,12 +5447,12 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-25",
-          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "opponent": "Czechia",
           "competition": "FIFA World Cup, Group A",
-          "result": "L",
-          "venue": "away",
-          "minutes": 45,
+          "result": "W",
+          "venue": "home",
+          "minutes": 84,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -5915,21 +5915,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 28,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
@@ -5943,6 +5928,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Czechia",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-04",
@@ -6147,21 +6147,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 21,
-          "goals": 1,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
@@ -6171,6 +6156,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Czechia",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 21,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
           "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
@@ -6903,21 +6903,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-11",
-          "opponent": "Czechia",
-          "competition": "FIFA World Cup, Group A",
-          "result": "W",
-          "venue": "home",
-          "minutes": 69,
-          "goals": 0,
-          "assists": 0,
-          "shots": 6,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "South Africa",
           "competition": "FIFA World Cup, Group A",
@@ -6928,6 +6913,21 @@
           "assists": 0,
           "shots": 1,
           "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-11",
+          "opponent": "Czechia",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 69,
+          "goals": 0,
+          "assists": 0,
+          "shots": 6,
+          "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
           "fouls": 0
