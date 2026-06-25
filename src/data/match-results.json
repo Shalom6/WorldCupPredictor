@@ -1944,8 +1944,8 @@
       },
       "teamStats": {
         "possession": {
-          "home": 69,
-          "away": 31
+          "home": 69.1,
+          "away": 30.9
         },
         "shots": {
           "home": 22,
@@ -1980,7 +1980,62 @@
           "away": 80
         }
       },
-      "syncedAt": "2026-06-25T01:34:08.445Z",
+      "syncedAt": "2026-06-25T05:46:49.311Z",
+      "source": "espn"
+    },
+    "GS-A-6": {
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 0,
+      "scorers": {
+        "home": [
+          {
+            "name": "Thapelo Maseko",
+            "minute": "63'",
+            "assist": "Tshepang Moremi"
+          }
+        ],
+        "away": []
+      },
+      "teamStats": {
+        "possession": {
+          "home": 31.5,
+          "away": 68.5
+        },
+        "shots": {
+          "home": 13,
+          "away": 8
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 3
+        },
+        "corners": {
+          "home": 4,
+          "away": 6
+        },
+        "fouls": {
+          "home": 7,
+          "away": 9
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 2,
+          "away": 3
+        },
+        "passAccuracy": {
+          "home": 80,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-25T05:46:49.028Z",
       "source": "espn"
     }
   }

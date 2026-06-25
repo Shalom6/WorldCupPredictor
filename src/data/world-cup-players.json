@@ -16,22 +16,22 @@
       "Croatia": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-25T01:34:14.843Z"
+        "importedAt": "2026-06-25T05:46:57.874Z"
       },
       "England": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-25T01:34:14.843Z"
+        "importedAt": "2026-06-25T05:46:57.874Z"
       },
       "Ghana": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-25T01:34:14.843Z"
+        "importedAt": "2026-06-25T05:46:57.874Z"
       },
       "Panama": {
         "playerCount": 31,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-25T01:34:14.843Z"
+        "importedAt": "2026-06-25T05:46:57.874Z"
       }
     }
   },
@@ -34456,23 +34456,23 @@
       "number": "6",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.9,
+      "minutesFactor": 0.91,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 1.1,
         "sotShare": 0.4,
-        "cardWeight": 0.02,
+        "cardWeight": 0.1,
         "foulWeight": 0.9
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.22,
+        "assists90": 0.2,
         "shots90": 1.1,
         "sot90": 0.4,
-        "passes90": 48,
-        "cards90": 0,
+        "passes90": 43,
+        "cards90": 0.1,
         "fouls90": 0.9,
-        "minutesAvg": 81
+        "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
@@ -34487,36 +34487,51 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 18
         },
         "shots15": {
           "l5": 0,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 18
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "sot05": {
           "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l10": 30,
+          "season": 36
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 9
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 30
+          "season": 27
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-11",
           "opponent": "Mexico",
@@ -34681,7 +34696,7 @@
       "dataScope": "international",
       "searchText": "aubrey modiba south africa defender a",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
@@ -34689,7 +34704,7 @@
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 837099
     },
@@ -87524,29 +87539,29 @@
       "number": "13",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.31,
-      "xgShare": 0.12,
+      "minutesFactor": 0.38,
+      "xgShare": 0.11,
       "propProfile": {
-        "shotsShare": 3.2,
-        "sotShare": 0.7,
+        "shotsShare": 2.9,
+        "sotShare": 0.8,
         "cardWeight": 0.02,
-        "foulWeight": 1.8
+        "foulWeight": 1.6
       },
       "seasonRates": {
-        "goals90": 0.71,
-        "assists90": 0.36,
-        "shots90": 3.2,
-        "sot90": 0.7,
-        "passes90": 16,
+        "goals90": 0.53,
+        "assists90": 0.26,
+        "shots90": 2.9,
+        "sot90": 0.8,
+        "passes90": 12,
         "cards90": 0,
-        "fouls90": 1.8,
-        "minutesAvg": 28
+        "fouls90": 1.6,
+        "minutesAvg": 34
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "goals15": {
           "l5": 0,
@@ -87555,13 +87570,13 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
-          "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l5": 40,
+          "l10": 40,
+          "season": 40
         },
         "shots25": {
           "l5": 0,
@@ -87569,9 +87584,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l5": 40,
+          "l10": 30,
+          "season": 30
         },
         "cards05": {
           "l5": 0,
@@ -87580,11 +87595,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-11",
           "opponent": "Mexico",
@@ -87733,7 +87763,7 @@
       "dataScope": "international",
       "searchText": "evidence makgopa south africa forward a",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
@@ -87741,7 +87771,7 @@
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1022170
     },
@@ -100338,23 +100368,23 @@
       "number": "9",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.9,
+      "minutesFactor": 0.92,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.4,
-        "sotShare": 0.4,
-        "cardWeight": 0.37,
-        "foulWeight": 1.9
+        "shotsShare": 0.3,
+        "sotShare": 0.3,
+        "cardWeight": 0.27,
+        "foulWeight": 1.6
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.4,
-        "sot90": 0.4,
-        "passes90": 48,
-        "cards90": 0.37,
-        "fouls90": 1.9,
-        "minutesAvg": 81
+        "shots90": 0.3,
+        "sot90": 0.3,
+        "passes90": 35,
+        "cards90": 0.27,
+        "fouls90": 1.6,
+        "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
@@ -100383,22 +100413,37 @@
           "season": 0
         },
         "sot05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "cards05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "fouls15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -100451,12 +100496,12 @@
       "dataScope": "international",
       "searchText": "gi-hyuk lee south korea defender a",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1103520
     },
@@ -105001,34 +105046,34 @@
       "number": "9",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.37,
+      "minutesFactor": 0.33,
       "xgShare": 0.18,
       "propProfile": {
-        "shotsShare": 2.7,
-        "sotShare": 2.7,
-        "cardWeight": 0.02,
-        "foulWeight": 2.7
+        "shotsShare": 2.5,
+        "sotShare": 2.5,
+        "cardWeight": 0.49,
+        "foulWeight": 3
       },
       "seasonRates": {
-        "goals90": 1.63,
+        "goals90": 1.48,
         "assists90": 0,
-        "shots90": 2.7,
-        "sot90": 2.7,
-        "passes90": 12,
-        "cards90": 0,
-        "fouls90": 2.7,
-        "minutesAvg": 33
+        "shots90": 2.5,
+        "sot90": 2.5,
+        "passes90": 11,
+        "cards90": 0.49,
+        "fouls90": 3,
+        "minutesAvg": 30
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l5": 20,
+          "l10": 33,
+          "season": 33
         },
         "goals15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "assists05": {
           "l5": 0,
@@ -105037,31 +105082,46 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "shots25": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         },
         "sot05": {
-          "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l5": 20,
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "El Salvador",
@@ -105147,11 +105207,12 @@
       "dataScope": "international",
       "searchText": "gue-sung cho south korea forward a",
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1014281
     },
@@ -108818,23 +108879,23 @@
       "number": "16",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.8,
+      "minutesFactor": 0.82,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.6,
+        "shotsShare": 0.5,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.8
+        "foulWeight": 1.7
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.6,
+        "shots90": 0.5,
         "sot90": 0,
-        "passes90": 60,
+        "passes90": 53,
         "cards90": 0,
-        "fouls90": 1.8,
-        "minutesAvg": 72
+        "fouls90": 1.7,
+        "minutesAvg": 74
       },
       "hitRates": {
         "goals05": {
@@ -108854,13 +108915,13 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "sot05": {
           "l5": 0,
@@ -108873,12 +108934,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 44,
-          "season": 44
+          "l5": 20,
+          "l10": 40,
+          "season": 40
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -109027,13 +109103,13 @@
       "dataScope": "international",
       "searchText": "han-beom lee south korea defender a",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1002448
     },
@@ -114628,17 +114704,17 @@
       "minutesFactor": 0.53,
       "xgShare": 0.18,
       "propProfile": {
-        "shotsShare": 1.7,
-        "sotShare": 0.9,
+        "shotsShare": 1.8,
+        "sotShare": 0.8,
         "cardWeight": 0.02,
         "foulWeight": 0.9
       },
       "seasonRates": {
-        "goals90": 0.43,
+        "goals90": 0.4,
         "assists90": 0,
-        "shots90": 1.7,
-        "sot90": 0.9,
-        "passes90": 32,
+        "shots90": 1.8,
+        "sot90": 0.8,
+        "passes90": 30,
         "cards90": 0,
         "fouls90": 0.9,
         "minutesAvg": 48
@@ -114647,7 +114723,7 @@
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 23
+          "season": 21
         },
         "goals15": {
           "l5": 0,
@@ -114660,9 +114736,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
-          "l10": 30,
-          "season": 23
+          "l5": 0,
+          "l10": 20,
+          "season": 21
         },
         "shots25": {
           "l5": 0,
@@ -114671,8 +114747,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 40,
-          "season": 46
+          "l10": 30,
+          "season": 43
         },
         "cards05": {
           "l5": 0,
@@ -114681,11 +114757,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 10,
-          "season": 8
+          "l10": 0,
+          "season": 7
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -114898,13 +114989,13 @@
       "dataScope": "international",
       "searchText": "hwang hee-chan south korea forward a",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 786186
     },
@@ -114917,29 +115008,29 @@
       "number": "6",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.84,
+      "minutesFactor": 0.86,
       "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 2,
+        "shotsShare": 1.8,
         "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 0.09,
-        "assists90": 0.27,
-        "shots90": 2,
+        "goals90": 0.08,
+        "assists90": 0.25,
+        "shots90": 1.8,
         "sot90": 0.7,
-        "passes90": 81,
+        "passes90": 74,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 76
+        "fouls90": 1,
+        "minutesAvg": 77
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -114948,23 +115039,23 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 20,
-          "season": 15
+          "l10": 10,
+          "season": 14
         },
         "shots15": {
           "l5": 60,
           "l10": 60,
-          "season": 54
+          "season": 50
         },
         "shots25": {
           "l5": 20,
           "l10": 30,
-          "season": 23
+          "season": 21
         },
         "sot05": {
           "l5": 60,
           "l10": 50,
-          "season": 46
+          "season": 43
         },
         "cards05": {
           "l5": 0,
@@ -114974,10 +115065,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 15
+          "season": 14
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -115190,13 +115296,13 @@
       "dataScope": "international",
       "searchText": "hwang in-beom south korea midfielder a",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 889689
     },
@@ -115209,29 +115315,29 @@
       "number": "23",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.38,
-      "xgShare": 0.15,
+      "minutesFactor": 0.4,
+      "xgShare": 0.14,
       "propProfile": {
-        "shotsShare": 3.8,
-        "sotShare": 2,
+        "shotsShare": 3.7,
+        "sotShare": 1.9,
         "cardWeight": 0.02,
-        "foulWeight": 1.2
+        "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 1,
-        "assists90": 0.17,
-        "shots90": 3.8,
-        "sot90": 2,
-        "passes90": 21,
+        "goals90": 0.88,
+        "assists90": 0.15,
+        "shots90": 3.7,
+        "sot90": 1.9,
+        "passes90": 19,
         "cards90": 0,
-        "fouls90": 1.2,
-        "minutesAvg": 34
+        "fouls90": 1,
+        "minutesAvg": 36
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 40,
-          "season": 38
+          "l10": 30,
+          "season": 35
         },
         "goals15": {
           "l5": 0,
@@ -115244,19 +115350,19 @@
           "season": 6
         },
         "shots15": {
-          "l5": 20,
+          "l5": 40,
           "l10": 40,
-          "season": 31
+          "season": 35
         },
         "shots25": {
           "l5": 0,
-          "l10": 30,
-          "season": 19
+          "l10": 20,
+          "season": 18
         },
         "sot05": {
-          "l5": 60,
+          "l5": 80,
           "l10": 70,
-          "season": 56
+          "season": 59
         },
         "cards05": {
           "l5": 0,
@@ -115266,10 +115372,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -115530,13 +115651,13 @@
       "dataScope": "international",
       "searchText": "hyeon-gyu oh south korea forward a",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1010634
     },
@@ -118684,29 +118805,29 @@
       "number": "5",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.93,
+      "minutesFactor": 0.94,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.3,
+        "shotsShare": 0.2,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.3
+        "foulWeight": 0.2
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.3,
+        "shots90": 0.2,
         "sot90": 0,
-        "passes90": 50,
+        "passes90": 40,
         "cards90": 0,
-        "fouls90": 0.3,
-        "minutesAvg": 84
+        "fouls90": 0.2,
+        "minutesAvg": 85
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l5": 0,
+          "l10": 17,
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -118745,6 +118866,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-11",
           "opponent": "Mexico",
@@ -118829,13 +118965,13 @@
       "dataScope": "international",
       "searchText": "ime okon south africa defender a",
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "COSAFA Cup, Group A"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1507710
     },
@@ -119093,23 +119229,23 @@
       "number": "13",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.39,
+      "minutesFactor": 0.34,
       "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 2,
-        "sotShare": 0.7,
+        "shotsShare": 1.8,
+        "sotShare": 0.6,
         "cardWeight": 0.02,
         "foulWeight": 0.03
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 2,
-        "sot90": 0.7,
+        "shots90": 1.8,
+        "sot90": 0.6,
         "passes90": 3,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 35
+        "minutesAvg": 31
       },
       "hitRates": {
         "goals05": {
@@ -119128,19 +119264,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "sot05": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -119154,6 +119290,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-11",
           "opponent": "Mexico",
@@ -119222,13 +119373,13 @@
       "dataScope": "international",
       "searchText": "iqraam rayners south africa forward a",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 991024
     },
@@ -129635,7 +129786,7 @@
       "number": "23",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.51,
+      "minutesFactor": 0.43,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.5,
@@ -129648,10 +129799,10 @@
         "assists90": 0,
         "shots90": 0.5,
         "sot90": 0,
-        "passes90": 52,
+        "passes90": 49,
         "cards90": 0,
         "fouls90": 0.5,
-        "minutesAvg": 46
+        "minutesAvg": 39
       },
       "hitRates": {
         "goals05": {
@@ -129696,6 +129847,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-11",
           "opponent": "Mexico",
@@ -129764,12 +129930,12 @@
       "dataScope": "international",
       "searchText": "jayden adams south africa midfielder a",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1049669
     },
@@ -131855,23 +132021,23 @@
       "number": "23",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.41,
+      "minutesFactor": 0.42,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 0.7,
-        "sotShare": 0.4,
+        "shotsShare": 0.6,
+        "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 3.1
+        "foulWeight": 3.5
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.7,
-        "sot90": 0.4,
-        "passes90": 45,
+        "shots90": 0.6,
+        "sot90": 0.3,
+        "passes90": 38,
         "cards90": 0,
-        "fouls90": 3.1,
-        "minutesAvg": 37
+        "fouls90": 3.5,
+        "minutesAvg": 38
       },
       "hitRates": {
         "goals05": {
@@ -131901,8 +132067,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "cards05": {
           "l5": 0,
@@ -131911,11 +132077,26 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 43,
-          "season": 43
+          "l10": 50,
+          "season": 50
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-04",
           "opponent": "El Salvador",
@@ -132033,11 +132214,12 @@
       "dataScope": "international",
       "searchText": "jens castrop south korea midfielder a",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1019312
     },
@@ -135363,29 +135545,29 @@
       "number": "13",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.6,
+      "minutesFactor": 0.59,
       "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 0.9,
-        "sotShare": 0.6,
+        "shotsShare": 0.8,
+        "sotShare": 0.5,
         "cardWeight": 0.02,
         "foulWeight": 1.3
       },
       "seasonRates": {
         "goals90": 0.11,
         "assists90": 0,
-        "shots90": 0.9,
-        "sot90": 0.6,
-        "passes90": 58,
+        "shots90": 0.8,
+        "sot90": 0.5,
+        "passes90": 55,
         "cards90": 0,
         "fouls90": 1.3,
-        "minutesAvg": 54
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -135400,7 +135582,7 @@
         "shots15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -135410,7 +135592,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 27
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -135420,10 +135602,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -135668,14 +135865,14 @@
       "dataScope": "international",
       "searchText": "jin-gyu kim south korea midfielder a",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "EAFF E-1 Football Championship",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1009476
     },
@@ -135688,23 +135885,23 @@
       "number": "5",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.6,
+      "minutesFactor": 0.57,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.05,
-        "sotShare": 0.03,
+        "shotsShare": 0.2,
+        "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 1.3
+        "foulWeight": 1.2
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
-        "sot90": 0,
-        "passes90": 66,
+        "shots90": 0.2,
+        "sot90": 0.2,
+        "passes90": 63,
         "cards90": 0,
-        "fouls90": 1.3,
-        "minutesAvg": 54
+        "fouls90": 1.2,
+        "minutesAvg": 51
       },
       "hitRates": {
         "goals05": {
@@ -135733,9 +135930,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -135744,11 +135941,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 25,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -135897,13 +136109,13 @@
       "dataScope": "international",
       "searchText": "jin-seob park south korea midfielder a",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "EAFF E-1 Football Championship"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1026069
     },
@@ -158008,23 +158220,23 @@
       "number": "18",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.78,
+      "minutesFactor": 0.79,
       "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 1.9,
+        "shotsShare": 1.8,
         "sotShare": 0.4,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 0.08,
-        "assists90": 0.48,
-        "shots90": 1.9,
+        "goals90": 0.07,
+        "assists90": 0.45,
+        "shots90": 1.8,
         "sot90": 0.4,
-        "passes90": 42,
+        "passes90": 39,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 70
+        "fouls90": 1,
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
@@ -158038,24 +158250,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 38
+          "season": 35
         },
         "shots15": {
           "l5": 20,
           "l10": 20,
-          "season": 38
+          "season": 35
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 31
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -158065,10 +158277,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 24
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -158329,13 +158556,13 @@
       "dataScope": "international",
       "searchText": "kang-in lee south korea midfielder a",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 917087
     },
@@ -164427,10 +164654,10 @@
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.1,
+        "assists90": 0.09,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 40,
+        "passes90": 36,
         "cards90": 0,
         "fouls90": 1.2,
         "minutesAvg": 88
@@ -164449,12 +164676,12 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots25": {
           "l5": 0,
@@ -164464,7 +164691,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "cards05": {
           "l5": 0,
@@ -164473,11 +164700,26 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l10": 30,
+          "season": 36
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-11",
           "opponent": "Mexico",
@@ -164642,7 +164884,7 @@
       "dataScope": "international",
       "searchText": "khuliso mudau south africa defender a",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
@@ -164650,7 +164892,7 @@
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 936047
     },
@@ -165057,23 +165299,23 @@
       "number": "4",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.92,
+      "minutesFactor": 0.91,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.2,
+        "shotsShare": 0.3,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1
+        "foulWeight": 0.9
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.2,
+        "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 77,
+        "passes90": 74,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 83
+        "fouls90": 0.9,
+        "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
@@ -165102,9 +165344,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 6
+          "l5": 40,
+          "l10": 20,
+          "season": 12
         },
         "cards05": {
           "l5": 0,
@@ -165112,12 +165354,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 25
+          "season": 24
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 65,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -165378,13 +165635,13 @@
       "dataScope": "international",
       "searchText": "kim min-jae south korea defender a",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 896569
     },
@@ -165610,17 +165867,17 @@
       "number": "1",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.92,
+      "minutesFactor": 0.93,
       "xgShare": 0.02,
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 22,
+        "passes90": 19,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 83
+        "minutesAvg": 84
       },
       "hitRates": {
         "goals05": {
@@ -165665,6 +165922,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 3
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -165781,12 +166054,12 @@
       "dataScope": "international",
       "searchText": "kim seung-gyu south korea goalkeeper a",
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 235686
     },
@@ -172775,23 +173048,23 @@
       "number": "13",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.76,
+      "minutesFactor": 0.73,
       "xgShare": 0.07,
       "propProfile": {
         "shotsShare": 0.8,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.9
+        "foulWeight": 2
       },
       "seasonRates": {
         "goals90": 0.08,
         "assists90": 0.08,
         "shots90": 0.8,
         "sot90": 0.1,
-        "passes90": 47,
+        "passes90": 45,
         "cards90": 0,
-        "fouls90": 1.9,
-        "minutesAvg": 68
+        "fouls90": 2,
+        "minutesAvg": 66
       },
       "hitRates": {
         "goals05": {
@@ -172811,12 +173084,12 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 6
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 6
         },
         "sot05": {
@@ -172830,12 +173103,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 60,
           "l10": 40,
-          "season": 50
+          "season": 53
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -173096,14 +173384,14 @@
       "dataScope": "international",
       "searchText": "lee tae-seok south korea midfielder a",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "EAFF E-1 Football Championship",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1002355
     },
@@ -200613,28 +200901,28 @@
       "likelyStarter": true,
       "benchImpact": false,
       "minutesFactor": 0.96,
-      "xgShare": 0.04,
+      "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 1,
+        "shotsShare": 0.9,
         "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "foulWeight": 0.4
       },
       "seasonRates": {
-        "goals90": 0.1,
+        "goals90": 0.09,
         "assists90": 0,
-        "shots90": 1,
+        "shots90": 0.9,
         "sot90": 0.3,
-        "passes90": 54,
+        "passes90": 49,
         "cards90": 0,
-        "fouls90": 0.5,
+        "fouls90": 0.4,
         "minutesAvg": 86
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "goals15": {
           "l5": 0,
@@ -200647,9 +200935,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 30,
-          "season": 27
+          "season": 25
         },
         "shots25": {
           "l5": 0,
@@ -200659,7 +200947,7 @@
         "sot05": {
           "l5": 40,
           "l10": 30,
-          "season": 27
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -200669,10 +200957,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-11",
           "opponent": "Mexico",
@@ -200853,7 +201156,7 @@
       "dataScope": "international",
       "searchText": "mbekezeli mbokazi south africa defender a",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
@@ -200861,7 +201164,7 @@
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 2058228
     },
@@ -236000,23 +236303,23 @@
         "shotsShare": 2.5,
         "sotShare": 1.3,
         "cardWeight": 0.02,
-        "foulWeight": 0.7
+        "foulWeight": 0.8
       },
       "seasonRates": {
-        "goals90": 0.61,
-        "assists90": 0.2,
+        "goals90": 0.57,
+        "assists90": 0.19,
         "shots90": 2.5,
         "sot90": 1.3,
-        "passes90": 38,
+        "passes90": 36,
         "cards90": 0,
-        "fouls90": 0.7,
+        "fouls90": 0.8,
         "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 50,
-          "season": 43
+          "l10": 40,
+          "season": 40
         },
         "goals15": {
           "l5": 0,
@@ -236025,23 +236328,23 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 7
         },
         "shots15": {
-          "l5": 60,
-          "l10": 60,
-          "season": 57
+          "l5": 40,
+          "l10": 50,
+          "season": 53
         },
         "shots25": {
           "l5": 20,
           "l10": 20,
-          "season": 21
+          "season": 20
         },
         "sot05": {
-          "l5": 40,
+          "l5": 60,
           "l10": 60,
-          "season": 57
+          "season": 60
         },
         "cards05": {
           "l5": 0,
@@ -236055,6 +236358,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-11",
           "opponent": "Mexico",
@@ -236283,7 +236601,7 @@
       "dataScope": "international",
       "searchText": "oswin appollis south africa midfielder a",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
@@ -236291,7 +236609,7 @@
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 984505
     },
@@ -250930,23 +251248,23 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.56,
+      "minutesFactor": 0.6,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 2.1,
-        "sotShare": 0.9,
+        "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.5
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 2.1,
-        "sot90": 0.9,
-        "passes90": 48,
+        "sot90": 0.7,
+        "passes90": 38,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 50
+        "fouls90": 0.5,
+        "minutesAvg": 54
       },
       "hitRates": {
         "goals05": {
@@ -250965,19 +251283,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l5": 40,
+          "l10": 43,
+          "season": 43
         },
         "shots25": {
           "l5": 0,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "sot05": {
           "l5": 0,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "cards05": {
           "l5": 0,
@@ -250991,6 +251309,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-05-29",
           "opponent": "Nicaragua",
@@ -251092,13 +251425,14 @@
       "dataScope": "international",
       "searchText": "relebohile mofokeng south africa midfielder a",
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B"
         ],
-        "lastMatch": "2026-05-29"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1564998
     },
@@ -257896,7 +258230,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 36,
+        "passes90": 33,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 83
@@ -257944,6 +258278,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
         {
           "date": "2026-06-11",
           "opponent": "Mexico",
@@ -258174,7 +258524,7 @@
       "dataScope": "international",
       "searchText": "ronwen williams south africa goalkeeper a",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
@@ -258182,7 +258532,7 @@
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 539792
     },
@@ -270379,19 +270729,19 @@
       "minutesFactor": 0.53,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 1,
+        "shotsShare": 0.9,
         "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 1
+        "foulWeight": 0.9
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1,
+        "shots90": 0.9,
         "sot90": 0.3,
-        "passes90": 56,
+        "passes90": 51,
         "cards90": 0,
-        "fouls90": 1,
+        "fouls90": 0.9,
         "minutesAvg": 48
       },
       "hitRates": {
@@ -270411,9 +270761,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "shots25": {
           "l5": 0,
@@ -270421,9 +270771,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "cards05": {
           "l5": 0,
@@ -270433,10 +270783,25 @@
         "fouls15": {
           "l5": 40,
           "l10": 30,
-          "season": 27
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -270617,13 +270982,13 @@
       "dataScope": "international",
       "searchText": "seung ho paik south korea midfielder a",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 881307
     },
@@ -273210,29 +273575,29 @@
       "number": "21",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.7,
+      "minutesFactor": 0.73,
       "xgShare": 0.08,
       "propProfile": {
         "shotsShare": 0.6,
-        "sotShare": 0.5,
-        "cardWeight": 0.16,
-        "foulWeight": 2.9
+        "sotShare": 0.4,
+        "cardWeight": 0.14,
+        "foulWeight": 2.6
       },
       "seasonRates": {
-        "goals90": 0.16,
+        "goals90": 0.14,
         "assists90": 0,
         "shots90": 0.6,
-        "sot90": 0.5,
-        "passes90": 57,
-        "cards90": 0.16,
-        "fouls90": 2.9,
-        "minutesAvg": 63
+        "sot90": 0.4,
+        "passes90": 49,
+        "cards90": 0.14,
+        "fouls90": 2.6,
+        "minutesAvg": 66
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "goals15": {
           "l5": 0,
@@ -273245,9 +273610,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 0,
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -273255,22 +273620,37 @@
           "season": 0
         },
         "sot05": {
-          "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l5": 20,
+          "l10": 30,
+          "season": 30
         },
         "cards05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "fouls15": {
           "l5": 40,
-          "l10": 56,
-          "season": 56
+          "l10": 50,
+          "season": 50
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-11",
           "opponent": "Mexico",
@@ -273419,14 +273799,14 @@
       "dataScope": "international",
       "searchText": "siphephelo sithole south africa midfielder a",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 822684
     },
@@ -273819,29 +274199,29 @@
       "number": "7",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.68,
-      "xgShare": 0.22,
+      "minutesFactor": 0.67,
+      "xgShare": 0.21,
       "propProfile": {
         "shotsShare": 3.3,
-        "sotShare": 1.3,
+        "sotShare": 1.2,
         "cardWeight": 0.02,
         "foulWeight": 0.3
       },
       "seasonRates": {
-        "goals90": 0.65,
+        "goals90": 0.62,
         "assists90": 0.18,
         "shots90": 3.3,
-        "sot90": 1.3,
-        "passes90": 28,
+        "sot90": 1.2,
+        "passes90": 27,
         "cards90": 0,
         "fouls90": 0.3,
-        "minutesAvg": 61
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 30,
-          "season": 38
+          "l10": 20,
+          "season": 35
         },
         "goals15": {
           "l5": 20,
@@ -273851,22 +274231,22 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 13
+          "season": 12
         },
         "shots15": {
           "l5": 80,
-          "l10": 50,
-          "season": 50
+          "l10": 40,
+          "season": 47
         },
         "shots25": {
           "l5": 80,
-          "l10": 50,
-          "season": 38
+          "l10": 40,
+          "season": 35
         },
         "sot05": {
           "l5": 60,
-          "l10": 50,
-          "season": 56
+          "l10": 40,
+          "season": 53
         },
         "cards05": {
           "l5": 0,
@@ -273880,6 +274260,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -274140,13 +274535,13 @@
       "dataScope": "international",
       "searchText": "son heung-min south korea forward a",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 111505
     },
@@ -279483,29 +279878,29 @@
       "number": "5",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.47,
+      "minutesFactor": 0.51,
       "xgShare": 0.05,
       "propProfile": {
-        "shotsShare": 1.3,
+        "shotsShare": 1.4,
         "sotShare": 0.7,
         "cardWeight": 0.02,
         "foulWeight": 1.3
       },
       "seasonRates": {
-        "goals90": 0.22,
+        "goals90": 0.18,
         "assists90": 0,
-        "shots90": 1.3,
+        "shots90": 1.4,
         "sot90": 0.7,
-        "passes90": 47,
+        "passes90": 39,
         "cards90": 0,
         "fouls90": 1.3,
-        "minutesAvg": 42
+        "minutesAvg": 46
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "goals15": {
           "l5": 0,
@@ -279518,9 +279913,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 10
+          "l5": 40,
+          "l10": 20,
+          "season": 18
         },
         "shots25": {
           "l5": 0,
@@ -279528,9 +279923,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 30,
-          "season": 30
+          "season": 36
         },
         "cards05": {
           "l5": 0,
@@ -279539,11 +279934,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 18
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-11",
           "opponent": "Mexico",
@@ -279708,14 +280118,14 @@
       "dataScope": "international",
       "searchText": "thalente mbatha south africa midfielder a",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1014410
     },
@@ -279728,29 +280138,29 @@
       "number": "12",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.42,
-      "xgShare": 0.03,
+      "minutesFactor": 0.56,
+      "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 2.4,
+        "shotsShare": 4.2,
         "sotShare": 1.2,
         "cardWeight": 0.02,
         "foulWeight": 0.03
       },
       "seasonRates": {
-        "goals90": 0,
+        "goals90": 0.6,
         "assists90": 0,
-        "shots90": 2.4,
+        "shots90": 4.2,
         "sot90": 1.2,
-        "passes90": 31,
+        "passes90": 16,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 38
+        "minutesAvg": 50
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 33,
+          "l10": 33,
+          "season": 33
         },
         "goals15": {
           "l5": 0,
@@ -279763,19 +280173,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 50,
-          "l10": 50,
-          "season": 50
+          "l5": 67,
+          "l10": 67,
+          "season": 67
         },
         "shots25": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 33,
+          "l10": 33,
+          "season": 33
         },
         "sot05": {
-          "l5": 50,
-          "l10": 50,
-          "season": 50
+          "l5": 67,
+          "l10": 67,
+          "season": 67
         },
         "cards05": {
           "l5": 0,
@@ -279789,6 +280199,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 75,
+          "goals": 1,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-05-29",
           "opponent": "Nicaragua",
@@ -279826,11 +280251,12 @@
       "dataScope": "international",
       "searchText": "thapelo maseko south africa midfielder a",
       "importMeta": {
-        "appearances": 2,
+        "appearances": 3,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-05-29"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1179164
     },
@@ -286360,29 +286786,29 @@
       "number": "8",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.63,
+      "minutesFactor": 0.6,
       "xgShare": 0.09,
       "propProfile": {
-        "shotsShare": 2.1,
-        "sotShare": 0.4,
+        "shotsShare": 2,
+        "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 1.9
+        "foulWeight": 2
       },
       "seasonRates": {
-        "goals90": 0.18,
-        "assists90": 0.18,
-        "shots90": 2.1,
-        "sot90": 0.4,
-        "passes90": 27,
+        "goals90": 0.17,
+        "assists90": 0.34,
+        "shots90": 2,
+        "sot90": 0.3,
+        "passes90": 26,
         "cards90": 0,
-        "fouls90": 1.9,
-        "minutesAvg": 57
+        "fouls90": 2,
+        "minutesAvg": 54
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 0,
+          "l10": 10,
+          "season": 10
         },
         "goals15": {
           "l5": 0,
@@ -286390,14 +286816,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots15": {
-          "l5": 40,
-          "l10": 56,
-          "season": 56
+          "l5": 20,
+          "l10": 50,
+          "season": 50
         },
         "shots25": {
           "l5": 0,
@@ -286405,9 +286831,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l5": 0,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -286415,12 +286841,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l5": 0,
+          "l10": 20,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Korea",
+          "competition": "FIFA World Cup, Group A",
+          "result": "W",
+          "venue": "home",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-05-29",
           "opponent": "Nicaragua",
@@ -286570,14 +287011,15 @@
       "dataScope": "international",
       "searchText": "tshepang moremi south africa midfielder a",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group C"
         ],
-        "lastMatch": "2026-05-29"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1101745
     },
@@ -299642,16 +300084,16 @@
         "shotsShare": 0.4,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.7
+        "foulWeight": 0.6
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0.07,
         "shots90": 0.4,
         "sot90": 0,
-        "passes90": 47,
+        "passes90": 44,
         "cards90": 0,
-        "fouls90": 0.7,
+        "fouls90": 0.6,
         "minutesAvg": 77
       },
       "hitRates": {
@@ -299672,7 +300114,7 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 6
         },
         "shots25": {
@@ -299697,6 +300139,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-25",
+          "opponent": "South Africa",
+          "competition": "FIFA World Cup, Group A",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-11",
           "opponent": "Czechia",
@@ -299957,13 +300414,13 @@
       "dataScope": "international",
       "searchText": "young-woo seol south korea defender a",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group A",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-11"
+        "lastMatch": "2026-06-25"
       },
       "sofascoreId": 1019333
     },
