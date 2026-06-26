@@ -2147,6 +2147,81 @@
       },
       "syncedAt": "2026-06-26T04:43:35.724Z",
       "source": "espn"
+    },
+    "GS-I-6": {
+      "status": "finished",
+      "homeScore": 5,
+      "awayScore": 0,
+      "scorers": {
+        "home": [
+          {
+            "name": "Habib Diarra",
+            "minute": "4'",
+            "assist": "Abdoulaye Seck"
+          },
+          {
+            "name": "Ismaïla Sarr",
+            "minute": "56'",
+            "assist": "Lamine Camara"
+          },
+          {
+            "name": "Pape Gueye",
+            "minute": "59'",
+            "assist": "Ismaïla Sarr"
+          },
+          {
+            "name": "Pape Gueye",
+            "minute": "71'",
+            "assist": "Iliman Ndiaye"
+          },
+          {
+            "name": "Iliman Ndiaye",
+            "minute": "82'",
+            "assist": "Pape Gueye"
+          }
+        ],
+        "away": []
+      },
+      "teamStats": {
+        "possession": {
+          "home": 69.3,
+          "away": 30.7
+        },
+        "shots": {
+          "home": 28,
+          "away": 6
+        },
+        "shotsOnTarget": {
+          "home": 12,
+          "away": 1
+        },
+        "corners": {
+          "home": 12,
+          "away": 3
+        },
+        "fouls": {
+          "home": 10,
+          "away": 11
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "saves": {
+          "home": 1,
+          "away": 7
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 70
+        }
+      },
+      "syncedAt": "2026-06-26T21:55:42.198Z",
+      "source": "espn"
     }
   }
 }

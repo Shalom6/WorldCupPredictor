@@ -3,8 +3,8 @@
   "team": "Iraq",
   "group": "I",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-26T20:50:41.953Z",
-  "eventsProcessed": 17,
+  "importedAt": "2026-06-26T21:55:43.126Z",
+  "eventsProcessed": 18,
   "teamMatchResults": [
     {
       "date": "2026-06-22",
@@ -23,6 +23,15 @@
       "goalsFor": 1,
       "goalsAgainst": 4,
       "venue": "home"
+    },
+    {
+      "date": "2026-06-26",
+      "opponent": "Senegal",
+      "competition": "FIFA World Cup, Group I",
+      "result": "L",
+      "goalsFor": 0,
+      "goalsAgainst": 5,
+      "venue": "away"
     },
     {
       "date": "2026-06-10",
@@ -173,6 +182,37 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -377,10 +417,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 24,
+        "passes90": 22,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 79
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
@@ -425,7 +465,7 @@
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -434,7 +474,7 @@
           "Arab Cup, Group D",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -541,6 +581,22 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 6
+        },
         {
           "date": "2026-06-16",
           "opponent": "Norway",
@@ -753,10 +809,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 24,
+        "passes90": 23,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 86
+        "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
@@ -801,7 +857,7 @@
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -810,7 +866,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -825,6 +881,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-12-12",
           "opponent": "Jordan",
@@ -877,12 +948,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.8,
+        "shots90": 0.7,
         "sot90": 0,
-        "passes90": 23,
+        "passes90": 20,
         "cards90": 0,
-        "fouls90": 1.9,
-        "minutesAvg": 79
+        "fouls90": 1.7,
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
@@ -901,9 +972,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots25": {
           "l5": 0,
@@ -921,18 +992,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 67,
-          "l10": 67,
-          "season": 67
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Arab Cup, Knockout Stage",
           "Arab Cup, Group D"
         ],
-        "lastMatch": "2025-12-12"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -947,6 +1019,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -1155,20 +1242,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.1,
-        "assists90": 0.1,
-        "shots90": 0.9,
+        "goals90": 0.09,
+        "assists90": 0.09,
+        "shots90": 0.8,
         "sot90": 0.2,
-        "passes90": 37,
+        "passes90": 34,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 70
+        "fouls90": 0.6,
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -1178,22 +1265,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 15
+          "season": 14
         },
         "shots25": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 15
+          "season": 14
         },
         "sot05": {
           "l5": 0,
-          "l10": 10,
-          "season": 15
+          "l10": 0,
+          "season": 14
         },
         "cards05": {
           "l5": 0,
@@ -1203,11 +1290,11 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -1218,7 +1305,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -1233,6 +1320,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -1319,10 +1421,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 47,
+        "passes90": 35,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 53
+        "fouls90": 1.5,
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
@@ -1361,19 +1463,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         }
       },
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -1661,6 +1764,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-22",
           "opponent": "France",
           "competition": "FIFA World Cup, Group I",
@@ -1852,12 +1970,12 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.09,
+        "goals90": 0.08,
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 23,
-        "cards90": 0,
+        "passes90": 21,
+        "cards90": 0.08,
         "fouls90": 1.3,
         "minutesAvg": 88
       },
@@ -1893,18 +2011,18 @@
           "season": 8
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 30,
-          "season": 33
+          "l5": 40,
+          "l10": 40,
+          "season": 38
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -1913,7 +2031,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -2150,6 +2268,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-22",
           "opponent": "France",
           "competition": "FIFA World Cup, Group I",
@@ -2298,10 +2431,10 @@
         "assists90": 0,
         "shots90": 0.5,
         "sot90": 0,
-        "passes90": 51,
-        "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 65
+        "passes90": 49,
+        "cards90": 0.15,
+        "fouls90": 1.1,
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
@@ -2321,8 +2454,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -2335,18 +2468,18 @@
           "season": 0
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "fouls15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -2354,7 +2487,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -2915,6 +3048,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-16",
           "opponent": "Norway",
           "competition": "FIFA World Cup, Group I",
@@ -3173,11 +3321,11 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0.09,
-        "shots90": 0.9,
-        "sot90": 0.2,
-        "passes90": 31,
+        "shots90": 1.2,
+        "sot90": 0.3,
+        "passes90": 29,
         "cards90": 0,
-        "fouls90": 0.6,
+        "fouls90": 0.7,
         "minutesAvg": 61
       },
       "hitRates": {
@@ -3197,19 +3345,19 @@
           "season": 6
         },
         "shots15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 19
+          "l5": 40,
+          "l10": 20,
+          "season": 24
         },
         "shots25": {
-          "l5": 20,
-          "l10": 10,
-          "season": 6
+          "l5": 40,
+          "l10": 20,
+          "season": 12
         },
         "sot05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 6
+          "l5": 40,
+          "l10": 20,
+          "season": 12
         },
         "cards05": {
           "l5": 0,
@@ -3219,11 +3367,11 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -3235,7 +3383,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -3250,6 +3398,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -3474,18 +3637,18 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.09,
-        "assists90": 0.26,
-        "shots90": 1,
+        "goals90": 0.08,
+        "assists90": 0.24,
+        "shots90": 0.9,
         "sot90": 0.4,
-        "passes90": 27,
-        "cards90": 0.09,
+        "passes90": 25,
+        "cards90": 0.16,
         "fouls90": 1.2,
-        "minutesAvg": 74
+        "minutesAvg": 75
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 7
         },
@@ -3495,38 +3658,38 @@
           "season": 0
         },
         "assists05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 30,
-          "season": 21
+          "season": 20
         },
         "shots15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 14
+          "l5": 0,
+          "l10": 10,
+          "season": 13
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 7
         },
         "sot05": {
-          "l5": 40,
-          "l10": 30,
-          "season": 36
+          "l5": 20,
+          "l10": 20,
+          "season": 33
         },
         "cards05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 7
+          "l5": 40,
+          "l10": 20,
+          "season": 13
         },
         "fouls15": {
           "l5": 20,
-          "l10": 40,
-          "season": 29
+          "l10": 30,
+          "season": 27
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -3536,7 +3699,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -3551,6 +3714,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -3777,17 +3955,17 @@
       "seasonRates": {
         "goals90": 0.08,
         "assists90": 0.08,
-        "shots90": 1.3,
+        "shots90": 1.2,
         "sot90": 0.3,
-        "passes90": 27,
+        "passes90": 25,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 76
+        "fouls90": 1.5,
+        "minutesAvg": 77
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 7
         },
         "goals15": {
@@ -3802,8 +3980,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 20,
-          "season": 29
+          "l10": 10,
+          "season": 27
         },
         "shots25": {
           "l5": 0,
@@ -3812,8 +3990,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 20,
-          "season": 21
+          "l10": 10,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -3822,12 +4000,12 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 40,
-          "season": 43
+          "l10": 50,
+          "season": 47
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -3836,7 +4014,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -3851,6 +4029,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -3919,12 +4112,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 28,
+        "passes90": 24,
         "cards90": 0,
         "fouls90": 4,
-        "minutesAvg": 34
+        "minutesAvg": 31
       },
       "hitRates": {
         "goals05": {
@@ -3963,19 +4156,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 75,
-          "l10": 75,
-          "season": 75
+          "l5": 60,
+          "l10": 60,
+          "season": 60
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "World Cup Qualification, AFC, Round 4, Gr. B"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -4630,11 +4824,26 @@
       "group": "I",
       "position": "Midfielder",
       "number": "11",
-      "likelyStarter": false,
+      "likelyStarter": true,
       "sofascoreId": 1014225,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -4811,20 +5020,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.16,
+        "goals90": 0.14,
         "assists90": 0,
-        "shots90": 0.2,
-        "sot90": 0.2,
-        "passes90": 40,
+        "shots90": 0.1,
+        "sot90": 0.1,
+        "passes90": 36,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 51
+        "fouls90": 0.7,
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "goals15": {
           "l5": 0,
@@ -4849,7 +5058,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "cards05": {
           "l5": 0,
@@ -4859,11 +5068,11 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 9
+          "season": 8
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -4872,7 +5081,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -4887,6 +5096,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -4983,20 +5207,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.59,
+        "goals90": 0.49,
         "assists90": 0,
-        "shots90": 2.7,
-        "sot90": 0.9,
-        "passes90": 9,
+        "shots90": 2.2,
+        "sot90": 0.7,
+        "passes90": 8,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 51
+        "fouls90": 0.5,
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l5": 20,
+          "l10": 29,
+          "season": 29
         },
         "goals15": {
           "l5": 0,
@@ -5009,19 +5233,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 60,
-          "l10": 50,
-          "season": 50
+          "l5": 40,
+          "l10": 43,
+          "season": 43
         },
         "shots25": {
           "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l10": 29,
+          "season": 29
         },
         "sot05": {
-          "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l5": 20,
+          "l10": 29,
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -5035,7 +5259,7 @@
         }
       },
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -5043,7 +5267,7 @@
           "World Cup Qualification, AFC, Round 5",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -5058,6 +5282,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-03-25",
           "opponent": "Palestine",
@@ -5110,12 +5349,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 4.5,
+        "shots90": 2.5,
         "sot90": 0,
-        "passes90": 16,
+        "passes90": 9,
         "cards90": 0,
-        "fouls90": 6.8,
-        "minutesAvg": 13
+        "fouls90": 5,
+        "minutesAvg": 18
       },
       "hitRates": {
         "goals05": {
@@ -5160,12 +5399,13 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group I",
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2025-03-25"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -5820,7 +6060,7 @@
     },
     {
       "name": "Munaf Younus",
-      "appearances": 11
+      "appearances": 12
     },
     {
       "name": "Saad Natiq",

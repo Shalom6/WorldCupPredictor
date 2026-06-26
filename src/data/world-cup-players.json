@@ -16,22 +16,22 @@
       "Croatia": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-26T20:50:46.818Z"
+        "importedAt": "2026-06-26T21:55:48.011Z"
       },
       "England": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-26T20:50:46.818Z"
+        "importedAt": "2026-06-26T21:55:48.011Z"
       },
       "Ghana": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-26T20:50:46.818Z"
+        "importedAt": "2026-06-26T21:55:48.011Z"
       },
       "Panama": {
         "playerCount": 31,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-26T20:50:46.818Z"
+        "importedAt": "2026-06-26T21:55:48.011Z"
       }
     }
   },
@@ -1674,29 +1674,29 @@
       "number": "4",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.81,
+      "minutesFactor": 0.79,
       "xgShare": 0.05,
       "propProfile": {
-        "shotsShare": 1,
-        "sotShare": 0.8,
-        "cardWeight": 0.02,
-        "foulWeight": 1
+        "shotsShare": 1.3,
+        "sotShare": 0.7,
+        "cardWeight": 0.18,
+        "foulWeight": 1.1
       },
       "seasonRates": {
-        "goals90": 0.21,
-        "assists90": 0.21,
-        "shots90": 1,
-        "sot90": 0.8,
-        "passes90": 65,
-        "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 73
+        "goals90": 0.18,
+        "assists90": 0.36,
+        "shots90": 1.3,
+        "sot90": 0.7,
+        "passes90": 58,
+        "cards90": 0.18,
+        "fouls90": 1.1,
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "goals15": {
           "l5": 0,
@@ -1704,37 +1704,52 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l5": 40,
+          "l10": 29,
+          "season": 29
         },
         "shots15": {
-          "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l5": 40,
+          "l10": 29,
+          "season": 29
         },
         "shots25": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "sot05": {
           "l5": 60,
-          "l10": 50,
-          "season": 50
+          "l10": 43,
+          "season": 43
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 14,
+          "season": 14
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l5": 20,
+          "l10": 29,
+          "season": 29
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-05-31",
           "opponent": "USA",
@@ -1836,14 +1851,15 @@
       "dataScope": "international",
       "searchText": "abdoulaye seck senegal defender i",
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-05-31"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 583896
     },
@@ -6806,17 +6822,17 @@
       "number": "12",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.88,
+      "minutesFactor": 0.8,
       "xgShare": 0.02,
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 24,
+        "passes90": 22,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 79
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
@@ -6861,6 +6877,37 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -7064,7 +7111,7 @@
       "dataScope": "international",
       "searchText": "ahmed basil iraq goalkeeper i",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -7073,7 +7120,7 @@
           "Arab Cup, Group D",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 888896
     },
@@ -7641,23 +7688,23 @@
       "number": "23",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.88,
+      "minutesFactor": 0.76,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.8,
+        "shotsShare": 0.7,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.9
+        "foulWeight": 1.7
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.8,
+        "shots90": 0.7,
         "sot90": 0,
-        "passes90": 23,
+        "passes90": 20,
         "cards90": 0,
-        "fouls90": 1.9,
-        "minutesAvg": 79
+        "fouls90": 1.7,
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
@@ -7676,9 +7723,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "shots25": {
           "l5": 0,
@@ -7696,12 +7743,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 67,
-          "l10": 67,
-          "season": 67
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-12-12",
           "opponent": "Jordan",
@@ -7755,12 +7817,13 @@
       "dataScope": "international",
       "searchText": "ahmed hasan maknazi iraq defender i",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Arab Cup, Knockout Stage",
           "Arab Cup, Group D"
         ],
-        "lastMatch": "2025-12-12"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 1381227
     },
@@ -9200,29 +9263,29 @@
       "number": "6",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.78,
-      "xgShare": 0.04,
+      "minutesFactor": 0.79,
+      "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 0.9,
+        "shotsShare": 0.8,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.7
+        "foulWeight": 0.6
       },
       "seasonRates": {
-        "goals90": 0.1,
-        "assists90": 0.1,
-        "shots90": 0.9,
+        "goals90": 0.09,
+        "assists90": 0.09,
+        "shots90": 0.8,
         "sot90": 0.2,
-        "passes90": 37,
+        "passes90": 34,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 70
+        "fouls90": 0.6,
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -9232,22 +9295,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 15
+          "season": 14
         },
         "shots25": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 15
+          "season": 14
         },
         "sot05": {
           "l5": 0,
-          "l10": 10,
-          "season": 15
+          "l10": 0,
+          "season": 14
         },
         "cards05": {
           "l5": 0,
@@ -9257,10 +9320,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -9472,7 +9550,7 @@
       "dataScope": "international",
       "searchText": "akam hashem iraq defender i",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -9483,7 +9561,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 1631451
     },
@@ -18204,29 +18282,29 @@
       "number": "9",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.57,
+      "minutesFactor": 0.58,
       "xgShare": 0.11,
       "propProfile": {
-        "shotsShare": 2.7,
-        "sotShare": 0.9,
+        "shotsShare": 2.2,
+        "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.59,
+        "goals90": 0.49,
         "assists90": 0,
-        "shots90": 2.7,
-        "sot90": 0.9,
-        "passes90": 9,
+        "shots90": 2.2,
+        "sot90": 0.7,
+        "passes90": 8,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 51
+        "fouls90": 0.5,
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l5": 20,
+          "l10": 29,
+          "season": 29
         },
         "goals15": {
           "l5": 0,
@@ -18239,19 +18317,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 60,
-          "l10": 50,
-          "season": 50
+          "l5": 40,
+          "l10": 43,
+          "season": 43
         },
         "shots25": {
           "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l10": 29,
+          "season": 29
         },
         "sot05": {
-          "l5": 40,
-          "l10": 33,
-          "season": 33
+          "l5": 20,
+          "l10": 29,
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -18265,6 +18343,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -18364,7 +18457,7 @@
       "dataScope": "international",
       "searchText": "ali al-hamadi iraq forward i",
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -18372,7 +18465,7 @@
           "World Cup Qualification, AFC, Round 5",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 1010010
     },
@@ -18536,19 +18629,19 @@
       "minutesFactor": 0.68,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.9,
-        "sotShare": 0.2,
+        "shotsShare": 1.2,
+        "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.7
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0.09,
-        "shots90": 0.9,
-        "sot90": 0.2,
-        "passes90": 31,
+        "shots90": 1.2,
+        "sot90": 0.3,
+        "passes90": 29,
         "cards90": 0,
-        "fouls90": 0.6,
+        "fouls90": 0.7,
         "minutesAvg": 61
       },
       "hitRates": {
@@ -18568,19 +18661,19 @@
           "season": 6
         },
         "shots15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 19
+          "l5": 40,
+          "l10": 20,
+          "season": 24
         },
         "shots25": {
-          "l5": 20,
-          "l10": 10,
-          "season": 6
+          "l5": 40,
+          "l10": 20,
+          "season": 12
         },
         "sot05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 6
+          "l5": 40,
+          "l10": 20,
+          "season": 12
         },
         "cards05": {
           "l5": 0,
@@ -18590,10 +18683,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-16",
           "opponent": "Norway",
@@ -18854,7 +18962,7 @@
       "dataScope": "international",
       "searchText": "ali jasim iraq midfielder i",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -18866,7 +18974,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 1066729
     },
@@ -19889,17 +19997,23 @@
       "number": "7",
       "likelyStarter": false,
       "benchImpact": false,
-      "minutesFactor": 0.14,
+      "minutesFactor": 0.2,
       "xgShare": 0.07,
+      "propProfile": {
+        "shotsShare": 2.5,
+        "sotShare": 0.03,
+        "cardWeight": 0.02,
+        "foulWeight": 5
+      },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 4.5,
+        "shots90": 2.5,
         "sot90": 0,
-        "passes90": 16,
+        "passes90": 9,
         "cards90": 0,
-        "fouls90": 6.8,
-        "minutesAvg": 13
+        "fouls90": 5,
+        "minutesAvg": 18
       },
       "hitRates": {
         "goals05": {
@@ -19944,6 +20058,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-03-25",
           "opponent": "Palestine",
@@ -19997,12 +20126,13 @@
       "dataScope": "international",
       "searchText": "ali yousif iraq forward i",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group I",
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2025-03-25"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 834492
     },
@@ -24075,27 +24205,27 @@
       "number": "16",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.82,
+      "minutesFactor": 0.83,
       "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 1,
+        "shotsShare": 0.9,
         "sotShare": 0.4,
-        "cardWeight": 0.09,
+        "cardWeight": 0.16,
         "foulWeight": 1.2
       },
       "seasonRates": {
-        "goals90": 0.09,
-        "assists90": 0.26,
-        "shots90": 1,
+        "goals90": 0.08,
+        "assists90": 0.24,
+        "shots90": 0.9,
         "sot90": 0.4,
-        "passes90": 27,
-        "cards90": 0.09,
+        "passes90": 25,
+        "cards90": 0.16,
         "fouls90": 1.2,
-        "minutesAvg": 74
+        "minutesAvg": 75
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 7
         },
@@ -24105,37 +24235,52 @@
           "season": 0
         },
         "assists05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 30,
-          "season": 21
+          "season": 20
         },
         "shots15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 14
+          "l5": 0,
+          "l10": 10,
+          "season": 13
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 7
         },
         "sot05": {
-          "l5": 40,
-          "l10": 30,
-          "season": 36
+          "l5": 20,
+          "l10": 20,
+          "season": 33
         },
         "cards05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 7
+          "l5": 40,
+          "l10": 20,
+          "season": 13
         },
         "fouls15": {
           "l5": 20,
-          "l10": 40,
-          "season": 29
+          "l10": 30,
+          "season": 27
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -24363,7 +24508,7 @@
       "dataScope": "international",
       "searchText": "amir al-ammari iraq midfielder i",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -24373,7 +24518,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 915325
     },
@@ -34233,23 +34378,23 @@
       "number": "7",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.3,
+      "minutesFactor": 0.23,
       "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 1.7,
-        "sotShare": 1.7,
+        "shotsShare": 1.5,
+        "sotShare": 1.5,
         "cardWeight": 0.02,
         "foulWeight": 0.03
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.7,
-        "sot90": 1.7,
-        "passes90": 31,
+        "shots90": 1.5,
+        "sot90": 1.5,
+        "passes90": 26,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 27
+        "minutesAvg": 21
       },
       "hitRates": {
         "goals05": {
@@ -34278,9 +34423,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 50,
-          "l10": 50,
-          "season": 50
+          "l5": 33,
+          "l10": 33,
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -34294,6 +34439,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-05-31",
           "opponent": "USA",
@@ -34331,11 +34491,12 @@
       "dataScope": "international",
       "searchText": "assane diao senegal forward i",
       "importMeta": {
-        "appearances": 2,
+        "appearances": 3,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-05-31"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 1493689
     },
@@ -96802,23 +96963,23 @@
       "number": "20",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.59,
+      "minutesFactor": 0.67,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.05,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.4
+        "foulWeight": 1.5
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 47,
+        "passes90": 35,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 53
+        "fouls90": 1.5,
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
@@ -96857,12 +97018,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -96948,13 +97124,14 @@
       "dataScope": "international",
       "searchText": "frans putros iraq defender i",
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 851676
     },
@@ -107991,31 +108168,31 @@
       "group": "I",
       "position": "Midfielder",
       "number": "7",
-      "likelyStarter": true,
-      "benchImpact": false,
-      "minutesFactor": 0.53,
-      "xgShare": 0.06,
+      "likelyStarter": false,
+      "benchImpact": true,
+      "minutesFactor": 0.54,
+      "xgShare": 0.05,
       "propProfile": {
-        "shotsShare": 0.9,
-        "sotShare": 0.2,
+        "shotsShare": 1.2,
+        "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 3.2
+        "foulWeight": 2.9
       },
       "seasonRates": {
-        "goals90": 0,
-        "assists90": 0.19,
-        "shots90": 0.9,
-        "sot90": 0.2,
-        "passes90": 35,
+        "goals90": 0.17,
+        "assists90": 0.17,
+        "shots90": 1.2,
+        "sot90": 0.3,
+        "passes90": 31,
         "cards90": 0,
-        "fouls90": 3.2,
-        "minutesAvg": 48
+        "fouls90": 2.9,
+        "minutesAvg": 49
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 9
         },
         "goals15": {
           "l5": 0,
@@ -108025,12 +108202,12 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
           "l5": 20,
-          "l10": 10,
-          "season": 10
+          "l10": 20,
+          "season": 18
         },
         "shots25": {
           "l5": 0,
@@ -108039,8 +108216,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 10,
-          "season": 10
+          "l10": 20,
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -108048,12 +108225,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 50,
-          "season": 50
+          "l5": 20,
+          "l10": 40,
+          "season": 45
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 57,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-16",
           "opponent": "France",
@@ -108218,7 +108410,7 @@
       "dataScope": "international",
       "searchText": "habib diarra senegal midfielder i",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -108226,7 +108418,7 @@
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 1128532
     },
@@ -116362,28 +116554,28 @@
       "number": "8",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.84,
+      "minutesFactor": 0.86,
       "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 1.3,
+        "shotsShare": 1.2,
         "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 1.4
+        "foulWeight": 1.5
       },
       "seasonRates": {
         "goals90": 0.08,
         "assists90": 0.08,
-        "shots90": 1.3,
+        "shots90": 1.2,
         "sot90": 0.3,
-        "passes90": 27,
+        "passes90": 25,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 76
+        "fouls90": 1.5,
+        "minutesAvg": 77
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 7
         },
         "goals15": {
@@ -116398,8 +116590,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 20,
-          "season": 29
+          "l10": 10,
+          "season": 27
         },
         "shots25": {
           "l5": 0,
@@ -116408,8 +116600,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 20,
-          "season": 21
+          "l10": 10,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -116418,11 +116610,26 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 40,
-          "season": 43
+          "l10": 50,
+          "season": 47
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -116650,7 +116857,7 @@
       "dataScope": "international",
       "searchText": "ibrahim bayesh iraq midfielder i",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -116659,7 +116866,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 920815
     },
@@ -116960,29 +117167,29 @@
       "number": "27",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.33,
-      "xgShare": 0.14,
+      "minutesFactor": 0.36,
+      "xgShare": 0.13,
       "propProfile": {
-        "shotsShare": 2.4,
-        "sotShare": 1.5,
+        "shotsShare": 2,
+        "sotShare": 1.3,
         "cardWeight": 0.02,
-        "foulWeight": 1.5
+        "foulWeight": 1.3
       },
       "seasonRates": {
-        "goals90": 0.9,
-        "assists90": 0.9,
-        "shots90": 2.4,
-        "sot90": 1.5,
-        "passes90": 41,
+        "goals90": 0.76,
+        "assists90": 0.76,
+        "shots90": 2,
+        "sot90": 1.3,
+        "passes90": 35,
         "cards90": 0,
-        "fouls90": 1.5,
-        "minutesAvg": 30
+        "fouls90": 1.3,
+        "minutesAvg": 32
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 30
+          "season": 27
         },
         "goals15": {
           "l5": 0,
@@ -116992,12 +117199,12 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots25": {
           "l5": 0,
@@ -117005,9 +117212,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 50,
-          "season": 50
+          "season": 45
         },
         "cards05": {
           "l5": 0,
@@ -117021,6 +117228,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-16",
           "opponent": "France",
@@ -117185,14 +117407,14 @@
       "dataScope": "international",
       "searchText": "ibrahim mbaye senegal forward i",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 1590918
     },
@@ -118048,10 +118270,10 @@
       "number": "5",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.87,
+      "minutesFactor": 0.88,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.4,
+        "shotsShare": 0.5,
         "sotShare": 0.1,
         "cardWeight": 0.02,
         "foulWeight": 1.1
@@ -118059,12 +118281,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.4,
+        "shots90": 0.5,
         "sot90": 0.1,
-        "passes90": 68,
+        "passes90": 63,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 78
+        "minutesAvg": 79
       },
       "hitRates": {
         "goals05": {
@@ -118093,7 +118315,7 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 7
         },
@@ -118103,12 +118325,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 30,
-          "season": 29
+          "season": 27
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-16",
           "opponent": "France",
@@ -118337,7 +118574,7 @@
       "dataScope": "international",
       "searchText": "idrissa gana gueye senegal midfielder i",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -118345,7 +118582,7 @@
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 106337
     },
@@ -118974,29 +119211,29 @@
       "number": "13",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.78,
-      "xgShare": 0.09,
+      "minutesFactor": 0.74,
+      "xgShare": 0.1,
       "propProfile": {
-        "shotsShare": 1.3,
-        "sotShare": 0.7,
+        "shotsShare": 1.4,
+        "sotShare": 0.9,
         "cardWeight": 0.02,
-        "foulWeight": 0.7
+        "foulWeight": 0.8
       },
       "seasonRates": {
-        "goals90": 0.2,
-        "assists90": 0.3,
-        "shots90": 1.3,
-        "sot90": 0.7,
-        "passes90": 32,
+        "goals90": 0.29,
+        "assists90": 0.38,
+        "shots90": 1.4,
+        "sot90": 0.9,
+        "passes90": 31,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 70
+        "fouls90": 0.8,
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 20,
-          "season": 15
+          "season": 21
         },
         "goals15": {
           "l5": 0,
@@ -119004,24 +119241,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 15
+          "l5": 40,
+          "l10": 20,
+          "season": 21
         },
         "shots15": {
           "l5": 20,
           "l10": 30,
-          "season": 31
+          "season": 36
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
-          "season": 8
+          "l10": 0,
+          "season": 7
         },
         "sot05": {
           "l5": 40,
           "l10": 40,
-          "season": 46
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -119030,11 +119267,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 10,
-          "season": 8
+          "l10": 0,
+          "season": 7
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 33,
+          "goals": 1,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-16",
           "opponent": "France",
@@ -119247,7 +119499,7 @@
       "dataScope": "international",
       "searchText": "iliman ndiaye senegal midfielder i",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -119255,7 +119507,7 @@
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 914309
     },
@@ -122031,23 +122283,23 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.78,
+      "minutesFactor": 0.8,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.4,
+        "shotsShare": 0.5,
         "sotShare": 0.03,
         "cardWeight": 0.02,
         "foulWeight": 1.1
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.18,
-        "shots90": 0.4,
+        "assists90": 0.16,
+        "shots90": 0.5,
         "sot90": 0,
-        "passes90": 41,
+        "passes90": 35,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 70
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
@@ -122062,13 +122314,13 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots15": {
           "l5": 0,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots25": {
           "l5": 0,
@@ -122087,11 +122339,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-09",
           "opponent": "Saudi Arabia",
@@ -122209,13 +122476,14 @@
       "dataScope": "international",
       "searchText": "ismail jakobs senegal defender i",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group D"
         ],
-        "lastMatch": "2026-06-09"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 897291
     },
@@ -122571,54 +122839,54 @@
       "number": "18",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.72,
-      "xgShare": 0.18,
+      "minutesFactor": 0.73,
+      "xgShare": 0.19,
       "propProfile": {
-        "shotsShare": 2.9,
-        "sotShare": 1.5,
+        "shotsShare": 3,
+        "sotShare": 1.6,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.42,
-        "assists90": 0.28,
-        "shots90": 2.9,
-        "sot90": 1.5,
-        "passes90": 26,
+        "goals90": 0.49,
+        "assists90": 0.37,
+        "shots90": 3,
+        "sot90": 1.6,
+        "passes90": 23,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 65
+        "fouls90": 0.5,
+        "minutesAvg": 66
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 40,
           "l10": 20,
-          "season": 20
+          "season": 27
         },
         "goals15": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 0,
+          "season": 9
         },
         "assists05": {
-          "l5": 0,
-          "l10": 20,
-          "season": 20
+          "l5": 20,
+          "l10": 30,
+          "season": 27
         },
         "shots15": {
           "l5": 60,
           "l10": 70,
-          "season": 70
+          "season": 73
         },
         "shots25": {
-          "l5": 40,
+          "l5": 60,
           "l10": 50,
-          "season": 50
+          "season": 55
         },
         "sot05": {
           "l5": 60,
           "l10": 70,
-          "season": 70
+          "season": 73
         },
         "cards05": {
           "l5": 0,
@@ -122628,10 +122896,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 81,
+          "goals": 1,
+          "assists": 1,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-16",
           "opponent": "France",
@@ -122796,7 +123079,7 @@
       "dataScope": "international",
       "searchText": "ismaïla sarr senegal forward i",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -122804,7 +123087,7 @@
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 845286
     },
@@ -126509,17 +126792,17 @@
       "number": "12",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.96,
+      "minutesFactor": 0.92,
       "xgShare": 0.02,
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 24,
+        "passes90": 23,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 86
+        "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
@@ -126564,6 +126847,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 6
+        },
         {
           "date": "2026-06-16",
           "opponent": "Norway",
@@ -126775,7 +127074,7 @@
       "dataScope": "international",
       "searchText": "jalal hassan iraq goalkeeper i",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -126784,7 +127083,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 196454
     },
@@ -164457,10 +164756,10 @@
       "number": "19",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.38,
+      "minutesFactor": 0.34,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 0.05,
+        "shotsShare": 0.6,
         "sotShare": 0.03,
         "cardWeight": 0.02,
         "foulWeight": 4
@@ -164468,12 +164767,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 28,
+        "passes90": 24,
         "cards90": 0,
         "fouls90": 4,
-        "minutesAvg": 34
+        "minutesAvg": 31
       },
       "hitRates": {
         "goals05": {
@@ -164512,12 +164811,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 75,
-          "l10": 75,
-          "season": 75
+          "l5": 60,
+          "l10": 60,
+          "season": 60
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-04",
           "opponent": "Spain",
@@ -164587,13 +164901,14 @@
       "dataScope": "international",
       "searchText": "kevin yakob iraq midfielder i",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup Qual, Inter-Confed. Playoffs",
           "World Cup Qualification, AFC, Round 4, Gr. B"
         ],
-        "lastMatch": "2026-06-04"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 936451
     },
@@ -168640,17 +168955,17 @@
       "minutesFactor": 1,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.2,
+        "shotsShare": 0.3,
         "sotShare": 0.1,
         "cardWeight": 0.02,
         "foulWeight": 0.9
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.14,
-        "shots90": 0.2,
+        "assists90": 0.13,
+        "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 51,
+        "passes90": 48,
         "cards90": 0,
         "fouls90": 0.9,
         "minutesAvg": 90
@@ -168669,7 +168984,7 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 14
+          "season": 13
         },
         "shots15": {
           "l5": 0,
@@ -168693,11 +169008,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 21
+          "l10": 10,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-16",
           "opponent": "France",
@@ -168926,7 +169256,7 @@
       "dataScope": "international",
       "searchText": "krépin diatta senegal midfielder i",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -168934,7 +169264,7 @@
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 873534
     },
@@ -171021,23 +171351,23 @@
       "number": "8",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.5,
+      "minutesFactor": 0.51,
       "xgShare": 0.03,
       "propProfile": {
         "shotsShare": 1.7,
-        "sotShare": 0.8,
+        "sotShare": 0.7,
         "cardWeight": 0.02,
-        "foulWeight": 1.2
+        "foulWeight": 1.3
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0,
+        "assists90": 0.14,
         "shots90": 1.7,
-        "sot90": 0.8,
-        "passes90": 49,
+        "sot90": 0.7,
+        "passes90": 45,
         "cards90": 0,
-        "fouls90": 1.2,
-        "minutesAvg": 45
+        "fouls90": 1.3,
+        "minutesAvg": 46
       },
       "hitRates": {
         "goals05": {
@@ -171051,24 +171381,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
-        },
-        "shots15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 15
-        },
-        "shots25": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 20,
+          "season": 14
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 10,
+          "season": 7
         },
         "sot05": {
-          "l5": 40,
-          "l10": 50,
-          "season": 38
+          "l5": 20,
+          "l10": 40,
+          "season": 36
         },
         "cards05": {
           "l5": 0,
@@ -171078,10 +171408,25 @@
         "fouls15": {
           "l5": 40,
           "l10": 20,
-          "season": 15
+          "season": 14
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-16",
           "opponent": "France",
@@ -171294,7 +171639,7 @@
       "dataScope": "international",
       "searchText": "lamine camara senegal midfielder i",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -171302,7 +171647,7 @@
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 1389846
     },
@@ -202872,16 +203217,16 @@
       "propProfile": {
         "shotsShare": 0.3,
         "sotShare": 0.1,
-        "cardWeight": 0.02,
+        "cardWeight": 0.08,
         "foulWeight": 1.3
       },
       "seasonRates": {
-        "goals90": 0.09,
+        "goals90": 0.08,
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 23,
-        "cards90": 0,
+        "passes90": 21,
+        "cards90": 0.08,
         "fouls90": 1.3,
         "minutesAvg": 88
       },
@@ -202917,17 +203262,32 @@
           "season": 8
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 30,
-          "season": 33
+          "l5": 40,
+          "l10": 40,
+          "season": 38
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -203123,7 +203483,7 @@
       "dataScope": "international",
       "searchText": "merchas doski iraq defender i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -203132,7 +203492,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 1381224
     },
@@ -216920,7 +217280,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 31,
+        "passes90": 24,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -216968,6 +217328,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 1
+        },
         {
           "date": "2026-05-31",
           "opponent": "USA",
@@ -217030,12 +217406,13 @@
       "dataScope": "international",
       "searchText": "mory diaw senegal goalkeeper i",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group I",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-05-31"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 580226
     },
@@ -217833,23 +218210,23 @@
       "number": "19",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.91,
+      "minutesFactor": 0.92,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.1,
+        "shotsShare": 0.2,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "foulWeight": 1.1
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.1,
+        "shots90": 0.2,
         "sot90": 0,
-        "passes90": 67,
+        "passes90": 62,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 82
+        "fouls90": 1.1,
+        "minutesAvg": 83
       },
       "hitRates": {
         "goals05": {
@@ -217888,12 +218265,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 20,
-          "season": 23
+          "l5": 20,
+          "l10": 30,
+          "season": 29
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-16",
           "opponent": "France",
@@ -218106,7 +218498,7 @@
       "dataScope": "international",
       "searchText": "moussa niakhaté senegal defender i",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -218114,7 +218506,7 @@
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 758168
     },
@@ -225941,54 +226333,54 @@
       "number": "11",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.68,
+      "minutesFactor": 0.66,
       "xgShare": 0.23,
       "propProfile": {
-        "shotsShare": 3.2,
-        "sotShare": 1.5,
+        "shotsShare": 3.4,
+        "sotShare": 1.6,
         "cardWeight": 0.02,
-        "foulWeight": 2
+        "foulWeight": 1.9
       },
       "seasonRates": {
-        "goals90": 0.74,
-        "assists90": 0.32,
-        "shots90": 3.2,
-        "sot90": 1.5,
-        "passes90": 21,
+        "goals90": 0.72,
+        "assists90": 0.31,
+        "shots90": 3.4,
+        "sot90": 1.6,
+        "passes90": 20,
         "cards90": 0,
-        "fouls90": 2,
-        "minutesAvg": 61
+        "fouls90": 1.9,
+        "minutesAvg": 59
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 30,
-          "season": 36
+          "season": 33
         },
         "goals15": {
           "l5": 0,
           "l10": 20,
-          "season": 14
+          "season": 13
         },
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 21
+          "season": 20
         },
         "shots15": {
-          "l5": 20,
-          "l10": 40,
-          "season": 43
+          "l5": 40,
+          "l10": 50,
+          "season": 47
         },
         "shots25": {
-          "l5": 20,
-          "l10": 40,
-          "season": 43
+          "l5": 40,
+          "l10": 50,
+          "season": 47
         },
         "sot05": {
-          "l5": 20,
-          "l10": 40,
-          "season": 43
+          "l5": 40,
+          "l10": 50,
+          "season": 47
         },
         "cards05": {
           "l5": 0,
@@ -225998,10 +226390,25 @@
         "fouls15": {
           "l5": 40,
           "l10": 50,
-          "season": 50
+          "season": 47
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 33,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-16",
           "opponent": "France",
@@ -226230,7 +226637,7 @@
       "dataScope": "international",
       "searchText": "nicolas jackson senegal forward i",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -226238,7 +226645,7 @@
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 1085381
     },
@@ -238923,67 +239330,82 @@
       "number": "21",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.81,
-      "xgShare": 0.1,
+      "minutesFactor": 0.78,
+      "xgShare": 0.13,
       "propProfile": {
-        "shotsShare": 2.6,
-        "sotShare": 0.8,
-        "cardWeight": 0.02,
+        "shotsShare": 3,
+        "sotShare": 1,
+        "cardWeight": 0.09,
         "foulWeight": 2
       },
       "seasonRates": {
-        "goals90": 0.28,
-        "assists90": 0,
-        "shots90": 2.6,
-        "sot90": 0.8,
-        "passes90": 47,
-        "cards90": 0,
+        "goals90": 0.46,
+        "assists90": 0.09,
+        "shots90": 3,
+        "sot90": 1,
+        "passes90": 45,
+        "cards90": 0.09,
         "fouls90": 2,
-        "minutesAvg": 73
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 15
+          "l5": 20,
+          "l10": 20,
+          "season": 21
         },
         "goals15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 8
+          "l5": 20,
+          "l10": 20,
+          "season": 14
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "shots15": {
           "l5": 60,
           "l10": 70,
-          "season": 77
+          "season": 79
         },
         "shots25": {
           "l5": 40,
-          "l10": 30,
-          "season": 31
+          "l10": 40,
+          "season": 36
         },
         "sot05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 31
+          "l5": 40,
+          "l10": 40,
+          "season": 36
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 50,
-          "season": 46
+          "l5": 20,
+          "l10": 40,
+          "season": 43
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 33,
+          "goals": 2,
+          "assists": 1,
+          "shots": 6,
+          "shotsOnTarget": 3,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-16",
           "opponent": "France",
@@ -239196,7 +239618,7 @@
       "dataScope": "international",
       "searchText": "pape gueye senegal midfielder i",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -239204,7 +239626,7 @@
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 879694
     },
@@ -239821,19 +240243,19 @@
       "minutesFactor": 0.28,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 0.6,
-        "sotShare": 0.6,
+        "shotsShare": 0.8,
+        "sotShare": 0.8,
         "cardWeight": 0.02,
-        "foulWeight": 2.1
+        "foulWeight": 1.9
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.6,
-        "sot90": 0.6,
-        "passes90": 76,
+        "shots90": 0.8,
+        "sot90": 0.8,
+        "passes90": 68,
         "cards90": 0,
-        "fouls90": 2.1,
+        "fouls90": 1.9,
         "minutesAvg": 25
       },
       "hitRates": {
@@ -239863,9 +240285,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 8
+          "l5": 40,
+          "l10": 20,
+          "season": 15
         },
         "cards05": {
           "l5": 0,
@@ -239875,10 +240297,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 17
+          "season": 15
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-16",
           "opponent": "France",
@@ -240075,7 +240512,7 @@
       "dataScope": "international",
       "searchText": "pathé ismaël ciss senegal midfielder i",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -240083,7 +240520,7 @@
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 913679
     },
@@ -251430,23 +251867,23 @@
       "number": "2",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.72,
+      "minutesFactor": 0.67,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.5,
         "sotShare": 0.03,
-        "cardWeight": 0.02,
-        "foulWeight": 0.9
+        "cardWeight": 0.15,
+        "foulWeight": 1.1
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.5,
         "sot90": 0,
-        "passes90": 51,
-        "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 65
+        "passes90": 49,
+        "cards90": 0.15,
+        "fouls90": 1.1,
+        "minutesAvg": 60
       },
       "hitRates": {
         "goals05": {
@@ -251466,8 +251903,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -251480,17 +251917,32 @@
           "season": 0
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "fouls15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -251639,7 +252091,7 @@
       "dataScope": "international",
       "searchText": "rebin sulaka iraq defender i",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -251647,7 +252099,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 362504
     },
@@ -263203,33 +263655,33 @@
       "likelyStarter": true,
       "benchImpact": false,
       "minutesFactor": 0.89,
-      "xgShare": 0.17,
+      "xgShare": 0.16,
       "propProfile": {
-        "shotsShare": 2.8,
+        "shotsShare": 2.9,
         "sotShare": 1.7,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 0.75,
-        "assists90": 0.23,
-        "shots90": 2.8,
+        "goals90": 0.7,
+        "assists90": 0.21,
+        "shots90": 2.9,
         "sot90": 1.7,
-        "passes90": 31,
+        "passes90": 29,
         "cards90": 0,
-        "fouls90": 1.1,
+        "fouls90": 1,
         "minutesAvg": 80
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
-          "l10": 40,
-          "season": 40
+          "l10": 30,
+          "season": 38
         },
         "goals15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 10,
+          "season": 19
         },
         "assists05": {
           "l5": 0,
@@ -263239,17 +263691,17 @@
         "shots15": {
           "l5": 40,
           "l10": 50,
-          "season": 60
+          "season": 63
         },
         "shots25": {
           "l5": 20,
           "l10": 30,
-          "season": 33
+          "season": 38
         },
         "sot05": {
           "l5": 80,
           "l10": 70,
-          "season": 67
+          "season": 69
         },
         "cards05": {
           "l5": 0,
@@ -263259,10 +263711,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 20
+          "season": 19
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Iraq",
+          "competition": "FIFA World Cup, Group I",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-16",
           "opponent": "France",
@@ -263507,7 +263974,7 @@
       "dataScope": "international",
       "searchText": "sadio mané senegal midfielder i",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -263515,7 +263982,7 @@
           "Africa Cup of Nations, Group D",
           "FIFA World Cup, Qualification CAF, Group B"
         ],
-        "lastMatch": "2026-06-16"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 217704
     },
@@ -304852,31 +305319,31 @@
       "group": "I",
       "position": "Midfielder",
       "number": "11",
-      "likelyStarter": false,
-      "benchImpact": true,
-      "minutesFactor": 0.57,
-      "xgShare": 0.05,
+      "likelyStarter": true,
+      "benchImpact": false,
+      "minutesFactor": 0.59,
+      "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 0.2,
-        "sotShare": 0.2,
+        "shotsShare": 0.1,
+        "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.7
       },
       "seasonRates": {
-        "goals90": 0.16,
+        "goals90": 0.14,
         "assists90": 0,
-        "shots90": 0.2,
-        "sot90": 0.2,
-        "passes90": 40,
+        "shots90": 0.1,
+        "sot90": 0.1,
+        "passes90": 36,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 51
+        "fouls90": 0.7,
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "goals15": {
           "l5": 0,
@@ -304901,7 +305368,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "cards05": {
           "l5": 0,
@@ -304911,10 +305378,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 0,
-          "season": 9
+          "season": 8
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "France",
@@ -305094,7 +305576,7 @@
       "dataScope": "international",
       "searchText": "zidane iqbal iraq midfielder i",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group I",
           "Int. Friendly Games",
@@ -305103,7 +305585,7 @@
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-26"
       },
       "sofascoreId": 1014225
     },
