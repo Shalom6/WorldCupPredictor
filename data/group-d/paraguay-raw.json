@@ -2,11 +2,11 @@
   "team": "Paraguay",
   "group": "D",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-26T04:43:36.953Z",
+  "importedAt": "2026-06-26T08:19:41.208Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-13",
     "2026-06-26",
+    "2026-06-13",
     "2026-06-05",
     "2026-03-31",
     "2026-03-27",
@@ -25,15 +25,6 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-13",
-      "opponent": "USA",
-      "competition": "FIFA World Cup, Group D",
-      "result": "L",
-      "goalsFor": 1,
-      "goalsAgainst": 4,
-      "venue": "away"
-    },
-    {
       "date": "2026-06-26",
       "opponent": "Australia",
       "competition": "FIFA World Cup, Group D",
@@ -41,6 +32,15 @@
       "goalsFor": 0,
       "goalsAgainst": 0,
       "venue": "home"
+    },
+    {
+      "date": "2026-06-13",
+      "opponent": "USA",
+      "competition": "FIFA World Cup, Group D",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "venue": "away"
     },
     {
       "date": "2026-06-05",
@@ -375,22 +375,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "USA",
-          "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0,
-          "saves": 3
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Australia",
           "competition": "FIFA World Cup, Group D",
@@ -405,6 +389,22 @@
           "cards": 0,
           "fouls": 0,
           "saves": 5
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 3
         },
         {
           "date": "2026-06-05",
@@ -1324,21 +1324,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "USA",
-          "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Australia",
           "competition": "FIFA World Cup, Group D",
@@ -1352,6 +1337,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-05",
@@ -1604,12 +1604,12 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "USA",
+          "date": "2026-06-26",
+          "opponent": "Australia",
           "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 11,
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -1619,12 +1619,12 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-26",
-          "opponent": "Australia",
+          "date": "2026-06-13",
+          "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
+          "result": "L",
+          "venue": "away",
+          "minutes": 11,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -1903,21 +1903,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "USA",
-          "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 79,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 3
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Australia",
           "competition": "FIFA World Cup, Group D",
@@ -1931,6 +1916,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 3
         },
         {
           "date": "2026-06-05",
@@ -2167,21 +2167,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "USA",
-          "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Australia",
           "competition": "FIFA World Cup, Group D",
@@ -2195,6 +2180,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
         },
         {
           "date": "2026-06-05",
@@ -2531,21 +2531,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "USA",
-          "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Australia",
           "competition": "FIFA World Cup, Group D",
@@ -2559,6 +2544,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-05",
@@ -3070,21 +3070,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "USA",
-          "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 5
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Australia",
           "competition": "FIFA World Cup, Group D",
@@ -3098,6 +3083,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 5
         },
         {
           "date": "2026-06-05",
@@ -3456,12 +3456,12 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "USA",
+          "date": "2026-06-26",
+          "opponent": "Australia",
           "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 45,
+          "result": "D",
+          "venue": "home",
+          "minutes": 0,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -3471,12 +3471,12 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-26",
-          "opponent": "Australia",
+          "date": "2026-06-13",
+          "opponent": "USA",
           "competition": "FIFA World Cup, Group D",
-          "result": "D",
-          "venue": "home",
-          "minutes": 0,
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -3736,21 +3736,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "USA",
-          "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 80,
-          "goals": 0,
-          "assists": 0,
-          "shots": 4,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Australia",
           "competition": "FIFA World Cup, Group D",
@@ -3764,6 +3749,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "shots": 4,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
         },
         {
           "date": "2026-06-05",
@@ -4190,21 +4190,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "USA",
-          "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 1,
-          "shots": 2,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Australia",
           "competition": "FIFA World Cup, Group D",
@@ -4218,6 +4203,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-05",
@@ -4957,21 +4957,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "USA",
-          "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 45,
-          "goals": 1,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Australia",
           "competition": "FIFA World Cup, Group D",
@@ -4985,6 +4970,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-05",
@@ -5394,21 +5394,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-13",
-          "opponent": "USA",
-          "competition": "FIFA World Cup, Group D",
-          "result": "L",
-          "venue": "away",
-          "minutes": 28,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Australia",
           "competition": "FIFA World Cup, Group D",
@@ -5422,6 +5407,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-13",
+          "opponent": "USA",
+          "competition": "FIFA World Cup, Group D",
+          "result": "L",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
         },
         {
           "date": "2026-06-05",

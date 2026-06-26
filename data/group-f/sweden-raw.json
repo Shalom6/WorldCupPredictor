@@ -2,11 +2,11 @@
   "team": "Sweden",
   "group": "F",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-26T04:43:37.368Z",
+  "importedAt": "2026-06-26T08:19:41.514Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-20",
     "2026-06-25",
+    "2026-06-20",
     "2026-06-04",
     "2026-06-01",
     "2026-03-31",
@@ -25,21 +25,21 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-20",
-      "opponent": "Netherlands",
-      "competition": "FIFA World Cup, Group F",
-      "result": "L",
-      "goalsFor": 1,
-      "goalsAgainst": 5,
-      "venue": "away"
-    },
-    {
       "date": "2026-06-25",
       "opponent": "Japan",
       "competition": "FIFA World Cup, Group F",
       "result": "D",
       "goalsFor": 1,
       "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
+      "date": "2026-06-20",
+      "opponent": "Netherlands",
+      "competition": "FIFA World Cup, Group F",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 5,
       "venue": "away"
     },
     {
@@ -1413,21 +1413,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-20",
-          "opponent": "Netherlands",
-          "competition": "FIFA World Cup, Group F",
-          "result": "L",
-          "venue": "away",
-          "minutes": 93,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-25",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -1440,6 +1425,21 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
+          "fouls": 1
+        },
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 93,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
           "fouls": 1
         },
         {
@@ -1693,21 +1693,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-20",
-          "opponent": "Netherlands",
-          "competition": "FIFA World Cup, Group F",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-25",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -1721,6 +1706,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-04",
@@ -1999,21 +1999,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-20",
-          "opponent": "Netherlands",
-          "competition": "FIFA World Cup, Group F",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-25",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -2026,6 +2011,21 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 1,
+          "fouls": 1
+        },
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
           "fouls": 1
         },
         {
@@ -2383,21 +2383,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-20",
-          "opponent": "Netherlands",
-          "competition": "FIFA World Cup, Group F",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-25",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -2411,6 +2396,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-01",
@@ -3357,21 +3357,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-20",
-          "opponent": "Netherlands",
-          "competition": "FIFA World Cup, Group F",
-          "result": "L",
-          "venue": "away",
-          "minutes": 0,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -3385,6 +3370,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 3
+        },
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-04",
@@ -4307,21 +4307,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-20",
-          "opponent": "Netherlands",
-          "competition": "FIFA World Cup, Group F",
-          "result": "L",
-          "venue": "away",
-          "minutes": 34,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-25",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -4335,6 +4320,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 34,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
         },
         {
           "date": "2026-06-04",
@@ -5008,21 +5008,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-20",
-          "opponent": "Netherlands",
-          "competition": "FIFA World Cup, Group F",
-          "result": "L",
-          "venue": "away",
-          "minutes": 79,
-          "goals": 0,
-          "assists": 0,
-          "shots": 5,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-25",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -5036,6 +5021,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
         },
         {
           "date": "2026-06-04",
@@ -5288,21 +5288,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-20",
-          "opponent": "Netherlands",
-          "competition": "FIFA World Cup, Group F",
-          "result": "L",
-          "venue": "away",
-          "minutes": 55,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -5316,6 +5301,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 55,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-04",
@@ -5488,21 +5488,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-20",
-          "opponent": "Netherlands",
-          "competition": "FIFA World Cup, Group F",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 1,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -5513,6 +5498,21 @@
           "assists": 0,
           "shots": 2,
           "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -5752,21 +5752,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-20",
-          "opponent": "Netherlands",
-          "competition": "FIFA World Cup, Group F",
-          "result": "L",
-          "venue": "away",
-          "minutes": 35,
-          "goals": 1,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-25",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -5777,6 +5762,21 @@
           "assists": 0,
           "shots": 2,
           "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 35,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -6032,21 +6032,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-20",
-          "opponent": "Netherlands",
-          "competition": "FIFA World Cup, Group F",
-          "result": "L",
-          "venue": "away",
-          "minutes": 56,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-25",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -6060,6 +6045,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 56,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-04",
@@ -6512,21 +6512,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-20",
-          "opponent": "Netherlands",
-          "competition": "FIFA World Cup, Group F",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 5,
-          "shotsOnTarget": 3,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-25",
           "opponent": "Japan",
           "competition": "FIFA World Cup, Group F",
@@ -6539,6 +6524,21 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 1,
+          "fouls": 2
+        },
+        {
+          "date": "2026-06-20",
+          "opponent": "Netherlands",
+          "competition": "FIFA World Cup, Group F",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 3,
+          "passes": 0,
+          "cards": 0,
           "fouls": 2
         },
         {
