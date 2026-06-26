@@ -2037,6 +2037,116 @@
       },
       "syncedAt": "2026-06-25T05:46:49.028Z",
       "source": "espn"
+    },
+    "GS-D-6": {
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 0,
+      "scorers": {
+        "home": [],
+        "away": []
+      },
+      "teamStats": {
+        "possession": {
+          "home": 44.1,
+          "away": 55.9
+        },
+        "shots": {
+          "home": 7,
+          "away": 12
+        },
+        "shotsOnTarget": {
+          "home": 2,
+          "away": 5
+        },
+        "corners": {
+          "home": 1,
+          "away": 3
+        },
+        "fouls": {
+          "home": 9,
+          "away": 6
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 5,
+          "away": 2
+        },
+        "passAccuracy": {
+          "home": 80,
+          "away": 80
+        }
+      },
+      "syncedAt": "2026-06-26T04:43:35.629Z",
+      "source": "espn"
+    },
+    "GS-F-6": {
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Daizen Maeda",
+            "minute": "56'",
+            "assist": "Ritsu Doan"
+          }
+        ],
+        "away": [
+          {
+            "name": "Anthony Elanga",
+            "minute": "62'",
+            "assist": "Viktor Gyökeres"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 52.3,
+          "away": 47.7
+        },
+        "shots": {
+          "home": 8,
+          "away": 11
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 5
+        },
+        "corners": {
+          "home": 2,
+          "away": 8
+        },
+        "fouls": {
+          "home": 20,
+          "away": 11
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 4,
+          "away": 2
+        },
+        "passAccuracy": {
+          "home": 80,
+          "away": 80
+        }
+      },
+      "syncedAt": "2026-06-26T04:43:35.724Z",
+      "source": "espn"
     }
   }
 }
