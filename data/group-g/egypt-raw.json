@@ -2,10 +2,11 @@
   "team": "Egypt",
   "group": "G",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-27T03:51:11.040Z",
-  "eventsProcessed": 16,
+  "importedAt": "2026-06-27T06:44:20.458Z",
+  "eventsProcessed": 17,
   "eventDates": [
     "2026-06-15",
+    "2026-06-27",
     "2026-06-06",
     "2026-05-28",
     "2026-03-31",
@@ -31,6 +32,15 @@
       "goalsFor": 1,
       "goalsAgainst": 1,
       "venue": "away"
+    },
+    {
+      "date": "2026-06-27",
+      "opponent": "Iran",
+      "competition": "FIFA World Cup, Group G",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "home"
     },
     {
       "date": "2026-06-06",
@@ -343,7 +353,23 @@
       "position": "Goalkeeper",
       "number": null,
       "likelyStarter": false,
-      "gameLog": []
+      "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        }
+      ]
     },
     {
       "id": "egypt-mohamed-bassam",
@@ -700,6 +726,37 @@
           "saves": 3
         },
         {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
+        {
           "date": "2026-06-06",
           "opponent": "Brazil",
           "competition": "Int. Friendly Games",
@@ -895,6 +952,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-06",
@@ -1725,6 +1797,21 @@
           "fouls": 1
         },
         {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-06",
           "opponent": "Brazil",
           "competition": "Int. Friendly Games",
@@ -2042,6 +2129,21 @@
           "fouls": 0
         },
         {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-05-28",
           "opponent": "Russia",
           "competition": "Int. Friendly Games",
@@ -2299,6 +2401,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
         },
         {
           "date": "2026-06-06",
@@ -2697,6 +2814,21 @@
           "assists": 0,
           "shots": 2,
           "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -3416,6 +3548,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
+        {
           "date": "2026-05-28",
           "opponent": "Russia",
           "competition": "Int. Friendly Games",
@@ -3569,6 +3716,21 @@
       "number": "7",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 5,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -3827,6 +3989,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 3
+        },
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-06",
@@ -4220,6 +4397,21 @@
           "fouls": 2
         },
         {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-06",
           "opponent": "Brazil",
           "competition": "Int. Friendly Games",
@@ -4477,6 +4669,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
         },
         {
           "date": "2026-06-06",
@@ -4864,6 +5071,21 @@
           "fouls": 1
         },
         {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 33,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-06",
           "opponent": "Brazil",
           "competition": "Int. Friendly Games",
@@ -5103,6 +5325,21 @@
           "competition": "FIFA World Cup, Group G",
           "result": "D",
           "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
           "minutes": 14,
           "goals": 0,
           "assists": 0,
@@ -5522,6 +5759,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-06",

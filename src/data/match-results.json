@@ -2271,6 +2271,66 @@
       },
       "syncedAt": "2026-06-27T03:51:09.900Z",
       "source": "espn"
+    },
+    "GS-G-6": {
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Mahmoud Saber",
+            "minute": "5'",
+            "assist": "Trézéguet"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ramin Rezaeian",
+            "minute": "14'"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 61.3,
+          "away": 38.7
+        },
+        "shots": {
+          "home": 15,
+          "away": 13
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 4
+        },
+        "corners": {
+          "home": 8,
+          "away": 2
+        },
+        "fouls": {
+          "home": 11,
+          "away": 16
+        },
+        "yellowCards": {
+          "home": 3,
+          "away": 4
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 2,
+          "away": 2
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 80
+        }
+      },
+      "syncedAt": "2026-06-27T06:44:18.838Z",
+      "source": "espn"
     }
   }
 }

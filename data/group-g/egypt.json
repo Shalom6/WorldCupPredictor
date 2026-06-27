@@ -3,8 +3,8 @@
   "team": "Egypt",
   "group": "G",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-27T03:51:11.040Z",
-  "eventsProcessed": 16,
+  "importedAt": "2026-06-27T06:44:20.458Z",
+  "eventsProcessed": 17,
   "teamMatchResults": [
     {
       "date": "2026-06-15",
@@ -14,6 +14,15 @@
       "goalsFor": 1,
       "goalsAgainst": 1,
       "venue": "away"
+    },
+    {
+      "date": "2026-06-27",
+      "opponent": "Iran",
+      "competition": "FIFA World Cup, Group G",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "home"
     },
     {
       "date": "2026-06-06",
@@ -183,13 +192,81 @@
       "sofascoreId": 1980828,
       "dataSource": "sofascore",
       "dataScope": "international",
-      "gameLog": [],
-      "seasonRates": null,
-      "hitRates": null,
+      "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        }
+      ],
+      "seasonRates": {
+        "goals90": 0,
+        "assists90": 0,
+        "shots90": 0,
+        "sot90": 0,
+        "passes90": 0,
+        "cards90": 0,
+        "fouls90": 6.4,
+        "minutesAvg": 14
+      },
+      "hitRates": {
+        "goals05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "goals15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "assists05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "shots25": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "sot05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "cards05": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        },
+        "fouls15": {
+          "l5": 0,
+          "l10": 0,
+          "season": 0
+        }
+      },
       "importMeta": {
-        "appearances": 0,
-        "competitions": [],
-        "lastMatch": null
+        "appearances": 1,
+        "competitions": [
+          "FIFA World Cup, Group G"
+        ],
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -471,6 +548,37 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
@@ -619,12 +727,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.3,
-        "sot90": 0.2,
-        "passes90": 22,
+        "shots90": 0.4,
+        "sot90": 0.1,
+        "passes90": 17,
         "cards90": 0,
-        "fouls90": 0,
-        "minutesAvg": 71
+        "fouls90": 0.3,
+        "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
@@ -644,8 +752,8 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -654,8 +762,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -663,20 +771,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -691,6 +799,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Belgium",
@@ -837,13 +960,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.15,
-        "shots90": 0.2,
-        "sot90": 0.2,
-        "passes90": 39,
-        "cards90": 0.15,
+        "assists90": 0.13,
+        "shots90": 0.1,
+        "sot90": 0.1,
+        "passes90": 34,
+        "cards90": 0.13,
         "fouls90": 0.4,
-        "minutesAvg": 67
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
@@ -858,8 +981,8 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
           "l5": 0,
@@ -873,29 +996,29 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "fouls15": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -1390,6 +1513,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
@@ -1631,10 +1769,10 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.14,
-        "shots90": 0.2,
+        "assists90": 0.13,
+        "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 27,
+        "passes90": 25,
         "cards90": 0,
         "fouls90": 0.4,
         "minutesAvg": 85
@@ -1651,14 +1789,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
           "season": 13
         },
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "shots25": {
           "l5": 0,
@@ -1668,7 +1806,7 @@
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "cards05": {
           "l5": 0,
@@ -1682,7 +1820,7 @@
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group G",
           "Int. Friendly Games",
@@ -1690,7 +1828,7 @@
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -1705,6 +1843,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Belgium",
@@ -1898,18 +2051,18 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.1,
+        "goals90": 0.09,
         "assists90": 0,
         "shots90": 0.1,
         "sot90": 0.1,
-        "passes90": 21,
+        "passes90": 19,
         "cards90": 0,
         "fouls90": 0.2,
-        "minutesAvg": 75
+        "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 8
         },
@@ -1934,7 +2087,7 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 8
         },
@@ -1950,7 +2103,7 @@
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group G",
           "Int. Friendly Games",
@@ -1958,7 +2111,7 @@
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -2094,6 +2247,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-15",
           "opponent": "Belgium",
@@ -2275,10 +2443,10 @@
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0.2,
-        "passes90": 29,
-        "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 83
+        "passes90": 27,
+        "cards90": 0.09,
+        "fouls90": 0.6,
+        "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
@@ -2298,8 +2466,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
-          "season": 9
+          "l10": 0,
+          "season": 8
         },
         "shots25": {
           "l5": 0,
@@ -2308,22 +2476,22 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 10,
-          "season": 9
+          "l10": 0,
+          "season": 8
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group G",
           "Int. Friendly Games",
@@ -2331,7 +2499,7 @@
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -2346,6 +2514,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Belgium",
@@ -2491,20 +2674,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.2,
-        "assists90": 0.6,
-        "shots90": 1.8,
+        "goals90": 0.18,
+        "assists90": 0.55,
+        "shots90": 1.6,
         "sot90": 0.4,
-        "passes90": 28,
+        "passes90": 26,
         "cards90": 0,
-        "fouls90": 0.8,
+        "fouls90": 0.7,
         "minutesAvg": 50
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "goals15": {
           "l5": 0,
@@ -2512,14 +2695,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l5": 0,
+          "l10": 20,
+          "season": 20
         },
         "shots15": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
@@ -2528,8 +2711,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 22,
-          "season": 22
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -2538,19 +2721,19 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -3190,6 +3373,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
+        {
           "date": "2026-05-28",
           "opponent": "Russia",
           "competition": "Int. Friendly Games",
@@ -3335,20 +3533,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0,
+        "goals90": 0.49,
         "assists90": 0,
-        "shots90": 1.9,
-        "sot90": 0.6,
-        "passes90": 34,
-        "cards90": 0,
-        "fouls90": 1.9,
-        "minutesAvg": 16
+        "shots90": 2.9,
+        "sot90": 1,
+        "passes90": 26,
+        "cards90": 0.49,
+        "fouls90": 2.4,
+        "minutesAvg": 19
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "goals15": {
           "l5": 0,
@@ -3361,39 +3559,40 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "sot05": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 40,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 11,
-          "season": 11
+          "l5": 40,
+          "l10": 20,
+          "season": 20
         }
       },
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-05-28"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -3408,6 +3607,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 5,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-06",
           "opponent": "Brazil",
@@ -3618,20 +3832,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.11,
-        "assists90": 0.22,
-        "shots90": 1,
-        "sot90": 0.5,
-        "passes90": 18,
+        "goals90": 0.1,
+        "assists90": 0.3,
+        "shots90": 1.4,
+        "sot90": 0.6,
+        "passes90": 16,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 62
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -3639,24 +3853,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
+          "l5": 20,
           "l10": 10,
-          "season": 15
+          "season": 21
         },
         "shots15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 15
+          "l5": 40,
+          "l10": 30,
+          "season": 21
         },
         "shots25": {
-          "l5": 0,
-          "l10": 10,
-          "season": 8
-        },
-        "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 15
+          "season": 14
+        },
+        "sot05": {
+          "l5": 40,
+          "l10": 30,
+          "season": 21
         },
         "cards05": {
           "l5": 0,
@@ -3666,18 +3880,19 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
+          "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-06"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -3692,6 +3907,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Belgium",
@@ -3905,10 +4135,10 @@
         "assists90": 0.08,
         "shots90": 0.6,
         "sot90": 0,
-        "passes90": 43,
+        "passes90": 42,
         "cards90": 0.08,
         "fouls90": 0.7,
-        "minutesAvg": 86
+        "minutesAvg": 84
       },
       "hitRates": {
         "goals05": {
@@ -3924,12 +4154,12 @@
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "shots15": {
           "l5": 0,
-          "l10": 20,
-          "season": 15
+          "l10": 10,
+          "season": 14
         },
         "shots25": {
           "l5": 0,
@@ -3944,16 +4174,16 @@
         "cards05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "fouls15": {
           "l5": 40,
           "l10": 30,
-          "season": 23
+          "season": 21
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group G",
           "Int. Friendly Games",
@@ -3961,7 +4191,7 @@
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -3976,6 +4206,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-15",
           "opponent": "Belgium",
@@ -4153,45 +4398,45 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.58,
-        "assists90": 0.19,
+        "goals90": 0.55,
+        "assists90": 0.18,
         "shots90": 0.8,
         "sot90": 0.4,
-        "passes90": 17,
+        "passes90": 16,
         "cards90": 0,
         "fouls90": 0.8,
-        "minutesAvg": 84
+        "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
-          "l10": 50,
-          "season": 45
+          "l5": 20,
+          "l10": 40,
+          "season": 42
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "assists05": {
           "l5": 40,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "sot05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 40,
-          "season": 36
+          "season": 33
         },
         "cards05": {
           "l5": 0,
@@ -4199,13 +4444,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 80,
+          "l5": 60,
           "l10": 40,
-          "season": 36
+          "season": 33
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group G",
           "Int. Friendly Games",
@@ -4213,7 +4458,7 @@
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -4228,6 +4473,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-15",
           "opponent": "Belgium",
@@ -4407,12 +4667,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.2,
-        "sot90": 0.2,
-        "passes90": 29,
-        "cards90": 0,
+        "shots90": 0.4,
+        "sot90": 0.1,
+        "passes90": 25,
+        "cards90": 0.13,
         "fouls90": 0.9,
-        "minutesAvg": 55
+        "minutesAvg": 58
       },
       "hitRates": {
         "goals05": {
@@ -4431,9 +4691,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "shots25": {
           "l5": 0,
@@ -4443,28 +4703,28 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "fouls15": {
           "l5": 40,
           "l10": 20,
-          "season": 18
+          "season": 17
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group G",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -4685,11 +4945,26 @@
       "group": "G",
       "position": "Midfielder",
       "number": "21",
-      "likelyStarter": true,
+      "likelyStarter": false,
       "sofascoreId": 547494,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 33,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-15",
           "opponent": "Belgium",
@@ -4931,18 +5206,18 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.25,
-        "assists90": 0.25,
+        "goals90": 0.24,
+        "assists90": 0.24,
         "shots90": 1.3,
         "sot90": 0.5,
-        "passes90": 22,
+        "passes90": 21,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 48
+        "fouls90": 0.7,
+        "minutesAvg": 47
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 13
         },
@@ -4952,22 +5227,22 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 13
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 30,
-          "season": 20
+          "season": 19
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 7
+          "season": 6
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
           "season": 13
         },
@@ -4983,7 +5258,7 @@
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group G",
           "Int. Friendly Games",
@@ -4991,7 +5266,7 @@
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -5006,6 +5281,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Belgium",
@@ -5059,7 +5349,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 3,
+        "passes90": 2,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 12
@@ -5107,12 +5397,12 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
           "FIFA World Cup, Group G",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -5127,6 +5417,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Iran",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-15",
           "opponent": "Belgium",
@@ -5320,20 +5625,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.42,
+        "goals90": 0.4,
         "assists90": 0,
         "shots90": 2.2,
         "sot90": 0.7,
         "passes90": 15,
         "cards90": 0,
         "fouls90": 1.4,
-        "minutesAvg": 72
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 30,
-          "season": 33
+          "season": 31
         },
         "goals15": {
           "l5": 0,
@@ -5348,17 +5653,17 @@
         "shots15": {
           "l5": 40,
           "l10": 30,
-          "season": 25
+          "season": 23
         },
         "shots25": {
           "l5": 40,
           "l10": 30,
-          "season": 25
+          "season": 23
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 40,
-          "season": 33
+          "season": 31
         },
         "cards05": {
           "l5": 0,
@@ -5366,13 +5671,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 33
+          "season": 31
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group G",
           "Int. Friendly Games",
@@ -5380,7 +5685,7 @@
           "Africa Cup of Nations, Group B",
           "FIFA World Cup, Qualification CAF, Group A"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     }
   ],
