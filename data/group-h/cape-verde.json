@@ -3,8 +3,8 @@
   "team": "Cape Verde",
   "group": "H",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-27T00:01:20.742Z",
-  "eventsProcessed": 16,
+  "importedAt": "2026-06-27T03:51:11.146Z",
+  "eventsProcessed": 17,
   "teamMatchResults": [
     {
       "date": "2026-06-15",
@@ -14,6 +14,15 @@
       "goalsFor": 0,
       "goalsAgainst": 0,
       "venue": "away"
+    },
+    {
+      "date": "2026-06-27",
+      "opponent": "Saudi Arabia",
+      "competition": "FIFA World Cup, Group H",
+      "result": "D",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "venue": "home"
     },
     {
       "date": "2026-06-06",
@@ -204,6 +213,22 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 3
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -397,7 +422,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 4,
+        "passes90": 3,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -445,13 +470,13 @@
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -466,6 +491,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -595,20 +635,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.27,
-        "assists90": 0.13,
-        "shots90": 0.3,
+        "goals90": 0.24,
+        "assists90": 0.12,
+        "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 11,
+        "passes90": 10,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 84
+        "fouls90": 0.6,
+        "minutesAvg": 85
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "goals15": {
           "l5": 0,
@@ -617,8 +657,8 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots15": {
           "l5": 0,
@@ -632,8 +672,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
           "l5": 0,
@@ -642,19 +682,19 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -924,6 +964,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -1152,7 +1207,7 @@
         "assists90": 0,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 23,
+        "passes90": 22,
         "cards90": 0,
         "fouls90": 0.1,
         "minutesAvg": 90
@@ -1200,14 +1255,14 @@
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -1360,6 +1415,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -1605,14 +1675,14 @@
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -1716,6 +1786,36 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 94,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -1846,13 +1946,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.17,
-        "shots90": 0.3,
+        "assists90": 0.13,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 22,
-        "cards90": 0,
+        "passes90": 16,
+        "cards90": 0.13,
         "fouls90": 1.4,
-        "minutesAvg": 66
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
@@ -1867,13 +1967,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -1886,25 +1986,25 @@
           "season": 0
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "fouls15": {
           "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l10": 30,
+          "season": 30
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -1919,6 +2019,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -2081,13 +2196,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.18,
-        "shots90": 0,
+        "assists90": 0.15,
+        "shots90": 0.2,
         "sot90": 0,
-        "passes90": 29,
+        "passes90": 25,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 49
+        "fouls90": 0.5,
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
@@ -2103,7 +2218,7 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
           "l5": 0,
@@ -2132,14 +2247,14 @@
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -2154,6 +2269,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -2222,12 +2352,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 3,
+        "passes90": 2,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 32
+        "fouls90": 0.6,
+        "minutesAvg": 29
       },
       "hitRates": {
         "goals05": {
@@ -2272,12 +2402,13 @@
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D"
         ],
-        "lastMatch": "2026-03-27"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -2292,6 +2423,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-09-09",
           "opponent": "Cameroon",
@@ -2487,13 +2633,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.19,
+        "assists90": 0.18,
         "shots90": 1.3,
         "sot90": 0.2,
-        "passes90": 29,
+        "passes90": 27,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 40
+        "fouls90": 0.9,
+        "minutesAvg": 39
       },
       "hitRates": {
         "goals05": {
@@ -2512,9 +2658,9 @@
           "season": 8
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "shots25": {
           "l5": 0,
@@ -2522,7 +2668,7 @@
           "season": 8
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 8
         },
@@ -2538,12 +2684,13 @@
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2025-09-09"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -2558,6 +2705,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -2769,18 +2931,18 @@
       "seasonRates": {
         "goals90": 0.1,
         "assists90": 0.1,
-        "shots90": 0.6,
-        "sot90": 0,
-        "passes90": 17,
+        "shots90": 0.8,
+        "sot90": 0.1,
+        "passes90": 16,
         "cards90": 0,
-        "fouls90": 0.2,
-        "minutesAvg": 66
+        "fouls90": 0.4,
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -2790,22 +2952,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 8
+          "l5": 20,
+          "l10": 10,
+          "season": 14
         },
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "cards05": {
           "l5": 0,
@@ -2813,19 +2975,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -2840,6 +3002,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -3051,12 +3228,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.2,
+        "shots90": 0.4,
         "sot90": 0,
-        "passes90": 23,
+        "passes90": 21,
         "cards90": 0,
         "fouls90": 0.5,
-        "minutesAvg": 69
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
@@ -3075,9 +3252,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "shots25": {
           "l5": 0,
@@ -3097,18 +3274,18 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -3423,6 +3600,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -3617,12 +3809,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.6,
-        "sot90": 0.2,
-        "passes90": 29,
+        "shots90": 1.7,
+        "sot90": 0.4,
+        "passes90": 28,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 33
+        "fouls90": 1.5,
+        "minutesAvg": 32
       },
       "hitRates": {
         "goals05": {
@@ -3642,18 +3834,18 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 8
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 8
         },
         "sot05": {
-          "l5": 0,
+          "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 15
         },
         "cards05": {
           "l5": 0,
@@ -3663,18 +3855,18 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 17
+          "season": 15
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -3689,6 +3881,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -3914,20 +4121,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.29,
-        "assists90": 0.1,
+        "goals90": 0.27,
+        "assists90": 0.09,
         "shots90": 0.8,
         "sot90": 0.5,
-        "passes90": 13,
+        "passes90": 12,
         "cards90": 0,
         "fouls90": 0.5,
-        "minutesAvg": 66
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 14
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -3941,18 +4148,18 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
-          "season": 14
+          "l10": 0,
+          "season": 13
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 7
         },
         "sot05": {
           "l5": 20,
-          "l10": 30,
-          "season": 29
+          "l10": 20,
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -3966,14 +4173,14 @@
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -4208,6 +4415,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -4368,20 +4590,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.43,
+        "goals90": 0.38,
         "assists90": 0,
-        "shots90": 0.2,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 12,
+        "passes90": 11,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 41
+        "fouls90": 1,
+        "minutesAvg": 43
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -4394,9 +4616,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 9
         },
         "shots25": {
           "l5": 0,
@@ -4414,20 +4636,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -4645,6 +4867,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -4902,9 +5139,9 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.51,
+        "goals90": 0.48,
         "assists90": 0.1,
-        "shots90": 1.5,
+        "shots90": 1.4,
         "sot90": 0.3,
         "passes90": 4,
         "cards90": 0,
@@ -4913,9 +5150,9 @@
       },
       "hitRates": {
         "goals05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 40,
-          "season": 25
+          "season": 24
         },
         "goals15": {
           "l5": 0,
@@ -4930,17 +5167,17 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 19
+          "season": 18
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 19
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -4949,19 +5186,19 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 20,
-          "season": 19
+          "l10": 10,
+          "season": 18
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -5396,6 +5633,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -5446,12 +5698,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
+        "shots90": 0.8,
         "sot90": 0,
-        "passes90": 5,
+        "passes90": 4,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 27
+        "minutesAvg": 28
       },
       "hitRates": {
         "goals05": {
@@ -5496,13 +5748,13 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       }
     }
   ],

@@ -16,22 +16,22 @@
       "Croatia": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-27T00:01:25.788Z"
+        "importedAt": "2026-06-27T03:51:16.443Z"
       },
       "England": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-27T00:01:25.788Z"
+        "importedAt": "2026-06-27T03:51:16.443Z"
       },
       "Ghana": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-27T00:01:25.788Z"
+        "importedAt": "2026-06-27T03:51:16.443Z"
       },
       "Panama": {
         "playerCount": 31,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-27T00:01:25.788Z"
+        "importedAt": "2026-06-27T03:51:16.443Z"
       }
     }
   },
@@ -2540,23 +2540,23 @@
       "number": "4",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.72,
-      "xgShare": 0.04,
+      "minutesFactor": 0.73,
+      "xgShare": 0.03,
       "propProfile": {
         "shotsShare": 0.6,
         "sotShare": 0.3,
-        "cardWeight": 0.1,
-        "foulWeight": 0.7
+        "cardWeight": 0.09,
+        "foulWeight": 0.6
       },
       "seasonRates": {
-        "goals90": 0.1,
+        "goals90": 0.09,
         "assists90": 0,
         "shots90": 0.6,
         "sot90": 0.3,
-        "passes90": 50,
-        "cards90": 0.1,
-        "fouls90": 0.7,
-        "minutesAvg": 65
+        "passes90": 45,
+        "cards90": 0.09,
+        "fouls90": 0.6,
+        "minutesAvg": 66
       },
       "hitRates": {
         "goals05": {
@@ -2587,7 +2587,7 @@
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 14
+          "season": 13
         },
         "cards05": {
           "l5": 20,
@@ -2597,10 +2597,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 14
+          "season": 13
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-21",
           "opponent": "Spain",
@@ -2828,7 +2843,7 @@
       "dataScope": "international",
       "searchText": "abdulelah al-amri saudi arabia defender h",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -2838,7 +2853,7 @@
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-21"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 881831
     },
@@ -3423,28 +3438,28 @@
       "likelyStarter": false,
       "benchImpact": true,
       "minutesFactor": 0.32,
-      "xgShare": 0.14,
+      "xgShare": 0.13,
       "propProfile": {
         "shotsShare": 3.4,
-        "sotShare": 1.1,
+        "sotShare": 1.3,
         "cardWeight": 0.02,
-        "foulWeight": 0.3
+        "foulWeight": 0.8
       },
       "seasonRates": {
-        "goals90": 0.84,
+        "goals90": 0.78,
         "assists90": 0,
         "shots90": 3.4,
-        "sot90": 1.1,
-        "passes90": 30,
+        "sot90": 1.3,
+        "passes90": 28,
         "cards90": 0,
-        "fouls90": 0.3,
+        "fouls90": 0.8,
         "minutesAvg": 29
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 25
+          "season": 23
         },
         "goals15": {
           "l5": 0,
@@ -3459,7 +3474,7 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 25
+          "season": 23
         },
         "shots25": {
           "l5": 0,
@@ -3468,8 +3483,8 @@
         },
         "sot05": {
           "l5": 40,
-          "l10": 20,
-          "season": 33
+          "l10": 30,
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -3477,12 +3492,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-21",
           "opponent": "Spain",
@@ -3678,7 +3708,7 @@
       "dataScope": "international",
       "searchText": "abdullah al-hamdan saudi arabia forward h",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -3686,7 +3716,7 @@
           "Arab Cup, Group B",
           "World Cup Qualification, AFC, Round 4, Gr. B"
         ],
-        "lastMatch": "2026-06-21"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 915991
     },
@@ -3699,23 +3729,23 @@
       "number": "15",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.83,
+      "minutesFactor": 0.81,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.6,
+        "shotsShare": 0.5,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.4
+        "foulWeight": 1.3
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.6,
+        "shots90": 0.5,
         "sot90": 0,
-        "passes90": 48,
+        "passes90": 46,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 75
+        "fouls90": 1.3,
+        "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
@@ -3736,7 +3766,7 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots25": {
           "l5": 0,
@@ -3756,10 +3786,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 31
+          "season": 29
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-21",
           "opponent": "Spain",
@@ -3971,7 +4016,7 @@
       "dataScope": "international",
       "searchText": "abdullah al-khaibari saudi arabia midfielder h",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -3979,7 +4024,7 @@
           "Arab Cup, Group B",
           "World Cup Qualification, AFC, Round 4, Gr. B"
         ],
-        "lastMatch": "2026-06-21"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 867179
     },
@@ -18987,23 +19032,23 @@
       "number": "5",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.57,
+      "minutesFactor": 0.58,
       "xgShare": 0.01,
       "propProfile": {
         "shotsShare": 0.05,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 2.2
+        "foulWeight": 1.7
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 32,
+        "passes90": 25,
         "cards90": 0,
-        "fouls90": 2.2,
-        "minutesAvg": 51
+        "fouls90": 1.7,
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
@@ -19043,11 +19088,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-21",
           "opponent": "Spain",
@@ -19131,12 +19191,12 @@
       "dataScope": "international",
       "searchText": "ali lajami saudi arabia defender h",
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-21"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 818667
     },
@@ -61692,17 +61752,17 @@
       "likelyStarter": true,
       "benchImpact": false,
       "minutesFactor": 0.61,
-      "xgShare": 0.2,
+      "xgShare": 0.19,
       "propProfile": {
-        "shotsShare": 1.5,
+        "shotsShare": 1.4,
         "sotShare": 0.3,
         "cardWeight": 0.02,
         "foulWeight": 0.9
       },
       "seasonRates": {
-        "goals90": 0.51,
+        "goals90": 0.48,
         "assists90": 0.1,
-        "shots90": 1.5,
+        "shots90": 1.4,
         "sot90": 0.3,
         "passes90": 4,
         "cards90": 0,
@@ -61711,9 +61771,9 @@
       },
       "hitRates": {
         "goals05": {
-          "l5": 60,
+          "l5": 40,
           "l10": 40,
-          "season": 25
+          "season": 24
         },
         "goals15": {
           "l5": 0,
@@ -61728,17 +61788,17 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 19
+          "season": 18
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 13
+          "season": 12
         },
         "sot05": {
           "l5": 20,
           "l10": 20,
-          "season": 19
+          "season": 18
         },
         "cards05": {
           "l5": 0,
@@ -61747,11 +61807,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 20,
-          "season": 19
+          "l10": 10,
+          "season": 18
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -62012,14 +62087,14 @@
       "dataScope": "international",
       "searchText": "dailon rocha livramento cape verde forward h",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 1155358
     },
@@ -70903,23 +70978,23 @@
       "number": "14",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.54,
+      "minutesFactor": 0.59,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.05,
+        "shotsShare": 0.2,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.5
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.18,
-        "shots90": 0,
+        "assists90": 0.15,
+        "shots90": 0.2,
         "sot90": 0,
-        "passes90": 29,
+        "passes90": 25,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 49
+        "fouls90": 0.5,
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
@@ -70935,7 +71010,7 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
           "l5": 0,
@@ -70964,6 +71039,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -71128,14 +71218,14 @@
       "dataScope": "international",
       "searchText": "deroy duarte cape verde midfielder h",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 921089
     },
@@ -72219,29 +72309,29 @@
       "number": "3",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.93,
+      "minutesFactor": 0.94,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.3,
+        "shotsShare": 0.2,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "foulWeight": 0.6
       },
       "seasonRates": {
-        "goals90": 0.27,
-        "assists90": 0.13,
-        "shots90": 0.3,
+        "goals90": 0.24,
+        "assists90": 0.12,
+        "shots90": 0.2,
         "sot90": 0.1,
-        "passes90": 11,
+        "passes90": 10,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 84
+        "fouls90": 0.6,
+        "minutesAvg": 85
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "goals15": {
           "l5": 0,
@@ -72250,8 +72340,8 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "shots15": {
           "l5": 0,
@@ -72265,8 +72355,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
           "l5": 0,
@@ -72275,11 +72365,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -72412,14 +72517,14 @@
       "dataScope": "international",
       "searchText": "diney borges cape verde defender h",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 784677
     },
@@ -99346,23 +99451,23 @@
       "number": "11",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.36,
+      "minutesFactor": 0.32,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 0.05,
+        "shotsShare": 0.6,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.7
+        "foulWeight": 0.6
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 3,
+        "passes90": 2,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 32
+        "fouls90": 0.6,
+        "minutesAvg": 29
       },
       "hitRates": {
         "goals05": {
@@ -99407,6 +99512,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Chile",
@@ -99476,12 +99596,13 @@
       "dataScope": "international",
       "searchText": "garry rodrigues cape verde midfielder h",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D"
         ],
-        "lastMatch": "2026-03-27"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 787429
     },
@@ -112273,23 +112394,23 @@
       "number": "19",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.44,
+      "minutesFactor": 0.43,
       "xgShare": 0.03,
       "propProfile": {
         "shotsShare": 1.3,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.9
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.19,
+        "assists90": 0.18,
         "shots90": 1.3,
         "sot90": 0.2,
-        "passes90": 29,
+        "passes90": 27,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 40
+        "fouls90": 0.9,
+        "minutesAvg": 39
       },
       "hitRates": {
         "goals05": {
@@ -112308,9 +112429,9 @@
           "season": 8
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "shots25": {
           "l5": 0,
@@ -112318,7 +112439,7 @@
           "season": 8
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 8
         },
@@ -112334,6 +112455,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2025-09-09",
           "opponent": "Cameroon",
@@ -112531,12 +112667,13 @@
       "dataScope": "international",
       "searchText": "hélio varela cape verde midfielder h",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group H",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2025-09-09"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 1094395
     },
@@ -128423,29 +128560,29 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.73,
+      "minutesFactor": 0.74,
       "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 0.6,
-        "sotShare": 0.03,
+        "shotsShare": 0.8,
+        "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 0.2
+        "foulWeight": 0.4
       },
       "seasonRates": {
         "goals90": 0.1,
         "assists90": 0.1,
-        "shots90": 0.6,
-        "sot90": 0,
-        "passes90": 17,
+        "shots90": 0.8,
+        "sot90": 0.1,
+        "passes90": 16,
         "cards90": 0,
-        "fouls90": 0.2,
-        "minutesAvg": 66
+        "fouls90": 0.4,
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -128455,22 +128592,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 8
+          "l5": 20,
+          "l10": 10,
+          "season": 14
         },
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "cards05": {
           "l5": 0,
@@ -128478,12 +128615,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -128696,13 +128848,13 @@
       "dataScope": "international",
       "searchText": "jamiro monteiro cape verde midfielder h",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 815080
     },
@@ -138793,10 +138945,10 @@
       "number": "8",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.77,
+      "minutesFactor": 0.79,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.2,
+        "shotsShare": 0.4,
         "sotShare": 0.03,
         "cardWeight": 0.02,
         "foulWeight": 0.5
@@ -138804,12 +138956,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.2,
+        "shots90": 0.4,
         "sot90": 0,
-        "passes90": 23,
+        "passes90": 21,
         "cards90": 0,
         "fouls90": 0.5,
-        "minutesAvg": 69
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
@@ -138828,9 +138980,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "shots25": {
           "l5": 0,
@@ -138850,10 +139002,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -139066,14 +139233,14 @@
       "dataScope": "international",
       "searchText": "joão paulo cape verde midfielder h",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 1001675
     },
@@ -171987,23 +172154,23 @@
       "number": "15",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.37,
+      "minutesFactor": 0.36,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 1.6,
-        "sotShare": 0.2,
+        "shotsShare": 1.7,
+        "sotShare": 0.4,
         "cardWeight": 0.02,
-        "foulWeight": 1.6
+        "foulWeight": 1.5
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.6,
-        "sot90": 0.2,
-        "passes90": 29,
+        "shots90": 1.7,
+        "sot90": 0.4,
+        "passes90": 28,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 33
+        "fouls90": 1.5,
+        "minutesAvg": 32
       },
       "hitRates": {
         "goals05": {
@@ -172023,18 +172190,18 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 8
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 8
         },
         "sot05": {
-          "l5": 0,
+          "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 15
         },
         "cards05": {
           "l5": 0,
@@ -172044,10 +172211,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 17
+          "season": 15
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -172244,14 +172426,14 @@
       "dataScope": "international",
       "searchText": "laros duarte cape verde midfielder h",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 798177
     },
@@ -211303,23 +211485,23 @@
       "number": "23",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.81,
-      "xgShare": 0.09,
+      "minutesFactor": 0.82,
+      "xgShare": 0.08,
       "propProfile": {
         "shotsShare": 1.1,
-        "sotShare": 0.4,
-        "cardWeight": 0.09,
-        "foulWeight": 1.2
+        "sotShare": 0.5,
+        "cardWeight": 0.08,
+        "foulWeight": 1.4
       },
       "seasonRates": {
-        "goals90": 0.18,
+        "goals90": 0.16,
         "assists90": 0,
         "shots90": 1.1,
-        "sot90": 0.4,
-        "passes90": 51,
-        "cards90": 0.09,
-        "fouls90": 1.2,
-        "minutesAvg": 73
+        "sot90": 0.5,
+        "passes90": 47,
+        "cards90": 0.08,
+        "fouls90": 1.4,
+        "minutesAvg": 74
       },
       "hitRates": {
         "goals05": {
@@ -211340,7 +211522,7 @@
         "shots15": {
           "l5": 20,
           "l10": 30,
-          "season": 29
+          "season": 27
         },
         "shots25": {
           "l5": 0,
@@ -211348,9 +211530,9 @@
           "season": 7
         },
         "sot05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 29
+          "l5": 40,
+          "l10": 40,
+          "season": 33
         },
         "cards05": {
           "l5": 20,
@@ -211360,10 +211542,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 29
+          "season": 33
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 4
+        },
         {
           "date": "2026-06-21",
           "opponent": "Spain",
@@ -211591,7 +211788,7 @@
       "dataScope": "international",
       "searchText": "mohamed kanno saudi arabia midfielder h",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -211600,7 +211797,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-21"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 828524
     },
@@ -213691,23 +213888,23 @@
       "number": "12",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.5,
+      "minutesFactor": 0.47,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 1.3,
-        "sotShare": 0.03,
+        "shotsShare": 1.5,
+        "sotShare": 0.3,
         "cardWeight": 0.02,
-        "foulWeight": 2.3
+        "foulWeight": 2.1
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.3,
-        "sot90": 0,
-        "passes90": 29,
+        "shots90": 1.5,
+        "sot90": 0.3,
+        "passes90": 26,
         "cards90": 0,
-        "fouls90": 2.3,
-        "minutesAvg": 45
+        "fouls90": 2.1,
+        "minutesAvg": 42
       },
       "hitRates": {
         "goals05": {
@@ -213727,18 +213924,18 @@
         },
         "shots15": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "shots25": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 14,
+          "season": 14
         },
         "cards05": {
           "l5": 0,
@@ -213747,11 +213944,26 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 50,
-          "season": 50
+          "l10": 43,
+          "season": 43
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-21",
           "opponent": "Spain",
@@ -213851,14 +214063,14 @@
       "dataScope": "international",
       "searchText": "mohammed abu al-shamat saudi arabia midfielder h",
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "Arab Cup, Knockout Stage",
           "Arab Cup, Group B"
         ],
-        "lastMatch": "2026-06-21"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 1804369
     },
@@ -213878,7 +214090,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 15,
+        "passes90": 13,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -213926,6 +214138,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
         {
           "date": "2026-06-21",
           "opponent": "Spain",
@@ -214020,12 +214248,12 @@
       "dataScope": "international",
       "searchText": "mohammed al-owais saudi arabia goalkeeper h",
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-21"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 791416
     },
@@ -217771,7 +217999,7 @@
       "number": "25",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.81,
+      "minutesFactor": 0.72,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.4,
@@ -217784,10 +218012,10 @@
         "assists90": 0,
         "shots90": 0.4,
         "sot90": 0.2,
-        "passes90": 32,
+        "passes90": 31,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 73
+        "minutesAvg": 65
       },
       "hitRates": {
         "goals05": {
@@ -217807,8 +218035,8 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "shots25": {
           "l5": 0,
@@ -217817,8 +218045,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "cards05": {
           "l5": 0,
@@ -217832,6 +218060,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-21",
           "opponent": "Spain",
@@ -217947,13 +218190,13 @@
       "dataScope": "international",
       "searchText": "moteb al-harbi saudi arabia defender h",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
           "World Cup Qualification, AFC, Round 4, Gr. B"
         ],
-        "lastMatch": "2026-06-21"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 1022679
     },
@@ -218615,7 +218858,7 @@
       "number": "7",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.63,
+      "minutesFactor": 0.62,
       "xgShare": 0.07,
       "propProfile": {
         "shotsShare": 1,
@@ -218628,10 +218871,10 @@
         "assists90": 0.09,
         "shots90": 1,
         "sot90": 0.5,
-        "passes90": 64,
+        "passes90": 61,
         "cards90": 0,
         "fouls90": 1.2,
-        "minutesAvg": 57
+        "minutesAvg": 56
       },
       "hitRates": {
         "goals05": {
@@ -218652,17 +218895,17 @@
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 12
+          "season": 11
         },
         "shots25": {
           "l5": 20,
           "l10": 10,
-          "season": 12
+          "season": 11
         },
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 24
+          "season": 22
         },
         "cards05": {
           "l5": 0,
@@ -218672,10 +218915,25 @@
         "fouls15": {
           "l5": 40,
           "l10": 30,
-          "season": 18
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-21",
           "opponent": "Spain",
@@ -218951,7 +219209,7 @@
       "dataScope": "international",
       "searchText": "musab al juwayr saudi arabia midfielder h",
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -218960,7 +219218,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-21"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 1106234
     },
@@ -220417,25 +220675,25 @@
       "group": "H",
       "position": "Midfielder",
       "number": "6",
-      "likelyStarter": false,
-      "benchImpact": true,
-      "minutesFactor": 0.56,
-      "xgShare": 0.03,
+      "likelyStarter": true,
+      "benchImpact": false,
+      "minutesFactor": 0.59,
+      "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 1.1,
         "sotShare": 0.1,
-        "cardWeight": 0.02,
-        "foulWeight": 1.4
+        "cardWeight": 0.12,
+        "foulWeight": 1.7
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 1.1,
         "sot90": 0.1,
-        "passes90": 37,
-        "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 50
+        "passes90": 32,
+        "cards90": 0.12,
+        "fouls90": 1.7,
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
@@ -220456,7 +220714,7 @@
         "shots15": {
           "l5": 0,
           "l10": 0,
-          "season": 8
+          "season": 7
         },
         "shots25": {
           "l5": 0,
@@ -220465,21 +220723,36 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 10,
-          "season": 8
+          "l10": 0,
+          "season": 7
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 20,
-          "season": 15
+          "l5": 60,
+          "l10": 30,
+          "season": 21
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 4
+        },
         {
           "date": "2026-06-21",
           "opponent": "Spain",
@@ -220691,7 +220964,7 @@
       "dataScope": "international",
       "searchText": "nasser al-dawsari saudi arabia midfielder h",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -220700,7 +220973,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-21"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 872607
     },
@@ -222428,23 +222701,23 @@
       "number": "13",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.68,
+      "minutesFactor": 0.69,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.4,
+        "shotsShare": 0.3,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 1
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.4,
+        "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 34,
+        "passes90": 32,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 61
+        "fouls90": 1,
+        "minutesAvg": 62
       },
       "hitRates": {
         "goals05": {
@@ -222485,10 +222758,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 19
+          "season": 18
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Uruguay",
@@ -222749,7 +223037,7 @@
       "dataScope": "international",
       "searchText": "nawaf boushal saudi arabia defender h",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -222759,7 +223047,7 @@
           "CONCACAF Gold Cup, Knockout stage",
           "CONCACAF Gold Cup, Group D"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 986400
     },
@@ -232258,17 +232546,23 @@
       "number": "21",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.3,
+      "minutesFactor": 0.31,
       "xgShare": 0.07,
+      "propProfile": {
+        "shotsShare": 0.8,
+        "sotShare": 0.03,
+        "cardWeight": 0.02,
+        "foulWeight": 0.03
+      },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0,
+        "shots90": 0.8,
         "sot90": 0,
-        "passes90": 5,
+        "passes90": 4,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 27
+        "minutesAvg": 28
       },
       "hitRates": {
         "goals05": {
@@ -232313,6 +232607,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -232365,13 +232674,13 @@
       "dataScope": "international",
       "searchText": "nuno da costa cape verde forward h",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 209374
     },
@@ -246368,7 +246677,7 @@
         "assists90": 0,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 23,
+        "passes90": 22,
         "cards90": 0,
         "fouls90": 0.1,
         "minutesAvg": 90
@@ -246416,6 +246725,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -246644,14 +246968,14 @@
       "dataScope": "international",
       "searchText": "pico cape verde defender h",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 147138
     },
@@ -262830,7 +263154,7 @@
       "number": "20",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.73,
+      "minutesFactor": 0.74,
       "xgShare": 0.1,
       "propProfile": {
         "shotsShare": 0.8,
@@ -262839,20 +263163,20 @@
         "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.29,
-        "assists90": 0.1,
+        "goals90": 0.27,
+        "assists90": 0.09,
         "shots90": 0.8,
         "sot90": 0.5,
-        "passes90": 13,
+        "passes90": 12,
         "cards90": 0,
         "fouls90": 0.5,
-        "minutesAvg": 66
+        "minutesAvg": 67
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 14
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -262866,18 +263190,18 @@
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
-          "season": 14
+          "l10": 0,
+          "season": 13
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 7
         },
         "sot05": {
           "l5": 20,
-          "l10": 30,
-          "season": 29
+          "l10": 20,
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -262891,6 +263215,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -263119,14 +263458,14 @@
       "dataScope": "international",
       "searchText": "ryan mendes cape verde midfielder h",
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 52797
     },
@@ -265248,29 +265587,29 @@
       "number": "10",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.94,
+      "minutesFactor": 0.93,
       "xgShare": 0.07,
       "propProfile": {
         "shotsShare": 2.8,
         "sotShare": 1.1,
         "cardWeight": 0.08,
-        "foulWeight": 0.3
+        "foulWeight": 0.5
       },
       "seasonRates": {
         "goals90": 0.08,
-        "assists90": 0.41,
+        "assists90": 0.38,
         "shots90": 2.8,
         "sot90": 1.1,
-        "passes90": 31,
+        "passes90": 29,
         "cards90": 0.08,
-        "fouls90": 0.3,
-        "minutesAvg": 85
+        "fouls90": 0.5,
+        "minutesAvg": 84
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "goals15": {
           "l5": 0,
@@ -265280,35 +265619,50 @@
         "assists05": {
           "l5": 0,
           "l10": 20,
-          "season": 23
+          "season": 21
         },
         "shots15": {
-          "l5": 40,
-          "l10": 70,
-          "season": 77
+          "l5": 20,
+          "l10": 60,
+          "season": 71
         },
         "shots25": {
           "l5": 20,
-          "l10": 60,
-          "season": 62
+          "l10": 50,
+          "season": 57
         },
         "sot05": {
           "l5": 20,
-          "l10": 60,
-          "season": 69
+          "l10": 50,
+          "season": 64
         },
         "cards05": {
           "l5": 20,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-21",
           "opponent": "Spain",
@@ -265520,7 +265874,7 @@
       "dataScope": "international",
       "searchText": "salem al-dawsari saudi arabia midfielder h",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -265529,7 +265883,7 @@
           "World Cup Qualification, AFC, Round 4, Gr. B",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-21"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 160893
     },
@@ -269165,23 +269519,23 @@
       "number": "12",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.8,
+      "minutesFactor": 0.82,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.9,
         "sotShare": 0.1,
-        "cardWeight": 0.02,
-        "foulWeight": 1.3
+        "cardWeight": 0.09,
+        "foulWeight": 1.4
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.9,
         "sot90": 0.1,
-        "passes90": 29,
-        "cards90": 0,
-        "fouls90": 1.3,
-        "minutesAvg": 72
+        "passes90": 26,
+        "cards90": 0.09,
+        "fouls90": 1.4,
+        "minutesAvg": 74
       },
       "hitRates": {
         "goals05": {
@@ -269200,32 +269554,47 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "shots25": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 8
+          "season": 7
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 7
         },
         "fouls15": {
-          "l5": 20,
+          "l5": 40,
           "l10": 30,
-          "season": 23
+          "season": 29
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
         {
           "date": "2026-06-21",
           "opponent": "Spain",
@@ -269437,7 +269806,7 @@
       "dataScope": "international",
       "searchText": "saud abdulhamid saudi arabia midfielder h",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group H",
           "Int. Friendly Games",
@@ -269446,7 +269815,7 @@
           "CONCACAF Gold Cup, Group D",
           "World Cup Qualification, AFC, Round 3, Gr. C"
         ],
-        "lastMatch": "2026-06-21"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 966849
     },
@@ -277505,6 +277874,21 @@
       },
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-15",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -277700,14 +278084,14 @@
       "dataScope": "international",
       "searchText": "steven moreira cape verde defender h",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 287833
     },
@@ -278254,29 +278638,29 @@
       "number": "24",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.31,
-      "xgShare": 0.15,
+      "minutesFactor": 0.42,
+      "xgShare": 0.12,
       "propProfile": {
-        "shotsShare": 1.1,
-        "sotShare": 1.1,
+        "shotsShare": 0.6,
+        "sotShare": 0.6,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 1.2
       },
       "seasonRates": {
-        "goals90": 1.06,
+        "goals90": 0.6,
         "assists90": 0,
-        "shots90": 1.1,
-        "sot90": 1.1,
-        "passes90": 34,
+        "shots90": 0.6,
+        "sot90": 0.6,
+        "passes90": 19,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 28
+        "fouls90": 1.2,
+        "minutesAvg": 38
       },
       "hitRates": {
         "goals05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "goals15": {
           "l5": 0,
@@ -278299,9 +278683,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 33,
-          "l10": 33,
-          "season": 33
+          "l5": 25,
+          "l10": 25,
+          "season": 25
         },
         "cards05": {
           "l5": 0,
@@ -278315,6 +278699,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-09",
           "opponent": "Senegal",
@@ -278368,11 +278767,12 @@
       "dataScope": "international",
       "searchText": "sultan mandash saudi arabia forward h",
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group H",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-09"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 818568
     },
@@ -293525,7 +293925,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 4,
+        "passes90": 3,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -293573,6 +293973,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 3
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -293765,13 +294181,13 @@
       "dataScope": "international",
       "searchText": "vozinha cape verde goalkeeper h",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 307436
     },
@@ -293784,23 +294200,23 @@
       "number": "2",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.73,
+      "minutesFactor": 0.79,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.3,
+        "shotsShare": 0.6,
         "sotShare": 0.03,
-        "cardWeight": 0.02,
+        "cardWeight": 0.13,
         "foulWeight": 1.4
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.17,
-        "shots90": 0.3,
+        "assists90": 0.13,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 22,
-        "cards90": 0,
+        "passes90": 16,
+        "cards90": 0.13,
         "fouls90": 1.4,
-        "minutesAvg": 66
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
@@ -293815,13 +294231,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 10,
+          "season": 10
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "shots25": {
           "l5": 0,
@@ -293834,17 +294250,47 @@
           "season": 0
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 10
         },
         "fouls15": {
           "l5": 20,
-          "l10": 25,
-          "season": 25
+          "l10": 30,
+          "season": 30
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 94,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -293977,14 +294423,14 @@
       "dataScope": "international",
       "searchText": "wagner pina cape verde defender h",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 10,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 1513625
     },
@@ -296378,29 +296824,29 @@
       "number": "17",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.46,
+      "minutesFactor": 0.48,
       "xgShare": 0.12,
       "propProfile": {
-        "shotsShare": 0.2,
+        "shotsShare": 0.6,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.7
+        "foulWeight": 1
       },
       "seasonRates": {
-        "goals90": 0.43,
+        "goals90": 0.38,
         "assists90": 0,
-        "shots90": 0.2,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 12,
+        "passes90": 11,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 41
+        "fouls90": 1,
+        "minutesAvg": 43
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "goals15": {
           "l5": 0,
@@ -296413,9 +296859,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 9
         },
         "shots25": {
           "l5": 0,
@@ -296433,12 +296879,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Saudi Arabia",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-06-15",
           "opponent": "Spain",
@@ -296603,14 +297064,14 @@
       "dataScope": "international",
       "searchText": "willy semedo cape verde midfielder h",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group H",
           "FIFA Series, New Zealand ",
           "FIFA World Cup, Qualification CAF, Group D",
           "Africa Cup of Nations, Qualification, Group C"
         ],
-        "lastMatch": "2026-06-15"
+        "lastMatch": "2026-06-27"
       },
       "sofascoreId": 889052
     },
