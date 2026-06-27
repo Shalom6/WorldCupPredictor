@@ -2331,6 +2331,72 @@
       },
       "syncedAt": "2026-06-27T06:44:18.838Z",
       "source": "espn"
+    },
+    "GS-L-6": {
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 1,
+      "scorers": {
+        "home": [
+          {
+            "name": "Petar Sucic",
+            "minute": "31'",
+            "assist": "Mateo Kovacic"
+          },
+          {
+            "name": "Nikola Vlasic",
+            "minute": "83'",
+            "assist": "Luka Modric"
+          }
+        ],
+        "away": [
+          {
+            "name": "Derrick Luckassen",
+            "minute": "73'",
+            "assist": "Ernest Nuamah"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 53.3,
+          "away": 46.7
+        },
+        "shots": {
+          "home": 8,
+          "away": 6
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 1
+        },
+        "corners": {
+          "home": 3,
+          "away": 2
+        },
+        "fouls": {
+          "home": 9,
+          "away": 13
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 0,
+          "away": 2
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-27T23:12:41.549Z",
+      "source": "espn"
     }
   }
 }

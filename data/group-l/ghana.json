@@ -3,8 +3,8 @@
   "team": "Ghana",
   "group": "L",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-27T22:05:23.260Z",
-  "eventsProcessed": 17,
+  "importedAt": "2026-06-27T23:12:42.752Z",
+  "eventsProcessed": 18,
   "teamMatchResults": [
     {
       "date": "2026-06-23",
@@ -23,6 +23,15 @@
       "goalsFor": 1,
       "goalsAgainst": 0,
       "venue": "home"
+    },
+    {
+      "date": "2026-06-27",
+      "opponent": "Croatia",
+      "competition": "FIFA World Cup, Group L",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "venue": "away"
     },
     {
       "date": "2026-06-02",
@@ -173,6 +182,22 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
         {
           "date": "2026-06-23",
           "opponent": "England",
@@ -401,10 +426,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 9,
+        "passes90": 8,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 81
+        "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
@@ -449,13 +474,13 @@
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I"
         ],
-        "lastMatch": "2026-06-23"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -1109,6 +1134,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-03-30",
           "opponent": "Germany",
           "competition": "Int. Friendly Games",
@@ -1126,20 +1166,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0,
+        "goals90": 0.73,
         "assists90": 0,
-        "shots90": 0,
-        "sot90": 0,
-        "passes90": 32,
+        "shots90": 0.7,
+        "sot90": 0.7,
+        "passes90": 9,
         "cards90": 0,
-        "fouls90": 2.7,
-        "minutesAvg": 34
+        "fouls90": 0.7,
+        "minutesAvg": 62
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -1162,9 +1202,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -1178,11 +1218,12 @@
         }
       },
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group L",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-03-30"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -1197,6 +1238,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-23",
           "opponent": "England",
@@ -1425,7 +1481,7 @@
         "assists90": 0,
         "shots90": 0.2,
         "sot90": 0,
-        "passes90": 19,
+        "passes90": 18,
         "cards90": 0,
         "fouls90": 0.8,
         "minutesAvg": 79
@@ -1467,20 +1523,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 30,
-          "season": 29
+          "season": 27
         }
       },
       "importMeta": {
-        "appearances": 14,
+        "appearances": 15,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-23"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -1729,6 +1785,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-23",
           "opponent": "England",
           "competition": "FIFA World Cup, Group L",
@@ -1924,10 +1995,10 @@
         "assists90": 0,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 23,
+        "passes90": 22,
         "cards90": 0,
         "fouls90": 0.9,
-        "minutesAvg": 75
+        "minutesAvg": 73
       },
       "hitRates": {
         "goals05": {
@@ -1968,18 +2039,18 @@
         "fouls15": {
           "l5": 40,
           "l10": 20,
-          "season": 17
+          "season": 15
         }
       },
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-23"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -1989,11 +2060,26 @@
       "group": "L",
       "position": "Defender",
       "number": "15",
-      "likelyStarter": true,
+      "likelyStarter": false,
       "sofascoreId": 1473092,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-23",
           "opponent": "England",
@@ -2079,10 +2165,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 46,
-        "cards90": 0,
-        "fouls90": 0,
-        "minutesAvg": 51
+        "passes90": 39,
+        "cards90": 0.3,
+        "fouls90": 0.3,
+        "minutesAvg": 50
       },
       "hitRates": {
         "goals05": {
@@ -2116,9 +2202,9 @@
           "season": 0
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 17,
+          "season": 17
         },
         "fouls15": {
           "l5": 0,
@@ -2127,13 +2213,13 @@
         }
       },
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I"
         ],
-        "lastMatch": "2026-06-23"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -2148,6 +2234,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
         {
           "date": "2026-06-23",
           "opponent": "England",
@@ -2214,12 +2315,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 1.3,
+        "shots90": 1.2,
         "sot90": 0,
-        "passes90": 8,
+        "passes90": 6,
         "cards90": 0,
-        "fouls90": 1.7,
-        "minutesAvg": 68
+        "fouls90": 2,
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
@@ -2238,9 +2339,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
@@ -2258,18 +2359,18 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 50,
-          "l10": 50,
-          "season": 50
+          "l5": 60,
+          "l10": 60,
+          "season": 60
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-23"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -2389,6 +2490,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-23",
           "opponent": "England",
@@ -2565,20 +2681,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.17,
+        "goals90": 0.16,
         "assists90": 0,
-        "shots90": 1.7,
+        "shots90": 1.9,
         "sot90": 0.3,
-        "passes90": 21,
+        "passes90": 19,
         "cards90": 0,
-        "fouls90": 2.6,
-        "minutesAvg": 48
+        "fouls90": 2.4,
+        "minutesAvg": 47
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "goals15": {
           "l5": 0,
@@ -2591,19 +2707,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 9
+          "l5": 20,
+          "l10": 10,
+          "season": 17
         },
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 9
+          "season": 8
         },
         "sot05": {
           "l5": 20,
           "l10": 10,
-          "season": 18
+          "season": 17
         },
         "cards05": {
           "l5": 0,
@@ -2612,19 +2728,19 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 20,
-          "season": 27
+          "l10": 10,
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-23"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -2639,6 +2755,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-23",
           "opponent": "England",
@@ -2879,20 +3010,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.08,
+        "goals90": 0.07,
         "assists90": 0,
         "shots90": 0.9,
-        "sot90": 0.2,
-        "passes90": 10,
+        "sot90": 0.1,
+        "passes90": 9,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 79
+        "fouls90": 1,
+        "minutesAvg": 80
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "goals15": {
           "l5": 0,
@@ -2907,7 +3038,7 @@
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "shots25": {
           "l5": 0,
@@ -2927,18 +3058,18 @@
         "fouls15": {
           "l5": 60,
           "l10": 30,
-          "season": 27
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-23"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -2953,6 +3084,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 5,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-23",
           "opponent": "England",
@@ -3129,20 +3275,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.22,
+        "goals90": 0.21,
         "assists90": 0,
         "shots90": 0.4,
         "sot90": 0.2,
         "passes90": 17,
         "cards90": 0.11,
-        "fouls90": 0.9,
-        "minutesAvg": 76
+        "fouls90": 1,
+        "minutesAvg": 70
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -3157,7 +3303,7 @@
         "shots15": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "shots25": {
           "l5": 0,
@@ -3167,27 +3313,27 @@
         "sot05": {
           "l5": 40,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "cards05": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "fouls15": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I"
         ],
-        "lastMatch": "2026-06-23"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -3389,6 +3535,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-17",
           "opponent": "Panama",
           "competition": "FIFA World Cup, Group L",
@@ -3569,10 +3730,10 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 28,
+        "passes90": 26,
         "cards90": 0,
-        "fouls90": 1.2,
-        "minutesAvg": 61
+        "fouls90": 1.4,
+        "minutesAvg": 59
       },
       "hitRates": {
         "goals05": {
@@ -3611,20 +3772,20 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 18
+          "l5": 20,
+          "l10": 20,
+          "season": 25
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -3875,6 +4036,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 85,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
+        {
           "date": "2026-06-23",
           "opponent": "England",
           "competition": "FIFA World Cup, Group L",
@@ -4038,10 +4214,10 @@
         "assists90": 0,
         "shots90": 0.1,
         "sot90": 0,
-        "passes90": 23,
+        "passes90": 21,
         "cards90": 0,
-        "fouls90": 1,
-        "minutesAvg": 70
+        "fouls90": 1.3,
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
@@ -4080,19 +4256,19 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 10
+          "l5": 40,
+          "l10": 20,
+          "season": 18
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I"
         ],
-        "lastMatch": "2026-06-23"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -4107,6 +4283,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-23",
           "opponent": "England",
@@ -4284,11 +4475,11 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.29,
-        "assists90": 0.1,
+        "goals90": 0.27,
+        "assists90": 0.09,
         "shots90": 0.1,
         "sot90": 0,
-        "passes90": 22,
+        "passes90": 20,
         "cards90": 0,
         "fouls90": 0.7,
         "minutesAvg": 84
@@ -4297,17 +4488,17 @@
         "goals05": {
           "l5": 0,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "goals15": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "shots15": {
           "l5": 0,
@@ -4332,18 +4523,18 @@
         "fouls15": {
           "l5": 40,
           "l10": 20,
-          "season": 18
+          "season": 17
         }
       },
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-23"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -4378,6 +4569,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -4476,13 +4682,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.44,
-        "shots90": 2.7,
+        "assists90": 0.41,
+        "shots90": 2.4,
         "sot90": 0,
-        "passes90": 11,
+        "passes90": 10,
         "cards90": 0,
-        "fouls90": 0.9,
-        "minutesAvg": 34
+        "fouls90": 0.8,
+        "minutesAvg": 32
       },
       "hitRates": {
         "goals05": {
@@ -4497,18 +4703,18 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "shots15": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "shots25": {
           "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "sot05": {
           "l5": 0,
@@ -4527,14 +4733,14 @@
         }
       },
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -4549,6 +4755,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -4678,20 +4899,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.22,
-        "assists90": 0.44,
-        "shots90": 0.7,
+        "goals90": 0.21,
+        "assists90": 0.63,
+        "shots90": 0.6,
         "sot90": 0.2,
-        "passes90": 14,
+        "passes90": 13,
         "cards90": 0,
-        "fouls90": 0.7,
-        "minutesAvg": 52
+        "fouls90": 0.6,
+        "minutesAvg": 48
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "goals15": {
           "l5": 0,
@@ -4700,8 +4921,8 @@
         },
         "assists05": {
           "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l10": 33,
+          "season": 33
         },
         "shots15": {
           "l5": 0,
@@ -4715,8 +4936,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
           "l5": 0,
@@ -4730,14 +4951,14 @@
         }
       },
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -4752,6 +4973,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-23",
           "opponent": "England",
@@ -5008,20 +5244,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.37,
-        "assists90": 0.52,
+        "goals90": 0.35,
+        "assists90": 0.49,
         "shots90": 0.5,
         "sot90": 0.3,
         "passes90": 10,
         "cards90": 0,
-        "fouls90": 1,
+        "fouls90": 1.1,
         "minutesAvg": 76
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 30,
-          "season": 31
+          "season": 29
         },
         "goals15": {
           "l5": 0,
@@ -5030,8 +5266,8 @@
         },
         "assists05": {
           "l5": 0,
-          "l10": 30,
-          "season": 25
+          "l10": 20,
+          "season": 24
         },
         "shots15": {
           "l5": 20,
@@ -5044,9 +5280,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 20,
-          "season": 25
+          "season": 24
         },
         "cards05": {
           "l5": 0,
@@ -5056,18 +5292,18 @@
         "fouls15": {
           "l5": 40,
           "l10": 20,
-          "season": 25
+          "season": 24
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I",
           "Africa Cup of Nations, Qualification, Group F"
         ],
-        "lastMatch": "2026-06-23"
+        "lastMatch": "2026-06-27"
       }
     },
     {
@@ -5082,6 +5318,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-17",
           "opponent": "Panama",
@@ -5243,20 +5494,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.24,
+        "goals90": 0.2,
         "assists90": 0,
-        "shots90": 1.5,
-        "sot90": 0.7,
-        "passes90": 13,
+        "shots90": 1.4,
+        "sot90": 0.6,
+        "passes90": 11,
         "cards90": 0,
         "fouls90": 1.2,
-        "minutesAvg": 37
+        "minutesAvg": 40
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "goals15": {
           "l5": 0,
@@ -5269,19 +5520,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "shots25": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "sot05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 30
+          "season": 27
         },
         "cards05": {
           "l5": 0,
@@ -5291,17 +5542,17 @@
         "fouls15": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group L",
           "Int. Friendly Games",
           "FIFA World Cup, Qualification CAF, Group I"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-27"
       }
     },
     {
