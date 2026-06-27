@@ -2,11 +2,11 @@
   "team": "Egypt",
   "group": "G",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-27T06:44:20.458Z",
+  "importedAt": "2026-06-27T09:16:32.302Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-15",
     "2026-06-27",
+    "2026-06-15",
     "2026-06-06",
     "2026-05-28",
     "2026-03-31",
@@ -25,15 +25,6 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-15",
-      "opponent": "Belgium",
-      "competition": "FIFA World Cup, Group G",
-      "result": "D",
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "venue": "away"
-    },
-    {
       "date": "2026-06-27",
       "opponent": "Iran",
       "competition": "FIFA World Cup, Group G",
@@ -41,6 +32,15 @@
       "goalsFor": 1,
       "goalsAgainst": 1,
       "venue": "home"
+    },
+    {
+      "date": "2026-06-15",
+      "opponent": "Belgium",
+      "competition": "FIFA World Cup, Group G",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "away"
     },
     {
       "date": "2026-06-06",
@@ -695,37 +695,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Belgium",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 76,
-          "goals": 0,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-15",
-          "opponent": "Belgium",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0,
-          "saves": 3
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Iran",
           "competition": "FIFA World Cup, Group G",
@@ -755,6 +724,37 @@
           "cards": 0,
           "fouls": 0,
           "saves": 2
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 3
         },
         {
           "date": "2026-06-06",
@@ -939,21 +939,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Belgium",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 88,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Iran",
           "competition": "FIFA World Cup, Group G",
@@ -967,6 +952,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 88,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
         },
         {
           "date": "2026-06-06",
@@ -1782,21 +1782,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Belgium",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Iran",
           "competition": "FIFA World Cup, Group G",
@@ -1810,6 +1795,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-06",
@@ -2114,12 +2114,12 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "opponent": "Iran",
           "competition": "FIFA World Cup, Group G",
           "result": "D",
-          "venue": "away",
-          "minutes": 19,
+          "venue": "home",
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -2129,12 +2129,12 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-27",
-          "opponent": "Iran",
+          "date": "2026-06-15",
+          "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
           "result": "D",
-          "venue": "home",
-          "minutes": 90,
+          "venue": "away",
+          "minutes": 19,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -2388,21 +2388,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Belgium",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Iran",
           "competition": "FIFA World Cup, Group G",
@@ -2416,6 +2401,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-06",
@@ -2804,21 +2804,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Belgium",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 71,
-          "goals": 1,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Iran",
           "competition": "FIFA World Cup, Group G",
@@ -2829,6 +2814,21 @@
           "assists": 0,
           "shots": 0,
           "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 71,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -3976,21 +3976,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Belgium",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 3
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Iran",
           "competition": "FIFA World Cup, Group G",
@@ -4004,6 +3989,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 3
         },
         {
           "date": "2026-06-06",
@@ -4382,21 +4382,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Belgium",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 76,
-          "goals": 0,
-          "assists": 1,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Iran",
           "competition": "FIFA World Cup, Group G",
@@ -4410,6 +4395,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-06",
@@ -4656,21 +4656,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Belgium",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Iran",
           "competition": "FIFA World Cup, Group G",
@@ -4684,6 +4669,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-06",
@@ -5056,12 +5056,12 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "opponent": "Iran",
           "competition": "FIFA World Cup, Group G",
           "result": "D",
-          "venue": "away",
-          "minutes": 14,
+          "venue": "home",
+          "minutes": 33,
           "goals": 0,
           "assists": 0,
           "shots": 1,
@@ -5071,12 +5071,12 @@
           "fouls": 1
         },
         {
-          "date": "2026-06-27",
-          "opponent": "Iran",
+          "date": "2026-06-15",
+          "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
           "result": "D",
-          "venue": "home",
-          "minutes": 33,
+          "venue": "away",
+          "minutes": 14,
           "goals": 0,
           "assists": 0,
           "shots": 1,
@@ -5320,11 +5320,11 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "opponent": "Iran",
           "competition": "FIFA World Cup, Group G",
           "result": "D",
-          "venue": "away",
+          "venue": "home",
           "minutes": 14,
           "goals": 0,
           "assists": 0,
@@ -5335,11 +5335,11 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-27",
-          "opponent": "Iran",
+          "date": "2026-06-15",
+          "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
           "result": "D",
-          "venue": "home",
+          "venue": "away",
           "minutes": 14,
           "goals": 0,
           "assists": 0,
@@ -5746,21 +5746,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Belgium",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 5,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Iran",
           "competition": "FIFA World Cup, Group G",
@@ -5774,6 +5759,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 5,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-06",

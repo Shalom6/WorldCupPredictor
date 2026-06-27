@@ -2,11 +2,11 @@
   "team": "Cape Verde",
   "group": "H",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-27T06:44:20.613Z",
+  "importedAt": "2026-06-27T09:16:32.549Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-15",
     "2026-06-27",
+    "2026-06-15",
     "2026-06-06",
     "2026-05-31",
     "2026-03-27",
@@ -25,15 +25,6 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-15",
-      "opponent": "Spain",
-      "competition": "FIFA World Cup, Group H",
-      "result": "D",
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "venue": "away"
-    },
-    {
       "date": "2026-06-27",
       "opponent": "Saudi Arabia",
       "competition": "FIFA World Cup, Group H",
@@ -41,6 +32,15 @@
       "goalsFor": 0,
       "goalsAgainst": 0,
       "venue": "home"
+    },
+    {
+      "date": "2026-06-15",
+      "opponent": "Spain",
+      "competition": "FIFA World Cup, Group H",
+      "result": "D",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "venue": "away"
     },
     {
       "date": "2026-06-06",
@@ -488,22 +488,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Spain",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0,
-          "saves": 7
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Saudi Arabia",
           "competition": "FIFA World Cup, Group H",
@@ -518,6 +502,22 @@
           "cards": 0,
           "fouls": 0,
           "saves": 3
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 7
         },
         {
           "date": "2026-03-27",
@@ -701,21 +701,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Spain",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Saudi Arabia",
           "competition": "FIFA World Cup, Group H",
@@ -729,6 +714,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-03-27",
@@ -1100,21 +1100,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Spain",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Saudi Arabia",
           "competition": "FIFA World Cup, Group H",
@@ -1124,6 +1109,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -1421,21 +1421,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Spain",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Saudi Arabia",
           "competition": "FIFA World Cup, Group H",
@@ -1445,6 +1430,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -1663,21 +1663,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Spain",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Saudi Arabia",
           "competition": "FIFA World Cup, Group H",
@@ -1706,6 +1691,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-03-27",
@@ -2078,21 +2078,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Spain",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 29,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Saudi Arabia",
           "competition": "FIFA World Cup, Group H",
@@ -2102,6 +2087,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -2594,21 +2594,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Spain",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 79,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Saudi Arabia",
           "competition": "FIFA World Cup, Group H",
@@ -2622,6 +2607,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 79,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2025-10-13",
@@ -2826,21 +2826,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Spain",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 14,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Saudi Arabia",
           "competition": "FIFA World Cup, Group H",
@@ -2850,6 +2835,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -3292,21 +3292,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Spain",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 61,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Saudi Arabia",
           "competition": "FIFA World Cup, Group H",
@@ -3317,6 +3302,21 @@
           "assists": 0,
           "shots": 1,
           "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -3598,21 +3598,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Spain",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Saudi Arabia",
           "competition": "FIFA World Cup, Group H",
@@ -3626,6 +3611,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-03-27",
@@ -3999,21 +3999,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Spain",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 29,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Saudi Arabia",
           "competition": "FIFA World Cup, Group H",
@@ -4027,6 +4012,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-03-27",
@@ -4321,21 +4321,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Spain",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 61,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Saudi Arabia",
           "competition": "FIFA World Cup, Group H",
@@ -4345,6 +4330,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -5024,21 +5024,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Spain",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 29,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Saudi Arabia",
           "competition": "FIFA World Cup, Group H",
@@ -5048,6 +5033,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Spain",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,

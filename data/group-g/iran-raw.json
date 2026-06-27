@@ -2,12 +2,12 @@
   "team": "Iran",
   "group": "G",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-27T06:44:20.561Z",
+  "importedAt": "2026-06-27T09:16:32.305Z",
   "eventsProcessed": 18,
   "eventDates": [
+    "2026-06-27",
     "2026-06-21",
     "2026-06-16",
-    "2026-06-27",
     "2026-06-04",
     "2026-05-29",
     "2026-03-31",
@@ -26,6 +26,15 @@
   ],
   "teamMatchResults": [
     {
+      "date": "2026-06-27",
+      "opponent": "Egypt",
+      "competition": "FIFA World Cup, Group G",
+      "result": "D",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "venue": "away"
+    },
+    {
       "date": "2026-06-21",
       "opponent": "Belgium",
       "competition": "FIFA World Cup, Group G",
@@ -42,15 +51,6 @@
       "goalsFor": 2,
       "goalsAgainst": 2,
       "venue": "home"
-    },
-    {
-      "date": "2026-06-27",
-      "opponent": "Egypt",
-      "competition": "FIFA World Cup, Group G",
-      "result": "D",
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "venue": "away"
     },
     {
       "date": "2026-06-04",
@@ -362,6 +362,22 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Egypt",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
@@ -392,22 +408,6 @@
           "cards": 0,
           "fouls": 0,
           "saves": 6
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Egypt",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0,
-          "saves": 2
         },
         {
           "date": "2025-10-10",
@@ -610,21 +610,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-21",
-          "opponent": "Belgium",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Egypt",
           "competition": "FIFA World Cup, Group G",
@@ -638,6 +623,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-21",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2025-06-10",
@@ -678,6 +678,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Egypt",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
@@ -706,21 +721,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Egypt",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 2
         },
         {
           "date": "2025-10-10",
@@ -1042,6 +1042,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Egypt",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
@@ -1070,21 +1085,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Egypt",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
         },
         {
           "date": "2025-06-05",
@@ -1495,8 +1495,8 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-21",
-          "opponent": "Belgium",
+          "date": "2026-06-27",
+          "opponent": "Egypt",
           "competition": "FIFA World Cup, Group G",
           "result": "D",
           "venue": "away",
@@ -1510,8 +1510,8 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-27",
-          "opponent": "Egypt",
+          "date": "2026-06-21",
+          "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
           "result": "D",
           "venue": "away",
@@ -1663,6 +1663,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Egypt",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
@@ -1691,21 +1706,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Egypt",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 1
         },
         {
           "date": "2025-10-10",
@@ -2319,36 +2319,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-21",
-          "opponent": "Belgium",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 66,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-16",
-          "opponent": "New Zealand",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 1,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Egypt",
           "competition": "FIFA World Cup, Group G",
@@ -2377,6 +2347,36 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-21",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "New Zealand",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2025-10-10",
@@ -2585,6 +2585,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Egypt",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
@@ -2615,21 +2630,6 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-27",
-          "opponent": "Egypt",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 1,
-          "assists": 0,
-          "shots": 3,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2025-10-10",
           "opponent": "Russia",
           "competition": "Int. Friendly Games",
@@ -2655,6 +2655,21 @@
       "number": "6",
       "likelyStarter": true,
       "gameLog": [
+        {
+          "date": "2026-06-27",
+          "opponent": "Egypt",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 3
+        },
         {
           "date": "2026-06-21",
           "opponent": "Belgium",
@@ -2684,21 +2699,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Egypt",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 3
         },
         {
           "date": "2025-10-10",
@@ -2871,6 +2871,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Egypt",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 67,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
@@ -2899,21 +2914,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Egypt",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 67,
-          "goals": 0,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
         },
         {
           "date": "2025-10-10",
@@ -3249,21 +3249,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-21",
-          "opponent": "Belgium",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 45,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Egypt",
           "competition": "FIFA World Cup, Group G",
@@ -3277,6 +3262,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-21",
+          "opponent": "Belgium",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2025-10-10",
@@ -3682,6 +3682,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Egypt",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
@@ -3710,21 +3725,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Egypt",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 2,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
         },
         {
           "date": "2025-10-10",
@@ -4262,6 +4262,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Egypt",
+          "competition": "FIFA World Cup, Group G",
+          "result": "D",
+          "venue": "away",
+          "minutes": 23,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Belgium",
           "competition": "FIFA World Cup, Group G",
@@ -4290,21 +4305,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Egypt",
-          "competition": "FIFA World Cup, Group G",
-          "result": "D",
-          "venue": "away",
-          "minutes": 23,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         }
       ]
     }

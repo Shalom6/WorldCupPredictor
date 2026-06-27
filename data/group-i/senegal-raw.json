@@ -2,11 +2,11 @@
   "team": "Senegal",
   "group": "I",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-27T06:44:20.768Z",
+  "importedAt": "2026-06-27T09:16:32.842Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-16",
     "2026-06-26",
+    "2026-06-16",
     "2026-06-09",
     "2026-05-31",
     "2026-03-31",
@@ -25,15 +25,6 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-16",
-      "opponent": "France",
-      "competition": "FIFA World Cup, Group I",
-      "result": "L",
-      "goalsFor": 1,
-      "goalsAgainst": 3,
-      "venue": "away"
-    },
-    {
       "date": "2026-06-26",
       "opponent": "Iraq",
       "competition": "FIFA World Cup, Group I",
@@ -41,6 +32,15 @@
       "goalsFor": 5,
       "goalsAgainst": 0,
       "venue": "home"
+    },
+    {
+      "date": "2026-06-16",
+      "opponent": "France",
+      "competition": "FIFA World Cup, Group I",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "venue": "away"
     },
     {
       "date": "2026-06-09",
@@ -1934,21 +1934,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "France",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -1962,6 +1947,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 3
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-09",
@@ -2524,21 +2524,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "France",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 14,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -2552,6 +2537,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-09",
@@ -2708,21 +2708,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "France",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 88,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -2732,6 +2717,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 88,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -2956,21 +2956,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "France",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 7,
-          "goals": 0,
-          "assists": 1,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -2984,6 +2969,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-09",
@@ -3240,21 +3240,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "France",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -3268,6 +3253,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-09",
@@ -3488,21 +3488,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "France",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 76,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -3516,6 +3501,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-09",
@@ -3978,21 +3978,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "France",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 83,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -4005,6 +3990,21 @@
           "shotsOnTarget": 3,
           "passes": 0,
           "cards": 1,
+          "fouls": 1
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
           "fouls": 1
         },
         {
@@ -4364,21 +4364,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "France",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 2,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -4389,6 +4374,21 @@
           "assists": 0,
           "shots": 1,
           "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 2,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -4606,21 +4606,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "France",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -4630,6 +4615,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 4,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
           "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
@@ -5630,21 +5630,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "France",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 15,
-          "goals": 1,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -5655,6 +5640,21 @@
           "assists": 0,
           "shots": 0,
           "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 15,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -5814,21 +5814,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "France",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 75,
-          "goals": 0,
-          "assists": 0,
-          "shots": 3,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -5839,6 +5824,21 @@
           "assists": 1,
           "shots": 3,
           "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -6072,21 +6072,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-16",
-          "opponent": "France",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 83,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-26",
           "opponent": "Iraq",
           "competition": "FIFA World Cup, Group I",
@@ -6100,6 +6085,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-16",
+          "opponent": "France",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-09",

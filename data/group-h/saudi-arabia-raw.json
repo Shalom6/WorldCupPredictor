@@ -2,12 +2,12 @@
   "team": "Saudi Arabia",
   "group": "H",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-27T06:44:20.717Z",
+  "importedAt": "2026-06-27T09:16:32.553Z",
   "eventsProcessed": 18,
   "eventDates": [
+    "2026-06-27",
     "2026-06-21",
     "2026-06-15",
-    "2026-06-27",
     "2026-06-09",
     "2026-06-05",
     "2026-05-31",
@@ -26,6 +26,15 @@
   ],
   "teamMatchResults": [
     {
+      "date": "2026-06-27",
+      "opponent": "Cape Verde",
+      "competition": "FIFA World Cup, Group H",
+      "result": "D",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "venue": "away"
+    },
+    {
       "date": "2026-06-21",
       "opponent": "Spain",
       "competition": "FIFA World Cup, Group H",
@@ -42,15 +51,6 @@
       "goalsFor": 1,
       "goalsAgainst": 1,
       "venue": "home"
-    },
-    {
-      "date": "2026-06-27",
-      "opponent": "Cape Verde",
-      "competition": "FIFA World Cup, Group H",
-      "result": "D",
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "venue": "away"
     },
     {
       "date": "2026-06-09",
@@ -465,6 +465,22 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -495,22 +511,6 @@
           "cards": 0,
           "fouls": 0,
           "saves": 9
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0,
-          "saves": 2
         },
         {
           "date": "2026-06-09",
@@ -837,6 +837,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -865,21 +880,6 @@
           "passes": 0,
           "cards": 1,
           "fouls": 1
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2026-06-09",
@@ -1158,6 +1158,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 57,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -1179,21 +1194,6 @@
           "result": "D",
           "venue": "home",
           "minutes": 0,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 57,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -2035,6 +2035,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -2056,21 +2071,6 @@
           "result": "D",
           "venue": "home",
           "minutes": 93,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 8,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -2238,21 +2238,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-15",
-          "opponent": "Uruguay",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "home",
-          "minutes": 9,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Cape Verde",
           "competition": "FIFA World Cup, Group H",
@@ -2266,6 +2251,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-15",
+          "opponent": "Uruguay",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "home",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-09",
@@ -2744,6 +2744,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -2768,21 +2783,6 @@
           "goals": 0,
           "assists": 0,
           "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 45,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -3017,6 +3017,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 33,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -3038,21 +3053,6 @@
           "result": "D",
           "venue": "home",
           "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 33,
           "goals": 0,
           "assists": 0,
           "shots": 0,
@@ -3396,6 +3396,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 4
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -3424,21 +3439,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 4
         },
         {
           "date": "2026-06-09",
@@ -3643,6 +3643,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -3671,21 +3686,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 24,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2026-06-09",
@@ -3872,6 +3872,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -3900,21 +3915,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 45,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2026-06-09",
@@ -4209,6 +4209,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 4
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -4237,21 +4252,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 3
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 4
         },
         {
           "date": "2026-06-09",
@@ -4440,6 +4440,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 66,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -4468,21 +4483,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 66,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
         },
         {
           "date": "2026-06-09",
@@ -4713,6 +4713,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -4740,21 +4755,6 @@
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
-          "fouls": 2
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
           "fouls": 2
         },
         {
@@ -5172,6 +5172,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -5200,21 +5215,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 24,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
         },
         {
           "date": "2026-06-09",
@@ -6610,6 +6610,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Cape Verde",
+          "competition": "FIFA World Cup, Group H",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-21",
           "opponent": "Spain",
           "competition": "FIFA World Cup, Group H",
@@ -6638,21 +6653,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Cape Verde",
-          "competition": "FIFA World Cup, Group H",
-          "result": "D",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 1,
-          "fouls": 1
         }
       ]
     },
