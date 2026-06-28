@@ -2,11 +2,11 @@
   "team": "Croatia",
   "group": "L",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-28T04:49:37.500Z",
+  "importedAt": "2026-06-28T08:13:24.629Z",
   "eventsProcessed": 17,
   "eventDates": [
-    "2026-06-17",
     "2026-06-27",
+    "2026-06-17",
     "2026-06-07",
     "2026-06-02",
     "2026-04-01",
@@ -25,15 +25,6 @@
   ],
   "teamMatchResults": [
     {
-      "date": "2026-06-17",
-      "opponent": "England",
-      "competition": "FIFA World Cup, Group L",
-      "result": "L",
-      "goalsFor": 2,
-      "goalsAgainst": 4,
-      "venue": "away"
-    },
-    {
       "date": "2026-06-27",
       "opponent": "Ghana",
       "competition": "FIFA World Cup, Group L",
@@ -41,6 +32,15 @@
       "goalsFor": 2,
       "goalsAgainst": 1,
       "venue": "home"
+    },
+    {
+      "date": "2026-06-17",
+      "opponent": "England",
+      "competition": "FIFA World Cup, Group L",
+      "result": "L",
+      "goalsFor": 2,
+      "goalsAgainst": 4,
+      "venue": "away"
     },
     {
       "date": "2026-06-07",
@@ -413,6 +413,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Ghana",
+          "competition": "FIFA World Cup, Group L",
+          "result": "W",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-17",
           "opponent": "England",
           "competition": "FIFA World Cup, Group L",
@@ -427,21 +442,6 @@
           "cards": 0,
           "fouls": 0,
           "saves": 7
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Ghana",
-          "competition": "FIFA World Cup, Group L",
-          "result": "W",
-          "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2026-06-07",
@@ -1037,11 +1037,11 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "England",
+          "date": "2026-06-27",
+          "opponent": "Ghana",
           "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
+          "result": "W",
+          "venue": "home",
           "minutes": 90,
           "goals": 0,
           "assists": 0,
@@ -1052,11 +1052,11 @@
           "fouls": 0
         },
         {
-          "date": "2026-06-27",
-          "opponent": "Ghana",
+          "date": "2026-06-17",
+          "opponent": "England",
           "competition": "FIFA World Cup, Group L",
-          "result": "W",
-          "venue": "home",
+          "result": "L",
+          "venue": "away",
           "minutes": 90,
           "goals": 0,
           "assists": 0,
@@ -1269,21 +1269,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "England",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Ghana",
           "competition": "FIFA World Cup, Group L",
@@ -1293,6 +1278,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -1549,21 +1549,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "England",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Ghana",
           "competition": "FIFA World Cup, Group L",
@@ -1573,6 +1558,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -2357,21 +2357,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "England",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 1,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Ghana",
           "competition": "FIFA World Cup, Group L",
@@ -2385,6 +2370,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-07",
@@ -3029,21 +3029,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "England",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 58,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Ghana",
           "competition": "FIFA World Cup, Group L",
@@ -3057,6 +3042,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-07",
@@ -3601,21 +3601,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "England",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 24,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Ghana",
           "competition": "FIFA World Cup, Group L",
@@ -3626,6 +3611,21 @@
           "assists": 0,
           "shots": 0,
           "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -3801,21 +3801,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "England",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 78,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Ghana",
           "competition": "FIFA World Cup, Group L",
@@ -3829,6 +3814,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-07",
@@ -4081,21 +4081,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "England",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 78,
-          "goals": 1,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Ghana",
           "competition": "FIFA World Cup, Group L",
@@ -4109,6 +4094,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 78,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-07",
@@ -4361,21 +4361,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "England",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 32,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Ghana",
           "competition": "FIFA World Cup, Group L",
@@ -4389,6 +4374,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-07",
@@ -4741,21 +4741,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "England",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 12,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Ghana",
           "competition": "FIFA World Cup, Group L",
@@ -4769,6 +4754,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 12,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
         },
         {
           "date": "2026-06-07",
@@ -4893,21 +4893,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "England",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 1,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Ghana",
           "competition": "FIFA World Cup, Group L",
@@ -4921,6 +4906,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-07",
@@ -6037,21 +6037,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "England",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 24,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 2
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Ghana",
           "competition": "FIFA World Cup, Group L",
@@ -6065,6 +6050,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 24,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
         },
         {
           "date": "2026-06-07",

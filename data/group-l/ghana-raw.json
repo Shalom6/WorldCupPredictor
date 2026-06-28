@@ -2,12 +2,12 @@
   "team": "Ghana",
   "group": "L",
   "dataSource": "sofascore-manual-import",
-  "importedAt": "2026-06-28T04:49:37.624Z",
+  "importedAt": "2026-06-28T08:13:24.633Z",
   "eventsProcessed": 18,
   "eventDates": [
+    "2026-06-27",
     "2026-06-23",
     "2026-06-17",
-    "2026-06-27",
     "2026-06-02",
     "2026-05-23",
     "2026-03-30",
@@ -26,6 +26,15 @@
   ],
   "teamMatchResults": [
     {
+      "date": "2026-06-27",
+      "opponent": "Croatia",
+      "competition": "FIFA World Cup, Group L",
+      "result": "L",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "venue": "away"
+    },
+    {
       "date": "2026-06-23",
       "opponent": "England",
       "competition": "FIFA World Cup, Group L",
@@ -42,15 +51,6 @@
       "goalsFor": 1,
       "goalsAgainst": 0,
       "venue": "home"
-    },
-    {
-      "date": "2026-06-27",
-      "opponent": "Croatia",
-      "competition": "FIFA World Cup, Group L",
-      "result": "L",
-      "goalsFor": 1,
-      "goalsAgainst": 2,
-      "venue": "away"
     },
     {
       "date": "2026-06-02",
@@ -404,6 +404,22 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
+        {
           "date": "2026-06-23",
           "opponent": "England",
           "competition": "FIFA World Cup, Group L",
@@ -434,22 +450,6 @@
           "cards": 0,
           "fouls": 0,
           "saves": 3
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Croatia",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0,
-          "saves": 2
         },
         {
           "date": "2026-06-02",
@@ -1435,6 +1435,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-23",
           "opponent": "England",
           "competition": "FIFA World Cup, Group L",
@@ -1455,21 +1470,6 @@
           "competition": "FIFA World Cup, Group L",
           "result": "W",
           "venue": "home",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Croatia",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
           "minutes": 90,
           "goals": 0,
           "assists": 0,
@@ -1902,6 +1902,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-23",
           "opponent": "England",
           "competition": "FIFA World Cup, Group L",
@@ -1927,21 +1942,6 @@
           "assists": 0,
           "shots": 2,
           "shotsOnTarget": 1,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Croatia",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 45,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
           "fouls": 0
@@ -2143,21 +2143,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-23",
-          "opponent": "England",
-          "competition": "FIFA World Cup, Group L",
-          "result": "D",
-          "venue": "away",
-          "minutes": 3,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Croatia",
           "competition": "FIFA World Cup, Group L",
@@ -2171,6 +2156,21 @@
           "passes": 0,
           "cards": 1,
           "fouls": 1
+        },
+        {
+          "date": "2026-06-23",
+          "opponent": "England",
+          "competition": "FIFA World Cup, Group L",
+          "result": "D",
+          "venue": "away",
+          "minutes": 3,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-03-30",
@@ -2247,6 +2247,21 @@
       "likelyStarter": false,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
+        {
           "date": "2026-06-23",
           "opponent": "England",
           "competition": "FIFA World Cup, Group L",
@@ -2275,21 +2290,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 1
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Croatia",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 3
         },
         {
           "date": "2026-06-02",
@@ -2839,6 +2839,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-23",
           "opponent": "England",
           "competition": "FIFA World Cup, Group L",
@@ -2863,21 +2878,6 @@
           "goals": 0,
           "assists": 0,
           "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Croatia",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 45,
-          "goals": 0,
-          "assists": 0,
-          "shots": 2,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -3112,6 +3112,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-23",
           "opponent": "England",
           "competition": "FIFA World Cup, Group L",
@@ -3140,21 +3155,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Croatia",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
         },
         {
           "date": "2026-03-30",
@@ -3375,6 +3375,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 5,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-23",
           "opponent": "England",
           "competition": "FIFA World Cup, Group L",
@@ -3402,21 +3417,6 @@
           "shotsOnTarget": 1,
           "passes": 0,
           "cards": 1,
-          "fouls": 1
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Croatia",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 5,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
           "fouls": 1
         },
         {
@@ -3754,21 +3754,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Panama",
-          "competition": "FIFA World Cup, Group L",
-          "result": "W",
-          "venue": "home",
-          "minutes": 78,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Croatia",
           "competition": "FIFA World Cup, Group L",
@@ -3782,6 +3767,21 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Panama",
+          "competition": "FIFA World Cup, Group L",
+          "result": "W",
+          "venue": "home",
+          "minutes": 78,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
         },
         {
           "date": "2026-06-02",
@@ -4291,6 +4291,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 85,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 3
+        },
+        {
           "date": "2026-06-23",
           "opponent": "England",
           "competition": "FIFA World Cup, Group L",
@@ -4319,21 +4334,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 0
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Croatia",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 85,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 3
         },
         {
           "date": "2026-06-02",
@@ -5060,10 +5060,10 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-23",
-          "opponent": "England",
+          "date": "2026-06-27",
+          "opponent": "Croatia",
           "competition": "FIFA World Cup, Group L",
-          "result": "D",
+          "result": "L",
           "venue": "away",
           "minutes": 90,
           "goals": 0,
@@ -5075,10 +5075,10 @@
           "fouls": 1
         },
         {
-          "date": "2026-06-27",
-          "opponent": "Croatia",
+          "date": "2026-06-23",
+          "opponent": "England",
           "competition": "FIFA World Cup, Group L",
-          "result": "L",
+          "result": "D",
           "venue": "away",
           "minutes": 90,
           "goals": 0,
@@ -5269,21 +5269,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Panama",
-          "competition": "FIFA World Cup, Group L",
-          "result": "W",
-          "venue": "home",
-          "minutes": 32,
-          "goals": 0,
-          "assists": 1,
-          "shots": 1,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Croatia",
           "competition": "FIFA World Cup, Group L",
@@ -5293,6 +5278,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Panama",
+          "competition": "FIFA World Cup, Group L",
+          "result": "W",
+          "venue": "home",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 1,
+          "shots": 1,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
@@ -5441,21 +5441,6 @@
       "likelyStarter": true,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Panama",
-          "competition": "FIFA World Cup, Group L",
-          "result": "W",
-          "venue": "home",
-          "minutes": 58,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 0
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Croatia",
           "competition": "FIFA World Cup, Group L",
@@ -5464,6 +5449,21 @@
           "minutes": 19,
           "goals": 0,
           "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Panama",
+          "competition": "FIFA World Cup, Group L",
+          "result": "W",
+          "venue": "home",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
           "shots": 0,
           "shotsOnTarget": 0,
           "passes": 0,
@@ -5693,6 +5693,21 @@
       "likelyStarter": true,
       "gameLog": [
         {
+          "date": "2026-06-27",
+          "opponent": "Croatia",
+          "competition": "FIFA World Cup, Group L",
+          "result": "L",
+          "venue": "away",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2026-06-23",
           "opponent": "England",
           "competition": "FIFA World Cup, Group L",
@@ -5721,21 +5736,6 @@
           "passes": 0,
           "cards": 0,
           "fouls": 2
-        },
-        {
-          "date": "2026-06-27",
-          "opponent": "Croatia",
-          "competition": "FIFA World Cup, Group L",
-          "result": "L",
-          "venue": "away",
-          "minutes": 71,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
         },
         {
           "date": "2026-06-02",
@@ -6072,21 +6072,6 @@
       "likelyStarter": false,
       "gameLog": [
         {
-          "date": "2026-06-17",
-          "opponent": "Panama",
-          "competition": "FIFA World Cup, Group L",
-          "result": "W",
-          "venue": "home",
-          "minutes": 58,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
-        {
           "date": "2026-06-27",
           "opponent": "Croatia",
           "competition": "FIFA World Cup, Group L",
@@ -6096,6 +6081,21 @@
           "goals": 0,
           "assists": 0,
           "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
+          "date": "2026-06-17",
+          "opponent": "Panama",
+          "competition": "FIFA World Cup, Group L",
+          "result": "W",
+          "venue": "home",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
           "shotsOnTarget": 0,
           "passes": 0,
           "cards": 0,
