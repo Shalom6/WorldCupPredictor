@@ -2397,6 +2397,86 @@
       },
       "syncedAt": "2026-06-27T23:12:41.549Z",
       "source": "espn"
+    },
+    "GS-J-6": {
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 3,
+      "scorers": {
+        "home": [
+          {
+            "name": "Rafik Belghali",
+            "minute": "45'"
+          },
+          {
+            "name": "Riyad Mahrez",
+            "minute": "60'",
+            "assist": "Houssem Aouar"
+          },
+          {
+            "name": "Riyad Mahrez",
+            "minute": "90'+3'",
+            "assist": "Houssem Aouar"
+          }
+        ],
+        "away": [
+          {
+            "name": "Marko Arnautovic",
+            "minute": "28'",
+            "assist": "David Alaba"
+          },
+          {
+            "name": "Marcel Sabitzer",
+            "minute": "55'",
+            "assist": "Konrad Laimer"
+          },
+          {
+            "name": "Sasa Kalajdzic",
+            "minute": "90'+6'",
+            "assist": "Michael Gregoritsch"
+          }
+        ]
+      },
+      "teamStats": {
+        "possession": {
+          "home": 65.1,
+          "away": 34.9
+        },
+        "shots": {
+          "home": 12,
+          "away": 10
+        },
+        "shotsOnTarget": {
+          "home": 5,
+          "away": 3
+        },
+        "corners": {
+          "home": 0,
+          "away": 3
+        },
+        "fouls": {
+          "home": 3,
+          "away": 7
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "saves": {
+          "home": 1,
+          "away": 2
+        },
+        "passAccuracy": {
+          "home": 90,
+          "away": 90
+        }
+      },
+      "syncedAt": "2026-06-28T04:49:35.137Z",
+      "source": "espn"
     }
   }
 }

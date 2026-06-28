@@ -16,22 +16,22 @@
       "Croatia": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-28T00:13:54.482Z"
+        "importedAt": "2026-06-28T04:49:42.269Z"
       },
       "England": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-28T00:13:54.482Z"
+        "importedAt": "2026-06-28T04:49:42.269Z"
       },
       "Ghana": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-28T00:13:54.483Z"
+        "importedAt": "2026-06-28T04:49:42.269Z"
       },
       "Panama": {
         "playerCount": 31,
         "dataSource": "sofascore",
-        "importedAt": "2026-06-28T00:13:54.483Z"
+        "importedAt": "2026-06-28T04:49:42.269Z"
       }
     }
   },
@@ -4859,16 +4859,6 @@
         ],
         "lastMatch": "2026-06-03"
       },
-      "profile": {
-        "club": "USM Alger",
-        "marketValueEur": 925000,
-        "marketValueDisplay": "€925K",
-        "dateOfBirth": "1999-06-14",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1503088
     },
     {
@@ -5714,16 +5704,6 @@
           "Arab Cup, Group D"
         ],
         "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "Al Duhail",
-        "marketValueEur": 3100000,
-        "marketValueDisplay": "€3.1M",
-        "dateOfBirth": "2003-05-02",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1094482
     },
@@ -8031,16 +8011,6 @@
         ],
         "lastMatch": "2026-06-03"
       },
-      "profile": {
-        "club": "ETO FC Győr",
-        "marketValueEur": 980000,
-        "marketValueDisplay": "€980K",
-        "dateOfBirth": "2000-04-17",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1177807
     },
     {
@@ -8772,23 +8742,23 @@
       "number": "2",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.9,
+      "minutesFactor": 0.91,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.3,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.5
+        "foulWeight": 0.4
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0,
-        "passes90": 59,
+        "passes90": 54,
         "cards90": 0,
-        "fouls90": 0.5,
-        "minutesAvg": 81
+        "fouls90": 0.4,
+        "minutesAvg": 82
       },
       "hitRates": {
         "goals05": {
@@ -8833,6 +8803,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-03",
           "opponent": "Netherlands",
@@ -9030,24 +9015,15 @@
       "dataScope": "international",
       "searchText": "aïssa mandi algeria defender j",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group E",
           "World Cup Qualification, CAF, Group G"
         ],
-        "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "Lille",
-        "marketValueEur": 1100000,
-        "marketValueDisplay": "€1.1M",
-        "dateOfBirth": "1991-10-22",
-        "age": 34,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 122810
     },
@@ -15358,7 +15334,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 24,
+        "passes90": 23,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 87
@@ -15406,6 +15382,22 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -15652,7 +15644,7 @@
       "dataScope": "international",
       "searchText": "alexander schlager austria goalkeeper j",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -15660,7 +15652,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 282073
     },
@@ -24026,34 +24018,34 @@
       "number": "11",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.69,
+      "minutesFactor": 0.7,
       "xgShare": 0.17,
       "propProfile": {
-        "shotsShare": 2.7,
-        "sotShare": 0.9,
+        "shotsShare": 2.4,
+        "sotShare": 0.8,
         "cardWeight": 0.02,
         "foulWeight": 0.03
       },
       "seasonRates": {
-        "goals90": 0.36,
+        "goals90": 0.32,
         "assists90": 0,
-        "shots90": 2.7,
-        "sot90": 0.9,
-        "passes90": 25,
+        "shots90": 2.4,
+        "sot90": 0.8,
+        "passes90": 22,
         "cards90": 0,
         "fouls90": 0,
-        "minutesAvg": 62
+        "minutesAvg": 63
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "goals15": {
           "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l10": 11,
+          "season": 11
         },
         "assists05": {
           "l5": 0,
@@ -24061,19 +24053,19 @@
           "season": 0
         },
         "shots15": {
-          "l5": 60,
-          "l10": 50,
-          "season": 50
+          "l5": 40,
+          "l10": 44,
+          "season": 44
         },
         "shots25": {
           "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l10": 22,
+          "season": 22
         },
         "sot05": {
-          "l5": 40,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 22,
+          "season": 22
         },
         "cards05": {
           "l5": 0,
@@ -24087,6 +24079,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-03",
           "opponent": "Netherlands",
@@ -24220,22 +24227,13 @@
       "dataScope": "international",
       "searchText": "amine gouiri algeria forward j",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qualification, CAF, Group G"
         ],
-        "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "Olympique de Marseille",
-        "marketValueEur": 30000000,
-        "marketValueDisplay": "€30M",
-        "dateOfBirth": "2000-02-16",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 859026
     },
@@ -29163,16 +29161,6 @@
           "World Cup Qualification, CAF, Group G"
         ],
         "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "Feyenoord",
-        "marketValueEur": 24000000,
-        "marketValueDisplay": "€24M",
-        "dateOfBirth": "2002-02-11",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1218066
     },
@@ -65722,19 +65710,19 @@
       "minutesFactor": 0.68,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.6,
+        "shotsShare": 0.5,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.2
+        "foulWeight": 0.1
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.15,
-        "shots90": 0.6,
+        "assists90": 0.27,
+        "shots90": 0.5,
         "sot90": 0,
-        "passes90": 68,
+        "passes90": 62,
         "cards90": 0,
-        "fouls90": 0.2,
+        "fouls90": 0.1,
         "minutesAvg": 61
       },
       "hitRates": {
@@ -65749,9 +65737,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         },
         "shots15": {
           "l5": 0,
@@ -65780,6 +65768,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -65943,14 +65946,14 @@
       "dataScope": "international",
       "searchText": "david alaba austria defender j",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 66492
     },
@@ -90948,29 +90951,29 @@
       "number": "28",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.57,
+      "minutesFactor": 0.6,
       "xgShare": 0.08,
       "propProfile": {
-        "shotsShare": 1.9,
-        "sotShare": 0.3,
+        "shotsShare": 2.1,
+        "sotShare": 0.4,
         "cardWeight": 0.02,
         "foulWeight": 0.6
       },
       "seasonRates": {
-        "goals90": 0.16,
-        "assists90": 0.16,
-        "shots90": 1.9,
-        "sot90": 0.3,
-        "passes90": 37,
+        "goals90": 0.14,
+        "assists90": 0.14,
+        "shots90": 2.1,
+        "sot90": 0.4,
+        "passes90": 32,
         "cards90": 0,
         "fouls90": 0.6,
-        "minutesAvg": 51
+        "minutesAvg": 54
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "goals15": {
           "l5": 0,
@@ -90980,22 +90983,22 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 9
+          "season": 8
         },
         "shots15": {
-          "l5": 20,
-          "l10": 20,
-          "season": 18
+          "l5": 40,
+          "l10": 30,
+          "season": 25
         },
         "shots25": {
-          "l5": 20,
-          "l10": 10,
-          "season": 9
+          "l5": 40,
+          "l10": 20,
+          "season": 17
         },
         "sot05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 9
+          "l5": 40,
+          "l10": 20,
+          "season": 17
         },
         "cards05": {
           "l5": 0,
@@ -91009,6 +91012,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-03",
           "opponent": "Netherlands",
@@ -91190,24 +91208,15 @@
       "dataScope": "international",
       "searchText": "farès chaïbi algeria midfielder j",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group E",
           "World Cup Qualification, CAF, Group G"
         ],
-        "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "Eintracht Frankfurt",
-        "marketValueEur": 14500000,
-        "marketValueDisplay": "€14.5M",
-        "dateOfBirth": "2002-11-28",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 1192318
     },
@@ -91240,9 +91249,9 @@
       },
       "hitRates": {
         "goals05": {
-          "l5": 100,
-          "l10": 100,
-          "season": 100
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -91255,9 +91264,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 100,
-          "l10": 100,
-          "season": 100
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "shots25": {
           "l5": 0,
@@ -91265,9 +91274,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 100,
-          "l10": 100,
-          "season": 100
+          "l5": 50,
+          "l10": 50,
+          "season": 50
         },
         "cards05": {
           "l5": 0,
@@ -91281,6 +91290,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-27",
           "opponent": "Guatemala",
@@ -91302,21 +91326,12 @@
       "dataScope": "international",
       "searchText": "farès ghedjemis algeria forward j",
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-03-27"
-      },
-      "profile": {
-        "club": "Frosinone",
-        "marketValueEur": 5000000,
-        "marketValueDisplay": "€5M",
-        "dateOfBirth": "2002-09-06",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 1445228
     },
@@ -95152,23 +95167,23 @@
       "number": "10",
       "likelyStarter": false,
       "benchImpact": true,
-      "minutesFactor": 0.33,
+      "minutesFactor": 0.34,
       "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 2,
+        "shotsShare": 1.8,
         "sotShare": 0.4,
         "cardWeight": 0.02,
-        "foulWeight": 1.4
+        "foulWeight": 1.7
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.4,
-        "shots90": 2,
+        "assists90": 0.37,
+        "shots90": 1.8,
         "sot90": 0.4,
-        "passes90": 76,
+        "passes90": 69,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 30
+        "fouls90": 1.7,
+        "minutesAvg": 31
       },
       "hitRates": {
         "goals05": {
@@ -95189,12 +95204,12 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "sot05": {
           "l5": 0,
@@ -95207,12 +95222,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 7
+          "l5": 40,
+          "l10": 20,
+          "season": 13
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
         {
           "date": "2026-03-31",
           "opponent": "South Korea",
@@ -95458,8 +95488,9 @@
       "dataScope": "international",
       "searchText": "florian grillitsch austria midfielder j",
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs",
@@ -95467,7 +95498,7 @@
           "Euro, Knockout stage",
           "Euro, Group D"
         ],
-        "lastMatch": "2026-03-31"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 186719
     },
@@ -113763,16 +113794,6 @@
         ],
         "lastMatch": "2026-03-31"
       },
-      "profile": {
-        "club": "Nice",
-        "marketValueEur": 11300000,
-        "marketValueDisplay": "€11.3M",
-        "dateOfBirth": "1999-09-23",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 985923
     },
     {
@@ -115028,29 +115049,29 @@
       "number": "8",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.64,
+      "minutesFactor": 0.7,
       "xgShare": 0.09,
       "propProfile": {
-        "shotsShare": 2,
-        "sotShare": 0.7,
+        "shotsShare": 1.6,
+        "sotShare": 0.5,
         "cardWeight": 0.02,
         "foulWeight": 1.3
       },
       "seasonRates": {
-        "goals90": 0.22,
-        "assists90": 0.22,
-        "shots90": 2,
-        "sot90": 0.7,
-        "passes90": 41,
+        "goals90": 0.18,
+        "assists90": 0.54,
+        "shots90": 1.6,
+        "sot90": 0.5,
+        "passes90": 33,
         "cards90": 0,
         "fouls90": 1.3,
-        "minutesAvg": 58
+        "minutesAvg": 63
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -115058,24 +115079,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l5": 40,
+          "l10": 25,
+          "season": 25
         },
         "shots15": {
           "l5": 20,
-          "l10": 43,
-          "season": 43
+          "l10": 38,
+          "season": 38
         },
         "shots25": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "sot05": {
           "l5": 20,
-          "l10": 43,
-          "season": 43
+          "l10": 38,
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -115084,11 +115105,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 29,
-          "season": 29
+          "l10": 25,
+          "season": 25
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 94,
+          "goals": 0,
+          "assists": 2,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-03",
           "opponent": "Netherlands",
@@ -115206,22 +115242,13 @@
       "dataScope": "international",
       "searchText": "houssem aouar algeria midfielder j",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qualification, CAF, Group G"
         ],
-        "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "Al-Ittihad",
-        "marketValueEur": 7300000,
-        "marketValueDisplay": "€7.3M",
-        "dateOfBirth": "1998-06-30",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 846081
     },
@@ -117290,29 +117317,29 @@
       "number": "24",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.53,
-      "xgShare": 0.17,
+      "minutesFactor": 0.57,
+      "xgShare": 0.16,
       "propProfile": {
-        "shotsShare": 2,
+        "shotsShare": 2.2,
         "sotShare": 0.9,
         "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "foulWeight": 0.9
       },
       "seasonRates": {
-        "goals90": 0.31,
-        "assists90": 0.16,
-        "shots90": 2,
+        "goals90": 0.27,
+        "assists90": 0.13,
+        "shots90": 2.2,
         "sot90": 0.9,
-        "passes90": 34,
+        "passes90": 30,
         "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 48
+        "fouls90": 0.9,
+        "minutesAvg": 51
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 17
+          "season": 15
         },
         "goals15": {
           "l5": 0,
@@ -117320,24 +117347,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 8
         },
         "shots15": {
-          "l5": 0,
+          "l5": 20,
           "l10": 20,
-          "season": 17
+          "season": 23
         },
         "shots25": {
-          "l5": 0,
+          "l5": 20,
           "l10": 20,
-          "season": 17
+          "season": 23
         },
         "sot05": {
           "l5": 20,
           "l10": 40,
-          "season": 33
+          "season": 38
         },
         "cards05": {
           "l5": 0,
@@ -117351,6 +117378,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-03",
           "opponent": "Netherlands",
@@ -117548,24 +117590,15 @@
       "dataScope": "international",
       "searchText": "ibrahim maza algeria forward j",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group E",
           "World Cup Qualification, CAF, Group G"
         ],
-        "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "Bayer 04 Leverkusen",
-        "marketValueEur": 37000000,
-        "marketValueDisplay": "€37M",
-        "dateOfBirth": "2005-11-24",
-        "age": 20,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 1407524
     },
@@ -129836,29 +129869,29 @@
       "number": "13",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.58,
+      "minutesFactor": 0.6,
       "xgShare": 0.05,
       "propProfile": {
         "shotsShare": 0.4,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 2.2
+        "foulWeight": 1.9
       },
       "seasonRates": {
-        "goals90": 0.22,
+        "goals90": 0.19,
         "assists90": 0,
         "shots90": 0.4,
         "sot90": 0.2,
-        "passes90": 46,
+        "passes90": 39,
         "cards90": 0,
-        "fouls90": 2.2,
-        "minutesAvg": 52
+        "fouls90": 1.9,
+        "minutesAvg": 54
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l5": 0,
+          "l10": 11,
+          "season": 11
         },
         "goals15": {
           "l5": 0,
@@ -129881,9 +129914,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
-          "l10": 13,
-          "season": 13
+          "l5": 0,
+          "l10": 11,
+          "season": 11
         },
         "cards05": {
           "l5": 0,
@@ -129892,11 +129925,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 38,
-          "season": 38
+          "l10": 33,
+          "season": 33
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-03",
           "opponent": "Netherlands",
@@ -130030,23 +130078,14 @@
       "dataScope": "international",
       "searchText": "jaouen hadjam algeria defender j",
       "importMeta": {
-        "appearances": 8,
+        "appearances": 9,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group E",
           "World Cup Qualification, CAF, Group G"
         ],
-        "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "BSC Young Boys",
-        "marketValueEur": 7500000,
-        "marketValueDisplay": "€7.5M",
-        "dateOfBirth": "2003-03-26",
-        "age": 23,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 1049534
     },
@@ -163878,23 +163917,23 @@
       "number": "4",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.63,
+      "minutesFactor": 0.61,
       "xgShare": 0.02,
       "propProfile": {
-        "shotsShare": 0.2,
+        "shotsShare": 0.4,
         "sotShare": 0.03,
         "cardWeight": 0.02,
         "foulWeight": 1.2
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.24,
-        "shots90": 0.2,
+        "assists90": 0.23,
+        "shots90": 0.4,
         "sot90": 0,
-        "passes90": 71,
+        "passes90": 69,
         "cards90": 0,
         "fouls90": 1.2,
-        "minutesAvg": 57
+        "minutesAvg": 55
       },
       "hitRates": {
         "goals05": {
@@ -163910,7 +163949,7 @@
         "assists05": {
           "l5": 0,
           "l10": 20,
-          "season": 15
+          "season": 14
         },
         "shots15": {
           "l5": 0,
@@ -163935,10 +163974,25 @@
         "fouls15": {
           "l5": 40,
           "l10": 30,
-          "season": 23
+          "season": 21
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -164150,7 +164204,7 @@
       "dataScope": "international",
       "searchText": "kevin danso austria defender j",
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -164159,7 +164213,7 @@
           "Euro, Knockout stage",
           "Euro, Group D"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 794953
     },
@@ -168937,24 +168991,24 @@
       "propProfile": {
         "shotsShare": 0.9,
         "sotShare": 0.4,
-        "cardWeight": 0.07,
-        "foulWeight": 1.8
+        "cardWeight": 0.06,
+        "foulWeight": 1.7
       },
       "seasonRates": {
-        "goals90": 0.13,
-        "assists90": 0.07,
+        "goals90": 0.12,
+        "assists90": 0.12,
         "shots90": 0.9,
         "sot90": 0.4,
-        "passes90": 43,
-        "cards90": 0.07,
-        "fouls90": 1.8,
+        "passes90": 40,
+        "cards90": 0.06,
+        "fouls90": 1.7,
         "minutesAvg": 81
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 20,
-          "season": 12
+          "season": 11
         },
         "goals15": {
           "l5": 0,
@@ -168962,14 +169016,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 6
+          "l5": 20,
+          "l10": 10,
+          "season": 11
         },
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 18
+          "season": 17
         },
         "shots25": {
           "l5": 0,
@@ -168979,7 +169033,7 @@
         "sot05": {
           "l5": 0,
           "l10": 20,
-          "season": 35
+          "season": 33
         },
         "cards05": {
           "l5": 20,
@@ -168989,10 +169043,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 40,
-          "season": 35
+          "season": 33
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -169268,7 +169337,7 @@
       "dataScope": "international",
       "searchText": "konrad laimer austria defender j",
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -169276,7 +169345,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 355492
     },
@@ -179759,16 +179828,6 @@
         ],
         "lastMatch": "2026-06-03"
       },
-      "profile": {
-        "club": "Granada",
-        "marketValueEur": 910000,
-        "marketValueDisplay": "€910K",
-        "dateOfBirth": "1998-05-13",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 802133
     },
     {
@@ -189645,19 +189704,19 @@
       "likelyStarter": true,
       "benchImpact": false,
       "minutesFactor": 0.98,
-      "xgShare": 0.13,
+      "xgShare": 0.14,
       "propProfile": {
-        "shotsShare": 2.9,
-        "sotShare": 1.6,
+        "shotsShare": 2.8,
+        "sotShare": 1.5,
         "cardWeight": 0.06,
         "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.48,
-        "assists90": 0.42,
-        "shots90": 2.9,
-        "sot90": 1.6,
-        "passes90": 34,
+        "goals90": 0.51,
+        "assists90": 0.4,
+        "shots90": 2.8,
+        "sot90": 1.5,
+        "passes90": 32,
         "cards90": 0.06,
         "fouls90": 0.5,
         "minutesAvg": 88
@@ -189666,7 +189725,7 @@
         "goals05": {
           "l5": 60,
           "l10": 40,
-          "season": 47
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -189674,24 +189733,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 24
+          "season": 22
         },
         "shots15": {
           "l5": 40,
-          "l10": 50,
-          "season": 71
+          "l10": 40,
+          "season": 67
         },
         "shots25": {
           "l5": 40,
-          "l10": 50,
-          "season": 59
+          "l10": 40,
+          "season": 56
         },
         "sot05": {
           "l5": 80,
           "l10": 80,
-          "season": 82
+          "season": 83
         },
         "cards05": {
           "l5": 20,
@@ -189700,11 +189759,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 30,
-          "season": 18
+          "l10": 20,
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -189980,14 +190054,14 @@
       "dataScope": "international",
       "searchText": "marcel sabitzer austria midfielder j",
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 133908
     },
@@ -192680,67 +192754,82 @@
       "number": "7",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.62,
+      "minutesFactor": 0.61,
       "xgShare": 0.28,
       "propProfile": {
-        "shotsShare": 2.9,
+        "shotsShare": 2.8,
         "sotShare": 1.7,
-        "cardWeight": 0.02,
-        "foulWeight": 1.1
+        "cardWeight": 0.09,
+        "foulWeight": 1.2
       },
       "seasonRates": {
-        "goals90": 1.05,
-        "assists90": 0.29,
-        "shots90": 2.9,
+        "goals90": 1.09,
+        "assists90": 0.27,
+        "shots90": 2.8,
         "sot90": 1.7,
-        "passes90": 24,
-        "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 56
+        "passes90": 23,
+        "cards90": 0.09,
+        "fouls90": 1.2,
+        "minutesAvg": 55
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 29
+          "l5": 40,
+          "l10": 40,
+          "season": 33
         },
         "goals15": {
           "l5": 0,
           "l10": 20,
-          "season": 24
+          "season": 22
         },
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 18
+          "season": 17
         },
         "shots15": {
           "l5": 20,
           "l10": 30,
-          "season": 47
+          "season": 44
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 18
+          "season": 17
         },
         "sot05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 47
+          "l5": 40,
+          "l10": 40,
+          "season": 50
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 30,
-          "season": 18
+          "l5": 0,
+          "l10": 20,
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -193016,7 +193105,7 @@
       "dataScope": "international",
       "searchText": "marko arnautović austria forward j",
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -193024,7 +193113,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 21927
     },
@@ -203646,16 +203735,6 @@
         ],
         "lastMatch": "2026-03-27"
       },
-      "profile": {
-        "club": "Stade Nyonnais",
-        "marketValueEur": 260000,
-        "marketValueDisplay": "€260K",
-        "dateOfBirth": "2000-02-19",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1118193
     },
     {
@@ -205937,29 +206016,29 @@
       "number": "11",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.63,
+      "minutesFactor": 0.62,
       "xgShare": 0.22,
       "propProfile": {
-        "shotsShare": 3.1,
-        "sotShare": 1.3,
+        "shotsShare": 2.9,
+        "sotShare": 1.2,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.9
       },
       "seasonRates": {
-        "goals90": 0.69,
-        "assists90": 0.1,
-        "shots90": 3.1,
-        "sot90": 1.3,
-        "passes90": 20,
+        "goals90": 0.66,
+        "assists90": 0.19,
+        "shots90": 2.9,
+        "sot90": 1.2,
+        "passes90": 19,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 57
+        "fouls90": 0.9,
+        "minutesAvg": 56
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 44
+          "season": 41
         },
         "goals15": {
           "l5": 0,
@@ -205967,24 +206046,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 6
+          "l5": 40,
+          "l10": 20,
+          "season": 12
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 56
+          "season": 53
         },
         "shots25": {
           "l5": 20,
           "l10": 20,
-          "season": 38
+          "season": 35
         },
         "sot05": {
-          "l5": 40,
-          "l10": 40,
-          "season": 56
+          "l5": 20,
+          "l10": 30,
+          "season": 53
         },
         "cards05": {
           "l5": 0,
@@ -205993,11 +206072,26 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 6
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -206258,7 +206352,7 @@
       "dataScope": "international",
       "searchText": "michael gregoritsch austria forward j",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -206266,7 +206360,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 111483
     },
@@ -211292,16 +211386,6 @@
         ],
         "lastMatch": "2026-06-03"
       },
-      "profile": {
-        "club": "VfL Wolfsburg",
-        "marketValueEur": 29000000,
-        "marketValueDisplay": "€29M",
-        "dateOfBirth": "2000-05-09",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 1107591
     },
     {
@@ -213217,16 +213301,6 @@
           "World Cup Qualification, CAF, Group G"
         ],
         "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "Espérance Tunis",
-        "marketValueEur": 1200000,
-        "marketValueDisplay": "€1.2M",
-        "dateOfBirth": "2000-01-22",
-        "age": 26,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1018018
     },
@@ -220462,29 +220536,29 @@
       "number": "19",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.52,
-      "xgShare": 0.11,
+      "minutesFactor": 0.59,
+      "xgShare": 0.1,
       "propProfile": {
-        "shotsShare": 1.3,
-        "sotShare": 0.6,
+        "shotsShare": 1,
+        "sotShare": 0.5,
         "cardWeight": 0.02,
-        "foulWeight": 0.6
+        "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.32,
-        "assists90": 0.64,
-        "shots90": 1.3,
-        "sot90": 0.6,
-        "passes90": 70,
+        "goals90": 0.24,
+        "assists90": 0.48,
+        "shots90": 1,
+        "sot90": 0.5,
+        "passes90": 53,
         "cards90": 0,
-        "fouls90": 0.6,
-        "minutesAvg": 47
+        "fouls90": 0.5,
+        "minutesAvg": 53
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
-          "l10": 17,
-          "season": 17
+          "l10": 14,
+          "season": 14
         },
         "goals15": {
           "l5": 0,
@@ -220493,13 +220567,13 @@
         },
         "assists05": {
           "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l10": 29,
+          "season": 29
         },
         "shots15": {
-          "l5": 20,
-          "l10": 17,
-          "season": 17
+          "l5": 0,
+          "l10": 14,
+          "season": 14
         },
         "shots25": {
           "l5": 0,
@@ -220508,8 +220582,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 33,
-          "season": 33
+          "l10": 29,
+          "season": 29
         },
         "cards05": {
           "l5": 0,
@@ -220523,6 +220597,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-03",
           "opponent": "Netherlands",
@@ -220624,22 +220713,13 @@
       "dataScope": "international",
       "searchText": "nabil bentaleb algeria midfielder j",
       "importMeta": {
-        "appearances": 6,
+        "appearances": 7,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qualification, CAF, Group G"
         ],
-        "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "Lille",
-        "marketValueEur": 4900000,
-        "marketValueDisplay": "€4.9M",
-        "dateOfBirth": "1994-11-24",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 368120
     },
@@ -228556,24 +228636,24 @@
       "minutesFactor": 0.96,
       "xgShare": 0.07,
       "propProfile": {
-        "shotsShare": 0.4,
+        "shotsShare": 0.5,
         "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 1.2
+        "foulWeight": 1.1
       },
       "seasonRates": {
         "goals90": 0.06,
         "assists90": 0.06,
-        "shots90": 0.4,
+        "shots90": 0.5,
         "sot90": 0.2,
-        "passes90": 53,
+        "passes90": 50,
         "cards90": 0,
-        "fouls90": 1.2,
+        "fouls90": 1.1,
         "minutesAvg": 86
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 6
         },
@@ -228588,9 +228668,9 @@
           "season": 6
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 6
+          "l5": 20,
+          "l10": 10,
+          "season": 11
         },
         "shots25": {
           "l5": 0,
@@ -228598,9 +228678,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 30,
-          "season": 18
+          "season": 17
         },
         "cards05": {
           "l5": 0,
@@ -228608,12 +228688,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 30,
-          "season": 24
+          "l5": 20,
+          "l10": 20,
+          "season": 22
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -228889,7 +228984,7 @@
       "dataScope": "international",
       "searchText": "nicolas seiwald austria midfielder j",
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -228897,7 +228992,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 976575
     },
@@ -239928,16 +240023,16 @@
       "group": "J",
       "position": "Goalkeeper",
       "number": "16",
-      "likelyStarter": false,
-      "benchImpact": true,
+      "likelyStarter": true,
+      "benchImpact": false,
       "minutesFactor": 1,
-      "xgShare": 0.01,
+      "xgShare": 0.02,
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 22,
+        "passes90": 11,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 90
@@ -239986,6 +240081,21 @@
       },
       "gameLog": [
         {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2025-11-13",
           "opponent": "Zimbabwe",
           "competition": "Int. Friendly Games",
@@ -240009,21 +240119,12 @@
       "dataScope": "international",
       "searchText": "oussama benbot algeria goalkeeper j",
       "importMeta": {
-        "appearances": 1,
+        "appearances": 2,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2025-11-13"
-      },
-      "profile": {
-        "club": "USM Alger",
-        "marketValueEur": 790000,
-        "marketValueDisplay": "€790K",
-        "dateOfBirth": "1994-10-11",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 1007589
     },
@@ -243693,25 +243794,25 @@
       "group": "J",
       "position": "Midfielder",
       "number": "24",
-      "likelyStarter": true,
-      "benchImpact": false,
-      "minutesFactor": 0.52,
-      "xgShare": 0.06,
+      "likelyStarter": false,
+      "benchImpact": true,
+      "minutesFactor": 0.51,
+      "xgShare": 0.03,
       "propProfile": {
-        "shotsShare": 0.8,
+        "shotsShare": 0.7,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.2
+        "foulWeight": 1
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.8,
+        "shots90": 0.7,
         "sot90": 0,
-        "passes90": 22,
+        "passes90": 18,
         "cards90": 0,
-        "fouls90": 1.2,
-        "minutesAvg": 47
+        "fouls90": 1,
+        "minutesAvg": 46
       },
       "hitRates": {
         "goals05": {
@@ -243751,11 +243852,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -243839,12 +243955,12 @@
       "dataScope": "international",
       "searchText": "paul wanner austria midfielder j",
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 1146018
     },
@@ -246775,7 +246891,7 @@
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 80,
+        "passes90": 74,
         "cards90": 0,
         "fouls90": 0.4,
         "minutesAvg": 80
@@ -246819,10 +246935,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Jordan",
@@ -247083,7 +247214,7 @@
       "dataScope": "international",
       "searchText": "philipp lienhart austria defender j",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -247091,7 +247222,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 576266
     },
@@ -247104,23 +247235,23 @@
       "number": "16",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.78,
+      "minutesFactor": 0.79,
       "xgShare": 0.06,
       "propProfile": {
         "shotsShare": 0.4,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.6
+        "foulWeight": 1.5
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.08,
+        "assists90": 0.07,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 39,
+        "passes90": 36,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 70
+        "fouls90": 1.5,
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
@@ -247161,10 +247292,25 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 24
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 95,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Jordan",
@@ -247425,7 +247571,7 @@
       "dataScope": "international",
       "searchText": "phillipp mwene austria midfielder j",
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -247433,7 +247579,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 138126
     },
@@ -249229,29 +249375,29 @@
       "number": "15",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.68,
-      "xgShare": 0.08,
+      "minutesFactor": 0.69,
+      "xgShare": 0.1,
       "propProfile": {
-        "shotsShare": 0.4,
-        "sotShare": 0.1,
+        "shotsShare": 0.6,
+        "sotShare": 0.2,
         "cardWeight": 0.02,
-        "foulWeight": 2
+        "foulWeight": 1.8
       },
       "seasonRates": {
-        "goals90": 0.13,
+        "goals90": 0.24,
         "assists90": 0,
-        "shots90": 0.4,
-        "sot90": 0.1,
-        "passes90": 38,
+        "shots90": 0.6,
+        "sot90": 0.2,
+        "passes90": 34,
         "cards90": 0,
-        "fouls90": 2,
-        "minutesAvg": 61
+        "fouls90": 1.8,
+        "minutesAvg": 62
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 9
+          "l5": 20,
+          "l10": 20,
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -249264,9 +249410,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 8
         },
         "shots25": {
           "l5": 0,
@@ -249274,9 +249420,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 9
+          "l5": 20,
+          "l10": 20,
+          "season": 17
         },
         "cards05": {
           "l5": 0,
@@ -249285,11 +249431,26 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 40,
-          "season": 45
+          "l10": 30,
+          "season": 42
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 71,
+          "goals": 1,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-03",
           "opponent": "Netherlands",
@@ -249471,24 +249632,15 @@
       "dataScope": "international",
       "searchText": "rafik belghali algeria midfielder j",
       "importMeta": {
-        "appearances": 11,
+        "appearances": 12,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group E",
           "World Cup Qualification, CAF, Group G"
         ],
-        "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "Hellas Verona",
-        "marketValueEur": 7200000,
-        "marketValueDisplay": "€7.2M",
-        "dateOfBirth": "2002-06-07",
-        "age": 24,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 1103488
     },
@@ -250481,16 +250633,6 @@
         ],
         "lastMatch": "2026-06-03"
       },
-      "profile": {
-        "club": "FC Twente",
-        "marketValueEur": 6000000,
-        "marketValueDisplay": "€6M",
-        "dateOfBirth": "1998-05-26",
-        "age": 28,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
-      },
       "sofascoreId": 989882
     },
     {
@@ -250848,16 +250990,16 @@
         "shotsShare": 0.8,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 1.6
+        "foulWeight": 1.4
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0.8,
         "sot90": 0.1,
-        "passes90": 66,
+        "passes90": 59,
         "cards90": 0,
-        "fouls90": 1.6,
+        "fouls90": 1.4,
         "minutesAvg": 88
       },
       "hitRates": {
@@ -250888,8 +251030,8 @@
         },
         "sot05": {
           "l5": 0,
-          "l10": 11,
-          "season": 11
+          "l10": 10,
+          "season": 10
         },
         "cards05": {
           "l5": 0,
@@ -250898,11 +251040,26 @@
         },
         "fouls15": {
           "l5": 60,
-          "l10": 44,
-          "season": 44
+          "l10": 40,
+          "season": 40
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-03-31",
           "opponent": "Uruguay",
@@ -251052,24 +251209,15 @@
       "dataScope": "international",
       "searchText": "ramy bensebaini algeria defender j",
       "importMeta": {
-        "appearances": 9,
+        "appearances": 10,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group E",
           "World Cup Qualification, CAF, Group G"
         ],
-        "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "Borussia Dortmund",
-        "marketValueEur": 7400000,
-        "marketValueDisplay": "€7.4M",
-        "dateOfBirth": "1995-04-16",
-        "age": 31,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 577726
     },
@@ -252363,23 +252511,23 @@
       "number": "15",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.81,
+      "minutesFactor": 0.76,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.9,
         "sotShare": 0.1,
         "cardWeight": 0.02,
-        "foulWeight": 2.1
+        "foulWeight": 2.2
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0.12,
         "shots90": 0.9,
         "sot90": 0.1,
-        "passes90": 46,
+        "passes90": 45,
         "cards90": 0,
-        "fouls90": 2.1,
-        "minutesAvg": 73
+        "fouls90": 2.2,
+        "minutesAvg": 68
       },
       "hitRates": {
         "goals05": {
@@ -252395,22 +252543,22 @@
         "assists05": {
           "l5": 20,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots15": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 0,
+          "season": 9
         },
         "shots25": {
           "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l10": 0,
+          "season": 9
         },
         "sot05": {
           "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "cards05": {
           "l5": 0,
@@ -252420,10 +252568,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 30
+          "season": 27
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-03",
           "opponent": "Netherlands",
@@ -252589,23 +252752,14 @@
       "dataScope": "international",
       "searchText": "rayan aït-nouri algeria defender j",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group E"
         ],
-        "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "Manchester City",
-        "marketValueEur": 39000000,
-        "marketValueDisplay": "€39M",
-        "dateOfBirth": "2001-06-06",
-        "age": 25,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 931278
     },
@@ -256796,34 +256950,34 @@
       "number": "7",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.68,
-      "xgShare": 0.17,
+      "minutesFactor": 0.7,
+      "xgShare": 0.19,
       "propProfile": {
-        "shotsShare": 1.6,
-        "sotShare": 1,
+        "shotsShare": 1.8,
+        "sotShare": 1.1,
         "cardWeight": 0.02,
         "foulWeight": 1.1
       },
       "seasonRates": {
-        "goals90": 0.74,
-        "assists90": 0.25,
-        "shots90": 1.6,
-        "sot90": 1,
-        "passes90": 32,
+        "goals90": 0.87,
+        "assists90": 0.22,
+        "shots90": 1.8,
+        "sot90": 1.1,
+        "passes90": 28,
         "cards90": 0,
         "fouls90": 1.1,
-        "minutesAvg": 61
+        "minutesAvg": 63
       },
       "hitRates": {
         "goals05": {
           "l5": 40,
-          "l10": 50,
-          "season": 42
+          "l10": 60,
+          "season": 46
         },
         "goals15": {
-          "l5": 0,
-          "l10": 10,
-          "season": 8
+          "l5": 20,
+          "l10": 20,
+          "season": 15
         },
         "assists05": {
           "l5": 0,
@@ -256832,18 +256986,18 @@
         },
         "shots15": {
           "l5": 40,
-          "l10": 50,
-          "season": 42
+          "l10": 60,
+          "season": 46
         },
         "shots25": {
-          "l5": 20,
-          "l10": 10,
-          "season": 8
+          "l5": 40,
+          "l10": 20,
+          "season": 15
         },
         "sot05": {
           "l5": 40,
-          "l10": 60,
-          "season": 50
+          "l10": 70,
+          "season": 54
         },
         "cards05": {
           "l5": 0,
@@ -256853,10 +257007,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 30,
-          "season": 25
+          "season": 23
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 90,
+          "goals": 2,
+          "assists": 0,
+          "shots": 3,
+          "shotsOnTarget": 2,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-03",
           "opponent": "Netherlands",
@@ -257054,24 +257223,15 @@
       "dataScope": "international",
       "searchText": "riyad mahrez algeria midfielder j",
       "importMeta": {
-        "appearances": 12,
+        "appearances": 13,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "Africa Cup of Nations, Knockout stage",
           "Africa Cup of Nations, Group E",
           "World Cup Qualification, CAF, Group G"
         ],
-        "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "Al-Ahli",
-        "marketValueEur": 7200000,
-        "marketValueDisplay": "€7.2M",
-        "dateOfBirth": "1991-02-21",
-        "age": 35,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 158213
     },
@@ -259779,29 +259939,29 @@
       "number": "18",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.72,
-      "xgShare": 0.1,
+      "minutesFactor": 0.71,
+      "xgShare": 0.09,
       "propProfile": {
         "shotsShare": 1.1,
-        "sotShare": 0.7,
+        "sotShare": 0.6,
         "cardWeight": 0.02,
         "foulWeight": 1.8
       },
       "seasonRates": {
-        "goals90": 0.24,
+        "goals90": 0.23,
         "assists90": 0.16,
         "shots90": 1.1,
-        "sot90": 0.7,
-        "passes90": 35,
+        "sot90": 0.6,
+        "passes90": 34,
         "cards90": 0,
         "fouls90": 1.8,
-        "minutesAvg": 65
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -259811,12 +259971,12 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 12
+          "season": 11
         },
         "shots15": {
           "l5": 0,
           "l10": 0,
-          "season": 12
+          "season": 11
         },
         "shots25": {
           "l5": 0,
@@ -259826,7 +259986,7 @@
         "sot05": {
           "l5": 20,
           "l10": 30,
-          "season": 41
+          "season": 39
         },
         "cards05": {
           "l5": 0,
@@ -259836,10 +259996,25 @@
         "fouls15": {
           "l5": 20,
           "l10": 40,
-          "season": 41
+          "season": 39
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -260115,7 +260290,7 @@
       "dataScope": "international",
       "searchText": "romano schmid austria midfielder j",
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -260123,7 +260298,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 830127
     },
@@ -267923,23 +268098,23 @@
       "number": "4",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.67,
+      "minutesFactor": 0.58,
       "xgShare": 0.02,
       "propProfile": {
         "shotsShare": 0.05,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 0.8
+        "foulWeight": 0.7
       },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 48,
+        "passes90": 44,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 60
+        "fouls90": 0.7,
+        "minutesAvg": 52
       },
       "hitRates": {
         "goals05": {
@@ -267978,12 +268153,27 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2025-12-28",
           "opponent": "Burkina Faso",
@@ -268053,23 +268243,14 @@
       "dataScope": "international",
       "searchText": "samir sophian chergui algeria defender j",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Africa Cup of Nations, Group E",
           "Int. Friendly Games",
           "World Cup Qualification, CAF, Group G"
         ],
-        "lastMatch": "2025-12-28"
-      },
-      "profile": {
-        "club": "Paris FC",
-        "marketValueEur": 2800000,
-        "marketValueDisplay": "€2.8M",
-        "dateOfBirth": "1999-02-06",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 981168
     },
@@ -270249,9 +270430,9 @@
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "goals15": {
           "l5": 0,
@@ -270264,9 +270445,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
@@ -270274,9 +270455,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -270290,6 +270471,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Jordan",
@@ -270358,12 +270554,12 @@
       "dataScope": "international",
       "searchText": "saša kalajdžić austria forward j",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 870038
     },
@@ -277759,29 +277955,29 @@
       "number": "5",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.79,
-      "xgShare": 0.07,
+      "minutesFactor": 0.8,
+      "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 1.3,
-        "sotShare": 0.5,
-        "cardWeight": 0.08,
-        "foulWeight": 2
+        "shotsShare": 1.2,
+        "sotShare": 0.4,
+        "cardWeight": 0.07,
+        "foulWeight": 1.8
       },
       "seasonRates": {
-        "goals90": 0.3,
-        "assists90": 0.3,
-        "shots90": 1.3,
-        "sot90": 0.5,
-        "passes90": 41,
-        "cards90": 0.08,
-        "fouls90": 2,
-        "minutesAvg": 71
+        "goals90": 0.28,
+        "assists90": 0.28,
+        "shots90": 1.2,
+        "sot90": 0.4,
+        "passes90": 38,
+        "cards90": 0.07,
+        "fouls90": 1.8,
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -277791,12 +277987,12 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 24
+          "season": 22
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 29
+          "season": 28
         },
         "shots25": {
           "l5": 0,
@@ -277804,9 +278000,9 @@
           "season": 6
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 24
+          "season": 22
         },
         "cards05": {
           "l5": 20,
@@ -277814,12 +278010,27 @@
           "season": 6
         },
         "fouls15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 40,
-          "season": 41
+          "season": 39
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -278095,14 +278306,14 @@
       "dataScope": "international",
       "searchText": "stefan posch austria defender j",
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 355486
     },
@@ -298573,23 +298784,23 @@
       "number": "4",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.63,
+      "minutesFactor": 0.62,
       "xgShare": 0.06,
       "propProfile": {
-        "shotsShare": 0.5,
+        "shotsShare": 0.6,
         "sotShare": 0.03,
         "cardWeight": 0.02,
-        "foulWeight": 1.4
+        "foulWeight": 1.5
       },
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.32,
-        "shots90": 0.5,
+        "assists90": 0.29,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 40,
+        "passes90": 37,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 57
+        "fouls90": 1.5,
+        "minutesAvg": 56
       },
       "hitRates": {
         "goals05": {
@@ -298605,12 +298816,12 @@
         "assists05": {
           "l5": 40,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots25": {
           "l5": 0,
@@ -298629,11 +298840,26 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 30,
-          "season": 30
+          "l10": 20,
+          "season": 27
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -298797,14 +299023,14 @@
       "dataScope": "international",
       "searchText": "xaver schlager austria midfielder j",
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 791079
     },
@@ -301144,16 +301370,6 @@
           "Int. Friendly Games"
         ],
         "lastMatch": "2026-03-31"
-      },
-      "profile": {
-        "club": "RC Sporting Charleroi",
-        "marketValueEur": 7200000,
-        "marketValueDisplay": "€7.2M",
-        "dateOfBirth": "2003-07-26",
-        "age": 22,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
       },
       "sofascoreId": 1094538
     },
@@ -306961,7 +307177,7 @@
       "number": "5",
       "likelyStarter": true,
       "benchImpact": false,
-      "minutesFactor": 0.9,
+      "minutesFactor": 0.82,
       "xgShare": 0.04,
       "propProfile": {
         "shotsShare": 0.3,
@@ -306970,20 +307186,20 @@
         "foulWeight": 0.5
       },
       "seasonRates": {
-        "goals90": 0.16,
+        "goals90": 0.15,
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0.2,
-        "passes90": 51,
+        "passes90": 49,
         "cards90": 0,
         "fouls90": 0.5,
-        "minutesAvg": 81
+        "minutesAvg": 74
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "goals15": {
           "l5": 0,
@@ -307007,8 +307223,8 @@
         },
         "sot05": {
           "l5": 20,
-          "l10": 14,
-          "season": 14
+          "l10": 13,
+          "season": 13
         },
         "cards05": {
           "l5": 0,
@@ -307022,6 +307238,21 @@
         }
       },
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Austria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "home",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-03",
           "opponent": "Netherlands",
@@ -307139,22 +307370,13 @@
       "dataScope": "international",
       "searchText": "zineddine belaid algeria defender j",
       "importMeta": {
-        "appearances": 7,
+        "appearances": 8,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "Africa Cup of Nations, Group E"
         ],
-        "lastMatch": "2026-06-03"
-      },
-      "profile": {
-        "club": "JS Kabylie",
-        "marketValueEur": 1400000,
-        "marketValueDisplay": "€1.4M",
-        "dateOfBirth": "1999-03-20",
-        "age": 27,
-        "internationalCaps": null,
-        "internationalGoals": null,
-        "source": "sofascore"
+        "lastMatch": "2026-06-28"
       },
       "sofascoreId": 1018822
     },

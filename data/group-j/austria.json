@@ -3,8 +3,8 @@
   "team": "Austria",
   "group": "J",
   "dataSource": "sofascore",
-  "importedAt": "2026-06-28T00:13:49.594Z",
-  "eventsProcessed": 17,
+  "importedAt": "2026-06-28T04:49:37.343Z",
+  "eventsProcessed": 18,
   "teamMatchResults": [
     {
       "date": "2026-06-22",
@@ -23,6 +23,15 @@
       "goalsFor": 3,
       "goalsAgainst": 1,
       "venue": "home"
+    },
+    {
+      "date": "2026-06-28",
+      "opponent": "Algeria",
+      "competition": "FIFA World Cup, Group J",
+      "result": "D",
+      "goalsFor": 3,
+      "goalsAgainst": 3,
+      "venue": "away"
     },
     {
       "date": "2026-06-01",
@@ -173,6 +182,22 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0,
+          "saves": 2
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -420,7 +445,7 @@
         "assists90": 0,
         "shots90": 0,
         "sot90": 0,
-        "passes90": 24,
+        "passes90": 23,
         "cards90": 0,
         "fouls90": 0,
         "minutesAvg": 87
@@ -468,7 +493,7 @@
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -476,7 +501,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -959,6 +984,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 62,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-22",
           "opponent": "Argentina",
           "competition": "FIFA World Cup, Group J",
@@ -1119,12 +1159,12 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.15,
-        "shots90": 0.6,
+        "assists90": 0.27,
+        "shots90": 0.5,
         "sot90": 0,
-        "passes90": 68,
+        "passes90": 62,
         "cards90": 0,
-        "fouls90": 0.2,
+        "fouls90": 0.1,
         "minutesAvg": 61
       },
       "hitRates": {
@@ -1139,9 +1179,9 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 10,
-          "season": 10
+          "l5": 20,
+          "l10": 20,
+          "season": 18
         },
         "shots15": {
           "l5": 0,
@@ -1170,14 +1210,14 @@
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -1192,6 +1232,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 28,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -1401,13 +1456,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.24,
-        "shots90": 0.2,
+        "assists90": 0.23,
+        "shots90": 0.4,
         "sot90": 0,
-        "passes90": 71,
+        "passes90": 69,
         "cards90": 0,
         "fouls90": 1.2,
-        "minutesAvg": 57
+        "minutesAvg": 55
       },
       "hitRates": {
         "goals05": {
@@ -1423,7 +1478,7 @@
         "assists05": {
           "l5": 0,
           "l10": 20,
-          "season": 15
+          "season": 14
         },
         "shots15": {
           "l5": 0,
@@ -1448,11 +1503,11 @@
         "fouls15": {
           "l5": 40,
           "l10": 30,
-          "season": 23
+          "season": 21
         }
       },
       "importMeta": {
-        "appearances": 13,
+        "appearances": 14,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -1461,7 +1516,7 @@
           "Euro, Knockout stage",
           "Euro, Group D"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -1476,6 +1531,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -1748,20 +1818,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.13,
-        "assists90": 0.07,
+        "goals90": 0.12,
+        "assists90": 0.12,
         "shots90": 0.9,
         "sot90": 0.4,
-        "passes90": 43,
-        "cards90": 0.07,
-        "fouls90": 1.8,
+        "passes90": 40,
+        "cards90": 0.06,
+        "fouls90": 1.7,
         "minutesAvg": 81
       },
       "hitRates": {
         "goals05": {
           "l5": 0,
           "l10": 20,
-          "season": 12
+          "season": 11
         },
         "goals15": {
           "l5": 0,
@@ -1769,14 +1839,14 @@
           "season": 0
         },
         "assists05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 6
+          "l5": 20,
+          "l10": 10,
+          "season": 11
         },
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 18
+          "season": 17
         },
         "shots25": {
           "l5": 0,
@@ -1786,7 +1856,7 @@
         "sot05": {
           "l5": 0,
           "l10": 20,
-          "season": 35
+          "season": 33
         },
         "cards05": {
           "l5": 20,
@@ -1796,11 +1866,11 @@
         "fouls15": {
           "l5": 20,
           "l10": 40,
-          "season": 35
+          "season": 33
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -1808,7 +1878,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -2148,6 +2218,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
+        {
           "date": "2026-06-17",
           "opponent": "Jordan",
           "competition": "FIFA World Cup, Group J",
@@ -2408,7 +2493,7 @@
         "assists90": 0,
         "shots90": 0.3,
         "sot90": 0.1,
-        "passes90": 80,
+        "passes90": 74,
         "cards90": 0,
         "fouls90": 0.4,
         "minutesAvg": 80
@@ -2452,11 +2537,11 @@
         "fouls15": {
           "l5": 20,
           "l10": 20,
-          "season": 13
+          "season": 12
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -2464,7 +2549,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -2479,6 +2564,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -2751,20 +2851,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.3,
-        "assists90": 0.3,
-        "shots90": 1.3,
-        "sot90": 0.5,
-        "passes90": 41,
-        "cards90": 0.08,
-        "fouls90": 2,
-        "minutesAvg": 71
+        "goals90": 0.28,
+        "assists90": 0.28,
+        "shots90": 1.2,
+        "sot90": 0.4,
+        "passes90": 38,
+        "cards90": 0.07,
+        "fouls90": 1.8,
+        "minutesAvg": 72
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -2774,12 +2874,12 @@
         "assists05": {
           "l5": 20,
           "l10": 20,
-          "season": 24
+          "season": 22
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 29
+          "season": 28
         },
         "shots25": {
           "l5": 0,
@@ -2787,9 +2887,9 @@
           "season": 6
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 24
+          "season": 22
         },
         "cards05": {
           "l5": 20,
@@ -2797,20 +2897,20 @@
           "season": 6
         },
         "fouls15": {
-          "l5": 60,
+          "l5": 40,
           "l10": 40,
-          "season": 41
+          "season": 39
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -3420,6 +3520,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 2
+        },
+        {
           "date": "2026-03-31",
           "opponent": "South Korea",
           "competition": "Int. Friendly Games",
@@ -3662,13 +3777,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.4,
-        "shots90": 2,
+        "assists90": 0.37,
+        "shots90": 1.8,
         "sot90": 0.4,
-        "passes90": 76,
+        "passes90": 69,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 30
+        "fouls90": 1.7,
+        "minutesAvg": 31
       },
       "hitRates": {
         "goals05": {
@@ -3689,12 +3804,12 @@
         "shots15": {
           "l5": 0,
           "l10": 10,
-          "season": 20
+          "season": 19
         },
         "shots25": {
           "l5": 0,
           "l10": 0,
-          "season": 7
+          "season": 6
         },
         "sot05": {
           "l5": 0,
@@ -3707,14 +3822,15 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 10,
-          "season": 7
+          "l5": 40,
+          "l10": 20,
+          "season": 13
         }
       },
       "importMeta": {
-        "appearances": 15,
+        "appearances": 16,
         "competitions": [
+          "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs",
@@ -3722,7 +3838,7 @@
           "Euro, Knockout stage",
           "Euro, Group D"
         ],
-        "lastMatch": "2026-03-31"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -3737,6 +3853,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -4009,11 +4140,11 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.48,
-        "assists90": 0.42,
-        "shots90": 2.9,
-        "sot90": 1.6,
-        "passes90": 34,
+        "goals90": 0.51,
+        "assists90": 0.4,
+        "shots90": 2.8,
+        "sot90": 1.5,
+        "passes90": 32,
         "cards90": 0.06,
         "fouls90": 0.5,
         "minutesAvg": 88
@@ -4022,7 +4153,7 @@
         "goals05": {
           "l5": 60,
           "l10": 40,
-          "season": 47
+          "season": 50
         },
         "goals15": {
           "l5": 0,
@@ -4030,24 +4161,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 20,
-          "season": 24
+          "season": 22
         },
         "shots15": {
           "l5": 40,
-          "l10": 50,
-          "season": 71
+          "l10": 40,
+          "season": 67
         },
         "shots25": {
           "l5": 40,
-          "l10": 50,
-          "season": 59
+          "l10": 40,
+          "season": 56
         },
         "sot05": {
           "l5": 80,
           "l10": 80,
-          "season": 82
+          "season": 83
         },
         "cards05": {
           "l5": 20,
@@ -4056,19 +4187,19 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 30,
-          "season": 18
+          "l10": 20,
+          "season": 17
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -4083,6 +4214,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "shots": 2,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -4357,16 +4503,16 @@
       "seasonRates": {
         "goals90": 0.06,
         "assists90": 0.06,
-        "shots90": 0.4,
+        "shots90": 0.5,
         "sot90": 0.2,
-        "passes90": 53,
+        "passes90": 50,
         "cards90": 0,
-        "fouls90": 1.2,
+        "fouls90": 1.1,
         "minutesAvg": 86
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
           "season": 6
         },
@@ -4381,9 +4527,9 @@
           "season": 6
         },
         "shots15": {
-          "l5": 0,
-          "l10": 0,
-          "season": 6
+          "l5": 20,
+          "l10": 10,
+          "season": 11
         },
         "shots25": {
           "l5": 0,
@@ -4391,9 +4537,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 20,
+          "l5": 0,
           "l10": 30,
-          "season": 18
+          "season": 17
         },
         "cards05": {
           "l5": 0,
@@ -4401,13 +4547,13 @@
           "season": 0
         },
         "fouls15": {
-          "l5": 40,
-          "l10": 30,
-          "season": 24
+          "l5": 20,
+          "l10": 20,
+          "season": 22
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -4415,7 +4561,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -4772,11 +4918,26 @@
       "group": "J",
       "position": "Midfielder",
       "number": "24",
-      "likelyStarter": true,
+      "likelyStarter": false,
       "sofascoreId": 1146018,
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -4859,12 +5020,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 0.8,
+        "shots90": 0.7,
         "sot90": 0,
-        "passes90": 22,
+        "passes90": 18,
         "cards90": 0,
-        "fouls90": 1.2,
-        "minutesAvg": 47
+        "fouls90": 1,
+        "minutesAvg": 46
       },
       "hitRates": {
         "goals05": {
@@ -4904,17 +5065,17 @@
         },
         "fouls15": {
           "l5": 20,
-          "l10": 20,
-          "season": 20
+          "l10": 17,
+          "season": 17
         }
       },
       "importMeta": {
-        "appearances": 5,
+        "appearances": 6,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -4929,6 +5090,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 95,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Jordan",
@@ -5187,13 +5363,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.08,
+        "assists90": 0.07,
         "shots90": 0.4,
         "sot90": 0.1,
-        "passes90": 39,
+        "passes90": 36,
         "cards90": 0,
-        "fouls90": 1.6,
-        "minutesAvg": 70
+        "fouls90": 1.5,
+        "minutesAvg": 71
       },
       "hitRates": {
         "goals05": {
@@ -5234,11 +5410,11 @@
         "fouls15": {
           "l5": 0,
           "l10": 20,
-          "season": 25
+          "season": 24
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -5246,7 +5422,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -5261,6 +5437,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -5533,20 +5724,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.24,
+        "goals90": 0.23,
         "assists90": 0.16,
         "shots90": 1.1,
-        "sot90": 0.7,
-        "passes90": 35,
+        "sot90": 0.6,
+        "passes90": 34,
         "cards90": 0,
         "fouls90": 1.8,
-        "minutesAvg": 65
+        "minutesAvg": 64
       },
       "hitRates": {
         "goals05": {
           "l5": 20,
           "l10": 20,
-          "season": 18
+          "season": 17
         },
         "goals15": {
           "l5": 0,
@@ -5556,12 +5747,12 @@
         "assists05": {
           "l5": 0,
           "l10": 10,
-          "season": 12
+          "season": 11
         },
         "shots15": {
           "l5": 0,
           "l10": 0,
-          "season": 12
+          "season": 11
         },
         "shots25": {
           "l5": 0,
@@ -5571,7 +5762,7 @@
         "sot05": {
           "l5": 20,
           "l10": 30,
-          "season": 41
+          "season": 39
         },
         "cards05": {
           "l5": 0,
@@ -5581,11 +5772,11 @@
         "fouls15": {
           "l5": 20,
           "l10": 40,
-          "season": 41
+          "season": 39
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -5593,7 +5784,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -5608,6 +5799,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -5769,13 +5975,13 @@
       ],
       "seasonRates": {
         "goals90": 0,
-        "assists90": 0.32,
-        "shots90": 0.5,
+        "assists90": 0.29,
+        "shots90": 0.6,
         "sot90": 0,
-        "passes90": 40,
+        "passes90": 37,
         "cards90": 0,
-        "fouls90": 1.4,
-        "minutesAvg": 57
+        "fouls90": 1.5,
+        "minutesAvg": 56
       },
       "hitRates": {
         "goals05": {
@@ -5791,12 +5997,12 @@
         "assists05": {
           "l5": 40,
           "l10": 20,
-          "season": 20
+          "season": 18
         },
         "shots15": {
-          "l5": 20,
+          "l5": 0,
           "l10": 10,
-          "season": 10
+          "season": 9
         },
         "shots25": {
           "l5": 0,
@@ -5815,19 +6021,19 @@
         },
         "fouls15": {
           "l5": 40,
-          "l10": 30,
-          "season": 30
+          "l10": 20,
+          "season": 27
         }
       },
       "importMeta": {
-        "appearances": 10,
+        "appearances": 11,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
           "World Cup Qual. UEFA H",
           "UEFA Nations League, Promotion/Relegation Play-offs"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -5842,6 +6048,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 1,
+          "fouls": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -6114,59 +6335,59 @@
         }
       ],
       "seasonRates": {
-        "goals90": 1.05,
-        "assists90": 0.29,
-        "shots90": 2.9,
+        "goals90": 1.09,
+        "assists90": 0.27,
+        "shots90": 2.8,
         "sot90": 1.7,
-        "passes90": 24,
-        "cards90": 0,
-        "fouls90": 1.1,
-        "minutesAvg": 56
+        "passes90": 23,
+        "cards90": 0.09,
+        "fouls90": 1.2,
+        "minutesAvg": 55
       },
       "hitRates": {
         "goals05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 29
+          "l5": 40,
+          "l10": 40,
+          "season": 33
         },
         "goals15": {
           "l5": 0,
           "l10": 20,
-          "season": 24
+          "season": 22
         },
         "assists05": {
           "l5": 0,
           "l10": 0,
-          "season": 18
+          "season": 17
         },
         "shots15": {
           "l5": 20,
           "l10": 30,
-          "season": 47
+          "season": 44
         },
         "shots25": {
           "l5": 0,
           "l10": 10,
-          "season": 18
+          "season": 17
         },
         "sot05": {
-          "l5": 20,
-          "l10": 30,
-          "season": 47
+          "l5": 40,
+          "l10": 40,
+          "season": 50
         },
         "cards05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 10,
+          "season": 6
         },
         "fouls15": {
-          "l5": 20,
-          "l10": 30,
-          "season": 18
+          "l5": 0,
+          "l10": 20,
+          "season": 17
         }
       },
       "importMeta": {
-        "appearances": 17,
+        "appearances": 18,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -6174,7 +6395,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -6189,6 +6410,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 1,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
         {
           "date": "2026-06-22",
           "opponent": "Argentina",
@@ -6446,20 +6682,20 @@
         }
       ],
       "seasonRates": {
-        "goals90": 0.69,
-        "assists90": 0.1,
-        "shots90": 3.1,
-        "sot90": 1.3,
-        "passes90": 20,
+        "goals90": 0.66,
+        "assists90": 0.19,
+        "shots90": 2.9,
+        "sot90": 1.2,
+        "passes90": 19,
         "cards90": 0,
-        "fouls90": 0.8,
-        "minutesAvg": 57
+        "fouls90": 0.9,
+        "minutesAvg": 56
       },
       "hitRates": {
         "goals05": {
-          "l5": 40,
+          "l5": 20,
           "l10": 30,
-          "season": 44
+          "season": 41
         },
         "goals15": {
           "l5": 0,
@@ -6467,24 +6703,24 @@
           "season": 0
         },
         "assists05": {
-          "l5": 20,
-          "l10": 10,
-          "season": 6
+          "l5": 40,
+          "l10": 20,
+          "season": 12
         },
         "shots15": {
-          "l5": 40,
+          "l5": 20,
           "l10": 40,
-          "season": 56
+          "season": 53
         },
         "shots25": {
           "l5": 20,
           "l10": 20,
-          "season": 38
+          "season": 35
         },
         "sot05": {
-          "l5": 40,
-          "l10": 40,
-          "season": 56
+          "l5": 20,
+          "l10": 30,
+          "season": 53
         },
         "cards05": {
           "l5": 0,
@@ -6493,12 +6729,12 @@
         },
         "fouls15": {
           "l5": 0,
-          "l10": 10,
+          "l10": 0,
           "season": 6
         }
       },
       "importMeta": {
-        "appearances": 16,
+        "appearances": 17,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games",
@@ -6506,7 +6742,7 @@
           "UEFA Nations League, Promotion/Relegation Play-offs",
           "UEFA Nations League, League B, Gr. 3"
         ],
-        "lastMatch": "2026-06-22"
+        "lastMatch": "2026-06-28"
       }
     },
     {
@@ -6521,6 +6757,21 @@
       "dataSource": "sofascore",
       "dataScope": "international",
       "gameLog": [
+        {
+          "date": "2026-06-28",
+          "opponent": "Algeria",
+          "competition": "FIFA World Cup, Group J",
+          "result": "D",
+          "venue": "away",
+          "minutes": 0,
+          "goals": 1,
+          "assists": 0,
+          "shots": 1,
+          "shotsOnTarget": 1,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 0
+        },
         {
           "date": "2026-06-17",
           "opponent": "Jordan",
@@ -6597,9 +6848,9 @@
       },
       "hitRates": {
         "goals05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "goals15": {
           "l5": 0,
@@ -6612,9 +6863,9 @@
           "season": 0
         },
         "shots15": {
-          "l5": 25,
-          "l10": 25,
-          "season": 25
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "shots25": {
           "l5": 0,
@@ -6622,9 +6873,9 @@
           "season": 0
         },
         "sot05": {
-          "l5": 0,
-          "l10": 0,
-          "season": 0
+          "l5": 20,
+          "l10": 20,
+          "season": 20
         },
         "cards05": {
           "l5": 0,
@@ -6638,12 +6889,12 @@
         }
       },
       "importMeta": {
-        "appearances": 4,
+        "appearances": 5,
         "competitions": [
           "FIFA World Cup, Group J",
           "Int. Friendly Games"
         ],
-        "lastMatch": "2026-06-17"
+        "lastMatch": "2026-06-28"
       }
     }
   ],
