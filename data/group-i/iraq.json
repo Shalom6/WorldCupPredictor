@@ -3,7 +3,7 @@
   "team": "Iraq",
   "group": "I",
   "dataSource": "sofascore",
-  "importedAt": "2026-08-19T11:50:31.200Z",
+  "importedAt": "2026-08-19T12:13:55.238Z",
   "eventsProcessed": 18,
   "teamMatchResults": [
     {
@@ -5283,6 +5283,21 @@
       "dataScope": "international",
       "gameLog": [
         {
+          "date": "2026-06-26",
+          "opponent": "Senegal",
+          "competition": "FIFA World Cup, Group I",
+          "result": "L",
+          "venue": "away",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "shots": 0,
+          "shotsOnTarget": 0,
+          "passes": 0,
+          "cards": 0,
+          "fouls": 1
+        },
+        {
           "date": "2025-03-25",
           "opponent": "Palestine",
           "competition": "World Cup Qualification, AFC, Round 3, Group B",
@@ -5334,12 +5349,12 @@
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 4.5,
+        "shots90": 2.5,
         "sot90": 0,
-        "passes90": 16,
+        "passes90": 9,
         "cards90": 0,
-        "fouls90": 6.8,
-        "minutesAvg": 13
+        "fouls90": 5,
+        "minutesAvg": 18
       },
       "hitRates": {
         "goals05": {
@@ -5384,12 +5399,13 @@
         }
       },
       "importMeta": {
-        "appearances": 3,
+        "appearances": 4,
         "competitions": [
+          "FIFA World Cup, Group I",
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2025-03-25"
+        "lastMatch": "2026-06-26"
       }
     },
     {
@@ -6024,7 +6040,7 @@
     },
     {
       "name": "Ali Adnan",
-      "appearances": 3
+      "appearances": 2
     },
     {
       "name": "Ali Faez Atiyah",
