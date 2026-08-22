@@ -16,22 +16,22 @@
       "Croatia": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-08-22T17:33:48.138Z"
+        "importedAt": "2026-08-22T17:49:58.555Z"
       },
       "England": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-08-22T17:33:48.138Z"
+        "importedAt": "2026-08-22T17:49:58.555Z"
       },
       "Ghana": {
         "playerCount": 26,
         "dataSource": "sofascore",
-        "importedAt": "2026-08-22T17:33:48.138Z"
+        "importedAt": "2026-08-22T17:49:58.555Z"
       },
       "Panama": {
         "playerCount": 31,
         "dataSource": "sofascore",
-        "importedAt": "2026-08-22T17:33:48.138Z"
+        "importedAt": "2026-08-22T17:49:58.555Z"
       }
     }
   },
@@ -20094,23 +20094,17 @@
       "number": "7",
       "likelyStarter": false,
       "benchImpact": false,
-      "minutesFactor": 0.2,
+      "minutesFactor": 0.14,
       "xgShare": 0.07,
-      "propProfile": {
-        "shotsShare": 2.5,
-        "sotShare": 0.03,
-        "cardWeight": 0.02,
-        "foulWeight": 5
-      },
       "seasonRates": {
         "goals90": 0,
         "assists90": 0,
-        "shots90": 2.5,
+        "shots90": 4.5,
         "sot90": 0,
-        "passes90": 9,
+        "passes90": 16,
         "cards90": 0,
-        "fouls90": 5,
-        "minutesAvg": 18
+        "fouls90": 6.8,
+        "minutesAvg": 13
       },
       "hitRates": {
         "goals05": {
@@ -20155,21 +20149,6 @@
         }
       },
       "gameLog": [
-        {
-          "date": "2026-06-26",
-          "opponent": "Senegal",
-          "competition": "FIFA World Cup, Group I",
-          "result": "L",
-          "venue": "away",
-          "minutes": 32,
-          "goals": 0,
-          "assists": 0,
-          "shots": 0,
-          "shotsOnTarget": 0,
-          "passes": 0,
-          "cards": 0,
-          "fouls": 1
-        },
         {
           "date": "2025-03-25",
           "opponent": "Palestine",
@@ -20223,13 +20202,12 @@
       "dataScope": "international",
       "searchText": "ali yousif iraq forward i",
       "importMeta": {
-        "appearances": 4,
+        "appearances": 3,
         "competitions": [
-          "FIFA World Cup, Group I",
           "World Cup Qualification, AFC, Round 3, Group B",
           "Gulf Cup, Group B"
         ],
-        "lastMatch": "2026-06-26"
+        "lastMatch": "2025-03-25"
       },
       "sofascoreId": 834492
     },
