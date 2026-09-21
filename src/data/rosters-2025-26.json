@@ -12061,8 +12061,14 @@
       "position": "Forward",
       "likelyStarter": false,
       "benchImpact": false,
-      "minutesFactor": 0.14,
-      "xgShare": 0.07
+      "minutesFactor": 0.2,
+      "xgShare": 0.07,
+      "propProfile": {
+        "shotsShare": 2.5,
+        "sotShare": 0.03,
+        "cardWeight": 0.02,
+        "foulWeight": 5
+      }
     },
     {
       "name": "Aymen Hussein",
